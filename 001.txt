@@ -858,6 +858,8 @@ MyHeartWillGoOn(泰坦尼克号主题曲),https://15799848.s21v.faiusr.com/58/AB
 辛晓琪-领悟,http://vodcdn.video.taobao.com/oss/ali-video/2a4e61d4bba6b712bd5638fd508e85a5/video.m3u8
 
 景区,#genre#
+自然,http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+海底,http://live-1.otcnet.ru/podvodoi/index.m3u8
 全国风景总览,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 贵州省兴义市万峰林,http://gccncc.v.wscdns.com/gc/xywfl_1/index.m3u8
 贵州省兴义市马岭河峡谷,http://gccncc.v.wscdns.com/gc/xymlh_1/index.m3u8
@@ -969,8 +971,6 @@ Miami TV (18+),http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitvROKU
 Miami TV Jenny For You (18+),http://59ec5453559f0.streamlock.net:1935/jennyforyou/jennyforyou/playlist.m3u8
 Miami TV Jenny Live (18+),http://59ec5453559f0.streamlock.net:1935/JennyLive/JennyLive/playlist.m3u8
 Miami TV Promo (18+),http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexico/chunklist_b1896000.m3u8
-自然,http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
-海底,http://live-1.otcnet.ru/podvodoi/index.m3u8
 SOCHI,http://sochi.camera:8080/cam_359/tracks-v1a1/index.m3u8
 RedTrafficTVLiveCams,http://live.redtraffic.net/livecams.m3u8
 RedTrafficTVMILF,http://live.redtraffic.net/milf.m3u8
