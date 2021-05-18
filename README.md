@@ -13,6 +13,8 @@ https://cdn.jsdelivr.net/gh/bauw2008/tv1@v1.0/123.txt
 
 https://cdn.jsdelivr.net/gh/bauw2008/tv1@v1.0/iptvsy.txt
 
+https://cdn.jsdelivr.net/gh/bauw2008/tv1@v1.0/a.jpg
+
 
 
 1. 源文件格式： UTF-8格式的编码。
