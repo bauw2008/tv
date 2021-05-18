@@ -939,65 +939,50 @@ MyHeartWillGoOn(泰坦尼克号主题曲),https://15799848.s21v.faiusr.com/58/AB
 信息_997788,#genre#
 松視1,rtmp://161.202.204.248:1935/tv/ttv11
 HAPPY,rtmp://161.202.204.248:1935/tv/ttv12
-Barely Legal TV,http://37.235.199.92:4022/udp/225.50.70.4:1234?type=.mp4
-Free X TV,http://37.235.199.92:4022/udp/225.50.70.5:1234?type=.mp4
-EXTASY HD/LEO TV,http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
-Redlight TV,http://51.15.0.141:88/redlightHD/tracks-v1a1/mono.m3u8#http://51.15.0.141:88/redlightHD/mpegts.mp4
-HustlerHD,http://51.15.0.141:88/hustlerhd/tracks-v1a1/mono.m3u8#http://51.15.0.141:88/hustlerhd/mpegts.mp4
-AST TV 1 HQ,https://www.ast.tv/stream/1/ultra.m3u8
-AST TV 2 HQ,https://www.ast.tv/stream/2/ultra.m3u8
-Filmon TV 1 (18+),http://www.filmon.com/vr-streams/6170.high/playlist.m3u8
-Filmon TV 2 (18+),http://www.filmon.com/vr-streams/6158.high/playlist.m3u8
-Filmon TV 3 (18+),http://www.filmon.com/vr-streams/6155.high/playlist.m3u8
-Filmon TV 4 (18+),http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
-Pink Erotic,http://91.212.150.248/PinkErotic1/index.m3u8
-Pink Erotic 2,http://91.212.150.248/PinkErotic2/index.m3u8
-Pink Erotic 3,http://91.212.150.248/PinkErotic3/index.m3u8
-Pink Erotic 4,http://91.212.150.248/PinkErotic4/index.m3u8
-Pink Erotic 5,http://91.212.150.248/PinkErotic5/index.m3u8
-Pink Erotic 6,http://91.212.150.248/PinkErotic6/index.m3u8
-Pink Erotic 7,http://91.212.150.248/PinkErotic7/index.m3u8
-Pink Erotic 8,http://91.212.150.248/PinkErotic8/index.m3u8
-[RU] Candy HD,http://185.52.77.67:8080/Candy/index.m3u8
-[RU] Шелк,http://194.190.78.91:8080/shelksd/index.m3u8
-[RU]Шелк HD,http://194.190.78.91:8080/shelk/index.m3u8
-[RU] Русская ночь,http://93.189.224.117:9030/russkayanoch.mp4
-[FR] Frenchlover TV,http://213.59.136.29:55555/udp/239.254.2.50:1234?type=.mp4
-[GB] Hustler HD,http://213.59.136.29:55555/udp/239.254.2.232:1234?type=.mp4
-[NL] Private TV HD,http://213.59.136.29:55555/udp/239.254.2.231:1234?type=.mp4
-[NL] Redlight HD,http://213.59.136.29:55555/udp/239.254.3.93:1234?type=.mp4#http://50.7.222.90:8081/redlight/index.m3u8?wmsAuthSign=f3e69b1cdbadaa5e1595a4611e799c96-1619446946-81i25i53i281
-Shemale Tube TV HD (21+),https://www.ast.tv/stream/1/ultra.m3u8
-Shemale Tube TV 2 HD (21+),https://www.ast.tv/stream/2/ultra.m3u8
-Visit-X TV HD 720,http://194.116.150.47:1935/vxtv/live_720p/chunklist_w1156491225.m3u8
-SHELK SD (18+),http://live-1.otcnet.ru/shelksd/index.m3u8
-SHELK (18+),http://live-1.otcnet.ru/shelk/index.m3u8
-Jasmin TV HD (18+),http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-Miami TV (18+),http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitvROKU/chunklist_b2592000.m3u8
-Miami TV Jenny For You (18+),http://59ec5453559f0.streamlock.net:1935/jennyforyou/jennyforyou/playlist.m3u8
-Miami TV Jenny Live (18+),http://59ec5453559f0.streamlock.net:1935/JennyLive/JennyLive/playlist.m3u8
-Miami TV Promo (18+),http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexico/chunklist_b1896000.m3u8
-SOCHI,http://sochi.camera:8080/cam_359/tracks-v1a1/index.m3u8
-RedTrafficTVLiveCams,http://live.redtraffic.net/livecams.m3u8
-RedTrafficTVMILF,http://live.redtraffic.net/milf.m3u8
-RedTrafficTVBigDick,http://live.redtraffic.net/bigdick.m3u8
-RedTrafficTVBigTits,http://live.redtraffic.net/bigtits.m3u8
-RedTrafficTVFetish,http://live.redtraffic.net/fetish.m3u8
-RedTrafficTVPornstar,http://live.redtraffic.net/pornstar.m3u8
-RedTrafficTVBigAss,http://live.redtraffic.net/bigass.m3u8
-RedTrafficTVInterracial,http://live.redtraffic.net/interracial.m3u8
-RedTrafficTVLatina,http://live.redtraffic.net/latina.m3u8
-RedTrafficTVPOV,http://live.redtraffic.net/pov.m3u8
-RedTrafficTVBlowjob,http://live.redtraffic.net/blowjob.m3u8
-RedTrafficTVTeen,http://live.redtraffic.net/teen.m3u8
-RedTrafficTVHardcore,http://live.redtraffic.net/hardcore.m3u8
-RedTrafficTVCuckold,http://live.redtraffic.net/cuckold.m3u8
-RedTrafficTVThreesome,http://live.redtraffic.net/threesome.m3u8
-RedTrafficTVRussian,http://live.redtraffic.net/russian.m3u8
-RedTrafficTVLesbian,http://live.redtraffic.net/lesbian.m3u8
-RedTrafficTVRough,http://live.redtraffic.net/rough.m3u8
-RedTrafficTVGangbang,http://live.redtraffic.net/gangbang.m3u8
-RedTrafficTVAnal,http://live.redtraffic.net/anal.m3u8
-RedTrafficTVCompilation,http://live.redtraffic.net/compilation.m3u8
-RedTrafficTVBrunette,http://live.redtraffic.net/brunette.m3u8
-RedTrafficTVBlonde,http://live.redtraffic.net/blonde.m3u8
-RedTrafficTVGay,http://live.redtraffic.net/gay.m3u8
+加密频道_1024,#genre#
+松視一台(720P),rtmp://161.202.204.248:1935/tv/ttv11
+松视三台,http://z2.ubtvfans.com/live/404/9e0e949eadda1be5504aed04b804d1f6/index.m3u8
+松視2台p0818,p5p://0818.02686.cc:20012/5f486541000e03532e4b74511bfe562e
+松視2台p104,p5p://104.194.8.20:20012/5f486541000e03532e4b74511bfe562e
+松視1台,tvbus://6j9sopzBQKaUPnGvkMH4tMfWbCj4BbuPcV9TFJ3GLqtS2TrMvHQrJj94B3wmL
+松視2台,tvbus://6iTNFjY8ZAGCf3rHAN6uVBmVN3Hwu2a9wHKjb46C4BNS5jkHXx92s6CwzzAmE
+潘多拉完美,tvbus://5zAeYwcSzgLveVCA5YtVJcn8C8rmZiXJdfrCJTyddtnQ2ovn1YPPKnEt2vAfL
+潘多拉粉紅,tvbus://5Vwks9Jw5SGxTtkrbQ9DNrgE3H2M57ipNTVH1SCUbQ6rEa4DFdpALHW4Cxqon
+彩虹電影,tvbus://65M9GkToHjwsC6tvBphaHyZHyeRwx7hxjxJoR6yRqnAdrRHWACMf1MxJ1DD69
+彩虹e台,tvbus://5x45fR5PdxGJMTBo1oW5SXR6bK4UucDboBka7eiySQyb9h9BeXphALXkmmFbY
+香蕉台,tvbus://5huoDVzDpu61L6HA9YH2jhLAGPaNeYMrPfNWQRBuQEihYspdtR1bGb64VninD
+驚豔台,tvbus://5hfjaBEoVw9bstKUMxHRzthTv3vKuaTFRDhze7rNv5grCRB5jKV9TGyDMEsCx
+K頻道,tvbus://6TwSfX13ixWEmxSZvpBVBScVbJW7T1yGLEK99Vib5fdistnWr47pXTsU1zvYU
+HAPPY,tvbus://6FPNBzRsYXHBDN6wicZW2dmNv4z7jZJdekBKaeTZbxFu63sSCSjYd6GZaCZBR
+HOT星顏,tvbus://6iTNFjY8ZAGCf3rHAN6uVBmVN3Hwu2a9wHKjb46C4BNS5jkHXx92s6CwzzAmE
+HAPPY成人(720P),rtmp://161.202.204.248:1935/tv/ttv12
+松视1欧美版,http://live.redtraffic.xyz:80/fetish.m3u8
+松视2欧美版,http://live.redtraffic.xyz:80/interracial.m3u8
+松视2欧美版,http://cdn.adultiptv.net/interracial.m3u8
+松视3欧美版,http://live.redtraffic.xyz:80/bigtits.m3u8
+松视3欧美版,http://cdn.adultiptv.net/bigtits.m3u8
+松视4欧美版,http://live.redtraffic.xyz:80/bigdick.m3u8
+松视4欧美版,http://cdn.adultiptv.net/bigdick.m3u8
+潘多拉欧美版,http://live.redtraffic.xyz:80/pornstar.m3u8
+潘多拉欧美版,http://cdn.adultiptv.net/pornstar.m3u8
+香蕉台欧美版,http://live.redtraffic.xyz:80/milf.m3u8
+香蕉台欧美版,http://cdn.adultiptv.net/milf.m3u8
+K频道欧美版,http://live.redtraffic.xyz:80/threesome.m3u8
+K频道欧美版,http://cdn.adultiptv.net/threesome.m3u8
+惊艳台欧美版,http://live.redtraffic.xyz:80/cuckold.m3u8
+惊艳台欧美版,http://cdn.adultiptv.net/cuckold.m3u8
+HOT欧美版,http://live.redtraffic.xyz:80/hardcore.m3u8
+HOT欧美版,http://cdn.adultiptv.net/hardcore.m3u8
+粉红台欧美版,http://live.redtraffic.xyz:80/teen.m3u8
+粉红台欧美版,http://cdn.adultiptv.net/teen.m3u8
+玩美台欧美版,http://live.redtraffic.xyz:80/pov.m3u8
+玩美台欧美版,http://cdn.adultiptv.net/pov.m3u8
+一本道欧美版,http://live.redtraffic.xyz:80/bigass.m3u8
+一本道欧美版,http://cdn.adultiptv.net/bigass.m3u8
+二本道欧美版,http://live.redtraffic.xyz:80/blowjob.m3u8
+二本道欧美版,http://cdn.adultiptv.net/blowjob.m3u8
+樱花台欧美版,http://live.redtraffic.xyz:80/russian.m3u8
+樱花台欧美版,http://cdn.adultiptv.net/russian.m3u8
+俄罗斯成人5台,http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
+俄罗斯成人6台,http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
+苹果片,http://tube.cheerleaderfacials.com/trailers/609/cheerleaderfacial_Natalia_Rossi_0006.flv
