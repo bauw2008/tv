@@ -475,6 +475,11 @@ hbo 原创巨献,https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/in
 hbo 温馨家庭,https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 hbo red 亚洲,https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 cinemax 亚洲,https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+Dox剧场,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=doxjc
+Dox新知,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=doxxz
+Dox映画,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=doxyh
+Dox环映,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=doxyx
+Dox雅趣,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=doxyq
 龙祥时代,http://sxgs88.picp.vip:9090/hstv.php?id=373&type=.m3u8
 民视影剧,http://sxgs88.picp.vip:9090/hstv.php?id=1023&type=.m3u8
 纬来电影,http://sxgs88.picp.vip:9090/hstv.php?id=96&type=.m3u8
