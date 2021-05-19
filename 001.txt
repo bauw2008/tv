@@ -430,7 +430,6 @@ TVBS·新闻台,https://flv3948069e.live.126.net/live/9e8ae6e38b38d50801acbdd121
 篮球,http://stream1.jlntv.cn/lqpd/playlist.m3u8?_upt=3053ae9f1582302081
 CCTV5,http://newvideo.dangtutv.cn:8278/CCTVsports/playlist.m3u8
 CCTV5+ 赛事,http://39.135.33.12/PLTV/77777777/224/3221226672/index.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226225/index.m3u8
-CCTV高尔夫网球,http://223.110.241.137:6610/gitv/live1/G_GAOERFU/G_GAOERFU/?type=.m3u8
 CCTV央视台球,http://hdtv.haust.edu.cn/hls/hls184a574.m3u8
 CCTV风云足球,http://hdtv.haust.edu.cn/hls/hls184a510.m3u8#http://hdtv.haust.edu.cn/hls/fyzqtv.m3u8
 五星体育,http://219.151.31.43:80/liveplay-kk.rtxapp.com/live/program/live/ssty/2300000/mnf.m3u8
