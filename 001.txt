@@ -939,7 +939,6 @@ MyHeartWillGoOn(泰坦尼克号主题曲),https://15799848.s21v.faiusr.com/58/AB
 信息_997788,#genre#
 松視1,rtmp://161.202.204.248:1935/tv/ttv11
 HAPPY,rtmp://161.202.204.248:1935/tv/ttv12
-加密频道_1024,#genre#
 松視一台(720P),rtmp://161.202.204.248:1935/tv/ttv11
 松视三台,http://z2.ubtvfans.com/live/404/9e0e949eadda1be5504aed04b804d1f6/index.m3u8
 松視2台p0818,p5p://0818.02686.cc:20012/5f486541000e03532e4b74511bfe562e
