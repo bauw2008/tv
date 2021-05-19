@@ -401,6 +401,7 @@ CCTV5+ 赛事,http://39.135.33.12/PLTV/77777777/224/3221226672/index.m3u8#http:/
 CCTV高尔夫网球,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=gefwq
 CCTV央视台球,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=ystq
 CCTV风云足球,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=fyzq
+北京纪实,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226438/1.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225676/index.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225944/index.m3u8
 五星体育,http://219.151.31.43:80/liveplay-kk.rtxapp.com/live/program/live/ssty/2300000/mnf.m3u8
 新视觉,http://219.151.31.43:80/liveplay-kk.rtxapp.com/live/program/live/xsjhd/2300000/mnf.m3u8
 劲爆体育,http://219.151.31.43:80/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/2300000/mnf.m3u8
@@ -417,7 +418,7 @@ CGTN·环球记录,https://livedoc.cgtn.com/1000d/prog_index.m3u8
 上海纪实人文,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jspdhd/4000000/mnf.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225673/index.m3u8
 北京冬奥纪实FHD,http://39.134.66.66/PLTV/88888888/224/3221225670/index.m3u8
 EYE旅遊,http://sxgs88.picp.vip:9090/hstv.php?id=1494&type=.m3u8
-國家地理,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13012&key=natlgeo#rtmp://58.200.131.2:1935/livetv/natlgeo#http://sxgs88.picp.vip:9090/hstv.php?id=302&type=.m3u8
+國家地理,rtmp://58.200.131.2:1935/livetv/natlgeo#http://sxgs88.picp.vip:9090/hstv.php?id=302&type=.m3u8
 探索頻道,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13008&key=DSJTV&discovery#rtmp://58.200.131.2:1935/livetv/discovery#http://sxgs88.picp.vip:9090/hstv.php?id=1035&type=.m3u8
 TLC旅遊生活,http://sxgs88.picp.vip:9090/hstv.php?id=102&type=.m3u8
 民視旅遊,http://sxgs88.picp.vip:9090/hstv.php?id=78&type=.m3u8
