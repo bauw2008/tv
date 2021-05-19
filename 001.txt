@@ -399,7 +399,7 @@ TVBS·新闻台,https://flv3948069e.live.126.net/live/9e8ae6e38b38d50801acbdd121
 CCTV5,http://newvideo.dangtutv.cn:8278/CCTVsports/playlist.m3u8
 CCTV5+ 赛事,http://39.135.33.12/PLTV/77777777/224/3221226672/index.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226225/index.m3u8
 CCTV高尔夫网球,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=gefwq
-CCTV央视台球,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=ystq
+CCTV央视台球,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=ystq#http://hdtv.haust.edu.cn/hls/hls184a574.m3u8#http://hdtv.lzu6.edu.cn/hls/hls184a574.m3u8#http://hdtv.haust.edu.cn/hls/hls184a574.m3u8#http://hdtv.lzu6.edu.cn/hls/hls184a574.m3u8#rtsp://223.245.249.168/PLTV/88888889/224/3221226184/10000100000000060000000002525608_0.smil
 CCTV风云足球,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=fyzq
 北京纪实,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226438/1.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225676/index.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225944/index.m3u8
 五星体育,http://219.151.31.43:80/liveplay-kk.rtxapp.com/live/program/live/ssty/2300000/mnf.m3u8
