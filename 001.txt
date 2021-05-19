@@ -423,6 +423,7 @@ TVBS·新闻台,https://flv3948069e.live.126.net/live/9e8ae6e38b38d50801acbdd121
 纬来育乐,https://flv3948069e.live.126.net/live/d447377b1349b28be0f73e25002674e0.flv
 纬来日本,https://flv3948069e.live.126.net/live/1e162bfe0cead39595855814d8788584.flv
 东森超视,https://flv3948069e.live.126.net/live/b37f121b69e8c12a23ba977a686a2a16.flv
+新唐人亞太台,https://live.ntdimg.com/aplive200/playlist.m3u8
 
 体育,#genre#
 弈坛春秋,http://223.110.241.137:6610/gitv/live1/G_YITANCQ/G_YITANCQ/?type=.m3u8
