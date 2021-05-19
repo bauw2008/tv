@@ -458,7 +458,6 @@ CCTV世界地理,http://hdtv.haust.edu.cn/hls/hls184a515.m3u8#http://hdtv.lzu6.e
 纪实人文,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226958/index.m3u8#http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225688/index.m3u8
 金鹰纪实,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226975/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226351/index.m3u8#http://61.189.255.139/live.aishang.ctlcdn.com/00000110240303_1/encoder/0/playlist.m3u8?CONTENTID=00000110240303_1
 全纪实,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/qjshd/4000000/mnf.m3u8#http://183.207.255.190/live/program/live/qjshd/4000000/mnf.m3u8
-北京纪实,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226438/1.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225676/index.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225944/index.m3u8
 求索动物,http://117.148.187.83/PLTV/88888888/224/3221226695/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226695/index.m3u8#http://125.210.152.18:9090/live/QSDW_1200.m3u8
 求索纪录,http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
 求索科学,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/01.m3u8?fmt=ts2hls#http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8#http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
@@ -486,13 +485,6 @@ CGTN,https://livefr.cgtn.com/1000f/prog_index.m3u8
 亞洲影院,http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&amp;IASHttpSessionId=SLB4328320190321203540013412&amp;m3u8_level=2&amp;ztecid=10052&amp;virtualDomain=zjhs.live_hls.zte.com&amp;ispcode=3&amp;tid=C3V7K4ET1VFDUJY6C1IASRV55G66&amp;ts=1553493153
 欧美影院,http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
 BEST电影,http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-hbo 亚洲,https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-hbo 亚洲,https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-hbo 强档巨献,https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-hbo 原创巨献,https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
-hbo 温馨家庭,https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
-hbo red 亚洲,https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
-cinemax 亚洲,https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 Dox剧场,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=doxjc
 Dox新知,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=doxxz
 Dox映画,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=doxyh
@@ -534,6 +526,13 @@ CATCHPLAY电影,http://sxgs88.picp.vip:9090/hstv.php?id=362&type=.m3u8
 ELTA影剧,http://sxgs88.picp.vip:9090/hstv.php?id=500&type=.m3u8
 EYE戏剧,http://sxgs88.picp.vip:9090/hstv.php?id=191&type=.m3u8
 TVNMOVIE,http://sxgs88.picp.vip:9090/hstv.php?id=1082&type=.m3u8
+hbo 亚洲,https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+hbo 亚洲,https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+hbo 强档巨献,https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+hbo 原创巨献,https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+hbo 温馨家庭,https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+hbo red 亚洲,https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+cinemax 亚洲,https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
 iptv,#genre#
 IPTV淘电影,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8#http://39.134.135.80:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8#http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8#http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8#http://bjyd1.jilu8.cn/PLTV/88888888/224/3221226552/1.m3u8
