@@ -440,11 +440,7 @@ CCTV风云足球,http://hdtv.haust.edu.cn/hls/hls184a510.m3u8#http://hdtv.haust.
 Racing·运动,http://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 PP体育,http://39.135.38.13/PLTV/88888888/224/3221225970/index.m3u8#http://218.98.16.2:8080/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/tysy201903/75/index.m3u8?&encrypt=#http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/tysy201903/150/index.m3u8?&encrypt=1#http://111.13.111.161/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226372/3.m3u8
 iHot爱体育,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230103/1.m3u8#http://39.134.176.159/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230034/index.m3u8
-广东体育,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=8&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#http://player.200877926.top:80/1786/hunan/hnyx2m3u8.php?id=34#http://player.200877926.top:80/1786/hunan/hnyx2m3u8.php?id=34
-山东体育,http://120.221.44.101:8089/PLTV/88888888/224/3221226075/1.m3u8#http://hdtv.haust.edu.cn:83/PLTV/88888888/224/3221226075/1.m3u8
 NBA TV,https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
-中甲联赛,rtsp://61.132.204.137/PLTV/88889017/224/3221226629/10000100000000060000000002866824_0.smil
-体育赛事,rtsp://61.132.204.137/PLTV/88889017/224/3221226554/10000100000000060000000002858685_0.smil
 
 纪录,#genre#
 国家地理,rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo#rtmp://58.200.131.2:1935/livetv/natlgeo#http://sxgs88.picp.vip:9090/hstv.php?id=302&type=.m3u8
@@ -483,7 +479,6 @@ CGTN,https://livefr.cgtn.com/1000f/prog_index.m3u8
 小太阳,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 亞洲影院,http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&amp;IASHttpSessionId=SLB4328320190321203540013412&amp;m3u8_level=2&amp;ztecid=10052&amp;virtualDomain=zjhs.live_hls.zte.com&amp;ispcode=3&amp;tid=C3V7K4ET1VFDUJY6C1IASRV55G66&amp;ts=1553493153
 欧美影院,http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
-BEST电影,http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 Dox剧场,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=doxjc
 Dox新知,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=doxxz
 Dox映画,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=doxyh
@@ -815,16 +810,19 @@ Hot风尚音乐,http://39.134.176.154/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888
 Hot高清娱乐,http://117.148.187.46/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228575/01.m3u8?fmt=ts2hls
 
 4k高清,#genre#
-BesTV4K,http://117.148.187.46/PLTV/88888888/224/3221226718/index.m3u8#http://117.148.187.46/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229311/01.m3u8?fmt=ts2hls
 纯享4k,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225726/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225786/index.m3u8#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
 爱上4K,http://39.134.24.220/PLTV/88888888/224/3221226005/index.m3u8#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
 咪咕4K,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225863/index.m3u8#http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225866/index.m3u8
 咪咕14K,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226399/1.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226400/1.m3u8
 欢笑剧场,http://39.134.39.37/PLTV/88888888/224/3221226318/index.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
 美丽中国4K,https://hls.cntv.baishancdnx.cn/asp/hls/8000/0303000a/3/default/9891cea600df4e8a83851b1b1ce23194/8000.m3u8
-???????,https://bitdash-a.akamai.net/content/sintel/hls/video/800kbit.m3u8
 
 mv,#genre#
+MTV Biggest Pop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+MTV Block Party,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+MTV WMA,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+MTV Spankin\' New,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+MTV Yo!,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 于文文-体面DJ,http://f4.mc.0sm.com/2020/05/85EBD4284B55C9CC-974cf22ed602cd43.mp4
 天翔-一晃就老了DJ,http://f4.mc.0sm.com/2020/05/85EBA1FEF03FABB2-9d7e1d6258b74e8d.mp4
 王奕心-我的唇吻不到我爱的人DJ,http://f4.mc.0sm.com/2020/05/85EBBC248761C1C9-9b1c585be707a47a.mp4
