@@ -382,13 +382,13 @@ Newtv云南,http://39.134.67.226/PLTV/88888888/224/3221225773/index.m3u8
 亚美卫视,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 星空音乐,rtmp://58.200.131.3:1935/livetv/channelv
 星空卫视,rtmp://58.200.131.2:1935/livetv/startv
-凤凰中文 10M1080,http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8#http://111.20.105.60:6060/yinhe/2/ch00000090990000002275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225948/1.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8#http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8#https://player.ggiptv.com/v/ifeng.php?id=1
-凤凰资讯 10M1080,http://111.20.105.60:6060/yinhe/2/ch00000090990000002187/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://117.148.187.100/PLTV/88888888/224/3221226491/index.m3u8#http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
-CNC·中文频道,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
-CNN·新闻频道,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
-CGTN·环球国际,http://live.cgtn.com/1000/prog_index.m3u8
-CGTN·环球记录,https://livedoc.cgtn.com/1000d/prog_index.m3u8
-凤凰香港 10M1080,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
+凤凰中文,http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8#http://111.20.105.60:6060/yinhe/2/ch00000090990000002275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225948/1.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8#http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8#https://player.ggiptv.com/v/ifeng.php?id=1
+凤凰资讯,http://111.20.105.60:6060/yinhe/2/ch00000090990000002187/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://117.148.187.100/PLTV/88888888/224/3221226491/index.m3u8#http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
+CNC中文频道,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
+CNN新闻频道,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+CGTN环球国际,http://live.cgtn.com/1000/prog_index.m3u8
+CGTN环球记录,https://livedoc.cgtn.com/1000d/prog_index.m3u8
+凤凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 凤凰电影台,rtmp://58.200.131.2:1935/livetv/fhdy#rtmp://58.200.131.2:1935/livetv/fhdy#rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy#rtmp://58.200.131.2:1935/livetv/fhdy
 TVB经典台,http://50.7.161.82:8278/streams/d/tvbjd_pye/playlist.m3u8
 TVB星河台,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
@@ -408,15 +408,15 @@ ViuTV 6,http://185.207.176.189:8080/channels/tv-96/mpeg.2ts#https://cdn.hkdtmb.c
 有线新闻,https://flv3948069e.live.126.net/live/51c26b017084056f3ae6f4192018dca7.flv
 有线18台,https://flv3948069e.live.126.net/live/19da8d856dba6e51f8db1292e36c05e8.flv
 港视32台,https://flv3948069e.live.126.net/live/919da4d427b2d7b4f8ad93959840dc96.flv
-NOW·新闻台,https://flv3948069e.live.126.net/live/4f3ecc172a504ef10884e293a54d0624.flv
-VIU·综合,https://flv3948069e.live.126.net/live/176b4e43bac3153e6a837012722ba616.flv
+NOW新闻台,https://flv3948069e.live.126.net/live/4f3ecc172a504ef10884e293a54d0624.flv
+VIU综合,https://flv3948069e.live.126.net/live/176b4e43bac3153e6a837012722ba616.flv
 开放电视,https://flv3948069e.live.126.net/live/2d806b8b93520042886b473009f47796.flv
 中视,https://flv3948069e.live.126.net/live/1188546614735a43f43390b534e6c6f4.flv
 华视,https://flv3948069e.live.126.net/live/cbc2c9d9f18070e74746f4362fa6fe83.flv
 台视,https://flv3948069e.live.126.net/live/8e2a88ba3a0bf8c7a1eaf06559f12be7.flv
 民视,https://flv3948069e.live.126.net/live/07e1df36c3b16e35ffa703833610c79f.flv
-TVBS·欢乐台,https://flv3948069e.live.126.net/live/4e2d7088cf45d4fd5a29fff7429b50c0.flv
-TVBS·新闻台,https://flv3948069e.live.126.net/live/9e8ae6e38b38d50801acbdd12141debb.flv
+TVBS欢乐台,https://flv3948069e.live.126.net/live/4e2d7088cf45d4fd5a29fff7429b50c0.flv
+TVBS新闻台,https://flv3948069e.live.126.net/live/9e8ae6e38b38d50801acbdd12141debb.flv
 中天新闻,https://flv3948069e.live.126.net/live/77247c68da6e3d249dafc6f78818f05d.flv
 中视新闻,https://flv3948069e.live.126.net/live/ba2f870ec6e43acaf037c221365c2f5a.flv
 纬来体育,https://flv3948069e.live.126.net/live/cb7037fbcb70bda6edb88c2772279bad.flv
@@ -430,7 +430,7 @@ TVBS·新闻台,https://flv3948069e.live.126.net/live/9e8ae6e38b38d50801acbdd121
 足球频道,http://ivi.bupt.edu.cn:80/hls/zqhd.m3u8
 篮球,http://stream1.jlntv.cn/lqpd/playlist.m3u8?_upt=3053ae9f1582302081
 CCTV5,http://newvideo.dangtutv.cn:8278/CCTVsports/playlist.m3u8
-CCTV5+ 赛事,http://39.135.33.12/PLTV/77777777/224/3221226672/index.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226225/index.m3u8
+CCTV5+,http://39.135.33.12/PLTV/77777777/224/3221226672/index.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226225/index.m3u8
 CCTV央视台球,http://hdtv.haust.edu.cn/hls/hls184a574.m3u8
 CCTV风云足球,http://hdtv.haust.edu.cn/hls/hls184a510.m3u8#http://hdtv.haust.edu.cn/hls/fyzqtv.m3u8
 五星体育,http://219.151.31.43:80/liveplay-kk.rtxapp.com/live/program/live/ssty/2300000/mnf.m3u8
@@ -438,7 +438,7 @@ CCTV风云足球,http://hdtv.haust.edu.cn/hls/hls184a510.m3u8#http://hdtv.haust.
 新视觉,http://219.151.31.43:80/liveplay-kk.rtxapp.com/live/program/live/xsjhd/2300000/mnf.m3u8#http://112.25.48.68/live/program/live/xsjhd/4000000/mnf.m3u8#http://125.210.152.21:9120/live/XSJHD.m3u8
 劲爆体育,http://219.151.31.43:80/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/2300000/mnf.m3u8
 星空体育,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports#rtmp://58.200.131.2:1935/livetv/starsports
-Racing·运动,http://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+Racing运动,http://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 PP体育,http://39.135.38.13/PLTV/88888888/224/3221225970/index.m3u8#http://218.98.16.2:8080/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/tysy201903/75/index.m3u8?&encrypt=#http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/tysy201903/150/index.m3u8?&encrypt=1#http://111.13.111.161/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226372/3.m3u8
 iHot爱体育,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230103/1.m3u8#http://39.134.176.159/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230034/index.m3u8
 NBA TV,https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
