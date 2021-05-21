@@ -18,6 +18,8 @@ https://cdn.jsdelivr.net/gh/bauw2008/tv/a.jpg
 
 https://cdn.jsdelivr.net/gh/bauw2008/tv@master/001.txt
 
+https://cdn.jsdelivr.net/gh/bauw2008/tv@master/321.m3u
+
 https://cdn.jsdelivr.net/gh/bauw2008/tv@master/a.jpg
 
 https://cdn.jsdelivr.net/gh/bauw2008/tv@master/002.txt
