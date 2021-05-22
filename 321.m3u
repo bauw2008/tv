@@ -1536,9 +1536,7 @@ http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225726/index.m3u8#http://
 #EXTINF:-1 group-title="4k高清",爱上4K
 http://39.134.24.220/PLTV/88888888/224/3221226005/index.m3u8#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
 #EXTINF:-1 group-title="4k高清",咪咕4K
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225863/index.m3u8#http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225866/index.m3u8
-#EXTINF:-1 group-title="4k高清",咪咕14K
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226399/1.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226400/1.m3u8
+http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225863/index.m3u8#http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225866/index.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226399/1.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226400/1.m3u8
 #EXTINF:-1 group-title="4k高清",欢笑剧场
 http://39.134.39.37/PLTV/88888888/224/3221226318/index.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
 #EXTINF:-1 group-title="4k高清",美丽中国4K
