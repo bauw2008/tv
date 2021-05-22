@@ -813,8 +813,7 @@ Hot高清娱乐,http://117.148.187.46/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888
 4k高清,#genre#
 纯享4k,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225726/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225786/index.m3u8#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
 爱上4K,http://39.134.24.220/PLTV/88888888/224/3221226005/index.m3u8#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
-咪咕4K,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225863/index.m3u8#http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225866/index.m3u8
-咪咕14K,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226399/1.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226400/1.m3u8
+咪咕4K,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225863/index.m3u8#http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225866/index.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226399/1.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226400/1.m3u8
 欢笑剧场,http://39.134.39.37/PLTV/88888888/224/3221226318/index.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
 美丽中国4K,https://hls.cntv.baishancdnx.cn/asp/hls/8000/0303000a/3/default/9891cea600df4e8a83851b1b1ce23194/8000.m3u8
 
