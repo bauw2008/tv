@@ -526,11 +526,6 @@ DOX院线,http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226013/1/in
 DOX新知,http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226014/1/index.m3u8?fmt=ts2hls
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225667/index.m3u8#http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8#http://112.17.40.145/PLTV/88888888/224/3221226755/index.m3u8#http://121.31.30.91:8081/ysten-business/live/jdianying/1.m3u8
 黑莓动画,http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8#http://112.17.40.145/PLTV/88888888/224/3221226654/index.m3u8
-家庭大众,http://itv.ahau.edu.cn/hls/hls75a27.m3u8#http://hdtv.haust.edu.cn/hls/hls75a27.m3u8
-家庭影院,http://itv.ahau.edu.cn/hls/hls75a29.m3u8#http://hdtv.haust.edu.cn/hls/hls75a29.m3u8
-家庭亚洲,http://itv.ahau.edu.cn/hls/hls30.m3u8#http://hdtv.haust.edu.cn/hls/hls30.m3u8
-家庭劲爆,http://itv.ahau.edu.cn/hls/hls155.m3u8#http://hdtv.haust.edu.cn/hls/hls155.m3u8
-家庭喜剧,http://itv.ahau.edu.cn/hls/hls147.m3u8#http://hdtv.haust.edu.cn/hls/hls147.m3u8
 龙祥时代,http://sxgs88.picp.vip:9090/hstv.php?id=373&type=.m3u8
 民视影剧,http://sxgs88.picp.vip:9090/hstv.php?id=1023&type=.m3u8
 纬来电影,http://sxgs88.picp.vip:9090/hstv.php?id=96&type=.m3u8
