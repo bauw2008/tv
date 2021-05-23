@@ -758,27 +758,6 @@ SiTV生活时尚,http://39.135.253.15/PLTV/88888888/224/3221229998/index.m3u8
 洪金宝电影,http://kuqq.tk/00/huya.php?id=11342427&type=.m3u8
 徐峥电影,http://kuqq.tk/00/huya.php?id=1160204&type=.m3u8
 酷喵云直播,https://cloud-live.kumiaocloud.com/live/hellolive.m3u8
-华视-警匪大片,http://vip.auney.cn/api/huya.php?id=23358421&type=.m3u8
-华视-喜剧大片,http://vip.auney.cn/api/huya.php?id=23352525&type=.m3u8
-华视-爱情大片,http://vip.auney.cn/api/huya.php?id=23358431&type=.m3u8
-华视-动作大片,http://vip.auney.cn/api/huya.php?id=23352535&type=.m3u8
-华视-悬疑恐怖,http://vip.auney.cn/api/huya.php?id=23358441&type=.m3u8
-华视-高分好片,http://vip.auney.cn/api/huya.php?id=23352530&type=.m3u8
-华视-猜你喜欢,http://vip.auney.cn/api/huya.php?id=23352563&type=.m3u8
-华视-小时代呀,http://vip.auney.cn/api/huya.php?id=23358457&type=.m3u8
-华视-你想要的,http://vip.auney.cn/api/huya.php?id=23358446&type=.m3u8
-
-sitv,#genre#
-SiTV动漫秀场,http://39.134.39.39/PLTV/88888888/224/3221226197/index.m3u8
-SiTV劲爆体育,http://39.134.39.39/PLTV/88888888/224/3221226170/index.m3u8
-SiTV极速汽车,http://39.134.39.39/PLTV/88888888/224/3221226195/index.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226310/index.m3u8
-SiTV欢笑剧场,http://39.134.39.39/PLTV/88888888/224/3221226203/index.m3u8#http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
-SiTV游戏风云,http://39.134.39.39/PLTV/88888888/224/3221226187/index.m3u8#http://112.17.40.145/PLTV/88888888/224/3221226726/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226726/index.m3u8
-SiTV游戏世界,http://39.134.39.39/PLTV/88888888/224/3221226337/index.m3u8
-SiTV都市剧场,http://39.134.39.39/PLTV/88888888/224/3221226176/index.m3u8#http://112.17.40.145/PLTV/88888888/224/3221226825/index.m3u8#http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221226029/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226825/index.m3u8
-SiTV东方影视,http://39.134.39.39/PLTV/88888888/224/3221226189/index.m3u8
-SiTV五星体育,http://39.134.39.39/PLTV/88888888/224/3221226178/index.m3u8
-SiTV生活时尚,http://39.135.253.15/PLTV/88888888/224/3221229998/index.m3u8
 
 4k高清,#genre#
 纯享4k,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225726/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225786/index.m3u8#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
