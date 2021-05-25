@@ -304,14 +304,14 @@ CCTV电视指南,http://hdtv.haust.edu.cn/hls/hls186a88.m3u8#http://hdtv.lzu6.ed
 亚美卫视,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 星空音乐,rtmp://58.200.131.3:1935/livetv/channelv
 星空卫视,rtmp://58.200.131.2:1935/livetv/startv
-凤凰中文,http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8#http://111.20.105.60:6060/yinhe/2/ch00000090990000002275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225948/1.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8#http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8#https://player.ggiptv.com/v/ifeng.php?id=1
-凤凰资讯,http://111.20.105.60:6060/yinhe/2/ch00000090990000002187/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://117.148.187.100/PLTV/88888888/224/3221226491/index.m3u8#http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
+凤凰中文,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225948/1.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8
+凤凰资讯,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 CNC中文频道,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 CNN新闻频道,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8#http://50.7.59.216:61980/myplay/cn_2_12012/index.m3u8?key=84797b799ae18d1b
 CGTN环球国际,http://live.cgtn.com/1000/prog_index.m3u8
 CGTN环球记录,https://livedoc.cgtn.com/1000d/prog_index.m3u8
 凤凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
-凤凰电影台,rtmp://58.200.131.2:1935/livetv/fhdy#rtmp://58.200.131.2:1935/livetv/fhdy#rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy#rtmp://58.200.131.2:1935/livetv/fhdy
+凤凰电影台,rtmp://58.200.131.2:1935/livetv/fhdy#rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
 TVB经典台,http://50.7.161.82:8278/streams/d/tvbjd_pye/playlist.m3u8
 TVB星河台,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 TVB明珠台,http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
