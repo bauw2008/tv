@@ -458,8 +458,7 @@ DOX映画,http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226042/1/in
 DOX剧场,http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226039/1/index.m3u8?fmt=ts2hls
 DOX院线,http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226013/1/index.m3u8?fmt=ts2hls
 DOX新知,http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226014/1/index.m3u8?fmt=ts2hls
-黑莓动画 4M1080,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225878/index.m3u8
-黑莓电影 4M1080,http://39.135.230.71/ott.fj.chinamobile.com/PLTV/88888888/224/3221225891/index.m3u8
+黑莓电影,http://39.135.230.71/ott.fj.chinamobile.com/PLTV/88888888/224/3221225891/index.m3u8
 龙祥时代,http://sxgs88.picp.vip:9090/hstv.php?id=373&type=.m3u8#http://50.7.59.216:61980/myplay/cn_2_12019/index.m3u8?key=84797b799ae18d1b
 民视影剧,http://sxgs88.picp.vip:9090/hstv.php?id=1023&type=.m3u8
 纬来电影,http://50.7.59.216:61980/myplay/cn_4_14009/index.m3u8?key=84797b799ae18d1b#http://sxgs88.picp.vip:9090/hstv.php?id=96&type=.m3u8
@@ -531,24 +530,23 @@ sik动漫2,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226
 sik动漫5,http://39.135.230.86/ott.fj.chinamobile.com/PLTV/88888888/224/3221226732/index.m3u8
 sik动漫7,http://39.135.230.80/ott.fj.chinamobile.com/PLTV/88888888/224/3221226743/index.m3u8
 sik动漫3,http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221227053/index.m3u8
+黑莓动画,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225878/index.m3u8
 上海哈哈炫动,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225872/index.m3u8
 上海哈哈炫动,http://39.135.230.83/ott.fj.chinamobile.com/PLTV/88888888/224/3221227020/index.m3u8
 北京卡酷少儿,http://39.135.230.78/ott.fj.chinamobile.com/PLTV/88888888/224/3221225871/index.m3u8
 北京卡酷少儿,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226963/index.m3u8
-江苏优漫卡通,http://39.135.230.74/ott.fj.chinamobile.com/PLTV/88888888/224/3221225874/index.m3u8
 广东嘉佳卡通,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227024/index.m3u8
 湖南金鹰卡通,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226959/index.m3u8
 湖南金鹰卡通,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225870/index.m3u8
 动漫秀场,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/dmxchd/4000000/mnf.m3u8
-优漫卡通,http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221225874/index.m3u8#http://39.134.7.247/000000001000/5574405527570022182/1.m3u8
 小太阳,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
+优漫卡通,http://39.135.230.74/ott.fj.chinamobile.com/PLTV/88888888/224/3221225874/index.m3u8
 UTV影视精选,http://39.134.198.32:6410/yst.live.scmobile.com/otvzte.scmcc.com.cn:8080/ysten-business/live/SD-1500k-576P-dongzuody/index.m3u8?%20
 UTV优视影院,http://39.134.198.32:6410/yst.live.scmobile.com/otvzte.scmcc.com.cn:8080/ysten-business/live/SD-1500k-576P-youshiyy/index.m3u8?%20
 UTV家庭影院,http://39.134.198.32:6410/yst.live.scmobile.com/otvzte.scmcc.com.cn:8080/ysten-business/live/SD-1500k-576P-jiatingjc/index.m3u8?%20
 UTV热播剧场,http://39.134.198.32:6410/yst.live.scmobile.com/otvzte.scmcc.com.cn:8080/ysten-business/live/SD-1500k-576P-rebojuc/index.m3u8?%20
 UTV第一电影,http://39.134.198.32:6410/yst.live.scmobile.com/otvzte.scmcc.com.cn:8080/ysten-business/live/SD-1500k-576P-diyidy/index.m3u8?%20
 UTV经典影视,http://39.134.198.32:6410/yst.live.scmobile.com/otvzte.scmcc.com.cn:8080/ysten-business/live/SD-1500k-576P-jingdianys/index.m3u8?%20
-UTV舞蹈视界,http://39.134.198.32:6410/yst.live.scmobile.com/otvzte.scmcc.com.cn:8080/ysten-business/live/SD-1500k-576P-youshizy/index.m3u8?%20
 北京IPTV淘BABY,http://39.135.238.86/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/1.m3u8
 河北少儿,http://live6.plus.hebtv.com/sekjsl/sd/live.m3u8
 深圳少儿,http://ye23.win/iptv/sztv.php?id=7#http://cdn.chxjon.cn/iptv/QQ582185381/sztv.php?id=7
@@ -788,6 +786,7 @@ CCTV4K,http://39.134.176.253/PLTV/88888888/224/3221226758/index.m3u8
 美丽中国4K,https://hls.cntv.baishancdnx.cn/asp/hls/8000/0303000a/3/default/9891cea600df4e8a83851b1b1ce23194/8000.m3u8
 
 mv,#genre#
+UTV舞蹈视界,http://39.134.198.32:6410/yst.live.scmobile.com/otvzte.scmcc.com.cn:8080/ysten-business/live/SD-1500k-576P-youshizy/index.m3u8?%20
 MTV台湾,http://50.7.59.216:61980/myplay/cn_2_12013/index.m3u8?key=84797b799ae18d1b
 MTV Biggest Pop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 MTV Block Party,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
