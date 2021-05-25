@@ -646,19 +646,6 @@ IPTV相声小品,http://39.134.39.37/PLTV/88888888/224/3221226260/index.m3u8
 乐视_综艺节目,http://api.idianshijia.com/gslb/live?stream_id=lsloop_zongyi&type=.m3u8
 乐视_喜剧电影,http://api.idianshijia.com/gslb/live?stream_id=lsloop_xiju&type=.m3u8
 
-HuYu,#genre#
-HuYa埋堆堆1台,http://kuqq.tk/00/huya.php?id=23740156
-HuYa埋堆堆2台,http://kuqq.tk/00/huya.php?id=23734183
-HuYa TVB剧集台,http://kuqq.tk/00/huya.php?id=23735126
-HuYa TVB古装大片,http://kuqq.tk/00/huya.php?id=23865025
-HuYa黑帮系列,http://kuqq.tk/00/huya.php?id=11336719
-HuYa女神系列,http://kuqq.tk/00/huya.php?id=11336571
-HuYa搞笑港片,http://kuqq.tk/00/huya.php?id=11601960
-HuYa喜剧片,http://kuqq.tk/00/huya.php?id=11602044
-HuYa赌片,http://kuqq.tk/00/huya.php?id=11342399
-HuYa飞车片,http://kuqq.tk/00/huya.php?id=11279247
-HuYa警匪片,http://kuqq.tk/00/huya.php?id=11352886
-
 IHOT,#genre#
 爱电竞,http://101.71.255.229:6610/zjhs/2/10110/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 爱动漫,http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
