@@ -529,7 +529,7 @@ sik动漫1,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226
 sik动漫2,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226736/index.m3u8
 sik动漫5,http://39.135.230.86/ott.fj.chinamobile.com/PLTV/88888888/224/3221226732/index.m3u8
 sik动漫7,http://39.135.230.80/ott.fj.chinamobile.com/PLTV/88888888/224/3221226743/index.m3u8
-sik动漫3,http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221227053/index.m3u8
+百视通动画,http://39.135.230.75/ott.fj.chinamobile.com/PLTV/88888888/224/3221227053/index.m3u8
 黑莓动画,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225878/index.m3u8
 上海哈哈炫动,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225872/index.m3u8
 上海哈哈炫动,http://39.135.230.83/ott.fj.chinamobile.com/PLTV/88888888/224/3221227020/index.m3u8
