@@ -438,7 +438,6 @@ CGTN,https://livefr.cgtn.com/1000f/prog_index.m3u8
 天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 天映频道,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 双星台,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-小太阳,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 亞洲影院,http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&amp;IASHttpSessionId=SLB4328320190321203540013412&amp;m3u8_level=2&amp;ztecid=10052&amp;virtualDomain=zjhs.live_hls.zte.com&amp;ispcode=3&amp;tid=C3V7K4ET1VFDUJY6C1IASRV55G66&amp;ts=1553493153
 欧美影院,http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
 欢笑剧场4K,http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
@@ -528,6 +527,7 @@ Hot高清娱乐,http://117.148.187.46/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888
 哈哈炫动,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hhxdhd/4000000/mnf.m3u8
 嘉佳卡通,http://223.110.241.137:6610/gitv/live1/G_JIAJIA/G_JIAJIA/?type=.m3u8
 优漫卡通,http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221225874/index.m3u8#http://39.134.7.247/000000001000/5574405527570022182/1.m3u8
+小太阳,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 UTV影视精选,http://39.134.198.32:6410/yst.live.scmobile.com/otvzte.scmcc.com.cn:8080/ysten-business/live/SD-1500k-576P-dongzuody/index.m3u8?%20
 UTV优视影院,http://39.134.198.32:6410/yst.live.scmobile.com/otvzte.scmcc.com.cn:8080/ysten-business/live/SD-1500k-576P-youshiyy/index.m3u8?%20
 UTV家庭影院,http://39.134.198.32:6410/yst.live.scmobile.com/otvzte.scmcc.com.cn:8080/ysten-business/live/SD-1500k-576P-jiatingjc/index.m3u8?%20
