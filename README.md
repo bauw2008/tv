@@ -4,29 +4,23 @@
 
 https://cdn.jsdelivr.net/gh/你的用户名/你的仓库名@发布的版本号/文件路径
 
-
 https://cdn.jsdelivr.net/gh/bauw2008/tv/001.txt
-
-https://cdn.jsdelivr.net/gh/bauw2008/tv/002.txt
-
-https://cdn.jsdelivr.net/gh/bauw2008/tv/123.txt
 
 https://cdn.jsdelivr.net/gh/bauw2008/tv/iptvsy.txt
 
 https://cdn.jsdelivr.net/gh/bauw2008/tv/a.jpg
 
 
-https://cdn.jsdelivr.net/gh/bauw2008/tv@master/001.txt
 
-https://cdn.jsdelivr.net/gh/bauw2008/tv@master/321.m3u
+https://cdn.jsdelivr.net/gh/bauw2008/tv@master/001.txt
 
 https://cdn.jsdelivr.net/gh/bauw2008/tv@master/a.jpg
 
-https://cdn.jsdelivr.net/gh/bauw2008/tv@master/002.txt
-
-https://cdn.jsdelivr.net/gh/bauw2008/tv@master/123.txt
-
 https://cdn.jsdelivr.net/gh/bauw2008/tv@master/iptvsy.txt
+
+
+https://cdn.jsdelivr.net/gh/bauw2008/tv/001.txt
+
 
 1. 源文件格式： UTF-8格式的编码。
 
