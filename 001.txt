@@ -449,13 +449,11 @@ CGTN,https://livefr.cgtn.com/1000f/prog_index.m3u8
 天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 天映频道,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 双星台,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-亞洲影院,http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&amp;IASHttpSessionId=SLB4328320190321203540013412&amp;m3u8_level=2&amp;ztecid=10052&amp;virtualDomain=zjhs.live_hls.zte.com&amp;ispcode=3&amp;tid=C3V7K4ET1VFDUJY6C1IASRV55G66&amp;ts=1553493153
-欧美影院,http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
 欢笑剧场4K,http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
 BEST电影,http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-DOXTV,http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226048/1/index.m3u8?fmt=ts2hls
 精选,http://hdtv.lzu6.edu.cn/hls/hls102.m3u8
 星影,http://hdtv.lzu6.edu.cn/hls/hls59.m3u8
+DOXTV,http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226048/1/index.m3u8?fmt=ts2hls
 DOX映画,http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226042/1/index.m3u8?fmt=ts2hls
 DOX剧场,http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226039/1/index.m3u8?fmt=ts2hls
 DOX院线,http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226013/1/index.m3u8?fmt=ts2hls
