@@ -429,9 +429,9 @@ CCTV精品剧场,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=jpjc
 CCTV怀旧剧场,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=hjjc
 CCTV第一剧场,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=dyjc
 CCTV风云剧场,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=fyjc
-KiD电影一台,http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-KiD电影二台,http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-KiD动画,http://101.71.255.229:6610/zjhs/2/10043/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+KiD电影一台,http://39.134.182.236/PLTV/88888888/224/3221226245/index.m3u8#http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+KiD电影二台,http://39.134.182.236/PLTV/88888888/224/3221226176/index.m3u8#http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+KiD动画,http://39.134.182.236/PLTV/88888888/224/3221226178/index.m3u8#http://101.71.255.229:6610/zjhs/2/10043/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 KiD影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 上海东方影视,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
 CGTN,https://livefr.cgtn.com/1000f/prog_index.m3u8
@@ -513,9 +513,6 @@ Hot电子竞技,http://117.148.187.46/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888
 Hot精品剧场,http://39.134.176.160/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228360/01.m3u8?fmt=ts2hls
 Hot风尚音乐,http://39.134.176.154/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228344/01.m3u8?fmt=ts2hls
 Hot高清娱乐,http://117.148.187.46/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228575/01.m3u8?fmt=ts2hls
-CHC欧美影院,http://39.134.182.236/PLTV/88888888/224/3221226176/index.m3u8
-CHC华城影视,http://39.134.182.236/PLTV/88888888/224/3221226245/index.m3u8
-CHC华城动画,http://39.134.182.236/PLTV/88888888/224/3221226178/index.m3u8
 高清电影4,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226736/1.m3u8
 高清电影5,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225881/1.m3u8
 高清电影6,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226708/1.m3u8
