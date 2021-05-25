@@ -450,7 +450,6 @@ NBA TV,https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8#http://50.7.59
 CHC高清电影,http://111.20.105.60:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8#http://ivi.bupt.edu.cn/hls/chchd.m3u8#http://ivi.bupt.edu.cn/hls/chchd.m3u8 
 CHC动作电影,http://111.20.105.60:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC家庭影院,http://111.20.105.60:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8#http://pili-live-hls.fssh.tianma3600.com/fssh/fsds.m3u8
-CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CCTV精品剧场,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=jpjc
 CCTV怀旧剧场,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=hjjc
 CCTV第一剧场,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=dyjc
