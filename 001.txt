@@ -550,6 +550,9 @@ I-Hot爱幼教,http://39.134.182.236/hwltc.tv.cdn.zj.chinamobile.com/PLTV/888888
 动画电影,http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226743/index.m3u8
 动画电影2,http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226732/index.m3u8
 动画电影3,http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221227053/index.m3u8
+蜡笔小新,http://121.12.115.156/tx.hls.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1-imgplus.m3u8
+爆笑虫子,http://121.12.115.156/tx.hls.huya.com/src/98282154-98282154-422118637210435584-3465852224-10057-A-0-1.m3u8
+猫和老鼠,http://121.12.115.156/tx.hls.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.m3u8
 
 纪录,#genre#
 国家地理,rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo#rtmp://58.200.131.2:1935/livetv/natlgeo#http://sxgs88.picp.vip:9090/hstv.php?id=302&type=.m3u8
@@ -692,7 +695,7 @@ YY成龙经典-动作 搞笑,http://106.53.212.251/daili/yy.php?id=34460526&type
 YY海外电影-超燃巨作,http://106.53.212.251/daili/yy.php?id=26623173&type=.m3u8
 YY-乔四爷续集,http://106.53.212.251/daili/yy.php?id=39360972&type=.m3u8
 YY-新三国超清,http://106.53.212.251/daili/yy.php?id=1382646395&type=.m3u8
-YY动漫-斗罗斗破,http://106.53.212.251/daili/yy.php?id=35742228&type=.m3u8
+YY动漫-灵剑尊,http://106.53.212.251/daili/yy.php?id=35742228&type=.m3u8
 YY-延禧攻略1-2部全集,http://106.53.212.251/daili/yy.php?id=21881901&type=.m3u8
 YY-燕双鹰专场,http://106.53.212.251/daili/yy.php?id=1352227153&type=.m3u8
 YY-港片 赌片 动作 喜剧,http://106.53.212.251/daili/yy.php?id=28751126&type=.m3u8
@@ -746,9 +749,6 @@ SiTV,#genre#
 郭德纲&于谦,http://kuqq.tk/00/huya.php?id=11352948&type=.m3u8
 庆余年,http://kuqq.tk/00/huya.php?id=11352960&type=.m3u8
 鬼吹灯,http://kuqq.tk/00/huya.php?id=11352871&type=.m3u8
-蜡笔小新,http://121.12.115.156/tx.hls.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1-imgplus.m3u8
-爆笑虫子,http://121.12.115.156/tx.hls.huya.com/src/98282154-98282154-422118637210435584-3465852224-10057-A-0-1.m3u8
-猫和老鼠,http://121.12.115.156/tx.hls.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.m3u8
 
 4k高清,#genre#
 CCTV4K,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=cctv4k
