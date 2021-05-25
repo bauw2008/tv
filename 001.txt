@@ -441,10 +441,9 @@ NBA TV,https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8#http://50.7.59
 CHC高清电影,http://111.20.105.60:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8#http://ivi.bupt.edu.cn/hls/chchd.m3u8#http://ivi.bupt.edu.cn/hls/chchd.m3u8 
 CHC动作电影,http://111.20.105.60:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC家庭影院,http://111.20.105.60:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8#http://pili-live-hls.fssh.tianma3600.com/fssh/fsds.m3u8
-CCTV精品剧场,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=jpjc
-CCTV怀旧剧场,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=hjjc
-CCTV第一剧场,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=dyjc
-CCTV风云剧场,http://cdn.chxjon.cn/iptv/QQ2383132354/gzyx.php?id=fyjc
+CCTV怀旧剧场,http://hdtv.haust.edu.cn/hls/hls184a518.m3u8#http://hdtv.lzu6.edu.cn/hls/hls184a518.m3u8
+CCTV第一剧场,http://hdtv.haust.edu.cn/hls/hls184a512.m3u8#http://hdtv.lzu6.edu.cn/hls/hls184a512.m3u8
+CCTV风云剧场,http://hdtv.haust.edu.cn/hls/hls184a516.m3u8#http://hdtv.lzu6.edu.cn/hls/hls184a516.m3u8
 上海东方影视,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
 CGTN,https://livefr.cgtn.com/1000f/prog_index.m3u8
 天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
@@ -509,10 +508,10 @@ CATCHPLAY电影,http://sxgs88.picp.vip:9090/hstv.php?id=362&type=.m3u8
 ELTA影剧,http://sxgs88.picp.vip:9090/hstv.php?id=500&type=.m3u8
 EYE戏剧,http://sxgs88.picp.vip:9090/hstv.php?id=191&type=.m3u8
 TVNMOVIE,http://sxgs88.picp.vip:9090/hstv.php?id=1082&type=.m3u8
-Hot亚洲影院,http://117.148.187.70/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228365/01.m3u8?fmt=ts2hls
+Hot亚洲影院,http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&amp;IASHttpSessionId=SLB4328320190321203540013412&amp;m3u8_level=2&amp;ztecid=10052&amp;virtualDomain=zjhs.live_hls.zte.com&amp;ispcode=3&amp;tid=C3V7K4ET1VFDUJY6C1IASRV55G66&amp;ts=1553493153#http://117.148.187.70/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228365/01.m3u8?fmt=ts2hls
 Hot少儿动漫,http://39.134.176.151/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228387/01.m3u8?fmt=ts2hls
 Hot探索纪录,http://39.134.176.151/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228366/01.m3u8?fmt=ts2hls
-Hot欧美影院,http://39.134.176.151/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228384/01.m3u8?fmt=ts2hls
+Hot欧美影院,http://39.134.176.151/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228384/01.m3u8?fmt=ts2hls#http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
 Hot漫游世界,http://117.148.187.96/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228581/01.m3u8?fmt=ts2hls
 Hot炫动3D,http://117.148.187.46/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228578/01.m3u8?fmt=ts2hls
 Hot电子竞技,http://117.148.187.46/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228572/01.m3u8?fmt=ts2hls
@@ -588,7 +587,6 @@ CCTV世界地理,http://hdtv.haust.edu.cn/hls/hls184a515.m3u8#http://hdtv.lzu6.e
 农林卫视,http://223.110.241.137:6610/gitv/live1/G_NONGLIN/G_NONGLIN/?type=.m3u8
 置业频道,http://223.110.241.137:6610/gitv/live1/G_ZHIYE/G_ZHIYE/?type=.m3u8
 京视剧场,http://223.110.241.137:6610/gitv/live1/G_JINGJU/G_JINGJU/?type=.m3u8
-新娱乐,http://223.110.241.137:6610/gitv/live1/G_XINYULE/G_XINYULE/?type=.m3u8
 家庭理财,http://223.110.241.137:6610/gitv/live1/G_JIATINGLC/G_JIATINGLC/?type=.m3u8
 老故事,http://223.110.241.137:6610/gitv/live1/G_LAOGUSHI/G_LAOGUSHI/?type=.m3u8
 职业指南,http://223.110.241.137:6610/gitv/live1/G_ZHIYEZN/G_ZHIYEZN/?type=.m3u8
@@ -599,8 +597,6 @@ CCTV世界地理,http://hdtv.haust.edu.cn/hls/hls184a515.m3u8#http://hdtv.lzu6.e
 求索生活,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228983/01.m3u8?fmt=ts2hls#http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8#http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8#http://112.17.40.36/PLTV/88888888/224/3221226606/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226606/index.m3u8#http://125.210.152.18:9090/live/QSSH_1200.m3u8
 动物星球,http://50.7.59.216:61980/myplay/cn_3_13014/index.m3u8?key=84797b799ae18d1b
 美食星球,http://50.7.59.216:61980/myplay/cn_0_8804/index.m3u8?key=84797b799ae18d1b
-亚洲旅游台,http://50.7.59.216:61980/myplay/cn_1_11020/index.m3u8?key=84797b799ae18d1b
-EYE TV旅游,http://50.7.59.216:61980/myplay/cn_0_8807/index.m3u8?key=84797b799ae18d1b
 
 besTV,#genre#
 百视通港剧,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226991/index.m3u8
@@ -815,6 +811,7 @@ CCTV4K,http://39.134.176.253/PLTV/88888888/224/3221226758/index.m3u8
 美丽中国4K,https://hls.cntv.baishancdnx.cn/asp/hls/8000/0303000a/3/default/9891cea600df4e8a83851b1b1ce23194/8000.m3u8
 
 mv,#genre#
+CCTV风云音乐,http://hdtv.haust.edu.cn/hls/hls184a519.m3u8#http://hdtv.lzu6.edu.cn/hls/hls184a519.m3u8
 UTV舞蹈视界,http://39.134.198.32:6410/yst.live.scmobile.com/otvzte.scmcc.com.cn:8080/ysten-business/live/SD-1500k-576P-youshizy/index.m3u8?%20
 MTV台湾,http://50.7.59.216:61980/myplay/cn_2_12013/index.m3u8?key=84797b799ae18d1b
 MTV Biggest Pop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
