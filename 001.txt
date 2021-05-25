@@ -224,9 +224,10 @@ CCTV电视指南,http://hdtv.haust.edu.cn/hls/hls186a88.m3u8#http://hdtv.lzu6.ed
 三都新闻综合,http://712732228.cloudvdn.com/a.m3u8?domain=pili-live-hls.207.i2863.com&player=DQ4AAAnwlGRZWH4W&secondToken=secondToken%3Ar_6h_Q3EAzcYbzHcWj2X3ThGYF0&sign=5d08dd5dd7b31ddb6dbed75312aa1b1e&streamid=i2863-207%3Ai2863-207%2Fsdpdzb&t=609c0357&v3=1
 
 省台,#genre#
+贵州卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225626/index.m3u8
+贵州卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=41&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
 湖南卫视,http://39.134.168.91/PLTV/1/224/3221225518/index.m3u8
-重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225618/index.m3u8
 重庆卫视,http://39.134.168.91/PLTV/1/224/3221225576/index.m3u8
 浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
 浙江卫视,http://39.134.168.91/PLTV/1/224/3221225520/index.m3u8
@@ -247,7 +248,6 @@ CCTV电视指南,http://hdtv.haust.edu.cn/hls/hls186a88.m3u8#http://hdtv.lzu6.ed
 山西卫视,http://39.134.168.91/PLTV/1/224/3221225646/index.m3u8
 山东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225737/index.m3u8
 山东卫视,http://39.134.168.91/PLTV/1/224/3221225540/index.m3u8
-厦门卫视,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/1.m3u8
 青海卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
 青海卫视,http://39.134.168.91/PLTV/1/224/3221225622/index.m3u8
 宁夏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
@@ -272,8 +272,6 @@ CCTV电视指南,http://hdtv.haust.edu.cn/hls/hls186a88.m3u8#http://hdtv.lzu6.ed
 河北卫视,http://39.134.168.91/PLTV/1/224/3221225624/index.m3u8
 海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225639/index.m3u8
 海南卫视,http://39.134.168.91/PLTV/1/224/3221225620/index.m3u8
-贵州卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225626/index.m3u8
-贵州卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=41&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 广西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225622/index.m3u8
 广西卫视,http://39.134.168.91/PLTV/1/224/3221225598/index.m3u8
 广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225736/index.m3u8
@@ -289,7 +287,6 @@ CCTV电视指南,http://hdtv.haust.edu.cn/hls/hls186a88.m3u8#http://hdtv.lzu6.ed
 北京卫视,http://39.134.168.91/PLTV/1/224/3221225524/index.m3u8
 安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225727/index.m3u8
 安徽卫视,http://39.134.168.91/PLTV/1/224/3221225548/index.m3u8
-安多卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
 山东教育电视台,http://223.110.241.137:6610/gitv/live1/G_SDETV/G_SDETV/?type=.m3u8
 安多卫视,http://223.110.241.137:6610/gitv/live1/G_ANDUO/G_ANDUO/?type=.m3u8
 考试在线,http://223.110.241.137:6610/gitv/live1/G_KAOSHIZX/G_KAOSHIZX/?type=.m3u8
@@ -436,7 +433,6 @@ KiD电影一台,http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain
 KiD电影二台,http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 KiD动画,http://101.71.255.229:6610/zjhs/2/10043/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 KiD影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-utv优视影院,http://39.134.198.38:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/SD-1500k-576P-youshiyy/index.m3u8?IAS
 上海东方影视,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
 CGTN,https://livefr.cgtn.com/1000f/prog_index.m3u8
 天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
