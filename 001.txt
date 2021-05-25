@@ -513,9 +513,9 @@ Hot电子竞技,http://117.148.187.46/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888
 Hot精品剧场,http://39.134.176.160/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228360/01.m3u8?fmt=ts2hls
 Hot风尚音乐,http://39.134.176.154/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228344/01.m3u8?fmt=ts2hls
 Hot高清娱乐,http://117.148.187.46/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228575/01.m3u8?fmt=ts2hls
-高清电影1,http://39.134.182.236/PLTV/88888888/224/3221226176/index.m3u8
-高清电影2,http://39.134.182.236/PLTV/88888888/224/3221226245/index.m3u8
-高清电影3,http://39.134.182.236/PLTV/88888888/224/3221226178/index.m3u8
+CHC欧美影院,http://39.134.182.236/PLTV/88888888/224/3221226176/index.m3u8
+CHC华城影视,http://39.134.182.236/PLTV/88888888/224/3221226245/index.m3u8
+CHC华城动画,http://39.134.182.236/PLTV/88888888/224/3221226178/index.m3u8
 高清电影4,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226736/1.m3u8
 高清电影5,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225881/1.m3u8
 高清电影6,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226708/1.m3u8
