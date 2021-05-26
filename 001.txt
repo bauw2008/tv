@@ -412,7 +412,8 @@ Z频道,http://50.7.59.216:61980/myplay/cn_2_12014/index.m3u8?key=84797b799ae18d
 体育,#genre#
 CCTV5,http://newvideo.dangtutv.cn:8278/CCTVsports/playlist.m3u8
 CCTV5+,http://39.135.33.12/PLTV/77777777/224/3221226672/index.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226225/index.m3u8
-CCTV央视台球,http://hdtv.haust.edu.cn/hls/hls184a574.m3u8#http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/ystq/ystq711/1000/index.m3u8?
+CCTV央视台球,http://hdtv.haust.edu.cn/hls/hls184a574.m3u8#http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/ystq/ystq711/1000/index.m3u8
+台球,http://39.134.24.24/PLTV/88888888/224/3221226009/index.m3u8
 CCTV风云足球,http://hdtv.haust.edu.cn/hls/hls184a510.m3u8#http://hdtv.haust.edu.cn/hls/fyzqtv.m3u8
 冬奥纪实,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226438/1.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225676/index.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225944/index.m3u8
 劲爆体育,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8#http://219.151.31.43:80/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/2300000/mnf.m3u8
