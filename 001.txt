@@ -467,7 +467,6 @@ CCTV怀旧剧场,http://hdtv.haust.edu.cn/hls/hls184a518.m3u8#http://hdtv.lzu6.e
 CCTV第一剧场,http://hdtv.haust.edu.cn/hls/hls184a512.m3u8#http://hdtv.lzu6.edu.cn/hls/hls184a512.m3u8
 CCTV风云剧场,http://hdtv.haust.edu.cn/hls/hls184a516.m3u8#http://hdtv.lzu6.edu.cn/hls/hls184a516.m3u8
 上海东方影视,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
-CGTN,https://livefr.cgtn.com/1000f/prog_index.m3u8
 天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 天映频道,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 双星台,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
@@ -592,6 +591,7 @@ I-Hot爱幼教,http://39.134.182.236/hwltc.tv.cdn.zj.chinamobile.com/PLTV/888888
 
 纪录,#genre#
 CGTN,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226980/index.m3u8
+CGTN,https://livefr.cgtn.com/1000f/prog_index.m3u8
 CGTN,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225822/index.m3u8
 CGTN纪录,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225813/index.m3u8
 CGTN环球国际,http://live.cgtn.com/1000/prog_index.m3u8
