@@ -1067,7 +1067,7 @@ HAPPY,tvbus://6FPNBzRsYXHBDN6wicZW2dmNv4z7jZJdekBKaeTZbxFu63sSCSjYd6GZaCZBR
 TokyoHOT,http://sxgs88.picp.vip:9090/hstv.php?id=416&type=.m3u8
 HOT,tvbus://6iTNFjY8ZAGCf3rHAN6uVBmVN3Hwu2a9wHKjb46C4BNS5jkHXx92s6CwzzAmE
 HOT,http://sxgs88.picp.vip:9090/hstv.php?id=407&type=.m3u8
-松视一台(720P),rtmp://161.202.204.248:1935/tv/ttv11
+松视1台,rtmp://161.202.204.248:1935/tv/ttv11
 松视1台,tvbus://6j9sopzBQKaUPnGvkMH4tMfWbCj4BbuPcV9TFJ3GLqtS2TrMvHQrJj94B3wmL
 松视1台,http://sxgs88.picp.vip:9090/hstv.php?id=402&type=.m3u8
 松视三台,http://z2.ubtvfans.com/live/404/9e0e949eadda1be5504aed04b804d1f6/index.m3u8
