@@ -835,7 +835,7 @@ MTV Yo!,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/mast
 喜欢你,http://play.bgp.68tool.com/video/m3u8/2021/04/07/df5f8626/playlist.m3u8
 友情岁月,https://cache1.parwix.com:4433/cache/iqiyi/05153f6df1b9b366b3137c260c4fcc8f.m3u8
 友情岁月（女版）,https://cache1.parwix.com:4433/cache/iqiyi/1882056e5e7fac02f68d9439e10802c0.m3u8
-少年,https://v4.szjal.cn/20200411/Py1Z7cPW/1000kb/hls/index.m3u8
+少年,http://play.bgp.68tool.com/video/m3u8/2020/11/05/9e2d5973/playlist.m3u8
 我的梦,http://play.bgp.68tool.com/video/m3u8/2020/10/26/3cdf8df8/playlist.m3u8
 当年情,http://play.bgp.68tool.com/video/m3u8/2021/06/02/390ac537/playlist.m3u8
 莫斯科没有眼泪,http://play.bgp.68tool.com/video/m3u8/2021/06/05/0433b9ce/playlist.m3u8
@@ -850,17 +850,8 @@ MTV Yo!,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/mast
 最亲的人,http://play.bgp.68tool.com/video/m3u8/2021/05/02/b90395ab/playlist.m3u8
 勇气,http://play.bgp.68tool.com/video/m3u8/2021/04/29/04cd4419/playlist.m3u8
 芒种,http://play.bgp.68tool.com/video/m3u8/2021/04/09/682d70e1/playlist.m3u8
-于文文-体面DJ,http://f4.mc.0sm.com/2020/05/85EBD4284B55C9CC-974cf22ed602cd43.mp4
-天翔-一晃就老了DJ,http://f4.mc.0sm.com/2020/05/85EBA1FEF03FABB2-9d7e1d6258b74e8d.mp4
-王奕心-我的唇吻不到我爱的人DJ,http://f4.mc.0sm.com/2020/05/85EBBC248761C1C9-9b1c585be707a47a.mp4
-郭玲-拥抱你离去DJ,http://f4.mc.0sm.com/2020/05/85EBA1D93D5C194C-c39d2ce38ca8061a.mp4
-越南语-失恋阵线联盟DJ,http://f4.mc.0sm.com/2020/05/85EBD25AD52E657D-646e75270ab801bd.mp4
-郑伊涵-公虾米DJ,http://f4.mc.0sm.com/2020/05/85EBD350A05904D6-76fa52fb9eaf4eae.mp4
-徐誉滕-等一分钟,http://f4.mc.0sm.com/2020/05/85EBD5CEF75BBF49-3b51b7a917302136.mp4
-刘明湘-漂洋过海来看你,https://vd2.bdstatic.com/mda-md803hz7qezp459d/sc/mda-md803hz7qezp459d.mp4
 阿桑-寂寞在唱歌,https://vd2.bdstatic.com/mda-km9s2rpnbupmirtf/v1-cae/1080p/mda-km9s2rpnbupmirtf.mp4
 张信哲-信仰,https://vd4.bdstatic.com/mda-kf92mpmcu9zbyxn8/v1-cae/sc/mda-kf92mpmcu9zbyxn8.mp4
-邱永传-十一年,https://vd3.bdstatic.com/mda-kb3nsdkbecwifihd/v1-cae/sc/mda-kb3nsdkbecwifihd.mp4
 金莎-星月神话,https://vd4.bdstatic.com/mda-jjew0iw0dkh9dhh0/sc/mda-jjew0iw0dkh9dhh0.mp4
 谭咏麟-讲不出再见,https://vd3.bdstatic.com/mda-md5qdvpdrrft0qqd/mda-md5qdvpdrrft0qqd.mp4
 阿杜-撕夜,https://vd3.bdstatic.com/mda-jfhj6ccsff5n2psg/mda-jfhj6ccsff5n2psg.mp4
