@@ -825,6 +825,8 @@ MTV Block Party,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACB
 MTV WMA,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 MTV Spankin\' New,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 MTV Yo!,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+我们的爱,https://gmail.ku8.club/jianghu/iqiyi/281057b6f71840a1970f8e0ff5c97dd9.m3u8
+木头的心,https://vd3.bdstatic.com/mda-im6rnrey5buvapvp/sc/mda-im6rnrey5buvapvp.mp4
 错位时空,http://play.bgp.68tool.com/video/m3u8/2021/05/15/50056b47/playlist.m3u8
 绿色,http://play.bgp.68tool.com/m3u8/2019/05/25/spGx73FS4wD4b9mCo6LA/01w8p.m3u8
 白月光与朱砂痣,http://play.bgp.68tool.com/video/m3u8/2021/05/02/2995e892/playlist.m3u8
