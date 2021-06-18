@@ -825,6 +825,31 @@ MTV Block Party,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACB
 MTV WMA,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 MTV Spankin\' New,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 MTV Yo!,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+错位时空,http://play.bgp.68tool.com/video/m3u8/2021/05/15/50056b47/playlist.m3u8
+绿色,http://play.bgp.68tool.com/m3u8/2019/05/25/spGx73FS4wD4b9mCo6LA/01w8p.m3u8
+白月光与朱砂痣,http://play.bgp.68tool.com/video/m3u8/2021/05/02/2995e892/playlist.m3u8
+暗里着迷,http://play.bgp.68tool.com/video/m3u8/2021/05/05/cddcf4d6/playlist.m3u8
+等一分钟,http://play.bgp.68tool.com/video/m3u8/2021/05/05/5972aed6/playlist.m3u8
+9420,http://play.bgp.68tool.com/video/m3u8/2021/04/09/13404be6/playlist.m3u8
+一次就好,http://play.bgp.68tool.com/video/m3u8/2021/04/03/7d7f7763/playlist.m3u8
+喜欢你,http://play.bgp.68tool.com/video/m3u8/2021/04/07/df5f8626/playlist.m3u8
+友情岁月,https://cache1.parwix.com:4433/cache/iqiyi/05153f6df1b9b366b3137c260c4fcc8f.m3u8
+友情岁月（女版）,https://cache1.parwix.com:4433/cache/iqiyi/1882056e5e7fac02f68d9439e10802c0.m3u8
+少年,https://v4.szjal.cn/20200411/Py1Z7cPW/1000kb/hls/index.m3u8
+我的梦,http://play.bgp.68tool.com/video/m3u8/2020/10/26/3cdf8df8/playlist.m3u8
+当年情,http://play.bgp.68tool.com/video/m3u8/2021/06/02/390ac537/playlist.m3u8
+莫斯科没有眼泪,http://play.bgp.68tool.com/video/m3u8/2021/06/05/0433b9ce/playlist.m3u8
+追光者《夏至未至》,http://play.bgp.68tool.com/video/m3u8/2020/10/24/83619562/playlist.m3u8
+爱要怎么说出口,http://play.bgp.68tool.com/video/m3u8/2021/06/07/7b6837e2/playlist.m3u8
+可惜没如果,http://play.bgp.68tool.com/video/m3u8/2021/06/07/4ae9bc1b/playlist.m3u8
+你怎么舍得我难过,http://play.bgp.68tool.com/video/m3u8/2021/06/07/edd5d8d0/playlist.m3u8
+风中有朵雨做的云,http://play.bgp.68tool.com/video/m3u8/2021/06/07/77ec385b/playlist.m3u8
+羞答答的玫瑰静悄悄地开,http://play.bgp.68tool.com/video/m3u8/2021/06/07/02ef982b/playlist.m3u8
+偏爱,http://play.bgp.68tool.com/video/m3u8/2021/06/07/635b1e54/playlist.m3u8
+大风吹,http://play.bgp.68tool.com/video/m3u8/2021/06/05/6c6e1d30/playlist.m3u8
+最亲的人,http://play.bgp.68tool.com/video/m3u8/2021/05/02/b90395ab/playlist.m3u8
+勇气,http://play.bgp.68tool.com/video/m3u8/2021/04/29/04cd4419/playlist.m3u8
+芒种,http://play.bgp.68tool.com/video/m3u8/2021/04/09/682d70e1/playlist.m3u8
 于文文-体面DJ,http://f4.mc.0sm.com/2020/05/85EBD4284B55C9CC-974cf22ed602cd43.mp4
 天翔-一晃就老了DJ,http://f4.mc.0sm.com/2020/05/85EBA1FEF03FABB2-9d7e1d6258b74e8d.mp4
 王奕心-我的唇吻不到我爱的人DJ,http://f4.mc.0sm.com/2020/05/85EBBC248761C1C9-9b1c585be707a47a.mp4
