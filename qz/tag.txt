@@ -1,3 +1,6 @@
-sy-iptv,https://cdn.jsdelivr.net/gh/bauw2008/tv/qz/sy-iptv.txt
-央视
+sy-iptv.txt
+央视.txt
+省台.txt
+贵州.txt
+
 
