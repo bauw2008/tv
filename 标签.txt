@@ -1,0 +1,7 @@
+总合,https://cdn.jsdelivr.net/gh/bauw2008/tv/001.txt
+绥阳电信iptv,https://cdn.jsdelivr.net/gh/bauw2008/tv/sy.txt
+央视,https://cdn.jsdelivr.net/gh/bauw2008/tv/
+地方,https://cdn.jsdelivr.net/gh/bauw2008/tv/
+省台,https://cdn.jsdelivr.net/gh/bauw2008/tv/
+电影,https://cdn.jsdelivr.net/gh/bauw2008/tv/
+体育,https://cdn.jsdelivr.net/gh/bauw2008/tv/
