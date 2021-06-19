@@ -1,0 +1,4 @@
+乐视_动作电影,http://api.idianshijia.com/gslb/live?stream_id=lsloop_dongwu&type=.m3u8
+乐视_经典电影,http://api.idianshijia.com/gslb/live?stream_id=lsloop_dianying&type=.m3u8
+乐视_综艺节目,http://api.idianshijia.com/gslb/live?stream_id=lsloop_zongyi&type=.m3u8
+乐视_喜剧电影,http://api.idianshijia.com/gslb/live?stream_id=lsloop_xiju&type=.m3u8
