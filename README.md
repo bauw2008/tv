@@ -6,6 +6,8 @@ https://cdn.jsdelivr.net/gh/你的用户名/你的仓库名@发布的版本号/�
 
 https://cdn.jsdelivr.net/gh/bauw2008/tv/001.txt
 
+https://cdn.jsdelivr.net/gh/bauw2008/tv/002.m3u
+
 https://cdn.jsdelivr.net/gh/bauw2008/tv/iptvsy.txt
 
 https://cdn.jsdelivr.net/gh/bauw2008/tv/a.jpg
