@@ -246,7 +246,7 @@ http://39.135.230.80/ott.fj.chinamobile.com/PLTV/88888888/224/3221225802/index.m
 #EXTINF:-1 group-title="央视",CCTV4
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226968/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV5+
-http://39.135.230.82/ott.fj.chinamobile.com/PLTV/88888888/224/3221225821/index.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV5+
 http://39.135.230.72/ott.fj.chinamobile.com/PLTV/88888888/224/3221225939/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV5+
@@ -766,7 +766,7 @@ https://live.ntdimg.com/aplive200/playlist.m3u8
 #EXTINF:-1 group-title="体育",CCTV5
 http://newvideo.dangtutv.cn:8278/CCTVsports/playlist.m3u8
 #EXTINF:-1 group-title="体育",CCTV5+
-http://39.135.33.12/PLTV/77777777/224/3221226672/index.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226225/index.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/index.m3u8
 #EXTINF:-1 group-title="体育",CCTV央视台球
 http://hdtv.haust.edu.cn/hls/hls184a574.m3u8#http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/ystq/ystq711/1000/index.m3u8#http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="体育",台球
