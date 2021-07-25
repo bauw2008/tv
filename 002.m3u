@@ -776,7 +776,9 @@ http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226114/1/index.m3u8?fmt=t
 #EXTINF:-1 group-title="体育",CCTV风云足球
 http://hdtv.haust.edu.cn/hls/hls184a510.m3u8#http://hdtv.haust.edu.cn/hls/fyzqtv.m3u8
 #EXTINF:-1 group-title="体育",冬奥纪实
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226438/1.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225676/index.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225944/index.m3u8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226438/1.m3u8
+#EXTINF:-1 group-title="体育",冬奥纪实2
+#http://39.135.138.59:18890/PLTV/88888910/224/3221225676/index.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225944/index.m3u8
 #EXTINF:-1 group-title="体育",劲爆体育
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8#http://219.151.31.43:80/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/2300000/mnf.m3u8
 #EXTINF:-1 group-title="体育",魅力足球
