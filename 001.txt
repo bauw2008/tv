@@ -143,7 +143,6 @@ CCTV7,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225805/i
 CCTV7,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8
 CCTV8,http://39.135.138.8:6610/PLTV/88888888/224/3221225631/2/index.m3u8?fmt=ts2hls
 CCTV8,http://223.110.241.137:6610/gitv/live1/G_CCTV-8-HQ/G_CCTV-8-HQ/?type=.m3u8
-CCTV8,http://223.110.241.137:6610/gitv/live1/G_CCTV-8-CQ/G_CCTV-8-CQ/?type=.m3u8
 CCTV9,http://39.135.138.8:6610/PLTV/88888888/224/3221225646/2/index.m3u8?fmt=ts2hls
 CCTV9,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225929/index.m3u8
 CCTV9,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226923/index.m3u8
