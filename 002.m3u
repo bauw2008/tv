@@ -223,86 +223,72 @@ http://192.168.2.1:1234/rtp/238.255.0.224:9416
 http://192.168.2.1:1234/rtp/238.255.0.225:9424
 #EXTINF:-1 group-title="iptv特色",贵阳5
 http://192.168.2.1:1234/rtp/238.255.0.226:9432
+#EXTINF:-1 group-title="央视",央视新闻·正直播
+https://newsalic.v.myalicdn.com:443/news/news10_1/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV1
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225829/index.m3u8
+http://39.135.138.8:6610/PLTV/88888888/224/3221225642/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="央视",CCTV1
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227014/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV1
-http://39.135.230.69/ott.fj.chinamobile.com/PLTV/88888888/224/3221226995/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV1
-http://39.135.230.81/ott.fj.chinamobile.com/PLTV/88888888/224/3221226908/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV1
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225922/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV2
-http://39.135.230.74/ott.fj.chinamobile.com/PLTV/88888888/224/3221226795/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV2
-http://39.135.230.80/ott.fj.chinamobile.com/PLTV/88888888/224/3221225800/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV2
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225923/index.m3u8
+http://39.135.138.8:6610/PLTV/88888888/224/3221225643/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="央视",CCTV2
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226915/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV3
+http://39.135.138.8:6610/PLTV/88888888/224/3221225634/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="央视",CCTV4
-http://39.135.230.80/ott.fj.chinamobile.com/PLTV/88888888/224/3221225802/index.m3u8
+http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221225534/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV4
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226968/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV5
+http://39.135.138.8:6610/PLTV/88888888/224/3221225633/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="央视",CCTV5
+http://223.110.241.137:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/?type=.m3u8
 #EXTINF:-1 group-title="央视",CCTV5+
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/index.m3u8
+http://39.135.138.8:6610/PLTV/88888888/224/3221225706/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="央视",CCTV5+
-http://39.135.230.72/ott.fj.chinamobile.com/PLTV/88888888/224/3221225939/index.m3u8
+http://39.135.230.82/ott.fj.chinamobile.com/PLTV/88888888/224/3221225821/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV5+
-http://39.135.230.88/ott.fj.chinamobile.com/PLTV/88888888/224/3221226919/index.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV6
+http://39.135.138.8:6610/PLTV/88888888/224/3221225632/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="央视",CCTV6
+http://223.110.241.137:6610/gitv/live1/G_CCTV-6-HQ/G_CCTV-6-HQ/?type=.m3u8
 #EXTINF:-1 group-title="央视",CCTV7
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226803/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV7
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225805/index.m3u8
+http://39.135.138.8:6610/PLTV/88888888/224/3221225644/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="央视",CCTV7
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV7
-http://39.135.230.81/ott.fj.chinamobile.com/PLTV/88888888/224/3221225927/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV7
-http://39.135.230.82/ott.fj.chinamobile.com/PLTV/88888888/224/3221226972/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV8
+http://39.135.138.8:6610/PLTV/88888888/224/3221225631/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="央视",CCTV8
+http://223.110.241.137:6610/gitv/live1/G_CCTV-8-HQ/G_CCTV-8-HQ/?type=.m3u8
 #EXTINF:-1 group-title="央视",CCTV9
-http://39.135.230.80/ott.fj.chinamobile.com/PLTV/88888888/224/3221225820/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV9
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225929/index.m3u8
+http://39.135.138.8:6610/PLTV/88888888/224/3221225646/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="央视",CCTV9
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226923/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV10
-http://39.135.230.80/ott.fj.chinamobile.com/PLTV/88888888/224/3221225814/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV10
-http://39.135.230.66/ott.fj.chinamobile.com/PLTV/88888888/224/3221226976/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV10
-http://39.135.230.68/ott.fj.chinamobile.com/PLTV/88888888/224/3221226140/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV10
-http://39.135.230.86/ott.fj.chinamobile.com/PLTV/88888888/224/3221225931/index.m3u8
+http://39.135.138.8:6610/PLTV/88888888/224/3221225636/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="央视",CCTV11
+http://ivi.bupt.edu.cn/hls/cctv11.m3u8
 #EXTINF:-1 group-title="央视",CCTV11
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225815/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV11
-http://39.135.230.89/ott.fj.chinamobile.com/PLTV/88888888/224/3221226927/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV12
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225816/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV12
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225932/index.m3u8
+http://39.135.138.8:6610/PLTV/88888888/224/3221225637/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="央视",CCTV12
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226931/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV13
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8
+http://ivi.neu6.edu.cn/hls/cctv13hd.m3u8
 #EXTINF:-1 group-title="央视",CCTV13
-http://39.135.230.82/ott.fj.chinamobile.com/PLTV/88888888/224/3221226985/index.m3u8
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV14
-http://39.135.230.81/ott.fj.chinamobile.com/PLTV/88888888/224/3221225819/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV14
-http://39.135.230.68/ott.fj.chinamobile.com/PLTV/88888888/224/3221227086/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV14
-http://39.135.230.80/ott.fj.chinamobile.com/PLTV/88888888/224/3221225933/index.m3u8
+http://39.135.138.8:6610/PLTV/88888888/224/3221225640/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="央视",CCTV15
+http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV15
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225818/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV15
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226989/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV17
-http://39.135.230.80/ott.fj.chinamobile.com/PLTV/88888888/224/3221226990/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV17
-http://39.135.230.72/ott.fj.chinamobile.com/PLTV/88888888/224/3221226986/index.m3u8
+http://39.135.138.8:6610/PLTV/88888888/224/3221225909/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="央视",CGTN
+http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/chunklist_w1018196661_b1000000.m3u8
 #EXTINF:-1 group-title="央视",CETV1
 http://223.110.241.137:6610/gitv/live1/G_CETV-1/G_CETV-1/?type=.m3u8
 #EXTINF:-1 group-title="央视",CETV2
@@ -764,9 +750,9 @@ http://50.7.59.216:61980/myplay/cn_2_12014/index.m3u8?key=84797b799ae18d1b
 #EXTINF:-1 group-title="港台",新唐人亞太台
 https://live.ntdimg.com/aplive200/playlist.m3u8
 #EXTINF:-1 group-title="体育",CCTV5
-http://newvideo.dangtutv.cn:8278/CCTVsports/playlist.m3u8
+http://39.135.138.8:6610/PLTV/88888888/224/3221225633/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="体育",CCTV5+
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/index.m3u8
+http://39.135.138.8:6610/PLTV/88888888/224/3221225706/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="体育",CCTV央视台球
 http://hdtv.haust.edu.cn/hls/hls184a574.m3u8#http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/ystq/ystq711/1000/index.m3u8#http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="体育",台球
