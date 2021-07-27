@@ -232,9 +232,15 @@ http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226471/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV4
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226335/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV5
+http://223.110.241.137:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ/?type=.m3u8
+#EXTINF:-1 group-title="央视",CCTV5
 http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8
 #EXTINF:-1 group-title="央视",CCTV5+
+http://223.110.241.137:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ/?type=.m3u8
+#EXTINF:-1 group-title="央视",CCTV5+
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226225/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV6
+http://223.110.241.137:6610/gitv/live1/G_CCTV-6-CQ/G_CCTV-6-CQ/?type=.m3u8
 #EXTINF:-1 group-title="央视",CCTV6
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226468/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV7
@@ -637,8 +643,10 @@ http://50.7.59.216:61980/myplay/cn_2_12018/index.m3u8?key=84797b799ae18d1b
 http://50.7.59.216:61980/myplay/cn_2_12014/index.m3u8?key=84797b799ae18d1b
 #EXTINF:-1 group-title="港台",新唐人亞太台
 https://live.ntdimg.com/aplive200/playlist.m3u8
-#EXTINF:-1 group-title="央视",CCTV5
+#EXTINF:-1 group-title="体育",CCTV5
 http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8
+#EXTINF:-1 group-title="体育",CCTV5
+http://223.110.241.137:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ/?type=.m3u8
 #EXTINF:-1 group-title="体育",CCTV5+
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226225/index.m3u8
 #EXTINF:-1 group-title="体育",CCTV5+
@@ -723,7 +731,7 @@ http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226676/index.m
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/yxfyhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="体育",哒啵赛事
 http://39.135.230.83/ott.fj.chinamobile.com/PLTV/88888888/224/3221226680/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV6
+#EXTINF:-1 group-title="电影",CCTV6
 http://223.110.241.137:6610/gitv/live1/G_CCTV6CQ/G_CCTV6CQ/?type=.m3u8
 #EXTINF:-1 group-title="电影",南京十八
 http://223.110.241.137:6610/gitv/live1/G_NJSB/G_NJSB/?type=.m3u8
