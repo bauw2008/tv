@@ -703,14 +703,6 @@ http://183.207.255.190/live/program/live/xfchd/4000000/mnf.m3u8
 http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230103/1.m3u8
 #EXTINF:-1 group-title="体育",iHot爱体育
 http://39.134.176.159/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230034/index.m3u8
-#EXTINF:-1 group-title="体育",PP体育
-http://39.135.38.13/PLTV/88888888/224/3221225970/index.m3u8
-#EXTINF:-1 group-title="体育",PP体育
-http://218.98.16.2:8080/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/tysy201903/75/index.m3u8?&encrypt=
-#EXTINF:-1 group-title="体育",PP体育
-http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/tysy201903/150/index.m3u8?&encrypt=1
-#EXTINF:-1 group-title="体育",PP体育
-http://111.13.111.161/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226372/3.m3u8
 #EXTINF:-1 group-title="体育",星空体育
 rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 #EXTINF:-1 group-title="体育",星空体育
