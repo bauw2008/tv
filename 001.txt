@@ -755,14 +755,21 @@ SiTV都市剧场,http://39.135.230.68/ott.fj.chinamobile.com/PLTV/88888888/224/3
 鬼吹灯,http://48tv.cn/jx/huya.php?id=11352871&type=.m3u8
 
 4k高清,#genre#
-CCTV4K,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=cctv4k
-CCTV4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
-CCTV4K,http://39.134.176.253/PLTV/88888888/224/3221226758/index.m3u8
-纯享4k,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225726/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225786/index.m3u8#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
-爱上4K,http://39.134.24.220/PLTV/88888888/224/3221226005/index.m3u8#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
-咪咕4K,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225863/index.m3u8#http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225866/index.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226399/1.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226400/1.m3u8
-欢笑剧场,http://39.134.39.37/PLTV/88888888/224/3221226318/index.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
+CCTV4K,http://39.134.66.66/PLTV/88888888/224/3221225638/index.m3u8
+纯享4k,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
+爱上4K,http://39.134.24.220/PLTV/88888888/224/3221226005/index.m3u8
+爱上4K,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
+咪咕4K,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225863/index.m3u8
+咪咕4K,http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225866/index.m3u8
+咪咕4K,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226399/1.m3u8
+咪咕4K,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226400/1.m3u8
+欢笑剧场,http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
 美丽中国4K,https://hls.cntv.baishancdnx.cn/asp/hls/8000/0303000a/3/default/9891cea600df4e8a83851b1b1ce23194/8000.m3u8
+4K花园生活,http://183.207.248.236/ott.js.chinamobile.com/PLTV/3/224/3221227746/index.m3u8
+K花园娱乐,http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
+4K花园影视,http://183.207.248.169/ott.js.chinamobile.com/PLTV/3/224/3221227813/index.m3u8
+芒果TV,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
+北京4K,http://221.179.217.94/PLTV/88888888/224/3221226550/1.m3u8
 
 mv,#genre#
 CCTV风云音乐,http://hdtv.haust.edu.cn/hls/hls184a519.m3u8#http://hdtv.lzu6.edu.cn/hls/hls184a519.m3u8
