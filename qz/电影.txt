@@ -1,3 +1,5 @@
+CCTV6,http://223.110.241.137:6610/gitv/live1/G_CCTV6HQ/G_CCTV6HQ/?type=.m3u8
+南京十八,http://223.110.241.137:6610/gitv/live1/G_NJSB/G_NJSB/?type=.m3u8
 CHC高清电影,http://111.20.105.60:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8#http://ivi.bupt.edu.cn/hls/chchd.m3u8#http://ivi.bupt.edu.cn/hls/chchd.m3u8 
 CHC动作电影,http://111.20.105.60:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC家庭影院,http://111.20.105.60:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8#http://pili-live-hls.fssh.tianma3600.com/fssh/fsds.m3u8
