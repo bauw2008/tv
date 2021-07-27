@@ -529,8 +529,6 @@ http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
 http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
 #EXTINF:-1 group-title="港台",莲花卫视
 http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
-#EXTINF:-1 group-title="港台",欢笑剧场4K
-http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
 #EXTINF:-1 group-title="港台",中视新闻
 http://seb.sason.top/sc/zsxw_fhd.m3u8#http://www.hrcloud.tk/hls/zs_xwt.m3u8
 #EXTINF:-1 group-title="港台",华视新闻
@@ -669,8 +667,6 @@ http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mn
 http://219.151.31.43:80/liveplay-kk.rtxapp.com/live/program/live/ssty/2300000/mnf.m3u8
 #EXTINF:-1 group-title="体育",体育赛事
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226081/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="体育",欢笑剧场
-http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/hxjchd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="体育",极速汽车
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jsqchd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="体育",弈坛春秋
