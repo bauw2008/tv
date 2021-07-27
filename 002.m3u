@@ -654,11 +654,7 @@ http://50.7.59.216:61980/myplay/cn_2_12014/index.m3u8?key=84797b799ae18d1b
 #EXTINF:-1 group-title="港台",新唐人亞太台
 https://live.ntdimg.com/aplive200/playlist.m3u8
 #EXTINF:-1 group-title="央视",CCTV5
-http://223.110.241.137:6610/gitv/live1/G_CCTV5CQ/G_CCTV5CQ/?type=.m3u8
-#EXTINF:-1 group-title="央视",CCTV5
 http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8
-#EXTINF:-1 group-title="央视",CCTV5+
-http://223.110.241.137:6610/gitv/live1/G_CCTV5PLUSCQ/G_CCTV5PLUSCQ/?type=.m3u8
 #EXTINF:-1 group-title="央视",CCTV5+
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226225/index.m3u8
 #EXTINF:-1 group-title="体育",CCTV央视台球
@@ -1516,7 +1512,9 @@ http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m
 #EXTINF:-1 group-title="4k高清",爱上4K
 http://39.134.24.220/PLTV/88888888/224/3221226005/index.m3u8#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
 #EXTINF:-1 group-title="4k高清",咪咕4K
-http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225863/index.m3u8#http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225866/index.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226399/1.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226400/1.m3u8
+http://cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225866/index.m3u8
+#EXTINF:-1 group-title="4k高清",咪咕4K
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226400/1.m3u8
 #EXTINF:-1 group-title="4k高清",欢笑剧场
 http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
 #EXTINF:-1 group-title="4k高清",美丽中国4K
