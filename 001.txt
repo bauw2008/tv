@@ -368,7 +368,6 @@ NBA TV,https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8#http://50.7.59
 CCTV6,http://223.110.241.137:6610/gitv/live1/G_CCTV6HQ/G_CCTV6HQ/?type=.m3u8
 南京十八,http://223.110.241.137:6610/gitv/live1/G_NJSB/G_NJSB/?type=.m3u8
 黑莓电影,http://39.134.66.66/PLTV/88888888/224/3221225681/index.m3u8
-咪咕视频,http://39.134.66.66/PLTV/88888888/224/3221225681/index.m3u8
 福州影视,http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
 CHC高清电影,http://111.20.105.60:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 CHC动作电影,http://111.20.105.60:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
@@ -469,6 +468,28 @@ TVNMOVIE,http://sxgs88.picp.vip:9090/hstv.php?id=1082&type=.m3u8
 Hot亚洲影院,http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&amp;IASHttpSessionId=SLB4328320190321203540013412&amp;m3u8_level=2&amp;ztecid=10052&amp;virtualDomain=zjhs.live_hls.zte.com&amp;ispcode=3&amp;tid=C3V7K4ET1VFDUJY6C1IASRV55G66&amp;ts=1553493153#http://117.148.187.70/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228365/01.m3u8?fmt=ts2hls
 Hot欧美影院,http://39.134.176.151/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228384/01.m3u8?fmt=ts2hls#http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
 Hot精品剧场,http://39.134.176.160/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228360/01.m3u8?fmt=ts2hls
+
+咪咕视频,#genre#
+咪咕视频HD,http://39.134.39.39/PLTV/88888888/224/3221226100/index.m3u8
+咪咕视频HD,http://39.134.39.39/PLTV/88888888/224/3221226106/index.m3u8
+咪咕视频HD,http://39.134.39.39/PLTV/88888888/224/3221226108/index.m3u8
+咪咕视频HD,http://39.134.39.39/PLTV/88888888/224/3221226110/index.m3u8
+咪咕视频HD,http://39.134.39.39/PLTV/88888888/224/3221226112/index.m3u8
+咪咕视频HD,http://39.134.39.39/PLTV/88888888/224/3221226121/index.m3u8
+咪咕视频HD,http://39.134.39.39/PLTV/88888888/224/3221226123/index.m3u8
+咪咕视频HD,http://39.134.39.39/PLTV/88888888/224/3221226125/index.m3u8
+咪咕视频HD,http://39.134.39.39/PLTV/88888888/224/3221226196/index.m3u8
+咪咕视频HD,http://39.134.39.39/PLTV/88888888/224/3221226215/index.m3u8
+咪咕视频HD,http://39.134.39.39/PLTV/88888888/224/3221226217/index.m3u8
+咪咕视频HD,http://39.134.39.39/PLTV/88888888/224/3221226219/index.m3u8
+咪咕视频HD,http://39.134.39.39/PLTV/88888888/224/3221226221/index.m3u8
+咪咕视频HD,http://39.134.39.39/PLTV/88888888/224/3221226223/index.m3u8
+咪咕视频HD,http://39.134.39.39/PLTV/88888888/224/3221226225/index.m3u8
+咪咕视频HD,http://39.134.39.39/PLTV/88888888/224/3221226229/index.m3u8
+咪咕视频HD,http://39.134.39.39/PLTV/88888888/224/3221226188/index.m3u8
+咪咕视频HD,http://39.134.39.39/PLTV/88888888/224/3221226102/index.m3u8
+咪咕视频HD,http://39.134.39.39/PLTV/88888888/224/3221226190/index.m3u8
+咪咕视频HD,http://39.134.39.39/PLTV/88888888/224/3221226227/index.m3u8
 
 卡通,#genre#
 sik动漫1,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226741/index.m3u8
