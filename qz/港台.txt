@@ -16,7 +16,6 @@ TVB翡翠,https://flv3948069e.live.126.net/live/39bbfebe462efd2f0215f70337eb0ae2
 澳门卫视,http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
 澳门卫视,http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
 莲花卫视,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
-欢笑剧场4K,http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
 中视新闻,http://seb.sason.top/sc/zsxw_fhd.m3u8#http://www.hrcloud.tk/hls/zs_xwt.m3u8
 华视新闻,http://seb.sason.top/sc/hsxw_fhd.m3u8#http://www.hrcloud.tk/hls/hs_xwt.m3u8#http://50.7.59.216:61980/myplay/cn_0_8823/index.m3u8?key=84797b799ae18d1b
 台视新闻,http://seb.sason.top/sc/tsxw_fhd.m3u8#http://www.hrcloud.tk/hls/ts_xwt.m3u8#http://50.7.59.216:61980/myplay/cn_0_8820/index.m3u8?key=84797b799ae18d1b#http://50.7.59.216:61980/myplay/cn_0_8822/index.m3u8?key=84797b799ae18d1b
