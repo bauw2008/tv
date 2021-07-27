@@ -1527,6 +1527,10 @@ http://183.207.248.236/ott.js.chinamobile.com/PLTV/3/224/3221227746/index.m3u8
 http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
 #EXTINF:-1 group-title="4k高清",4K花园影视
 http://183.207.248.169/ott.js.chinamobile.com/PLTV/3/224/3221227813/index.m3u8
+#EXTINF:-1 group-title="4k高清",芒果TV
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
+#EXTINF:-1 group-title="4k高清",北京4K
+http://221.179.217.94/PLTV/88888888/224/3221226550/1.m3u8
 #EXTINF:-1 group-title="mv",CCTV风云音乐
 http://hdtv.haust.edu.cn/hls/hls184a519.m3u8#http://hdtv.lzu6.edu.cn/hls/hls184a519.m3u8
 #EXTINF:-1 group-title="mv",UTV舞蹈视界
