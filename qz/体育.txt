@@ -24,7 +24,6 @@ CCTV5+,http://223.110.241.137:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ/?t
 新视觉,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8#http://219.151.31.43:80/liveplay-kk.rtxapp.com/live/program/live/xsjhd/2300000/mnf.m3u8
 幸福彩,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/xfchd/4000000/mnf.m3u8#http://183.207.255.190/live/program/live/xfchd/4000000/mnf.m3u8
 iHot爱体育,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230103/1.m3u8#http://39.134.176.159/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230034/index.m3u8
-PP体育,http://39.135.38.13/PLTV/88888888/224/3221225970/index.m3u8#http://218.98.16.2:8080/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/tysy201903/75/index.m3u8?&encrypt=#http://218.98.16.2:8088/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/tysy201903/150/index.m3u8?&encrypt=1#http://111.13.111.161/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226372/3.m3u8
 星空体育,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports#rtmp://58.200.131.2:1935/livetv/starsports
 Racing运动,http://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 StarSports 576,http://hdtv.lzu6.edu.cn/hls/starsports.m3u8
