@@ -925,45 +925,45 @@ http://39.134.176.151/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/32212283
 http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
 #EXTINF:-1 tvg-id="6638" tvg-name="精品剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HSJPJC.jpg" group-title="电影",Hot精品剧场
 http://39.134.176.160/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228360/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕视频",咪咕视频HD
+#EXTINF:-1 group-title="咪咕视频",咪咕视频HD1
 http://39.134.39.39/PLTV/88888888/224/3221226100/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕视频",咪咕视频HD
+#EXTINF:-1 group-title="咪咕视频",咪咕视频HD2
 http://39.134.39.39/PLTV/88888888/224/3221226106/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕视频",咪咕视频HD
+#EXTINF:-1 group-title="咪咕视频",咪咕视频HD3
 http://39.134.39.39/PLTV/88888888/224/3221226108/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕视频",咪咕视频HD
+#EXTINF:-1 group-title="咪咕视频",咪咕视频HD4
 http://39.134.39.39/PLTV/88888888/224/3221226110/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕视频",咪咕视频HD
+#EXTINF:-1 group-title="咪咕视频",咪咕视频HD5
 http://39.134.39.39/PLTV/88888888/224/3221226112/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕视频",咪咕视频HD
+#EXTINF:-1 group-title="咪咕视频",咪咕视频HD6
 http://39.134.39.39/PLTV/88888888/224/3221226121/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕视频",咪咕视频HD
+#EXTINF:-1 group-title="咪咕视频",咪咕视频HD7
 http://39.134.39.39/PLTV/88888888/224/3221226123/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕视频",咪咕视频HD
+#EXTINF:-1 group-title="咪咕视频",咪咕视频HD8
 http://39.134.39.39/PLTV/88888888/224/3221226125/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕视频",咪咕视频HD
+#EXTINF:-1 group-title="咪咕视频",咪咕视频HD9
 http://39.134.39.39/PLTV/88888888/224/3221226196/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕视频",咪咕视频HD
+#EXTINF:-1 group-title="咪咕视频",咪咕视频HD10
 http://39.134.39.39/PLTV/88888888/224/3221226215/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕视频",咪咕视频HD
+#EXTINF:-1 group-title="咪咕视频",咪咕视频HD11
 http://39.134.39.39/PLTV/88888888/224/3221226217/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕视频",咪咕视频HD
+#EXTINF:-1 group-title="咪咕视频",咪咕视频HD12
 http://39.134.39.39/PLTV/88888888/224/3221226219/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕视频",咪咕视频HD
+#EXTINF:-1 group-title="咪咕视频",咪咕视频HD13
 http://39.134.39.39/PLTV/88888888/224/3221226221/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕视频",咪咕视频HD
+#EXTINF:-1 group-title="咪咕视频",咪咕视频HD14
 http://39.134.39.39/PLTV/88888888/224/3221226223/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕视频",咪咕视频HD
+#EXTINF:-1 group-title="咪咕视频",咪咕视频HD15
 http://39.134.39.39/PLTV/88888888/224/3221226225/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕视频",咪咕视频HD
+#EXTINF:-1 group-title="咪咕视频",咪咕视频HD16
 http://39.134.39.39/PLTV/88888888/224/3221226229/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕视频",咪咕视频HD
+#EXTINF:-1 group-title="咪咕视频",咪咕视频HD17
 http://39.134.39.39/PLTV/88888888/224/3221226188/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕视频",咪咕视频HD
+#EXTINF:-1 group-title="咪咕视频",咪咕视频HD18
 http://39.134.39.39/PLTV/88888888/224/3221226102/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕视频",咪咕视频HD
+#EXTINF:-1 group-title="咪咕视频",咪咕视频HD19
 http://39.134.39.39/PLTV/88888888/224/3221226190/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕视频",咪咕视频HD
+#EXTINF:-1 group-title="咪咕视频",咪咕视频HD20
 http://39.134.39.39/PLTV/88888888/224/3221226227/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卡通",sik动漫1
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226741/index.m3u8
