@@ -63,8 +63,8 @@ AXN,http://sxgs88.picp.vip:9090/hstv.php?id=92&type=.m3u8
 AXN亚洲,http://sxgs88.picp.vip:9090/hstv.php?id=1066&type=.m3u8
 光影欧洲,http://sxgs88.picp.vip:9090/hstv.php?id=1157&type=.m3u8
 华纳电影,http://sxgs88.picp.vip:9090/hstv.php?id=83&type=.m3u8
-美亚电影,http://50.7.59.216:61980/myplay/cn_1_11001/index.m3u8?key=84797b799ae18d1b
-美亚电影,http://sxgs88.picp.vip:9090/hstv.php?id=375&type=.m3u8
+美亚高清电影台,http://50.7.59.216:61980/myplay/cn_1_11001/index.m3u8?key=84797b799ae18d1b
+美亚高清电影台,http://sxgs88.picp.vip:9090/hstv.php?id=375&type=.m3u8
 卫视电影,http://50.7.59.216:61980/myplay/cn_3_13017/index.m3u8?key=84797b799ae18d1b
 卫视电影,http://sxgs88.picp.vip:9090/hstv.php?id=93&type=.m3u8
 卫视洋片台,http://50.7.59.216:61980/myplay/cn_1_11002/index.m3u8?key=84797b799ae18d1b
