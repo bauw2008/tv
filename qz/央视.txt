@@ -34,7 +34,7 @@ CGTN记录频道,https://livedoc.cgtn.com/1000d/prog_index.m3u8
 女性时尚,http://223.110.241.137:6610/gitv/live1/G_NVXINGSS/G_NVXINGSS/?type=.m3u8
 电视指南,http://hdtv.lzu6.edu.cn/hls/hls186a88.m3u8
 家庭理财,http://223.110.241.137:6610/gitv/live1/G_ZHIYEZN/G_ZHIYEZN/?type=.m3u8
-交通频道,http://223.110.241.137:6610/gitv/live1/G_ZHONGGUOJT/G_ZHONGGUOJT/?type=.m3u8
+中国交通频道,http://223.110.241.137:6610/gitv/live1/G_ZHONGGUOJT/G_ZHONGGUOJT/?type=.m3u8
 CETV1,http://223.110.241.137:6610/gitv/live1/G_CETV-1/G_CETV-1/?type=.m3u8
 CETV2,http://223.110.241.137:6610/gitv/live1/G_CETV-2/G_CETV-2/?type=.m3u8
 CETV4,http://223.110.241.137:6610/gitv/live1/G_CETV-4/G_CETV-4/?type=.m3u8
