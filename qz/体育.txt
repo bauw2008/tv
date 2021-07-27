@@ -7,14 +7,13 @@ CCTV5+,http://223.110.241.137:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ/?t
 台球,http://39.134.24.24/PLTV/88888888/224/3221226009/index.m3u8
 高尔夫网球,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226114/1/index.m3u8?fmt=ts2hls
 风云足球,rtmp://58.200.131.2:1935/livetv/fyzqtv
-冬奥纪实,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226438/1.m3u8
-冬奥纪实,http://39.135.138.59:18890/PLTV/88888910/224/3221225676/index.m3u8
+北京纪实,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226438/1.m3u8
+北京纪实,http://39.135.138.59:18890/PLTV/88888910/224/3221225676/index.m3u8
 劲爆体育,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
 劲爆体育,http://219.151.31.43:80/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/2300000/mnf.m3u8
 魅力足球,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
-五星体育,http://219.151.31.43:80/liveplay-kk.rtxapp.com/live/program/live/ssty/2300000/mnf.m3u8
+五星体育频道,http://219.151.31.43:80/liveplay-kk.rtxapp.com/live/program/live/ssty/2300000/mnf.m3u8
 体育赛事,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226081/1/index.m3u8?fmt=ts2hls
-欢笑剧场,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/hxjchd/4000000/mnf.m3u8
 极速汽车,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jsqchd/4000000/mnf.m3u8
 弈坛春秋,http://223.110.241.137:6610/gitv/live1/G_YITANCQ/G_YITANCQ/?type=.m3u8
 足球频道,http://ivi.bupt.edu.cn:80/hls/zqhd.m3u8
