@@ -271,8 +271,6 @@ http://223.110.241.137:6610/gitv/live1/G_CCTVNEWS/G_CCTVNEWS/?type=.m3u8
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 group-title="央视",CGTN记录频道
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
-#EXTINF:-1 group-title="央视",老故事台
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
 #EXTINF:-1 group-title="央视",老故事
 http://223.110.241.137:6610/gitv/live1/G_LAOGUSHI/G_LAOGUSHI/?type=.m3u8
 #EXTINF:-1 group-title="央视",新科动漫
@@ -293,9 +291,9 @@ rtmp://58.200.131.2:1935/livetv/fyzqtv
 http://hdtv.lzu6.edu.cn/hls/hls184a519.m3u8
 #EXTINF:-1 group-title="央视",央视台球
 http://hdtv.haust.edu.cn/hls/hls184a574.m3u8
-#EXTINF:-1 group-title="央视",央视文化精品
+#EXTINF:-1 group-title="央视",文化精品
 http://hdtv.haust.edu.cn/hls/hls184a520.m3u8
-#EXTINF:-1 group-title="央视",央视文化精品
+#EXTINF:-1 group-title="央视",文化精品
 http://hdtv.lzu6.edu.cn/hls/hls184a520.m3u8
 #EXTINF:-1 group-title="央视",兵器科技
 rtmp://58.200.131.2:1935/livetv/gfjstv
@@ -305,7 +303,7 @@ http://223.110.241.137:6610/gitv/live1/G_NVXINGSS/G_NVXINGSS/?type=.m3u8
 http://hdtv.lzu6.edu.cn/hls/hls186a88.m3u8
 #EXTINF:-1 group-title="央视",家庭理财
 http://223.110.241.137:6610/gitv/live1/G_ZHIYEZN/G_ZHIYEZN/?type=.m3u8
-#EXTINF:-1 group-title="央视",中国交通频道
+#EXTINF:-1 group-title="央视",交通频道
 http://223.110.241.137:6610/gitv/live1/G_ZHONGGUOJT/G_ZHONGGUOJT/?type=.m3u8
 #EXTINF:-1 group-title="央视",CETV1
 http://223.110.241.137:6610/gitv/live1/G_CETV-1/G_CETV-1/?type=.m3u8
@@ -651,9 +649,9 @@ http://223.110.241.137:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ/?type=.m3u8
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226225/index.m3u8
 #EXTINF:-1 group-title="体育",CCTV5+
 http://223.110.241.137:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ/?type=.m3u8
-#EXTINF:-1 group-title="体育",CCTV央视台球
+#EXTINF:-1 group-title="体育",央视台球
 http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/ystq/ystq711/1000/index.m3u8
-#EXTINF:-1 group-title="体育",CCTV央视台球
+#EXTINF:-1 group-title="体育",央视台球
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="体育",台球
 http://39.134.24.24/PLTV/88888888/224/3221226009/index.m3u8
@@ -759,7 +757,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="电影",双星台
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-#EXTINF:-1 group-title="电影",欢笑剧场4K
+#EXTINF:-1 group-title="电影",欢笑剧场
 http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
 #EXTINF:-1 group-title="电影",BEST电影
 http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -1525,7 +1523,7 @@ http://183.207.248.169/ott.js.chinamobile.com/PLTV/3/224/3221227813/index.m3u8
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
 #EXTINF:-1 group-title="4k高清",北京4K
 http://221.179.217.94/PLTV/88888888/224/3221226550/1.m3u8
-#EXTINF:-1 group-title="mv",CCTV风云音乐
+#EXTINF:-1 group-title="mv",风云音乐
 http://hdtv.haust.edu.cn/hls/hls184a519.m3u8#http://hdtv.lzu6.edu.cn/hls/hls184a519.m3u8
 #EXTINF:-1 group-title="mv",UTV舞蹈视界
 http://39.134.198.32:6410/yst.live.scmobile.com/otvzte.scmcc.com.cn:8080/ysten-business/live/SD-1500k-576P-youshizy/index.m3u8?%20
