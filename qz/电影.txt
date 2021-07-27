@@ -12,6 +12,15 @@ CCTV风云剧场,http://hdtv.haust.edu.cn/hls/hls184a516.m3u8#http://hdtv.lzu6.e
 BEST电影,http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 精选,http://hdtv.lzu6.edu.cn/hls/hls102.m3u8
 星影,http://hdtv.lzu6.edu.cn/hls/hls59.m3u8
+情景喜剧,http://111.19.218.41/r/baiducdncmn2.inter.ptqy.gitv.tv/tslive/c55_lb_145_300_t10/c55_lb_145_300_t10.m3u8
+热播影视,http://111.19.218.41/r/baiducdncmn2.inter.ptqy.gitv.tv/tslive/c57_lb_274_720P_t10/c57_lb_274_720P_t10.m3u8
+仙侠玄幻,http://111.19.218.41/r/baiducdncmn2.inter.ptqy.gitv.tv/tslive/c55_lb_148_300_t10/c55_lb_148_300_t10.m3u8
+青春剧场,http://111.19.228.75/baiducdncmn2.inter.ptqy.gitv.tv/tslive/c55_lb_147_600_t10/c55_lb_147_600_t10.m3u8
+日韩剧院,http://111.19.218.41/baiducdncmn2.inter.ptqy.gitv.tv/tslive/c53_lb_62_600_t10/c53_lb_62_600_t10.m3u8
+收视冠军,http://111.19.228.75/baiducdncmn2.inter.ptqy.gitv.tv/tslive/c56_lb_230_600_t10/c56_lb_230_600_t10.m3u8
+票房收割,http://111.19.219.41/r/baiducdncmn2.inter.ptqy.gitv.tv/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8
+周末影院,http://111.19.218.41/r/baiducdncmn2.inter.ptqy.gitv.tv/tslive/c52_lb_64_720P_t10/c52_lb_64_720P_t10.m3u8
+温情影院,http://111.19.219.41/r/baiducdncmn2.inter.ptqy.gitv.tv/tslive/c51_lb_113_600_t10/c51_lb_113_600_t10.m3u8
 DoxTV,http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226048/1/index.m3u8?fmt=ts2hls
 DoxTV,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226048/1/index.m3u8?fmt=ts2hls
 Dox剧场,http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226013/1/index.m3u8?fmt=ts2hls
