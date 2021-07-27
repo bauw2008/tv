@@ -271,35 +271,37 @@ http://223.110.241.137:6610/gitv/live1/G_CCTVNEWS/G_CCTVNEWS/?type=.m3u8
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 group-title="央视",CGTN记录频道
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
-#EXTINF:-1 group-title="央视",CCTV老故事台
+#EXTINF:-1 group-title="央视",老故事台
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
 #EXTINF:-1 group-title="央视",老故事
 http://223.110.241.137:6610/gitv/live1/G_LAOGUSHI/G_LAOGUSHI/?type=.m3u8
-#EXTINF:-1 group-title="央视",CCTV新科动漫
+#EXTINF:-1 group-title="央视",新科动漫
 http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV发现之旅
+#EXTINF:-1 group-title="央视",发现之旅
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226235/1.m3u8
-#EXTINF:-1 group-title="央视",CCTV第一剧场
+#EXTINF:-1 group-title="央视",发现之旅
+http://223.110.241.137:6610/gitv/live1/G_FAXIANZL/G_FAXIANZL/?type=.m3u8
+#EXTINF:-1 group-title="央视",第一剧场
 rtmp://58.200.131.2:1935/livetv/dyjctv
-#EXTINF:-1 group-title="央视",CCTV怀旧剧场
+#EXTINF:-1 group-title="央视",怀旧剧场
 rtmp://58.200.131.2:1935/livetv/hjjctv
-#EXTINF:-1 group-title="央视",CCTV风云剧场
+#EXTINF:-1 group-title="央视",风云剧场
 http://hdtv.lzu6.edu.cn/hls/hls184a516.m3u8
-#EXTINF:-1 group-title="央视",CCTV风云足球
+#EXTINF:-1 group-title="央视",风云足球
 rtmp://58.200.131.2:1935/livetv/fyzqtv
-#EXTINF:-1 group-title="央视",CCTV风云音乐
+#EXTINF:-1 group-title="央视",风云音乐
 http://hdtv.lzu6.edu.cn/hls/hls184a519.m3u8
-#EXTINF:-1 group-title="央视",CCTV央视台球
+#EXTINF:-1 group-title="央视",央视台球
 http://hdtv.haust.edu.cn/hls/hls184a574.m3u8
-#EXTINF:-1 group-title="央视",CCTV央视文化精品
+#EXTINF:-1 group-title="央视",央视文化精品
 http://hdtv.haust.edu.cn/hls/hls184a520.m3u8
-#EXTINF:-1 group-title="央视",CCTV央视文化精品
+#EXTINF:-1 group-title="央视",央视文化精品
 http://hdtv.lzu6.edu.cn/hls/hls184a520.m3u8
-#EXTINF:-1 group-title="央视",CCTV兵器科技
+#EXTINF:-1 group-title="央视",兵器科技
 rtmp://58.200.131.2:1935/livetv/gfjstv
-#EXTINF:-1 group-title="央视",CCTV女性时尚
+#EXTINF:-1 group-title="央视",女性时尚
 http://223.110.241.137:6610/gitv/live1/G_NVXINGSS/G_NVXINGSS/?type=.m3u8
-#EXTINF:-1 group-title="央视",CCTV电视指南
+#EXTINF:-1 group-title="央视",电视指南
 http://hdtv.lzu6.edu.cn/hls/hls186a88.m3u8
 #EXTINF:-1 group-title="央视",家庭理财
 http://223.110.241.137:6610/gitv/live1/G_ZHIYEZN/G_ZHIYEZN/?type=.m3u8
@@ -323,8 +325,6 @@ http://223.110.241.137:6610/gitv/live1/G_ZHIYE/G_ZHIYE/?type=.m3u8
 http://223.110.241.137:6610/gitv/live1/G_XINYULE/G_XINYULE/?type=.m3u8
 #EXTINF:-1 group-title="央视",家庭理财
 http://223.110.241.137:6610/gitv/live1/G_JIATINGLC/G_JIATINGLC/?type=.m3u8
-#EXTINF:-1 group-title="央视",发现之旅
-http://223.110.241.137:6610/gitv/live1/G_FAXIANZL/G_FAXIANZL/?type=.m3u8
 #EXTINF:-1 group-title="央视",弈坛春秋
 http://223.110.241.137:6610/gitv/live1/G_YITANCQ/G_YITANCQ/?type=.m3u8
 #EXTINF:-1 group-title="央视",国学频道
@@ -739,10 +739,6 @@ http://223.110.241.137:6610/gitv/live1/G_NJSB/G_NJSB/?type=.m3u8
 http://111.20.105.60:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="电影",CHC高清电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-#EXTINF:-1 group-title="电影",CHC高清电影
-http://ivi.bupt.edu.cn/hls/chchd.m3u8
-#EXTINF:-1 group-title="电影",CHC高清电影
-http://ivi.bupt.edu.cn/hls/chchd.m3u8
 #EXTINF:-1 group-title="电影",CHC动作电影
 http://111.20.105.60:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="电影",CHC动作电影
@@ -751,21 +747,15 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 http://111.20.105.60:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="电影",CHC家庭影院
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-#EXTINF:-1 group-title="电影",CHC家庭影院
-http://pili-live-hls.fssh.tianma3600.com/fssh/fsds.m3u8
-#EXTINF:-1 group-title="电影",CCTV怀旧剧场
-http://hdtv.haust.edu.cn/hls/hls184a518.m3u8
-#EXTINF:-1 group-title="电影",CCTV怀旧剧场
-http://hdtv.lzu6.edu.cn/hls/hls184a518.m3u8
-#EXTINF:-1 group-title="电影",CCTV第一剧场
-http://hdtv.haust.edu.cn/hls/hls184a512.m3u8
-#EXTINF:-1 group-title="电影",CCTV第一剧场
-http://hdtv.lzu6.edu.cn/hls/hls184a512.m3u8
-#EXTINF:-1 group-title="电影",CCTV风云剧场
-http://hdtv.haust.edu.cn/hls/hls184a516.m3u8
-#EXTINF:-1 group-title="电影",CCTV风云剧场
+#EXTINF:-1 group-title="电影",怀旧剧场
+rtmp://58.200.131.2:1935/livetv/hjjctv
+#EXTINF:-1 group-title="电影",第一剧场
+rtmp://58.200.131.2:1935/livetv/dyjctv
+#EXTINF:-1 group-title="电影",风云剧场
 http://hdtv.lzu6.edu.cn/hls/hls184a516.m3u8
-#EXTINF:-1 group-title="电影",上海东方影视
+#EXTINF:-1 group-title="电影",老故事
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
+#EXTINF:-1 group-title="电影",东方影视
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="电影",双星台
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
@@ -1047,27 +1037,21 @@ http://hdtv.lzu6.edu.cn/hls/discovery.m3u8
 rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
 #EXTINF:-1 group-title="纪录",探索频道
 rtmp://58.200.131.2:1935/livetv/discovery
-#EXTINF:-1 group-title="纪录",探索频道
-http://sxgs88.picp.vip:9090/hstv.php?id=1035&type=.m3u8
 #EXTINF:-1 group-title="纪录",环球奇观
 http://hdtv.lzu6.edu.cn/hls/hls62.m3u8
 #EXTINF:-1 group-title="纪录",中华特产
 http://play.zhtctv.cn/portal/btv.m3u8
 #EXTINF:-1 group-title="纪录",江苏靓妆
 http://hdtv.lzu6.edu.cn/hls/hls46.m3u8
-#EXTINF:-1 group-title="纪录",CCTV世界地理
+#EXTINF:-1 group-title="纪录",世界地理
 http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225733/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="纪录",生态环境
 http://223.110.241.137:6610/gitv/live1/G_XINYULE/G_XINYULE/?type=.m3u8
 #EXTINF:-1 group-title="纪录",全纪实
-http://shbu.live.bestvcdn.com.cn:8080/live/program/live/qjshd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="纪录",全纪实
-http://183.207.255.190/live/program/live/qjshd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="纪录",全纪实
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/qjshd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="纪录",上海纪实人文
+#EXTINF:-1 group-title="纪录",纪实人文
 http://39.135.230.71/ott.fj.chinamobile.com/PLTV/88888888/224/3221227102/index.m3u8
-#EXTINF:-1 group-title="纪录",北京冬奥纪实
+#EXTINF:-1 group-title="纪录",冬奥纪实
 http://39.135.230.74/ott.fj.chinamobile.com/PLTV/88888888/224/3221225944/index.m3u8
 #EXTINF:-1 group-title="纪录",金鹰纪实
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226975/index.m3u8
@@ -1079,44 +1063,24 @@ http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226859/index.m
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226983/index.m3u8
 #EXTINF:-1 group-title="纪录",考试在线
 http://223.110.241.137:6610/gitv/live1/G_KAOSHIZX/G_KAOSHIZX/?type=.m3u8
-#EXTINF:-1 group-title="纪录",农林卫视
-http://223.110.241.137:6610/gitv/live1/G_NONGLIN/G_NONGLIN/?type=.m3u8
 #EXTINF:-1 group-title="纪录",置业频道
 http://223.110.241.137:6610/gitv/live1/G_ZHIYE/G_ZHIYE/?type=.m3u8
 #EXTINF:-1 group-title="纪录",京视剧场
 http://223.110.241.137:6610/gitv/live1/G_JINGJU/G_JINGJU/?type=.m3u8
 #EXTINF:-1 group-title="纪录",家庭理财
 http://223.110.241.137:6610/gitv/live1/G_JIATINGLC/G_JIATINGLC/?type=.m3u8
-#EXTINF:-1 group-title="纪录",老故事
-http://223.110.241.137:6610/gitv/live1/G_LAOGUSHI/G_LAOGUSHI/?type=.m3u87:6610/gitv/live1/G_ZHIYEZN/G_ZHIYEZN/?type=.m3u8
 #EXTINF:-1 group-title="纪录",国学频道
 http://223.110.241.137:6610/gitv/live1/G_GUOXUE/G_GUOXUE/?type=.m3u8
 #EXTINF:-1 group-title="纪录",求索动物
 http://117.148.187.83/PLTV/88888888/224/3221226695/index.m3u8
 #EXTINF:-1 group-title="纪录",求索动物
 http://112.17.40.140/PLTV/88888888/224/3221226695/index.m3u8
-#EXTINF:-1 group-title="纪录",求索动物
-http://125.210.152.18:9090/live/QSDW_1200.m3u8
 #EXTINF:-1 group-title="纪录",求索纪录
 http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
 #EXTINF:-1 group-title="纪录",求索科学
-http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/01.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="纪录",求索科学
-http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
-#EXTINF:-1 group-title="纪录",求索科学
 http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
 #EXTINF:-1 group-title="纪录",求索生活
-http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228983/01.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="纪录",求索生活
-http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 group-title="纪录",求索生活
 http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 group-title="纪录",求索生活
-http://112.17.40.36/PLTV/88888888/224/3221226606/index.m3u8
-#EXTINF:-1 group-title="纪录",求索生活
-http://112.17.40.140/PLTV/88888888/224/3221226606/index.m3u8
-#EXTINF:-1 group-title="纪录",求索生活
-http://125.210.152.18:9090/live/QSSH_1200.m3u8
 #EXTINF:-1 group-title="纪录",动物星球
 http://50.7.59.216:61980/myplay/cn_3_13014/index.m3u8?key=84797b799ae18d1b
 #EXTINF:-1 group-title="纪录",美食星球
