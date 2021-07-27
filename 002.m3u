@@ -224,67 +224,51 @@ http://192.168.2.1:1234/rtp/238.255.0.225:9424
 #EXTINF:-1 group-title="iptv特色",贵阳5
 http://192.168.2.1:1234/rtp/238.255.0.226:9432
 #EXTINF:-1 group-title="央视",CCTV1
-http://223.110.241.137:6610/gitv/live1/G_CCTV1HQ/G_CCTV1HQ/?type=.m3u8
+http://223.110.241.137:6610/gitv/live1/G_CCTV1CQ/G_CCTV1CQ/?type=.m3u8
 #EXTINF:-1 group-title="央视",CCTV1
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226226/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV2
-http://223.110.241.137:6610/gitv/live1/G_CCTV2HD/G_CCTV2HD/?type=.m3u8
+http://223.110.241.137:6610/gitv/live1/G_CCTV2CQ/G_CCTV2CQ/?type=.m3u8
 #EXTINF:-1 group-title="央视",CCTV2
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226230/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV3
-http://223.110.241.137:6610/gitv/live1/G_CCTV3HQ/G_CCTV3HQ/?type=.m3u8
+http://223.110.241.137:6610/gitv/live1/G_CCTV3CQ/G_CCTV3CQ/?type=.m3u8
 #EXTINF:-1 group-title="央视",CCTV3
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226471/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV4
-http://223.110.241.137:6610/gitv/live1/G_CCTV4HQ/G_CCTV4HQ/?type=.m3u8
+http://223.110.241.137:6610/gitv/live1/G_CCTV4CQ/G_CCTV4CQ/?type=.m3u8
 #EXTINF:-1 group-title="央视",CCTV4
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226335/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV5
-http://223.110.241.137:6610/gitv/live1/G_CCTV5HQ/G_CCTV5HQ/?type=.m3u8
+http://223.110.241.137:6610/gitv/live1/G_CCTV5CQ/G_CCTV5CQ/?type=.m3u8
 #EXTINF:-1 group-title="央视",CCTV5
 http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8
 #EXTINF:-1 group-title="央视",CCTV5+
-http://223.110.241.137:6610/gitv/live1/G_CCTV5PLUSHQ/G_CCTV5PLUSHQ/?type=.m3u8
+http://223.110.241.137:6610/gitv/live1/G_CCTV5PLUSCQ/G_CCTV5PLUSCQ/?type=.m3u8
 #EXTINF:-1 group-title="央视",CCTV5+
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226225/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV6
-http://223.110.241.137:6610/gitv/live1/G_CCTV6HQ/G_CCTV6HQ/?type=.m3u8
+http://223.110.241.137:6610/gitv/live1/G_CCTV6CQ/G_CCTV6CQ/?type=.m3u8
 #EXTINF:-1 group-title="央视",CCTV6
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226468/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV7
-http://223.110.241.137:6610/gitv/live1/G_CCTV7HQ/G_CCTV7HQ/?type=.m3u8
-#EXTINF:-1 group-title="央视",CCTV7
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226467/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV8
-http://223.110.241.137:6610/gitv/live1/G_CCTV8HQ/G_CCTV8HQ/?type=.m3u8
+http://223.110.241.137:6610/gitv/live1/G_CCTV8CQ/G_CCTV8CQ/?type=.m3u8
 #EXTINF:-1 group-title="央视",CCTV8
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226485/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV9
-http://223.110.241.137:6610/gitv/live1/G_CCTV9/G_CCTV9/?type=.m3u8
-#EXTINF:-1 group-title="央视",CCTV9
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226236/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV10
-http://223.110.241.137:6610/gitv/live1/G_CCTV10HQ/G_CCTV10HQ/?type=.m3u8
 #EXTINF:-1 group-title="央视",CCTV10
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226227/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV11
-http://223.110.241.137:6610/gitv/live1/G_CCTV11HQ/G_CCTV11HQ/?type=.m3u8
-#EXTINF:-1 group-title="央视",CCTV11
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226334/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV12
-http://223.110.241.137:6610/gitv/live1/CCTV12/CCTV12/?type=.m3u8
 #EXTINF:-1 group-title="央视",CCTV12
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226228/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV13
-http://223.110.241.137:6610/gitv/live1/G_CCTV13HQ/G_CCTV13HQ/?type=.m3u8
-#EXTINF:-1 group-title="央视",CCTV13
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226316/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV14
-http://223.110.241.137:6610/gitv/live1/G_CCTV14/G_CCTV14/?type=.m3u8
-#EXTINF:-1 group-title="央视",CCTV14
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226229/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV15
-http://223.110.241.137:6610/gitv/live1/G_CCTV15/G_CCTV15/?type=.m3u8
 #EXTINF:-1 group-title="央视",CCTV15
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226333/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV17
