@@ -662,7 +662,7 @@ http://223.110.241.137:6610/gitv/live1/G_CCTV5PLUSCQ/G_CCTV5PLUSCQ/?type=.m3u8
 #EXTINF:-1 group-title="央视",CCTV5+
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226225/index.m3u8
 #EXTINF:-1 group-title="体育",CCTV央视台球
-http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/ystq/ystq711/1000/index.m3u8#
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/ystq/ystq711/1000/index.m3u8
 #EXTINF:-1 group-title="体育",CCTV央视台球
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="体育",台球
