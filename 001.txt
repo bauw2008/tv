@@ -119,37 +119,29 @@ iptv特色,#genre#
 贵阳5,http://192.168.2.1:1234/rtp/238.255.0.226:9432
 
 央视,#genre#
-CCTV1,http://223.110.241.137:6610/gitv/live1/G_CCTV1HQ/G_CCTV1HQ/?type=.m3u8
+CCTV1,http://223.110.241.137:6610/gitv/live1/G_CCTV1CQ/G_CCTV1CQ/?type=.m3u8
 CCTV1,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226226/index.m3u8
-CCTV2,http://223.110.241.137:6610/gitv/live1/G_CCTV2HD/G_CCTV2HD/?type=.m3u8
+CCTV2,http://223.110.241.137:6610/gitv/live1/G_CCTV2CQ/G_CCTV2CQ/?type=.m3u8
 CCTV2,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226230/index.m3u8
-CCTV3,http://223.110.241.137:6610/gitv/live1/G_CCTV3HQ/G_CCTV3HQ/?type=.m3u8
+CCTV3,http://223.110.241.137:6610/gitv/live1/G_CCTV3CQ/G_CCTV3CQ/?type=.m3u8
 CCTV3,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226471/index.m3u8
-CCTV4,http://223.110.241.137:6610/gitv/live1/G_CCTV4HQ/G_CCTV4HQ/?type=.m3u8
+CCTV4,http://223.110.241.137:6610/gitv/live1/G_CCTV4CQ/G_CCTV4CQ/?type=.m3u8
 CCTV4,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226335/index.m3u8
-CCTV5,http://223.110.241.137:6610/gitv/live1/G_CCTV5HQ/G_CCTV5HQ/?type=.m3u8
+CCTV5,http://223.110.241.137:6610/gitv/live1/G_CCTV5CQ/G_CCTV5CQ/?type=.m3u8
 CCTV5,http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8
-CCTV5+,http://223.110.241.137:6610/gitv/live1/G_CCTV5PLUSHQ/G_CCTV5PLUSHQ/?type=.m3u8
+CCTV5+,http://223.110.241.137:6610/gitv/live1/G_CCTV5PLUSCQ/G_CCTV5PLUSCQ/?type=.m3u8
 CCTV5+,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226225/index.m3u8
-CCTV6,http://223.110.241.137:6610/gitv/live1/G_CCTV6HQ/G_CCTV6HQ/?type=.m3u8
+CCTV6,http://223.110.241.137:6610/gitv/live1/G_CCTV6CQ/G_CCTV6CQ/?type=.m3u8
 CCTV6,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226468/index.m3u8
-CCTV7,http://223.110.241.137:6610/gitv/live1/G_CCTV7HQ/G_CCTV7HQ/?type=.m3u8
 CCTV7,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226467/index.m3u8
-CCTV8,http://223.110.241.137:6610/gitv/live1/G_CCTV8HQ/G_CCTV8HQ/?type=.m3u8
+CCTV8,http://223.110.241.137:6610/gitv/live1/G_CCTV8CQ/G_CCTV8CQ/?type=.m3u8
 CCTV8,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226485/index.m3u8
-CCTV9,http://223.110.241.137:6610/gitv/live1/G_CCTV9/G_CCTV9/?type=.m3u8
 CCTV9,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226236/index.m3u8
-CCTV10,http://223.110.241.137:6610/gitv/live1/G_CCTV10HQ/G_CCTV10HQ/?type=.m3u8
 CCTV10,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226227/index.m3u8
-CCTV11,http://223.110.241.137:6610/gitv/live1/G_CCTV11HQ/G_CCTV11HQ/?type=.m3u8
 CCTV11,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226334/index.m3u8
-CCTV12,http://223.110.241.137:6610/gitv/live1/CCTV12/CCTV12/?type=.m3u8
 CCTV12,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226228/index.m3u8
-CCTV13,http://223.110.241.137:6610/gitv/live1/G_CCTV13HQ/G_CCTV13HQ/?type=.m3u8
 CCTV13,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226316/index.m3u8
-CCTV14,http://223.110.241.137:6610/gitv/live1/G_CCTV14/G_CCTV14/?type=.m3u8
 CCTV14,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226229/index.m3u8
-CCTV15,http://223.110.241.137:6610/gitv/live1/G_CCTV15/G_CCTV15/?type=.m3u8
 CCTV15,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226333/index.m3u8
 CCTV17,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226318/index.m3u8
 中国天气,http://39.135.230.71/ott.fj.chinamobile.com/PLTV/88888888/224/3221227005/index.m3u8
@@ -345,9 +337,9 @@ Z频道,http://50.7.59.216:61980/myplay/cn_2_12014/index.m3u8?key=84797b799ae18d
 新唐人亞太台,https://live.ntdimg.com/aplive200/playlist.m3u8
 
 体育,#genre#
-CCTV5,http://223.110.241.137:6610/gitv/live1/G_CCTV5HQ/G_CCTV5HQ/?type=.m3u8
+CCTV5,http://223.110.241.137:6610/gitv/live1/G_CCTV5CQ/G_CCTV5CQ/?type=.m3u8
 CCTV5,http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8
-CCTV5+,http://223.110.241.137:6610/gitv/live1/G_CCTV5PLUSHQ/G_CCTV5PLUSHQ/?type=.m3u8
+CCTV5+,http://223.110.241.137:6610/gitv/live1/G_CCTV5PLUSCQ/G_CCTV5PLUSCQ/?type=.m3u8
 CCTV5+,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226225/index.m3u8
 CCTV央视台球,http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/ystq/ystq711/1000/index.m3u8#
 CCTV央视台球,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls
@@ -520,7 +512,7 @@ I-Hot爱幼教,http://39.134.182.236/hwltc.tv.cdn.zj.chinamobile.com/PLTV/888888
 猫和老鼠,http://121.12.115.156/tx.hls.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.m3u8
 
 纪录,#genre#
-CGTN纪录,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225813/index.m3u8
+CCTV·NEWS,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225813/index.m3u8
 CGTN环球国际,http://live.cgtn.com/1000/prog_index.m3u8
 探索频道,http://hdtv.lzu6.edu.cn/hls/discovery.m3u8#rtmp://ivi.bupt.edu.cn:1935/livetv/discovery#rtmp://58.200.131.2:1935/livetv/discovery#http://sxgs88.picp.vip:9090/hstv.php?id=1035&type=.m3u8
 环球奇观,http://hdtv.lzu6.edu.cn/hls/hls62.m3u8
