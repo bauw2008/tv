@@ -710,7 +710,7 @@ http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/yxfyhd/4000000/mn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="体育",哒啵赛事
 http://39.135.230.83/ott.fj.chinamobile.com/PLTV/88888888/224/3221226680/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="电影",CCTV6
-http://223.110.241.137:6610/gitv/live1/G_CCTV6CQ/G_CCTV6CQ/?type=.m3u8
+http://223.110.241.137:6610/gitv/live1/G_CCTV-6-CQ/G_CCTV-6-CQ/?type=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",南京十八
 http://223.110.241.137:6610/gitv/live1/G_NJSB/G_NJSB/?type=.m3u8
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="电影",CHC高清电影
