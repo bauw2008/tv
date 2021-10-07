@@ -8,6 +8,8 @@ https://cdn.jsdelivr.net/gh/bauw2008/tv/001.txt
 
 https://cdn.jsdelivr.net/gh/bauw2008/tv/002.m3u
 
+https://cdn.jsdelivr.net/gh/bauw2008/tv/003.m3u
+
 https://cdn.jsdelivr.net/gh/bauw2008/tv/iptvsy.txt
 
 https://cdn.jsdelivr.net/gh/bauw2008/tv/a.jpg
@@ -18,7 +20,7 @@ https://cdn.jsdelivr.net/gh/bauw2008/tv@master/a.jpg
 
 https://cdn.jsdelivr.net/gh/bauw2008/tv@master/iptvsy.txt
 
-https://cdn.jsdelivr.net/gh/bauw2008/tv/001.txt
+
 
 
 点播
