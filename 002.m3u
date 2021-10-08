@@ -1147,21 +1147,29 @@ http://hdtv.lzu6.edu.cn/hls/hls31.m3u8
 #EXTINF:-1 group-title="iptv,#genre#",IPTV大片
 http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226302/1.m3u8
 #EXTINF:-1 group-title="iptv,#genre#",IPTV淘电影
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8#http://39.134.135.80:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8#http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8#http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8#http://bjyd1.jilu8.cn/PLTV/88888888/224/3221226552/1.m3u8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
+#EXTINF:-1 group-title="iptv,#genre#",IPTV淘电影
+http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/1.m3u8
 #EXTINF:-1 group-title="iptv,#genre#",IPTV淘剧场
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226553/1.m3u8#http://39.134.135.80:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226553/1.m3u8#http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226553/1.m3u8#http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8#http://bjyd1.jilu8.cn/PLTV/88888888/224/3221226553/1.m3u8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226553/1.m3u8
+#EXTINF:-1 group-title="iptv,#genre#",IPTV淘剧场
+http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226553/1.m3u8
 #EXTINF:-1 group-title="iptv,#genre#",IPTV淘娱乐
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8#http://39.135.238.101:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8#http://39.135.238.69/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8#http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8#http://111.13.42.42/PLTV/88888888/224/3221226551/1.m3u8#http://bjyd1.jilu8.cn/PLTV/88888888/224/3221226551/1.m3u8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
+#EXTINF:-1 group-title="iptv,#genre#",IPTV淘娱乐
+http://39.135.238.69/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
 #EXTINF:-1 group-title="iptv,#genre#",IPTV淘BABY
 http://bjyd1.jilu8.cn/PLTV/88888888/224/3221226554/1.m3u8
 #EXTINF:-1 group-title="iptv,#genre#",IPTV萌宠TV
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8#http://39.135.238.68:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8#http://39.135.238.68/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8#http://bjyd1.jilu8.cn/PLTV/88888888/224/3221226555/1.m3u8
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8
+#EXTINF:-1 group-title="iptv,#genre#",IPTV萌宠TV
+http://39.135.238.68/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8
 #EXTINF:-1 group-title="iptv,#genre#",IPTV4K超清
-http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8#http://bjyd1.jilu8.cn/PLTV/88888888/224/3221226550/1.m3u8
+http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
 #EXTINF:-1 group-title="iptv,#genre#",IPTV3+
 http://39.134.39.37/PLTV/88888888/224/3221226265/index.m3u8
 #EXTINF:-1 group-title="iptv,#genre#",IPTV5+
-http://39.134.39.39/PLTV/88888888/224/3221226273/index.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226273/index.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226267/index.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226267/index.m3u8
+http://39.134.39.39/PLTV/88888888/224/3221226273/index.m3u8
 #EXTINF:-1 group-title="iptv,#genre#",IPTV6+
 http://39.134.39.37/PLTV/88888888/224/3221226269/index.m3u8
 #EXTINF:-1 group-title="iptv,#genre#",IPTV8+
