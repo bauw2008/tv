@@ -163,7 +163,7 @@ http://192.168.2.1:1234/rtp/238.255.0.50:9096
 http://192.168.2.1:1234/rtp/238.255.0.58:8488
 #EXTINF:-1 group-title="iptv特色,BesTV热门剧场
 http://192.168.2.1:1234/rtp/238.255.0.63:8528
-#EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="地方台",第一财经
+#EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="iptv特色",第一财经
 http://192.168.2.1:1234/rtp/238.255.0.64:8536
 #EXTINF:-1 group-title="iptv特色,BesTV港剧风云
 http://192.168.2.1:1234/rtp/238.255.0.66:8552
@@ -327,7 +327,7 @@ http://pili-live-hls.152.i2863.com/i2863-152/live_152_152598.m3u8
 http://qcloud-play.lezhibo.com/live/10349_e9978ada409f4d0eb53c8bca4f544f7c.m3u8
 #EXTINF:-1 group-title="贵州,铜仁新闻综合
 http://media.trrtv.com:8083/videos/live/10/37/iY2ZjcOkrjAJN/iY2ZjcOkrjAJN.M3U8
-#EXTINF:-1 group-title="贵州,铜仁城市生活,
+#EXTINF:-1 group-title="贵州,铜仁城市生活
 http://media.trrtv.com:8083/videos/live/53/2/XSpPeSTEmkFgY/XSpPeSTEmkFgY.M3U8
 #EXTINF:-1 group-title="贵州,黔东南新闻台
 http://hls.mlink.tv/mlink/glyKPQRZ.m3u8
@@ -794,9 +794,9 @@ http://sxgs88.picp.vip:9090/hstv.php?id=1066&amp;type=.m3u8
 http://sxgs88.picp.vip:9090/hstv.php?id=1157&amp;type=.m3u8
 #EXTINF:-1 group-title="电影,华纳电影
 http://sxgs88.picp.vip:9090/hstv.php?id=83&amp;type=.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" tvg-id="145" tvg-name="美亚高清电影台" group-title="港澳及国外",美亚高清电影台(香港)
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" tvg-id="145" tvg-name="美亚高清电影台" group-title="电影",美亚高清电影台(香港)
 http://50.7.59.216:61980/myplay/cn_1_11001/index.m3u8?key=84797b799ae18d1b
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" tvg-id="145" tvg-name="美亚高清电影台" group-title="港澳及国外",美亚高清电影台(香港)
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" tvg-id="145" tvg-name="美亚高清电影台" group-title="电影",美亚高清电影台(香港)
 http://sxgs88.picp.vip:9090/hstv.php?id=375&amp;type=.m3u8
 #EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="电影",卫视电影
 http://50.7.59.216:61980/myplay/cn_3_13017/index.m3u8?key=84797b799ae18d1b
