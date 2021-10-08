@@ -161,35 +161,35 @@ http://192.168.2.1:1234/rtp/238.255.0.51:9104
 http://192.168.2.1:1234/rtp/238.255.0.50:9096
 #EXTINF:-1 group-title="iptv特色",游戏风云
 http://192.168.2.1:1234/rtp/238.255.0.58:8488
-#EXTINF:-1 group-title="iptv特色",BesTV热门剧场
+#EXTINF:-1 group-title="iptv特色",热门剧场
 http://192.168.2.1:1234/rtp/238.255.0.63:8528
 #EXTINF:-1 group-title="iptv特色",第一财经
 http://192.168.2.1:1234/rtp/238.255.0.64:8536
-#EXTINF:-1 group-title="iptv特色",BesTV港剧
+#EXTINF:-1 group-title="iptv特色",港剧风云
 http://192.168.2.1:1234/rtp/238.255.0.66:8552
-#EXTINF:-1 group-title="iptv特色",BesTV谍战
+#EXTINF:-1 group-title="iptv特色",谍战剧场
 http://192.168.2.1:1234/rtp/238.255.0.69:8576
-#EXTINF:-1 group-title="iptv特色",BesTV动漫
+#EXTINF:-1 group-title="iptv特色",青春动漫
 http://192.168.2.1:1234/rtp/238.255.0.70:8584
 #EXTINF:-1 group-title="iptv特色",热门综艺
 http://192.168.2.1:1234/rtp/238.255.0.71:8592
-#EXTINF:-1 group-title="iptv特色",BesTV宝宝动画
+#EXTINF:-1 group-title="iptv特色",宝宝动画
 http://192.168.2.1:1234/rtp/238.255.0.139:8752
-#EXTINF:-1 group-title="iptv特色",BesTV星光影院
+#EXTINF:-1 group-title="iptv特色",星光影院
 http://192.168.2.1:1234/rtp/238.255.0.61:8504
-#EXTINF:-1 group-title="iptv特色",BesTV大片院线
+#EXTINF:-1 group-title="iptv特色",大片院线
 http://192.168.2.1:1234/rtp/238.255.0.62:8520
-#EXTINF:-1 group-title="iptv特色",BesTV健康养生
+#EXTINF:-1 group-title="iptv特色",健康养生
 http://192.168.2.1:1234/rtp/238.255.0.140:8760
-#EXTINF:-1 group-title="iptv特色",BesTV华语影院
+#EXTINF:-1 group-title="iptv特色",华语影院
 http://192.168.2.1:1234/rtp/238.255.0.141:8768
-#EXTINF:-1 group-title="iptv特色",BesTV看天下精选
+#EXTINF:-1 group-title="iptv特色",看天下精选
 http://192.168.2.1:1234/rtp/238.255.0.142:8776
-#EXTINF:-1 group-title="iptv特色",BesTV天才宝贝
+#EXTINF:-1 group-title="iptv特色",天才宝贝
 http://192.168.2.1:1234/rtp/238.255.0.143:8784
 #EXTINF:-1 group-title="iptv特色",超级体育
 http://192.168.2.1:1234/rtp/238.255.0.144:8792
-#EXTINF:-1 group-title="iptv特色",BesTV戏曲精选
+#EXTINF:-1 group-title="iptv特色",戏曲精选
 http://192.168.2.1:1234/rtp/238.255.0.145:8800
 #EXTINF:-1 group-title="iptv特色",东方财经
 http://192.168.2.1:1234/rtp/238.255.0.25:8936
