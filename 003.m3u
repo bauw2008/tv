@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="iptv高清",CCTV1
 http://192.168.2.1:1234/rtp/238.255.0.113:4152
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="iptv高清",CCTV10
