@@ -8,7 +8,7 @@
 仁怀新闻综合,http://pili-live-hls.152.i2863.com/i2863-152/live_152_152598.m3u8
 兴仁综合频道,http://qcloud-play.lezhibo.com/live/10349_e9978ada409f4d0eb53c8bca4f544f7c.m3u8
 铜仁新闻综合,http://media.trrtv.com:8083/videos/live/10/37/iY2ZjcOkrjAJN/iY2ZjcOkrjAJN.M3U8
-铜仁城市生活,,http://media.trrtv.com:8083/videos/live/53/2/XSpPeSTEmkFgY/XSpPeSTEmkFgY.M3U8
+铜仁城市生活,http://media.trrtv.com:8083/videos/live/53/2/XSpPeSTEmkFgY/XSpPeSTEmkFgY.M3U8
 黔东南新闻台,http://hls.mlink.tv/mlink/glyKPQRZ.m3u8
 七星关电视台,https://live.us.sinaimg.cn/001LSU8Gjx07KMe2Cb6L070d010007wB0k01.m3u8
 习水经济,http://114.135.52.4:89/live2/live2.m3u8
