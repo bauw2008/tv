@@ -756,9 +756,9 @@ http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 http://sxgs88.picp.vip:9090/hstv.php?id=328&amp;type=.m3u8
 #EXTINF:-1 group-title="电影",天映频道
 http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/LSTIME.png" tvg-id="6082" tvg-name="LSTime电影台" group-title="台湾",LS Time龙祥時代电影台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/LSTIME.png" tvg-id="6082" tvg-name="LSTime电影台" group-title="电影",LS Time龙祥時代电影台
 http://sxgs88.picp.vip:9090/hstv.php?id=373&amp;type=.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/LSTIME.png" tvg-id="6082" tvg-name="LSTime电影台" group-title="台湾",LS Time龙祥時代电影台
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/LSTIME.png" tvg-id="6082" tvg-name="LSTime电影台" group-title="电影",LS Time龙祥時代电影台
 http://sxgs88.picp.vip:9090/hstv.php?id=373&amp;type=.m3u8
 #EXTINF:-1 group-title="电影",民视影剧
 http://sxgs88.picp.vip:9090/hstv.php?id=1023&amp;type=.m3u8
