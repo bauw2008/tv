@@ -959,7 +959,7 @@ http://39.135.230.75/ott.fj.chinamobile.com/PLTV/88888888/224/3221227053/index.m
 #EXTINF:-1 group-title="卡通,BesTV2
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227036/index.m3u8
 #EXTINF:-1 group-title="卡通,黑莓动画
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225878/index.m3u8
+http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8
 #EXTINF:-1 group-title="卡通,炫动卡通
 http://223.110.241.137:6610/gitv/live1/G_XUANDONG/G_XUANDONG/?type=.m3u8
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="卡通",卡酷少儿
@@ -1000,8 +1000,6 @@ http://ye23.win/iptv/sztv.php?id=7#http://cdn.chxjon.cn/iptv/QQ582185381/sztv.ph
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226960/index.m3u8#rtsp://183.252.166.199/PLTV/88888888/224/3221226120/10000100000000060000000002358082_0.smil
 #EXTINF:-1 group-title="卡通,熊猫频道
 http://111.20.45.169/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226349/index.m3u8
-#EXTINF:-1 group-title="卡通,黑莓动画
-http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8
 #EXTINF:-1 group-title="卡通,家庭卡通
 http://hdtv.haust.edu.cn/hls/hls77a30.m3u8
 #EXTINF:-1 group-title="卡通,I-Hot爱动漫
@@ -1424,35 +1422,63 @@ http://106.53.212.251/daili/yy.php?id=1352227227&amp;type=.m3u8
 http://106.53.212.251/daili/yy.php?id=1353018737&amp;type=.m3u8
 #EXTINF:-1 group-title="YY轮播,亮剑
 http://106.53.212.251/daili/yy.php?id=1351706522&amp;type=.m3u8
-#EXTINF:-1 group-title="SiTV,SiTV动漫秀场
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226141/index.m3u8
-#EXTINF:-1 group-title="SiTV,SiTV动漫秀场
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227021/index.m3u8
-#EXTINF:-1 group-title="SiTV,SiTV极速汽车
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227017/index.m3u8
-#EXTINF:-1 group-title="SiTV,SiTV欢笑剧场
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226729/index.m3u8
-#EXTINF:-1 group-title="SiTV,SiTV欢笑剧场
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227114/index.m3u8
-#EXTINF:-1 group-title="SiTV,SiTV游戏风云
-http://39.135.230.71/ott.fj.chinamobile.com/PLTV/88888888/224/3221226912/index.m3u8
-#EXTINF:-1 group-title="SiTV,SiTV游戏风云
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227033/index.m3u8
-#EXTINF:-1 group-title="SiTV,SiTV生活时尚
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227029/index.m3u8
-#EXTINF:-1 group-title="SiTV,SiTV都市剧场
-http://39.135.230.68/ott.fj.chinamobile.com/PLTV/88888888/224/3221226979/index.m3u8
-#EXTINF:-1 group-title="SiTV,生活时尚
-http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/shsshd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="SiTV,都市剧场
+#EXTINF:-1 group-title="SiTV,#genre#",新视觉
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xsjhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="SiTV,#genre#",动漫秀场
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dmxchd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="SiTV,#genre#",动漫秀场
+http://39.134.39.39/PLTV/88888888/224/3221226197/index.m3u8
+#EXTINF:-1 group-title="SiTV,#genre#",劲爆体育
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="SiTV,#genre#",劲爆体育
+http://39.134.39.39/PLTV/88888888/224/3221226170/index.m3u8
+#EXTINF:-1 group-title="SiTV,#genre#",魅力足球
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="SiTV,#genre#",极速汽车
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jsqchd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="SiTV,#genre#",极速汽车
+http://39.134.39.39/PLTV/88888888/224/3221226195/index.m3u8
+#EXTINF:-1 group-title="SiTV,#genre#",欢笑剧场
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hxjchd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="SiTV,#genre#",欢笑剧场
+http://39.134.39.39/PLTV/88888888/224/3221226203/index.m3u8
+#EXTINF:-1 group-title="SiTV,#genre#",全纪实
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/qjshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="SiTV,#genre#",游戏风云
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/yxfyhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="SiTV,#genre#",游戏风云
+http://39.134.39.39/PLTV/88888888/224/3221226187/index.m3u8
+#EXTINF:-1 group-title="SiTV,#genre#",游戏世界
+http://39.134.39.39/PLTV/88888888/224/3221226337/index.m3u8
+#EXTINF:-1 group-title="SiTV,#genre#",都市剧场
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dsjchd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="SiTV,#genre#",都市剧场
+http://39.134.39.39/PLTV/88888888/224/3221226176/index.m3u8
+#EXTINF:-1 group-title="SiTV,#genre#",都市剧场
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/dsjchd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="SiTV,法治天地
+#EXTINF:-1 group-title="SiTV,#genre#",幸福彩
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xfchd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="SiTV,#genre#",东方影视
+http://39.134.39.39/PLTV/88888888/224/3221226189/index.m3u8
+#EXTINF:-1 group-title="SiTV,#genre#",五星体育
+http://39.134.39.39/PLTV/88888888/224/3221226178/index.m3u8
+#EXTINF:-1 group-title="SiTV,#genre#",生活时尚
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/shsshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="SiTV,#genre#",法治天地
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/fztd/1300000/mnf.m3u8
+#EXTINF:-1 group-title="SiTV,#genre#",法治天地
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/fztd/1300000/mnf.m3u8
-#EXTINF:-1 group-title="SiTV,金色频道
+#EXTINF:-1 group-title="SiTV,#genre#",金色学堂
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jingsepd/1300000/mnf.m3u8
+#EXTINF:-1 group-title="SiTV,#genre#",金色频道
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jingsepd/1300000/mnf.m3u8
-#EXTINF:-1 group-title="SiTV,七彩戏剧
+#EXTINF:-1 group-title="SiTV,#genre#",七彩戏剧
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/qcxj/1300000/mnf.m3u8
+#EXTINF:-1 group-title="SiTV,#genre#",七彩戏剧
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/qcxj/1300000/mnf.m3u8
-#EXTINF:-1 group-title="SiTV,东方财经
+#EXTINF:-1 group-title="SiTV,#genre#",东方财经
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dfcj/1300000/mnf.m3u8
+#EXTINF:-1 group-title="SiTV,#genre#",东方财经
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/dfcj/1300000/mnf.m3u8
 #EXTINF:-1 group-title="虎牙,周星驰电影
 http://48tv.cn/jx/huya.php?id=19105261&amp;type=.m3u8
