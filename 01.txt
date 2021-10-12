@@ -559,8 +559,8 @@ Hot精品剧场,http://39.134.176.160/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888
 山教育卫视,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225764/1/index.m3u8?fmt=ts2hls
 卡酷少儿,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225732/1/index.m3u8?fmt=ts2hls
 卡酷少儿,http://223.110.241.137:6610/gitv/live1/G_KAKU/G_KAKU/?type=.m3u8
-炫动卡通,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225689/1/index.m3u8?fmt=ts2hls
-炫动卡通,http://223.110.241.137:6610/gitv/live1/G_XUANDONG/G_XUANDONG/?type=.m3u8
+哈哈炫动,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225689/1/index.m3u8?fmt=ts2hls
+哈哈炫动,http://223.110.241.137:6610/gitv/live1/G_XUANDONG/G_XUANDONG/?type=.m3u8
 嘉佳卡通,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225690/1/index.m3u8?fmt=ts2hls
 嘉佳卡通,http://223.110.241.137:6610/gitv/live1/G_JIAJIA/G_JIAJIA/?type=.m3u8
 优漫卡通,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225763/1/index.m3u8?fmt=ts2hls
