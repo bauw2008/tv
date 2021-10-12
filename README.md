@@ -4,13 +4,11 @@
 
 https://cdn.jsdelivr.net/gh/你的用户名/你的仓库名@发布的版本号/文件路径
 
-https://cdn.jsdelivr.net/gh/bauw2008/tv/001.txt
+https://cdn.jsdelivr.net/gh/bauw2008/tv/01.txt
 
-https://cdn.jsdelivr.net/gh/bauw2008/tv/002.m3u
+https://cdn.jsdelivr.net/gh/bauw2008/tv/02.m3u
 
-https://cdn.jsdelivr.net/gh/bauw2008/tv/003.m3u
-
-https://cdn.jsdelivr.net/gh/bauw2008/tv/iptvsy.txt
+https://cdn.jsdelivr.net/gh/bauw2008/tv/03.m3u
 
 https://cdn.jsdelivr.net/gh/bauw2008/tv/a.jpg
 
@@ -52,6 +50,8 @@ https://epg.pm
 http://n33426t756.wicp.vip/diyp/epg.php
 
 http://www.diyp.top/diyp/epg.php
+
+总:http://epg.51zmt.top:8000/e.xml
 
 央视及各省卫视：http://epg.51zmt.top:8000/cc.xml
 
