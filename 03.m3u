@@ -471,8 +471,6 @@ http://114.135.52.4:89/live1/live1.m3u8
 http://114.135.52.4:89/live2/live2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="贵州",湄潭综合
 http://p2.weizan.cn/1635496647/663562647402642026/liev.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="贵州",贵州移动电视
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225774/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6601" tvg-name="DOXTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOXTV.jpg" group-title="贵州",DoxTV
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226048/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="省台",贵州卫视
