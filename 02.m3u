@@ -1358,13 +1358,13 @@ http://39.134.39.37/PLTV/88888888/224/3221226256/index.m3u8
 #EXTINF:-1 group-title="iptv",IPTV相声小品
 http://39.134.39.37/PLTV/88888888/224/3221226260/index.m3u8
 #EXTINF:-1 group-title="乐视",乐视_动作电影
-http://api.idianshijia.com/gslb/live?stream_id=lsloop_dongwu&type=.m3u8
+http://api.idianshijia.com/gslb/live?stream_id=lsloop_dongwu&amp;type=.m3u8
 #EXTINF:-1 group-title="乐视",乐视_经典电影
-http://api.idianshijia.com/gslb/live?stream_id=lsloop_dianying&type=.m3u8
+http://api.idianshijia.com/gslb/live?stream_id=lsloop_dianying&amp;type=.m3u8
 #EXTINF:-1 group-title="乐视",乐视_综艺节目
-http://api.idianshijia.com/gslb/live?stream_id=lsloop_zongyi&type=.m3u8
+http://api.idianshijia.com/gslb/live?stream_id=lsloop_zongyi&amp;type=.m3u8
 #EXTINF:-1 group-title="乐视",乐视_喜剧电影
-http://api.idianshijia.com/gslb/live?stream_id=lsloop_xiju&type=.m3u8
+http://api.idianshijia.com/gslb/live?stream_id=lsloop_xiju&amp;type=.m3u8
 #EXTINF:-1 group-title="乐视",经典港片
 http://119.36.227.41/r/baiducdncnc.inter.ptqy.gitv.tv/tslive/c51_lb_110_600_t10/c51_lb_110_600_t10.m3u8
 #EXTINF:-1 group-title="乐视",票房收割机
