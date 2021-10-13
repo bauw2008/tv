@@ -2437,8 +2437,6 @@ Miami TV Jenny For You (18+),http://59ec5453559f0.streamlock.net:1935/jennyforyo
 Miami TV Jenny Live (18+),http://59ec5453559f0.streamlock.net:1935/JennyLive/JennyLive/playlist.m3u8
 Miami TV Promo (18+),http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexico/chunklist_b1896000.m3u8
 Miami TV Latino,https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
-自然,http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
-海底,http://live-1.otcnet.ru/podvodoi/index.m3u8
 SOCHI,http://sochi.camera:8080/cam_359/tracks-v1a1/index.m3u8
 HAPPY,rtmp://161.202.204.248:1935/tv/ttv12
 HAPPY,http://sxgs88.picp.vip:9090/hstv.php?id=412&type=.m3u8
