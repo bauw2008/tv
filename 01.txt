@@ -397,6 +397,7 @@ CCTV5+,http://223.110.241.137:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ/?t
 超级体育,http://39.134.39.39/PLTV/88888888/224/3221226411/index.m3u8
 足球,http://39.134.39.39/PLTV/88888888/224/3221226291/index.m3u8
 足球频道,http://tv.haue.edu.cn/hls/zqhd.m3u8
+足球频道,http://ivi.bupt.edu.cn:80/hls/zqhd.m3u8
 游戏风云,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226193/1/index.m3u8?fmt=ts2hls
 体育赛事,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226196/1/index.m3u8?fmt=ts2hls
 体育赛事,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226081/1/index.m3u8?fmt=ts2hls
@@ -417,7 +418,6 @@ CCTV5+,http://223.110.241.137:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ/?t
 魅力足球,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
 五星体育,http://219.151.31.43:80/liveplay-kk.rtxapp.com/live/program/live/ssty/2300000/mnf.m3u8
 弈坛春秋,http://223.110.241.137:6610/gitv/live1/G_YITANCQ/G_YITANCQ/?type=.m3u8
-足球频道,http://ivi.bupt.edu.cn:80/hls/zqhd.m3u8
 篮球,http://stream1.jlntv.cn/lqpd/playlist.m3u8?_upt=3053ae9f1582302081
 篮球,http://223.110.241.137:6610/gitv/live1/G_LANQIU/G_LANQIU/?type=.m3u8
 先锋乒羽,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226851/index.m3u8
