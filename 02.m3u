@@ -837,12 +837,16 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
 #EXTINF:-1 group-title="电影",精彩综艺
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226009/index.m3u8
-#EXTINF:-1 group-title="电影",金马影院
+#EXTINF:-1 group-title="电影",超级电影
+http://39.134.39.39/PLTV/88888888/224/3221226409/index.m3u8
+#EXTINF:-1 group-title="电影",超级电视剧
+http://39.134.39.39/PLTV/88888888/224/3221226356/index.m3u8
+#EXTINF:-1 group-title="电影",超级综艺
+http://39.134.39.39/PLTV/88888888/224/3221226354/index.m3u8
+#EXTINF:-1 group-title="电影",KiD影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 group-title="电影",南京十八
 http://223.110.241.137:6610/gitv/live1/G_NJSB/G_NJSB/?type=.m3u8
-#EXTINF:-1 group-title="电影",KiD影院
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 group-title="电影",黑莓电影
 http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
 #EXTINF:-1 group-title="电影",福州影视
