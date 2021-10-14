@@ -446,6 +446,7 @@ KiD影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 南京十八,http://223.110.241.137:6610/gitv/live1/G_NJSB/G_NJSB/?type=.m3u8
 黑莓电影,http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
+都市剧场,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226231/1/index.m3u8?fmt=ts2hls
 福州影视,http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
 浙江教科影视,http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
 甘肃文化影视,http://39.134.39.39/PLTV/88888888/224/3221226287/index.m3u8
@@ -613,8 +614,6 @@ I-Hot爱幼教,http://39.134.182.236/hwltc.tv.cdn.zj.chinamobile.com/PLTV/888888
 茶频道,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226240/1/index.m3u8?fmt=ts2hls
 生活时尚,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226207/1/index.m3u8?fmt=ts2hls
 生活时尚,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226222/1/index.m3u8?fmt=ts2hls
-都市都市,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226243/1/index.m3u8?fmt=ts2hls
-都市剧场,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226231/1/index.m3u8?fmt=ts2hls
 河南梨园,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225701/1/index.m3u8?fmt=ts2hls
 河南武术世界,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225691/1/index.m3u8?fmt=ts2hls
 河南文物宝库,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225766/1/index.m3u8?fmt=ts2hls
