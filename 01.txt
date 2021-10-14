@@ -443,6 +443,7 @@ CCTV6,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
 超级电视剧,http://39.134.39.39/PLTV/88888888/224/3221226356/index.m3u8
 超级综艺,http://39.134.39.39/PLTV/88888888/224/3221226354/index.m3u8
 KiD影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+Y+频道,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 南京十八,http://223.110.241.137:6610/gitv/live1/G_NJSB/G_NJSB/?type=.m3u8
 黑莓电影,http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
 福州影视,http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
