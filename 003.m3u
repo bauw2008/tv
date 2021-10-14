@@ -851,6 +851,8 @@ http://39.134.39.39/PLTV/88888888/224/3221226356/index.m3u8
 http://39.134.39.39/PLTV/88888888/224/3221226354/index.m3u8
 #EXTINF:-1 group-title="电影",KiD影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 group-title="电影",Y+频道
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 #EXTINF:-1 group-title="电影",南京十八
 http://223.110.241.137:6610/gitv/live1/G_NJSB/G_NJSB/?type=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="电影",黑莓电影
