@@ -283,6 +283,8 @@ http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225748/1/ind
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225727/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="央视",CCTV15
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225749/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="央视",CCTV16
+https://cctvalih5ca.v.myalicdn.com/live/cctv16_2/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV17
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226027/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="央视",CETV1
@@ -841,14 +843,10 @@ http://111.63.117.13:6060/030000001000/CCTV-6/CCTV-6.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
 #EXTINF:-1 group-title="电影",精彩电视剧
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
-#EXTINF:-1 group-title="电影",精彩综艺
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226009/index.m3u8
 #EXTINF:-1 group-title="电影",超级电影
 http://39.134.39.39/PLTV/88888888/224/3221226409/index.m3u8
 #EXTINF:-1 group-title="电影",超级电视剧
 http://39.134.39.39/PLTV/88888888/224/3221226356/index.m3u8
-#EXTINF:-1 group-title="电影",超级综艺
-http://39.134.39.39/PLTV/88888888/224/3221226354/index.m3u8
 #EXTINF:-1 group-title="电影",KiD影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 group-title="电影",南京十八
