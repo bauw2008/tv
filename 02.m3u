@@ -284,8 +284,6 @@ http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225727/1/ind
 #EXTINF:-1 group-title="央视",CCTV15
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225749/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="央视",CCTV16
-http://121.18.168.210/livetestcdn.cctv.cn/hls/CCTV16HD/playlist.m3u8
-#EXTINF:-1 group-title="央视",CCTV16
 https://cctvalih5ca.v.myalicdn.com/live/cctv16_2/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV17
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226027/1/index.m3u8?fmt=ts2hls
@@ -477,106 +475,172 @@ http://114.135.52.4:89/live2/live2.m3u8
 http://p2.weizan.cn/1635496647/663562647402642026/liev.m3u8
 #EXTINF:-1 group-title="贵州",DoxTV
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226048/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="省台",贵州卫视
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226497/1.m3u8
-#EXTINF:-1 group-title="省台",内蒙古卫视
-http://live.m2oplus.nmtv.cn/1/sd/live.m3u8
-#EXTINF:-1 group-title="省台",北京卫视
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226224/1.m3u8
-#EXTINF:-1 group-title="省台",北京卫视
-http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225937/1.m3u8
-#EXTINF:-1 group-title="省台",上海卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226217/1.m3u8
-#EXTINF:-1 group-title="省台",重庆卫视
-http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
-#EXTINF:-1 group-title="省台",重庆卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225734/index.m3u8
-#EXTINF:-1 group-title="省台",天津卫视
-http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225941/1.m3u8
-#EXTINF:-1 group-title="省台",新疆卫视
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226936/index.m3u8
-#EXTINF:-1 group-title="省台",浙江卫视
-http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225934/1.m3u8
-#EXTINF:-1 group-title="省台",浙江卫视
-http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
-#EXTINF:-1 group-title="省台",东南卫视
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226406/1.m3u8
-#EXTINF:-1 group-title="省台",东方卫视
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226364/1.m3u8
-#EXTINF:-1 group-title="省台",厦门卫视
-http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/1.m3u8
-#EXTINF:-1 group-title="省台",厦门卫视
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226542/index.m3u8
-#EXTINF:-1 group-title="省台",湖南卫视
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226509/1.m3u8
-#EXTINF:-1 group-title="省台",江苏卫视
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226242/1.m3u8
-#EXTINF:-1 group-title="省台",江苏卫视
-http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221226869/1.m3u8
-#EXTINF:-1 group-title="省台",江西卫视
-http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225834/1.m3u8
-#EXTINF:-1 group-title="省台",青海卫视
-http://live.geermurmt.com/qhws/sd/live.m3u8
-#EXTINF:-1 group-title="省台",云南卫视
-http://hwzbout.yunshicloud.com/8xughf/e0bx15.m3u8
-#EXTINF:-1 group-title="省台",四川卫视
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225835/index.m3u8
-#EXTINF:-1 group-title="省台",四川卫视
-http://ivi.bupt.edu.cn/hls/schd.m3u8
 #EXTINF:-1 group-title="省台",安徽卫视
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226223/1.m3u8
+http://218.204.171.201/gitv_live/G_ANHUI-HQ/G_ANHUI-HQ.m3u8?p=GITV&area=GD_CMCC
 #EXTINF:-1 group-title="省台",安徽卫视
-http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225844/1.m3u8
-#EXTINF:-1 group-title="省台",山东卫视
-http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225843/1.m3u8
-#EXTINF:-1 group-title="省台",甘肃卫视
-http://39.134.39.38/PLTV/88888888/224/3221226240/index.m3u8
-#EXTINF:-1 group-title="省台",甘肃卫视
-http://117.156.28.119/PLTV/88888888/224/3221225613/index.m3u8
-#EXTINF:-1 group-title="省台",广东卫视
-http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225824/1.m3u8
-#EXTINF:-1 group-title="省台",广西卫视
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225836/index.m3u8
-#EXTINF:-1 group-title="省台",深圳卫视
-http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225848/1.m3u8
-#EXTINF:-1 group-title="省台",湖北卫视
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226240/1.m3u8
-#EXTINF:-1 group-title="省台",河北卫视
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226507/1.m3u8
-#EXTINF:-1 group-title="省台",河南卫视
-http://ivi.bupt.edu.cn/hls/hnhd.m3u8
-#EXTINF:-1 group-title="省台",辽宁卫视
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226500/1.m3u8
-#EXTINF:-1 group-title="省台",吉林卫视
-rtsp://183.252.176.54:554/PLTV/88888888/224/3221226792/48616745.smil
-#EXTINF:-1 group-title="省台",黑龙江卫视
-http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225940/1.m3u8
-#EXTINF:-1 group-title="省台",海南卫视
-http://39.134.39.38/PLTV/88888888/224/3221226301/index.m3u8
-#EXTINF:-1 group-title="省台",三沙卫视
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226544/index.m3u8
-#EXTINF:-1 group-title="省台",宁夏卫视
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226528/index.m3u8
-#EXTINF:-1 group-title="省台",山西卫视
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226531/index.m3u8
-#EXTINF:-1 group-title="省台",陕西卫视
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226955/index.m3u8
-#EXTINF:-1 group-title="省台",旅游卫视
-http://39.134.39.39/PLTV/88888888/224/3221226301/index.m3u8
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ahwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="省台",北京纪实
+http://218.204.171.201/gitv_live/G_BEIJINGJS-HQ/G_BEIJINGJS-HQ.m3u8?p=GITV&area=GD_CMCC
+#EXTINF:-1 group-title="省台",北京卫视
+http://218.204.171.201/gitv_live/G_BEIJING-HQ/G_BEIJING-HQ.m3u8?p=GITV&area=GD_CMCC
+#EXTINF:-1 group-title="省台",北京卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/bjwshd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="省台",兵团卫视
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226950/index.m3u8
-#EXTINF:-1 group-title="省台",西藏卫视
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226847/index.m3u8
-#EXTINF:-1 group-title="省台",延边卫视
-http://223.110.241.137:6610/gitv/live1/G_YANBIAN/G_YANBIAN/?type=.m3u8
-#EXTINF:-1 group-title="省台",安多卫视
-http://223.110.241.137:6610/gitv/live1/G_ANDUO/G_ANDUO/?type=.m3u8
+http://218.204.171.201/gitv_live/G_BINGTUAN/G_BINGTUAN.m3u8?p=GITV&area=GD_CMCC
+#EXTINF:-1 group-title="省台",东方卫视
+http://218.204.171.201/gitv_live/G_DONGFANG-HQ/G_DONGFANG-HQ.m3u8?p=GITV&area=GD_CMCC
+#EXTINF:-1 group-title="省台",东方卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hddfws/4000000/mnf.m3u8
+#EXTINF:-1 group-title="省台",东南卫视
+http://218.204.171.201/gitv_live/G_DONGNAN-HQ/G_DONGNAN-HQ.m3u8?p=GITV&area=GD_CMCC
+#EXTINF:-1 group-title="省台",东南卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dnwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="省台",福建卫视
+http://111.63.117.13:6060/030000001000/G_FUJIAN/G_FUJIAN.m3u8
+#EXTINF:-1 group-title="省台",甘肃卫视
+http://111.63.117.13:6060/030000001000/G_GANSU/G_GANSU.m3u8
+#EXTINF:-1 group-title="省台",甘肃卫视
+http://218.204.171.201/gitv_live/G_GANSU/G_GANSU.m3u8?p=GITV&area=GD_CMCC
+#EXTINF:-1 group-title="省台",广东卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/gdwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="省台",广西卫视
+http://111.63.117.13:6060/030000001000/GXWS/GXWS.m3u8
+#EXTINF:-1 group-title="省台",广西卫视
+http://218.204.171.201/gitv_live/GXWS/GXWS.m3u8?p=GITV&area=GD_CMCC
+#EXTINF:-1 group-title="省台",贵州卫视
+http://218.204.171.201/gitv_live/G_GUIZHOU-HQ/G_GUIZHOU-HQ.m3u8?p=GITV&area=GD_CMCC
+#EXTINF:-1 group-title="省台",贵州卫视
+http://111.63.117.13:6060/030000001000/G_GUIZHOU/G_GUIZHOU.m3u8
+#EXTINF:-1 group-title="省台",海南卫视
+http://218.204.171.201/gitv_live/G_HAINAN-HQ/G_HAINAN-HQ.m3u8?p=GITV&area=GD_CMCC
+#EXTINF:-1 group-title="省台",河北卫视
+http://218.204.171.201/gitv_live/G_HEBEI-HQ/G_HEBEI-HQ.m3u8?p=GITV&area=GD_CMCC
+#EXTINF:-1 group-title="省台",河北卫视
+http://111.63.117.13:6060/030000001000/G_HEBEI/G_HEBEI.m3u8
+#EXTINF:-1 group-title="省台",河南卫视
+http://218.204.171.201/gitv_live/G_HENAN-HQ/G_HENAN-HQ.m3u8?p=GITV&area=GD_CMCC
+#EXTINF:-1 group-title="省台",河南卫视
+http://111.63.117.13:6060/030000001000/HENAN/HENAN.m3u8
+#EXTINF:-1 group-title="省台",黑龙江卫视
+http://218.204.171.201/gitv_live/G_HEILONGJIANG-HQ/G_HEILONGJIANG-HQ.m3u8?p=GITV&area=GD_CMCC
+#EXTINF:-1 group-title="省台",黑龙江卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hljwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="省台",湖北卫视
+http://218.204.171.201/gitv_live/G_HUBEI-HQ/G_HUBEI-HQ.m3u8?p=GITV&area=GD_CMCC
+#EXTINF:-1 group-title="省台",湖北卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hbwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="省台",湖南卫视
+http://218.204.171.201/gitv_live/G_HUNAN-HQ/G_HUNAN-HQ.m3u8?p=GITV&area=GD_CMCC
+#EXTINF:-1 group-title="省台",湖南卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hnwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="省台",吉林卫视
+http://218.204.171.201/gitv_live/G_JILIN/G_JILIN.m3u8?p=GITV&area=GD_CMCC
+#EXTINF:-1 group-title="省台",吉林卫视
+http://111.63.117.13:6060/030000001000/G_JILIN/G_JILIN.m3u8
+#EXTINF:-1 group-title="省台",江苏卫视
+http://218.204.171.201/gitv_live/G_JIANGSU-HQ/G_JIANGSU-HQ.m3u8?p=GITV&area=GD_CMCC
+#EXTINF:-1 group-title="省台",江苏卫视
+http://223.110.236.3/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
+#EXTINF:-1 group-title="省台",江苏卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jswshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="省台",江西卫视
+http://218.204.171.201/gitv_live/G_JIANGXI-HQ/G_JIANGXI-HQ.m3u8?p=GITV&area=GD_CMCC
+#EXTINF:-1 group-title="省台",江西卫视
+http://111.63.117.13:6060/030000001000/JXWS/JXWS.m3u8
+#EXTINF:-1 group-title="省台",江西卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jxwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="省台",金鹰纪实
+http://218.204.171.201/gitv_live/G_JINYINGJS-HQ/G_JINYINGJS-HQ.m3u8?p=GITV&area=GD_CMCC
+#EXTINF:-1 group-title="省台",金鹰卡通
+http://218.204.171.201/gitv_live/G_JINYING/G_JINYING.m3u8?p=GITV&area=GD_CMCC
+#EXTINF:-1 group-title="省台",卡酷少儿
+http://218.204.171.201/gitv_live/G_KAKU/G_KAKU.m3u8?p=GITV&area=GD_CMCC
 #EXTINF:-1 group-title="省台",康巴卫视
 http://scgctvshow.sctv.com/hdlive/kangba/1.m3u8
-#EXTINF:-1 group-title="省台",康巴卫视
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225856/index.m3u8
-#EXTINF:-1 group-title="省台",农林卫视
-http://223.110.241.137:6610/gitv/live1/G_NONGLIN/G_NONGLIN/?type=.m3u8
+#EXTINF:-1 group-title="省台",辽宁卫视
+http://218.204.171.201/gitv_live/G_LIAONING-HQ/G_LIAONING-HQ.m3u8?p=GITV&area=GD_CMCC
+#EXTINF:-1 group-title="省台",辽宁卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/lnwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="省台",旅游卫视
+http://111.63.117.13:6060/030000001000/LYWS/LYWS.m3u8
+#EXTINF:-1 group-title="省台",内蒙古卫视
+http://111.63.117.13:6060/030000001000/G_NEIMENGGU/G_NEIMENGGU.m3u8
+#EXTINF:-1 group-title="省台",内蒙古卫视
+http://218.204.171.201/gitv_live/G_NEIMENGGU/G_NEIMENGGU.m3u8?p=GITV&area=GD_CMCC
+#EXTINF:-1 group-title="省台",宁夏卫视
+http://111.63.117.13:6060/030000001000/G_NINGXIA/G_NINGXIA.m3u8
+#EXTINF:-1 group-title="省台",宁夏卫视
+http://218.204.171.201/gitv_live/G_NINGXIA/G_NINGXIA.m3u8?p=GITV&area=GD_CMCC
+#EXTINF:-1 group-title="省台",青海卫视
+http://111.63.117.13:6060/030000001000/G_QINGHAI/G_QINGHAI.m3u8
+#EXTINF:-1 group-title="省台",青海卫视
+http://218.204.171.201/gitv_live/G_QINGHAI/G_QINGHAI.m3u8?p=GITV&area=GD_CMCC
+#EXTINF:-1 group-title="省台",厦门卫视
+http://218.204.171.201/gitv_live/G_XIAMEN/G_XIAMEN.m3u8?p=GITV&area=GD_CMCC
+#EXTINF:-1 group-title="省台",山东教育
+http://218.204.171.201/gitv_live/G_SDETV/G_SDETV.m3u8?p=GITV&area=GD_CMCC
+#EXTINF:-1 group-title="省台",山东卫视
+http://218.204.171.201/gitv_live/G_SHANDONG-HQ/G_SHANDONG-HQ.m3u8?p=GITV&area=GD_CMCC
+#EXTINF:-1 group-title="省台",山东卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/sdwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="省台",山西卫视
+http://111.63.117.13:6060/030000001000/SXWS/SXWS.m3u8
+#EXTINF:-1 group-title="省台",山西卫视
+http://218.204.171.201/gitv_live/SXWS/SXWS.m3u8?p=GITV&area=GD_CMCC
+#EXTINF:-1 group-title="省台",陕西卫视
+http://218.204.171.201/gitv_live/G_SHANXI/G_SHANXI.m3u8?p=GITV&area=GD_CMCC
+#EXTINF:-1 group-title="省台",上海ICS外语
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/wypdhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="省台",上海第一财经
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dycjhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="省台",上海东方影视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="省台",上海都市
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ylpdhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="省台",上海哈哈炫动
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hhxdhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="省台",上海纪实
+http://218.204.171.201/gitv_live/G_SHANGHAIJS-HD/G_SHANGHAIJS-HD.m3u8?p=GITV&area=GD_CMCC
+#EXTINF:-1 group-title="省台",上海纪实人文
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jspdhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="省台",上海教育 540
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/setv/1300000/mnf.m3u8
+#EXTINF:-1 group-title="省台",上海五星体育
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 group-title="省台",上海新闻综合
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="省台",深圳卫视
+http://218.204.171.201/gitv_live/G_SHENZHEN-HQ/G_SHENZHEN-HQ.m3u8?p=GITV&area=GD_CMCC
+#EXTINF:-1 group-title="省台",深圳卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/szwshd/4000000/mnf.m3u8#http://39.134.39.37/PLTV/88888888/224/3221226199/index.m3u8
+#EXTINF:-1 group-title="省台",四川卫视
+http://111.63.117.13:6060/030000001000/SCWS/SCWS.m3u8
+#EXTINF:-1 group-title="省台",四川卫视
+http://218.204.171.201/gitv_live/G_SICHUAN-HQ/G_SICHUAN-HQ.m3u8?p=GITV&area=GD_CMCC
+#EXTINF:-1 group-title="省台",天津卫视
+http://218.204.171.201/gitv_live/G_TIANJIN-HQ/G_TIANJIN-HQ.m3u8?p=GITV&area=GD_CMCC
+#EXTINF:-1 group-title="省台",天津卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/tjwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="省台",西藏卫视
+http://218.204.171.201/gitv_live/G_XIZANG/G_XIZANG.m3u8?p=GITV&area=GD_CMCC
+#EXTINF:-1 group-title="省台",新疆卫视
+http://111.63.117.13:6060/030000001000/G_XINJIANG/G_XINJIANG.m3u8
+#EXTINF:-1 group-title="省台",新疆卫视
+http://218.204.171.201/gitv_live/G_XINJIANG/G_XINJIANG.m3u8?p=GITV&area=GD_CMCC
+#EXTINF:-1 group-title="省台",炫动卡通
+http://218.204.171.201/gitv_live/G_XUANDONG/G_XUANDONG.m3u8?p=GITV&area=GD_CMCC
+#EXTINF:-1 group-title="省台",云南卫视
+http://111.63.117.13:6060/030000001000/G_YUNNAN/G_YUNNAN.m3u8
+#EXTINF:-1 group-title="省台",云南卫视
+http://218.204.171.201/gitv_live/G_YUNNAN/G_YUNNAN.m3u8?p=GITV&area=GD_CMCC
+#EXTINF:-1 group-title="省台",浙江卫视
+http://218.204.171.201/gitv_live/G_ZHEJIANG-HQ/G_ZHEJIANG-HQ.m3u8?p=GITV&area=GD_CMCC
+#EXTINF:-1 group-title="省台",浙江卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/zjwshd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="省台",重庆卫视
+http://111.63.117.13:6060/030000001000/G_CHONGQING/G_CHONGQING.m3u8
+#EXTINF:-1 group-title="省台",重庆卫视
+http://218.204.171.201/gitv_live/G_CHONGQING-HQ/G_CHONGQING-HQ.m3u8?p=GITV&area=GD_CMCC
 #EXTINF:-1 group-title="港台",亚美卫视
 http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 #EXTINF:-1 group-title="港台",星空卫视
