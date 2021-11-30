@@ -529,7 +529,7 @@ ELTV英語,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn20
 龍華經典,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn21
 新唐人亞太台,https://live.ntdimg.com/aplive200/playlist.m3u8
 
-🏅体育,#genre#
+⚽️体育,#genre#
 CCTV5,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226024/1/index.m3u8?fmt=ts2hls
 CCTV5,http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8
 CCTV5,http://223.110.241.137:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ/?type=.m3u8
@@ -594,12 +594,12 @@ CCTV6,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
 超级电影,http://39.134.39.39/PLTV/88888888/224/3221226409/index.m3u8
 超级电视剧,http://39.134.39.39/PLTV/88888888/224/3221226356/index.m3u8
 KiD影院1,http://121.51.249.99/txdirect.hls.huya.com/src/1524418059-1524418059-6547325708836798464-3048959574-10057-A-0-1.m3u8
-KiD影院1,http://api.phoves.com.cn/iptv/huya.php?id=11352895
 KiD影院2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 KiD影院3,http://hpull.kktv8.com/livekktv/143960119/playlist.m3u8
 KiD影院4,http://117.148.179.162/PLTV/88888888/224/3221231727/index.m3u8
 KiD影院5,http://117.148.179.159/PLTV/88888888/224/3221231679/index.m3u8
 KiD影院6,http://117.148.179.160/PLTV/88888888/224/3221231763/index.m3u8
+KiD影院7,http://api.phoves.com.cn/iptv/huya.php?id=11352895
 新片放映廳,http://117.148.179.160/PLTV/88888888/224/3221231640/index.m3u8
 盜墓方法論,http://117.148.179.164/PLTV/88888888/224/3221231652/index.m3u8
 試膽大會,http://117.148.179.166/PLTV/88888888/224/3221231672/index.m3u8
@@ -636,9 +636,9 @@ BEST电影,http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs
 靖天電影台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv061
 龍華經典台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn21
 龍華偶像台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn12
-LS Time龙祥時代电影台,http://sxgs88.picp.vip:9090/hstv.php?id=373&type=.m3u8
-LS Time龙祥時代电影台,http://sxgs88.picp.vip:9090/hstv.php?id=373&type=.m3u8
 龍華電影台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn03
+LS Time龙祥時代电影台,http://sxgs88.picp.vip:9090/hstv.php?id=373&type=.m3u8
+LS Time龙祥時代电影台,http://sxgs88.picp.vip:9090/hstv.php?id=373&type=.m3u8
 影迷数位电影,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv011
 影迷数位电影,http://sxgs88.picp.vip:9090/hstv.php?id=497&type=.m3u8
 民视影剧,http://sxgs88.picp.vip:9090/hstv.php?id=1023&type=.m3u8
@@ -651,7 +651,7 @@ Y + 剧场,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3
 CBN每日影院HD,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=71&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 武侠电影,http://121.51.249.99/txdirect.hls.huya.com/src/1394575562-1394575562-5989656430590820352-2789274580-10057-A-0-1.m3u8
 抗战神剧,http://pull.kktv8.com/livekktv/143960119.flv#http://pull.kktv8.com/livekktv/143960119.flv#http://pull.kktv8.com/livekktv/143960119.flv
-C+频道,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8#http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8#http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8#http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8#http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8#http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8#http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
+C+频道,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
 卫视电影,http://50.7.59.216:61980/myplay/cn_3_13017/index.m3u8?key=84797b799ae18d1b
 卫视电影,http://sxgs88.picp.vip:9090/hstv.php?id=93&type=.m3u8
 卫视洋片台,http://50.7.59.216:61980/myplay/cn_1_11002/index.m3u8?key=84797b799ae18d1b
@@ -989,8 +989,8 @@ tvb电视剧,http://121.51.249.99/txdirect.hls.huya.com/src/1199561226091-119956
 刘德华影院,http://117.148.179.154/PLTV/88888888/224/3221231757/index.m3u8
 郭富城作品集,http://117.148.179.152/PLTV/88888888/224/3221231688/index.m3u8
 劉亦菲影視展播,http://117.148.179.165/PLTV/88888888/224/3221231787/index.m3u8
+楊冪作品集,http://117.148.179.183/PLTV/88888888/224/3221231556/index.m3u8
 古天樂影院,http://117.148.179.176/PLTV/88888888/224/3221231645/index.m3u8
-楊冪,http://117.148.179.183/PLTV/88888888/224/3221231556/index.m3u8
 周润发影院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/639526984
 周润发影院,http://117.148.179.177/PLTV/88888888/224/3221231709/index.m3u8
 邵氏老电影,http://106.53.212.251/daili/bili.php?id=21759196
@@ -1014,16 +1014,12 @@ TVB劇場,http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
 盜墓,http://117.148.179.164/PLTV/88888888/224/3221231652/index.m3u8
 試膽大會,http://117.148.179.166/PLTV/88888888/224/3221231672/index.m3u8
 高能燒腦時刻,http://117.148.179.169/PLTV/88888888/224/3221231504/index.m3u8
-楊冪作品集,http://117.148.179.183/PLTV/88888888/224/3221231556/index.m3u8
 4K劇場,http://117.148.179.161/PLTV/88888888/224/3221231624/index.m3u8
 愛情公寓,http://117.148.179.160/PLTV/88888888/224/3221231583/index.m3u8
-軍旅劇場,http://117.148.179.145/PLTV/88888888/224/3221231585/index.m3u8
-SNH48劇場公演,http://117.148.179.139/PLTV/88888888/224/3221231622/index.m3u8
 少林劇場,http://117.148.179.160/PLTV/88888888/224/3221231628/index.m3u8
 神探狄仁傑,http://117.148.179.139/PLTV/88888888/224/3221231634/index.m3u8
 黃金劇場,http://117.148.179.183/PLTV/88888888/224/3221231637/index.m3u8
 追劇少女,http://117.148.179.179/PLTV/88888888/224/3221231643/index.m3u8
-古龍作品集,http://117.148.179.160/PLTV/88888888/224/3221231657/index.m3u8
 經典賀歲片,http://117.148.179.159/PLTV/88888888/224/3221231679/index.m3u8
 每日薦影,http://117.148.179.162/PLTV/88888888/224/3221231727/index.m3u8
 武俠劇場,http://117.148.179.160/PLTV/88888888/224/3221231763/index.m3u8
@@ -1031,21 +1027,6 @@ KK_经典好剧,http://hpull.kktv8.com/livekktv/153793844/playlist.m3u8
 KK_科幻怪兽,http://hpull.kktv8.com/livekktv/143960119/playlist.m3u8
 KK_喜剧电影,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
 KK_女神影院,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
-邵氏影院,http://zzy789.xyz/douyu1.php?id=4246519&type=.flv
-丧尸鬼片恐怖惊悚,http://zzy789.xyz/douyu1.php?id=96577&type=.flv
-MV轮播,http://zzy789.xyz/douyu1.php?id=9926372&type=.flv
-周杰伦MV,http://zzy789.xyz/douyu1.php?id=7537296&type=.flv
-华语点歌台,http://zzy789.xyz/douyu1.php?id=3186217&type=.flv
-爱情公寓720,http://zzy789.xyz/douyu1.php?id=6863367&type=.flv
-爱情公寓1080,http://zzy789.xyz/douyu1.php?id=2838296&type=.flv
-庆余年,http://zzy789.xyz/douyu1.php?id=5908256&type=.flv
-庆余年2,http://zzy789.xyz/douyu1.php?id=9633542&type=.flv
-万万没想到,http://zzy789.xyz/douyu1.php?id=9220456&type=.flv
-经典小品相声,http://zzy789.xyz/douyu1.php?id=9067836&type=.flv
-林正英,http://zzy789.xyz/douyu1.php?id=218859&type=.flv
-神探狄仁杰,http://zzy789.xyz/douyu1.php?id=674441&type=.flv
-鬼吹灯系列,http://zzy789.xyz/douyu1.php?id=7701735&type=.flv
-新白娘子传奇全集HD,http://cn-lnsy-cu-live-02.bilivideo.com/live-bvc/937156/live_234117739_9751143.m3u8
 美食李子柒,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
 
 🎵mv,#genre#
@@ -1138,7 +1119,7 @@ MyHeartWillGoOn(泰坦尼克号主题曲),https://15799848.s21v.faiusr.com/58/AB
 辛晓琪-领悟,http://vodcdn.video.taobao.com/oss/ali-video/2a4e61d4bba6b712bd5638fd508e85a5/video.m3u8
 2021年6首网络伤感情歌,http://39.165.32.235:88/v1.go2yd.com/video/fcaf341a6038ed4d8dbd50deaf3036c1.mp4_bd.mp4
 
-📺广播电台,#genre#
+🎵广播电台,#genre#
 CNR经典音乐,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
 CCTV音乐之声,http://ngcdn003.cnr.cn/live/yyzs48/index.m3u8
 怀集音乐台,http://live.xmcdn.com:80/live/966/64.m3u8
