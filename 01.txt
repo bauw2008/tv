@@ -586,6 +586,7 @@ CHC家庭影院,http://117.148.179.160/PLTV/88888888/224/3221231799/index.m3u8
 动作影院,http://39.134.39.39/270000001322/69900158041111100000002188/index.m3u8
 武侠剧场,http://39.134.39.39/270000001322/69900158041111100000002190/index.m3u8
 双星台,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+欢笑剧场,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hxjchd/4000000/mnf.m3u8
 欢笑剧场,http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
 怀旧剧场,rtmp://58.200.131.2:1935/livetv/hjjctv
 第一剧场,rtmp://58.200.131.2:1935/livetv/dyjctv
