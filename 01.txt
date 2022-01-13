@@ -168,7 +168,8 @@ CCTV女性时尚,http://117.148.179.167/PLTV/88888888/224/3221231598/index.m3u8
 City都市剧场,http://39.134.39.4/PLTV/88888888/224/3221226176/index.m3u8
 CCTV风云足球,http://117.148.179.137/PLTV/88888888/224/3221231547/index.m3u8
 CCTV央视台球,http://117.148.179.167/PLTV/88888888/224/3221231616/index.m3u8
-CCTV高尔夫网球,http://ott.js.chinamobile.com/TVOD/3/224/3221228138/index.m3u8#http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000574&playtoken=ABCDEFGH&auth=no
+CCTV高尔夫网球,http://ott.js.chinamobile.com/TVOD/3/224/3221228138/index.m3u8
+CCTV高尔夫网球,http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000574&playtoken=ABCDEFGH&auth=no
 CCTV高尔夫网球,http://117.148.179.160/PLTV/88888888/224/3221231619/index.m3u8
 CCTV兵器科技,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls
 CCTV电视指南,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226120/1/index.m3u8?fmt=ts2hls
