@@ -18,7 +18,9 @@ https://cdn.jsdelivr.net/gh/bauw2008/tv@master/a.jpg
 
 https://cdn.jsdelivr.net/gh/bauw2008/tv@master/iptvsy.txt
 
+https://fastly.jsdelivr.net/
 
+https://gcore.jsdelivr.net/
 
 
 点播
