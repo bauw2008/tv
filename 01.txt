@@ -130,7 +130,7 @@ GTV游戏竞技,http://192.168.2.1:1234/rtp/238.255.2.184:5999
 遵义都市,http://192.168.2.1:1234/rtp/238.255.2.154:5999
 遵义公共,http://192.168.2.1:1234/rtp/238.255.2.152:5999
 遵义综合,http://192.168.2.1:1234/rtp/238.255.2.153:5999
-绥阳电视台,https://mpvideo.qpic.cn/0bc3lqaaoaaahiaj727sv5qvaxgda5oaabya.f10002.mp4?dis_k=081d8dc5f64beb50559657934f68f685&dis_t=1643556559&vid=wxv_2243053501197254665&format_id=10002&support_redirect=0&mmversion=false
+绥阳电视台,https://mpvideo.qpic.cn/0bc3lqaaoaaahiaj727sv5qvaxgda5oaabya.f10002.mp4?dis_k=839415ae08ec28ebb88e5932c5571c12&dis_t=1643597872&vid=wxv_2243053501197254665&format_id=10002&support_redirect=0&mmversion=false
 六盘水1,http://192.168.2.1:1234/rtp/238.255.2.115:5999
 六盘水2,http://192.168.2.1:1234/rtp/238.255.2.116:5999
 黔东南1新闻综合,http://192.168.2.1:1234/rtp/238.255.2.179:5999
