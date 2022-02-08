@@ -130,7 +130,7 @@ GTV游戏竞技,http://192.168.2.1:1234/rtp/238.255.2.184:5999
 遵义都市,http://192.168.2.1:1234/rtp/238.255.2.154:5999
 遵义公共,http://192.168.2.1:1234/rtp/238.255.2.152:5999
 遵义综合,http://192.168.2.1:1234/rtp/238.255.2.153:5999
-绥阳电视台,https://mpvideo.qpic.cn/0bc3lqaaoaaahiaj727sv5qvaxgda5oaabya.f10002.mp4?dis_k=839415ae08ec28ebb88e5932c5571c12&dis_t=1643597872&vid=wxv_2243053501197254665&format_id=10002&support_redirect=0&mmversion=false
+绥阳电视台,https://mpvideo.qpic.cn/0bc3lqaaoaaahiaj727sv5qvaxgda5oaabya.f10002.mp4
 六盘水1,http://192.168.2.1:1234/rtp/238.255.2.115:5999
 六盘水2,http://192.168.2.1:1234/rtp/238.255.2.116:5999
 黔东南1新闻综合,http://192.168.2.1:1234/rtp/238.255.2.179:5999
@@ -152,6 +152,7 @@ GTV游戏竞技,http://192.168.2.1:1234/rtp/238.255.2.184:5999
 安顺2公共频道,http://192.168.2.1:1234/rtp/238.255.2.158:5999
 毕节1,http://192.168.2.1:1234/rtp/238.255.2.131:5999
 毕节2,http://192.168.2.1:1234/rtp/238.255.2.132:5999
+松桃新闻,http://live.strmtzx.cn/stxw/sd/live.m3u8
 凯里频道,http://192.168.2.1:1234/rtp/238.255.2.180:5999
 天元围棋,http://192.168.2.1:1234/rtp/238.255.2.7:5999
 画廊六枝,http://192.168.2.1:1234/rtp/238.255.2.159:5999
@@ -513,7 +514,7 @@ Channel V,http://iptv.tvfix.org/hls/channelv.m3u8
 澳亚卫视,http://live.mastvnet.com:800/4rlff1m/1024/live.m3u8
 香港卫视文旅,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
 中国环球电视,http://live.cgtn.com/500/prog_index.m3u8
-天映经典(普通话),http://iptv.tvfix.org/hls/tyjd2.m3u8
+天映经典,http://iptv.tvfix.org/hls/tyjd2.m3u8
 天映经典,http://gxfrg007.8800.org:8282/tsfile/live/1053_1.m3u8
 TVB经典,http://iptv.tvfix.org/hls/tvbjd.m3u8
 TVB翡翠,http://iptv.tvfix.org/hls/jade.m3u8
