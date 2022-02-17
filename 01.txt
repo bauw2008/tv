@@ -647,15 +647,20 @@ CCTV6,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
 精彩电视剧,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
 超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 超级电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-KiD影院1,http://121.51.249.99/txdirect.hls.huya.com/src/1524418059-1524418059-6547325708836798464-3048959574-10057-A-0-1.m3u8
+KiD影院1,http://117.148.179.169/PLTV/88888888/224/3221231504/index.m3u8
 KiD影院2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 KiD影院3,http://hpull.kktv8.com/livekktv/143960119/playlist.m3u8
 KiD影院4,http://117.148.179.162/PLTV/88888888/224/3221231727/index.m3u8
 KiD影院5,http://117.148.179.159/PLTV/88888888/224/3221231679/index.m3u8
 KiD影院6,http://117.148.179.160/PLTV/88888888/224/3221231763/index.m3u8
-KiD影院7,http://api.phoves.com.cn/iptv/huya.php?id=11352895
+KiD影院7,http://117.148.179.164/PLTV/88888888/224/3221231652/index.m3u8
+KiD影院7,http://117.148.179.160/PLTV/88888888/224/3221231640/index.m3u8
+KiD影院8,http://117.148.179.160/PLTV/88888888/224/3221231640/index.m3u8
+KiD影院9,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198822/index.m3u8
+KiD影院10,http://112.74.200.9:88/tv000000/m3u8.php?/migu/617432318/index.m3u8
 高分影院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198191
 欢笑剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/623674859
+欢笑剧场,http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226210/1/index.m3u8?fmt=ts2hls
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 黑莓电影,http://39.134.67.226/PLTV/88888888/224/3221225681/index.m3u8
 CHC动作电影,http://111.20.33.79/wh7f454c46tw2676886234_1042025358/PLTV/88888893/224/3221226465/index.m3u8
@@ -664,10 +669,6 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/in
 CHC家庭影院,http://39.134.19.153:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC家庭影院,http://117.148.179.160/PLTV/88888888/224/3221231799/index.m3u8
-欢笑剧场,http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226210/1/index.m3u8?fmt=ts2hls
-喜剧影院,http://39.134.39.39/270000001322/69900158041111100000002189/index.m3u8
-动作影院,http://39.134.39.39/270000001322/69900158041111100000002188/index.m3u8
-武侠剧场,http://39.134.39.39/270000001322/69900158041111100000002190/index.m3u8
 双星台,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 老故事,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
 天映经典,http://iptv.tvfix.org/hls/tyjd2.m3u8
@@ -702,7 +703,7 @@ CHC家庭影院,http://117.148.179.160/PLTV/88888888/224/3221231799/index.m3u8
 欧美影院,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228384/42613784.smil/index.m3u8?fmt=ts2hls
 CBN每日影院HD,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=71&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 武侠电影,http://121.51.249.99/txdirect.hls.huya.com/src/1394575562-1394575562-5989656430590820352-2789274580-10057-A-0-1.m3u8
-抗战神剧,http://pull.kktv8.com/livekktv/143960119.flv#http://pull.kktv8.com/livekktv/143960119.flv#http://pull.kktv8.com/livekktv/143960119.flv
+抗战神剧,http://pull.kktv8.com/livekktv/143960119.flv
 DoxTV,http://[2409:8087:6a01:1020::f]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226048/1/index.m3u8?fmt=ts2hls
 东方影视,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
 南京十八,http://223.110.241.137:6610/gitv/live1/G_NJSB/G_NJSB/?type=.m3u8
@@ -1001,8 +1002,9 @@ IPTV相声小品,http://39.134.39.37/PLTV/88888888/224/3221226260/index.m3u8
 北京生活,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8
 北京青年,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s8/index.m3u8
 北京新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8
-北京东奥,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221225676/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226232/index.m3u8#http://223.110.243.215/PLTV/3/224/3221227699/index.m3u8#http://223.110.236.24/ott.js.chinamobile.com/PLTV/3/224/3221227711/index.m3u8
-卡酷少儿,http://39.135.138.58:18890/PLTV/88888888/224/3221225677/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225743/1.m3u8
+东奥纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
+东奥纪实,http://39.135.138.58:18890/PLTV/88888888/224/3221225676/index.m3u8
+卡酷少儿,http://39.135.138.58:18890/PLTV/88888888/224/3221225677/index.m3u8
 
 📺IHOT,#genre#
 iHot爱悬疑,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230098/index.m3u8
