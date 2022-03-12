@@ -12,7 +12,7 @@ https://cdn.jsdelivr.net/gh/bauw2008/tv/03.m3u
 
 https://cdn.jsdelivr.net/gh/bauw2008/tv/a.jpg
 
-https://cdn.jsdelivr.net/gh/bauw2008/tv@master/001.txt
+https://cdn.jsdelivr.net/gh/bauw2008/tv@master/01.txt
 
 https://cdn.jsdelivr.net/gh/bauw2008/tv@master/a.jpg
 
@@ -24,6 +24,7 @@ https://gcore.jsdelivr.net/
 
 
 点播
+
 https://cdn.jsdelivr.net/gh/bauw2008/tv/db018.txt
 
 https://cdn.jsdelivr.net/gh/bauw2008/tv/db01.txt
