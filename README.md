@@ -6,28 +6,29 @@ https://cdn.jsdelivr.net/gh/你的用户名/你的仓库名@发布的版本号/�
 
 https://cdn.jsdelivr.net/gh/bauw2008/tv/01.txt
 
-https://cdn.jsdelivr.net/gh/bauw2008/tv/02.m3u
-
 https://cdn.jsdelivr.net/gh/bauw2008/tv/03.m3u
 
 https://cdn.jsdelivr.net/gh/bauw2008/tv/a.jpg
 
 https://cdn.jsdelivr.net/gh/bauw2008/tv@master/01.txt
 
+https://cdn.jsdelivr.net/gh/bauw2008/tv@master/03.m3u
+
 https://cdn.jsdelivr.net/gh/bauw2008/tv@master/a.jpg
 
-https://cdn.jsdelivr.net/gh/bauw2008/tv@master/iptvsy.txt
+https://cdn.jsdelivr.net/gh/bauw2008/tv@master/sydx.txt
 
+其他接口
 https://fastly.jsdelivr.net/
 
 https://gcore.jsdelivr.net/
 
 
-点播
+猫接口
 
-https://cdn.jsdelivr.net/gh/bauw2008/tv/db018.txt
+https://cdn.jsdelivr.net/gh/bauw2008/tv/mys1.txt
 
-https://cdn.jsdelivr.net/gh/bauw2008/tv/db01.txt
+https://cdn.jsdelivr.net/gh/bauw2008/tv/mys2.txt
 
 
 1. 源文件格式： UTF-8格式的编码。
