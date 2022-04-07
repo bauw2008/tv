@@ -2,3 +2,11 @@
 乐视_经典电影,http://api.idianshijia.com/gslb/live?stream_id=lsloop_dianying&type=.m3u8
 乐视_综艺节目,http://api.idianshijia.com/gslb/live?stream_id=lsloop_zongyi&type=.m3u8
 乐视_喜剧电影,http://api.idianshijia.com/gslb/live?stream_id=lsloop_xiju&type=.m3u8
+经典港片,http://119.36.227.41/r/baiducdncnc.inter.ptqy.gitv.tv/tslive/c51_lb_110_600_t10/c51_lb_110_600_t10.m3u8
+票房收割机,http://116.162.7.41/r/baiducdncnc.inter.ptqy.gitv.tv/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8
+豆瓣高分,http://116.162.7.41/r/baiducdncnc.inter.ptqy.gitv.tv/tslive/c51_lb_112_1080P_t10/c51_lb_112_1080P_t10.m3u8
+惊悚午夜场,http://116.162.7.41/r/baiducdncnc.inter.ptqy.gitv.tv/tslive/c51_lb_115_600_t10/c51_lb_115_600_t10.m3u8
+动画电影,http://116.162.7.41/r/baiducdncnc.inter.ptqy.gitv.tv/tslive/c51_lb_118_600_t10/c51_lb_118_600_t10.m3u8
+电影大片,http://116.162.7.41/r/baiducdncnc.inter.ptqy.gitv.tv/tslive/c56_lb_183_600_t10/c56_lb_183_600_t10.m3u8
+动作电影,http://116.162.7.41/r/baiducdncnc.inter.ptqy.gitv.tv/tslive/c52_lb_61_1080P_t10/c52_lb_61_1080P_t10.m3u8
+华语院线,http://116.162.7.41/r/baiducdncnc.inter.ptqy.gitv.tv/tslive/c51_lb_114_1080P_t10/c51_lb_114_1080P_t10.m3u8
