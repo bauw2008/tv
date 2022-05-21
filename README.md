@@ -6,6 +6,8 @@ https://cdn.staticaly.com/gh/bauw2008/tv/master/01.txt
 
 https://raw.githubusercontents.com/bauw2008/tv/master/01.txt
 
+https://raw.sevencdn.com/bauw2008/tv/master/01.txt
+
 https://cdn.jsdelivr.net/gh/你的用户名/你的仓库名@发布的版本号/文件路径
 
 https://cdn.jsdelivr.net/gh/bauw2008/tv/01.txt
