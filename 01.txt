@@ -510,11 +510,10 @@ DoxTV,http://[2409:8087:6a01:1020::f]/cdnrrs.gz.chinamobile.com/PLTV/88888888/22
 凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8
 凤凰电影,http://iptv.tvfix.org/hls/fhdy.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-星空卫视,https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
-星空卫视,http://116.199.5.52:8114/index.m3u8?FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8&Fsv_chan_hls_se_idx=233
-星空卫视,http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=233&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-星空卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=233
+星空卫视,http://zjrtv.vip/live/?jy=pyyx&a ... 49&t=1552398178
+星空卫视,http://120.84.96.32:808/hls/79/index.m3u8
 星空卫视,http://iptv.tvfix.org/hls/startv.m3u8
+星空卫视,mitv://ns2.hellotvvod.com:9906/d7c57db745034fb9bb5788b17a54a644
 星空体育,http://iptv.tvfix.org:80/hls/starsports.m3u8
 Channel V,http://iptv.tvfix.org/hls/channelv.m3u8
 Star Sports,http://iptv.tvfix.org/hls/starsports.m3u8
@@ -529,7 +528,7 @@ Star Sports,http://iptv.tvfix.org/hls/starsports.m3u8
 香港卫视文旅,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
 中国环球电视,http://live.cgtn.com/500/prog_index.m3u8
 天映频道,http://iptv.tvfix.org/hls/typd2.m3u8
-天映经典,http://iptv.tvfix.org/hls/tyjd2.m3u8
+天映经典,http://120.84.96.32:808/hls/85/index.m3u8
 天映经典,http://gxfrg007.8800.org:8282/tsfile/live/1053_1.m3u8
 TVB经典,http://iptv.tvfix.org/hls/tvbjd.m3u8
 TVB经典台海外版,http://iptv.tvfix.org/hls/tvbjdnhk.m3u8
@@ -567,10 +566,14 @@ TVB为食台,http://iptv.tvfix.org/hls/tvbws.m3u8
 东森超视,http://211.23.114.106:8525/http/60.251.39.91:8081/hls/64/806/ch14.m3u8
 东森电影,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH83/83
 东森电影,p8p://fccs.123178.top:9906/61494e4c000044800d72b6d5c1b77f5c
+東森電影 HD,http://120.84.96.32:808/hls/32/index.m3u8
+東森洋片 HD,http://120.84.96.32:808/hls/33/index.m3u8
 陌陌综合,rtmp://59.124.75.138/sat/tv761#http://58.99.33.16:1935/liveedge17/live_075_3.stream/chunklist.m3u8
 惊悚频道,http://iptv.tvfix.org/hls/thrill.m3u8
-龙华戏剧,http://live.hodtv.tv/gttv.php?id=11461&cid=11465
-龙华戏剧,http://211.23.114.106:8534/http/59.120.8.187:8066/hls/210/10010/cstv10.m3u8
+龙华日韓台,http://59.125.98.83:8535/http/192.168.1.9:8066/hls/210/10011/cstv11.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+龙华偶像台,http://59.125.98.83:8536/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+龙华偶像台,http://59.125.101.187:8746/playlist.m3u8
+龙华戏剧,http://59.125.98.83:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 龙华电影,http://live.hodtv.tv/gttv.php?id=13187&cid=13339
 龙华电影,http://211.23.114.106:8556/http/116.50.42.19:8066/hls/210/10014/cstv14.m3u8
 龙翔电影,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH87/87
@@ -578,14 +581,28 @@ TVB为食台,http://iptv.tvfix.org/hls/tvbws.m3u8
 星空国际,http://211.23.114.106:8561/http/116.50.42.19:8081/hls/61/803/ch02.m3u8
 星空电影,http://211.23.114.106:8560/http/116.50.42.19:8081/hls/62/804/ch08.m3u8
 星影卫视,http://data.3g.yy.com/live/hls/29900720/29900720
+星衛電影台,http://data.3g.yy.com/live/hls/29900720/29900720
 美亚电影台,http://iptv.tvfix.org/hls/mydy2.m3u8
 美亚电影台,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH89/89
 卫视电影台,http://211.23.114.106:8553/http/116.50.42.19:8081/hls/62/804/ch07.m3u8
 卫视电影台,http://%35%30%2e%37%2e%36%31%2e%31%34%39:%33%30%30%38%30/%45%6e%74%72%79/%73%74%61%72%6d%6f%76%69%65
 卫视中文台,http://211.23.114.106:8514/http/60.251.39.91:8081/hls/62/804/ch05.m3u8
 卫视中文台,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH88/88
+公視戲劇,http://for40255.sytes.net:8099/t ... v-4gtv042&nid=7
+民視影劇,http://seb.sason.top/ptv/ftv.php?id=yj
+東森戲劇HD,http://59.125.101.187:8740/playlist.m3u8
+東森戲劇台1,http://59.125.101.187:8772/playlist.m3u8
+緯來电影台,http://59.125.101.187:8710/playlist.m3u8
+衛視电影台,http://59.125.101.187:8753/playlist.m3u8
+龍翔時代,http://120.84.96.32:808/hls/35/index.m3u8
 索尼动漫,http://211.23.114.106:8516/http/61.221.81.94:8088/hls/70/812/ch39.m3u8
+AXN電影,http://59.125.101.187:8759/playlist.m3u8
+CINEMAX,http://59.125.101.187:8761/playlist.m3u8
+HBO HD,http://125.227.210.37:16027/VideoInput/play.ts
+HBO電影1,http://59.125.101.187:8757/playlist.m3u8
+Hollywood电影台,http://59.125.101.187:8754/playlist.m3u8
 索尼动漫,http://iptv.tvfix.org/hls/animax.m3u8
+八大第一台HD,http://59.125.101.187:8729/playlist.m3u8
 TBS 综合,https://tbs.mov3.co/hls/tbs.m3u8
 ViuTV,http://iptv.tvfix.org/hls/viutv.m3u8
 ViuTV,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH16/16
@@ -643,7 +660,26 @@ TVBS欢乐台,http://211.23.114.106:8532/http/60.251.39.91:8081/hls/65/807/ch17.
 有线新闻,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH146/146
 有线18台,rtmp://59.124.75.157:1935/sat/hk041
 日奔富士,https://fujitv1.mov3.co/hls/fujitv.m3u8
-新唐人亞太台,https://live.ntdimg.com/aplive200/playlist.m3u8
+GOOD TV-1 綜合台,http://live.streamingfast.net/osmflivech1.m3u8
+GOOD TV-10 烤箱讀書會,http://live.streamingfast.net/osmflivech10.m3u8
+GOOD TV-11 我們EYE旅行,http://live.streamingfast.net/osmflivech11.m3u8
+GOOD TV-13 健康新煮流,http://live.streamingfast.net/osmflivech13.m3u8
+GOOD TV-14 美食旅遊台,http://live.streamingfast.net/osmflivech14.m3u8
+GOOD TV-2 生活台,http://live.streamingfast.net/osmflivech12.m3u8
+GOOD TV-3 真情部落格,http://live.streamingfast.net/osmflivech3.m3u8
+GOOD TV-5 共用觀點,http://live.streamingfast.net/osmflivech5.m3u8
+GOOD TV-6,http://live.streamingfast.net/osmflivech6.m3u8
+GOOD TV-7,http://live.streamingfast.net/osmflivech7.m3u8
+GOOD TV-8,http://live.streamingfast.net/osmflivech8.m3u8
+GOOD TV-9 愛+好醫生,http://live.streamingfast.net/osmflivech9.m3u8
+大愛1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大愛2台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+Discovery,https://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
+Discovery Asia,http://125.227.210.37:10388/VideoInput/play.ts
+動物星球,http://59.125.101.187:8719/playlist.m3u8
+國家地理頻道,http://125.227.210.37:16408/VideoInput/play.ts
+新唐人大陸台,http://cnhls.ntdtv.com/cn/live800/playlist.m3u8
+新唐人亞太台,http://for40255.sytes.net:8099/t ... live050&nid=223
 
 ⚽️体育,#genre#
 CCTV风云足球,http://117.148.179.137/PLTV/88888888/224/3221231547/index.m3u8
@@ -1406,13 +1442,13 @@ UFO到底存不存在? - 薔薇六,http://61.241.131.18/tx.rtmp.huya.com/1099531
 小时代1,http://61.241.131.18/tx.rtmp.huya.com/1099531752790-1099531752790-86436276961542144-2199063629036-10057-A-0-1.m3u8
 猛鬼恐怖系列，胆小勿进 - DD-月牙,http://61.241.131.18/tx.rtmp.huya.com/1199583305794-1199583305794-5529470647832412160-2399166735044-10057-A-0-1.m3u8
 大梦电影 - 大梦电影,http://61.241.131.18/tx.rtmp.huya.com/1199573065336-1199573065336-5485488215626350592-2399146254128-10057-A-0-1.m3u8
-狗狗拉雪橇时掉进冰洞，主人却视死不救 - 空空说电影,http://61.241.131.18/tx.rtmp.huya.com/94525224-2700825370-11599956636357099520-4573471418-10057-A-0-1.m3u8
+狗狗拉雪橇时掉进冰洞 - 空空说电影,http://61.241.131.18/tx.rtmp.huya.com/94525224-2700825370-11599956636357099520-4573471418-10057-A-0-1.m3u8
 欢迎来到我的直播间 - 不二说剧,http://61.241.131.18/tx.rtmp.huya.com/1199573065053-1199573065053-5485487000150605824-2399146253562-10057-A-0-1.m3u8
 NCT127-在玹,http://61.241.131.18/tx.rtmp.huya.com/1099531789960-1099531789960-86595920895934464-2199063703376-10057-A-0-1.m3u8
 NCT127-泰一,http://61.241.131.18/tx.rtmp.huya.com/1099531789959-1099531789959-86595916600967168-2199063703374-10057-A-0-1.m3u8
 NCT127-道英,http://61.241.131.18/tx.rtmp.huya.com/1099531789958-1099531789958-86595912305999872-2199063703372-10057-A-0-1.m3u8
 NCT127-悠太,http://61.241.131.18/tx.rtmp.huya.com/1099531789961-1099531789961-86595925190901760-2199063703378-10057-A-0-1.m3u8
-林正英十种角色性格，宗师范儿，又小气又爱耍小聪明 - 青年电影馆,http://61.241.131.18/tx.rtmp.huya.com/1199532722561-1199532722561-5312217316371464192-2399065568578-10057-A-0-1.m3u8
+林正英十种角色性格 - 青年电影馆,http://61.241.131.18/tx.rtmp.huya.com/1199532722561-1199532722561-5312217316371464192-2399065568578-10057-A-0-1.m3u8
 杰森·斯坦森:郭达是你吗 - 超人的归来,http://61.241.131.18/tx.rtmp.huya.com/1099531752779-1099531752779-86436229716901888-2199063629014-10057-A-0-1.m3u8
 电影狂人A,http://61.241.131.18/tx.rtmp.huya.com/1447405089-1447405089-6216557521318969344-4349145444-10057-A-0-1.m3u8
 甄子丹 我要打十个 - 主播小贞,http://61.241.131.18/tx.rtmp.huya.com/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1.m3u8
@@ -1427,7 +1463,7 @@ NCT127-悠太,http://61.241.131.18/tx.rtmp.huya.com/1099531789961-1099531789961-
 我们并不知道这个宇宙的真相 - 画图省識归空无,http://61.241.131.18/tx.rtmp.huya.com/1099531840876-1099531840876-86814603450777600-2199063805208-10057-A-0-1.m3u8
 不问影探,http://61.241.131.18/tx.rtmp.huya.com/1199579832187-1199579832187-5514551619368255488-2399159787830-10057-A-0-1.m3u8
 奥特博物馆V,http://61.241.131.18/tx.rtmp.huya.com/1199599080912-1199599080912-5597224263732953088-2399198285280-10057-A-0-1.m3u8
-宇智波斑与千手柱间结婚了？儿时的斑爷是真的可爱呀！ - 猫眼下的鱼,http://61.241.131.18/tx.rtmp.huya.com/1199525077688-1199525077688-5279382836854390784-2399050278832-10057-A-0-1.m3u8
+宇智波斑与千手柱间结婚了 - 猫眼下的鱼,http://61.241.131.18/tx.rtmp.huya.com/1199525077688-1199525077688-5279382836854390784-2399050278832-10057-A-0-1.m3u8
 生活小妙招 - 生活技巧,http://61.241.131.18/tx.rtmp.huya.com/1099531752690-1099531752690-86435847464812544-2199063628836-10057-A-0-1.m3u8
 宝刀是怎样炼成的？ - 新奇好玩喵,http://61.241.131.18/tx.rtmp.huya.com/1099531752798-1099531752798-86436311321280512-2199063629052-10057-A-0-1.m3u8
 从此他患上星空恐惧症 - 上山鱼香,http://61.241.131.18/tx.rtmp.huya.com/1099531840877-1099531840877-86814607745744896-2199063805210-10057-A-0-1.m3u8
