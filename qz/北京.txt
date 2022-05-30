@@ -1,3 +1,4 @@
+北京卫视,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226049/1/index.m3u8?fmt=ts2hls
 清华大学,https://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
 CNC_CN,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
 CNC_CN,https://source07.v.news.cn/live/CNC_CN/playlist.m3u8
