@@ -1,6 +1,7 @@
 
 使用规则
 
+[url=https://cdn.jsdelivr.net/gh/bauw2008/tv/mys1.txt]01[/url]
 
 https://cdn.staticaly.com/gh/bauw2008/tv/master/01.txt
 
