@@ -36,7 +36,7 @@ https://cdn.jsdelivr.net/gh/你的用户名/你的仓库名@发布的版本号/�
 
 [gcore.jsdelivr](https://gcore.jsdelivr.net/)
 
-5、猫接口
+5、CatVod接口
 
 [githubusercontents-msy1.txt](https://raw.githubusercontents.com/bauw2008/tv/master/msy1.txt)
 
