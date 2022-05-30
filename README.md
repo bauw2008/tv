@@ -12,27 +12,28 @@ https://cdn.jsdelivr.net/gh/你的用户名/你的仓库名@发布的版本号/�
 
 [sevencdn-04.txt](https://raw.sevencdn.com/bauw2008/tv/master/04.txt)
 
+[cdn-04.txt](https://cdn.jsdelivr.net/gh/bauw2008/tv@master/04.txt)
+
 [cdn-sydx.txt](https://cdn.jsdelivr.net/gh/bauw2008/tv@master/sydx.txt)
 
 
 2、tv-m3u格式
 
-[cdn-03.m3u](https://cdn.jsdelivr.net/gh/bauw2008/tv/03.m3u）
+[cdn-03.m3u](https://cdn.jsdelivr.net/gh/bauw2008/tv/03.m3u)
 
-[cdn.jsdelivr](https://cdn.jsdelivr.net/gh/bauw2008/tv@master/01.txt)
 
-[cdn-03.m3u](https://cdn.jsdelivr.net/gh/bauw2008/tv@master/03.m3u）
+[cdn-03.m3u](https://cdn.jsdelivr.net/gh/bauw2008/tv@master/03.m3u)
 
 3、jpg
 
-[cdn.jsdelivr](https://cdn.jsdelivr.net/gh/bauw2008/tv/a.jpg）
+[cdn-jpg](https://cdn.jsdelivr.net/gh/bauw2008/tv/a.jpg)
 
-[cdn-a.jpg](https://cdn.jsdelivr.net/gh/bauw2008/tv@master/a.jpg）
+[cdn-a.jpg](https://cdn.jsdelivr.net/gh/bauw2008/tv@master/a.jpg)
 
 4、其他接口
-[fastly.jsdelivr](https://fastly.jsdelivr.net/）
+[fastly.jsdelivr](https://fastly.jsdelivr.net/)
 
-[gcore.jsdelivr](https://gcore.jsdelivr.net/）
+[gcore.jsdelivr](https://gcore.jsdelivr.net/)
 
 5、猫接口
 
@@ -55,22 +56,22 @@ c:diyp源加密码方式： 加密码在分类上加"_密码”，如：电视_9
 
 8. epg地址：
 
-[epg-DIYP接口](http://epg.51zmt.top:8000/api/diyp/）
+[epg-DIYP接口](http://epg.51zmt.top:8000/api/diyp/)
 
-[epg1(https://epg.sec.st/epg.php）
+[epg1](https://epg.sec.st/epg.php)
 
-[epg2](https://epg.hicloud.co/epg.php）
+[epg2](https://epg.hicloud.co/epg.php)
 
-[epg3](https://epg.pm）
+[epg3](https://epg.pm)
 
-[epg4](http://n33426t756.wicp.vip/diyp/epg.php）
+[epg4](http://n33426t756.wicp.vip/diyp/epg.php)
 
-[epg5](http://www.diyp.top/diyp/epg.php）
+[epg5](http://www.diyp.top/diyp/epg.php)
 
-[总epg](http://epg.51zmt.top:8000/e.xml）
+[总epg](http://epg.51zmt.top:8000/e.xml)
 
-[央视及各省卫视epg](http://epg.51zmt.top:8000/cc.xml）
+[央视及各省卫视epg](http://epg.51zmt.top:8000/cc.xml)
 
-[地方及数字付费epg](http://epg.51zmt.top:8000/difang.xml）
+[地方及数字付费epg](http://epg.51zmt.top:8000/difang.xml)
 
-[港澳台及海外epg](http://epg.51zmt.top:8000/gat.xml）
+[港澳台及海外epg](http://epg.51zmt.top:8000/gat.xml)
