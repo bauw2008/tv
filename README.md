@@ -31,13 +31,14 @@ https://cdn.jsdelivr.net/gh/你的用户名/你的仓库名@发布的版本号/�
 [cdn-a.jpg](https://cdn.jsdelivr.net/gh/bauw2008/tv@master/a.jpg)
 
 4、其他接口
+
 [fastly.jsdelivr](https://fastly.jsdelivr.net/)
 
 [gcore.jsdelivr](https://gcore.jsdelivr.net/)
 
 5、猫接口
 
-[cdn-mys1]([cdn.jsdelivr](https://cdn.jsdelivr.net/gh/bauw2008/tv/mys1.txt)
+[githubusercontents-msy1.txt](https://raw.githubusercontents.com/bauw2008/tv/master/msy1.txt)
 
 [cdn-mys1.txt](https://cdn.jsdelivr.net/gh/bauw2008/tv/mys1.txt)
 
