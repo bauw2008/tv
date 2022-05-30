@@ -51,9 +51,11 @@ a: $c_startxxxxxx$c_end
 
 b: xxxxxxxxxxx,#genre#
 
-c:diyp源加密码方式： 加密码在分类上加"_密码”，如：电视_9977,#genre#。
+c:diyp源加密码方式： 
 
-8. epg地址：
+加密码在分类上加"_密码”，如：电视_9977,#genre#。
+
+8、epg地址：
 
 [epg-DIYP接口](http://epg.51zmt.top:8000/api/diyp/)
 
