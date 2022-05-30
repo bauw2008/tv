@@ -589,7 +589,10 @@ CHC动作电影,http://111.20.33.93/wh7f454c46tw66682855_961085433/PLTV/88888893
 黑猫电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
 海西电影,http://stream.haixitv.cn/1/sd/live.m3u8
 CHC动作电影,http://117.148.179.138/PLTV/88888888/224/3221231580/index.m3u8
+CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭电影,http://117.148.179.151/PLTV/88888888/224/3221231799/index.m3u8
+CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 老故事,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
 天映经典[768*576],http://gxfrg007.8800.org:8282/tsfile/live/1053_1.m3u8
 福州影院,http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
@@ -604,8 +607,8 @@ CHC家庭电影,http://117.148.179.151/PLTV/88888888/224/3221231799/index.m3u8
 超级电视剧,http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
 超级综艺,http://39.135.138.59:18890/PLTV/88888910/224/3221225768/index.m3u8
 超级体育,http://39.135.138.60:18890/PLTV/88888910/224/3221225767/index.m3u8
-仙界®爱情喜剧,http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
-仙界®精品大剧,http://39.134.66.66/PLTV/88888888/224/3221225536/index.m3u8
+爱情喜剧,http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
+精品大剧,http://39.134.66.66/PLTV/88888888/224/3221225536/index.m3u8
 追剧少女,http://117.148.179.179/PLTV/88888888/224/3221231643/index.m3u8
 古龙作品集,http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528313
 体育赛事,http://39.134.67.6:80/wh7f454c46tw2029879648_2093826562/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/1590394299-1.m3u8
