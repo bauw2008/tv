@@ -1,7 +1,7 @@
 
-使用规则
+tv接口 
 
-[url=https://cdn.jsdelivr.net/gh/bauw2008/tv/mys1.txt]01[/url]
+[cdn.jsdelivr](https://cdn.jsdelivr.net/gh/bauw2008/tv/mys1.txt)
 
 https://cdn.staticaly.com/gh/bauw2008/tv/master/01.txt
 
