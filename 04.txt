@@ -330,7 +330,6 @@ kk经典电影,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 黑莓电影,http://39.134.67.226/PLTV/88888888/224/3221225681/index.m3u8
 黑莓电影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225718/index.m3u8
-CHC动作电影,http://111.20.33.93/wh7f454c46tw66682855_961085433/PLTV/88888893/224/3221226465/index.m3u8
 ①电影轮播,http://117.148.179.163/PLTV/88888888/224/3221231556/index.m3u8
 ④电影轮播,http://117.148.179.163/PLTV/88888888/224/3221231564/index.m3u8
 ⑦电影轮播,http://117.148.179.157/PLTV/88888888/224/3221231757/index.m3u8
@@ -351,7 +350,11 @@ CHC动作电影,http://111.20.33.93/wh7f454c46tw66682855_961085433/PLTV/88888893
 黑猫电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
 海西电影,http://stream.haixitv.cn/1/sd/live.m3u8
 CHC动作电影,http://117.148.179.138/PLTV/88888888/224/3221231580/index.m3u8
+CHC动作电影,http://111.20.33.93/wh7f454c46tw66682855_961085433/PLTV/88888893/224/3221226465/index.m3u8
+CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭电影,http://117.148.179.151/PLTV/88888888/224/3221231799/index.m3u8
+CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 老故事,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
 天映经典[768*576],http://gxfrg007.8800.org:8282/tsfile/live/1053_1.m3u8
 福州影院,http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
