@@ -1,46 +1,51 @@
-
-tv接口 
-
-[cdn.jsdelivr](https://cdn.jsdelivr.net/gh/bauw2008/tv/mys1.txt)
-
-https://cdn.staticaly.com/gh/bauw2008/tv/master/01.txt
-
-https://raw.githubusercontents.com/bauw2008/tv/master/01.txt
-
-https://raw.sevencdn.com/bauw2008/tv/master/01.txt
+1、tv-tvt格式(DIYP接口）
 
 https://cdn.jsdelivr.net/gh/你的用户名/你的仓库名@发布的版本号/文件路径
 
-https://cdn.jsdelivr.net/gh/bauw2008/tv/01.txt
+加速接口
 
-https://cdn.jsdelivr.net/gh/bauw2008/tv/03.m3u
+[cdn-04.txt](https://cdn.jsdelivr.net/gh/bauw2008/tv/04.txt)
 
-https://cdn.jsdelivr.net/gh/bauw2008/tv/a.jpg
+[staticaly-04.txt](https://cdn.staticaly.com/gh/bauw2008/tv/master/04.txt)
 
-https://cdn.jsdelivr.net/gh/bauw2008/tv@master/01.txt
+[githubusercontents-04.txt](https://raw.githubusercontents.com/bauw2008/tv/master/04.txt)
 
-https://cdn.jsdelivr.net/gh/bauw2008/tv@master/03.m3u
+[sevencdn-04.txt](https://raw.sevencdn.com/bauw2008/tv/master/04.txt)
 
-https://cdn.jsdelivr.net/gh/bauw2008/tv@master/a.jpg
-
-https://cdn.jsdelivr.net/gh/bauw2008/tv@master/sydx.txt
-
-其他接口
-https://fastly.jsdelivr.net/
-
-https://gcore.jsdelivr.net/
+[cdn-sydx.txt](https://cdn.jsdelivr.net/gh/bauw2008/tv@master/sydx.txt)
 
 
-猫接口
+2、tv-m3u格式
 
-https://cdn.jsdelivr.net/gh/bauw2008/tv/mys1.txt
+[cdn-03.m3u](https://cdn.jsdelivr.net/gh/bauw2008/tv/03.m3u）
 
-https://cdn.jsdelivr.net/gh/bauw2008/tv/mys2.txt
+[cdn.jsdelivr](https://cdn.jsdelivr.net/gh/bauw2008/tv@master/01.txt)
+
+[cdn-03.m3u](https://cdn.jsdelivr.net/gh/bauw2008/tv@master/03.m3u）
+
+3、jpg
+
+[cdn.jsdelivr](https://cdn.jsdelivr.net/gh/bauw2008/tv/a.jpg）
+
+[cdn-a.jpg](https://cdn.jsdelivr.net/gh/bauw2008/tv@master/a.jpg）
+
+4、其他接口
+[fastly.jsdelivr](https://fastly.jsdelivr.net/）
+
+[gcore.jsdelivr](https://gcore.jsdelivr.net/）
+
+5、猫接口
+
+[cdn-mys1]([cdn.jsdelivr](https://cdn.jsdelivr.net/gh/bauw2008/tv/mys1.txt)
+
+[cdn-mys1.txt](https://cdn.jsdelivr.net/gh/bauw2008/tv/mys1.txt)
+
+[cdn-mys2.txt](https://cdn.jsdelivr.net/gh/bauw2008/tv/mys2.txt)
 
 
-1. 源文件格式： UTF-8格式的编码。
+6. 源文件格式： UTF-8格式的编码。
 
-2. 直播源的分类写法：
+7. 直播源的分类写法：
 
 a: $c_startxxxxxx$c_end
 
@@ -48,24 +53,24 @@ b: xxxxxxxxxxx,#genre#
 
 c:diyp源加密码方式： 加密码在分类上加"_密码”，如：电视_9977,#genre#。
 
-3. epg地址：
+8. epg地址：
 
-https://epg.sec.st/epg.php
+[epg-DIYP接口](http://epg.51zmt.top:8000/api/diyp/）
 
-https://epg.hicloud.co/epg.php
+[epg1(https://epg.sec.st/epg.php）
 
-http://epg.51zmt.top:8000/api/diyp/（DIYP接口）
+[epg2](https://epg.hicloud.co/epg.php）
 
-https://epg.pm
+[epg3](https://epg.pm）
 
-http://n33426t756.wicp.vip/diyp/epg.php
+[epg4](http://n33426t756.wicp.vip/diyp/epg.php）
 
-http://www.diyp.top/diyp/epg.php
+[epg5](http://www.diyp.top/diyp/epg.php）
 
-总:http://epg.51zmt.top:8000/e.xml
+[总epg](http://epg.51zmt.top:8000/e.xml）
 
-央视及各省卫视：http://epg.51zmt.top:8000/cc.xml
+[央视及各省卫视epg](http://epg.51zmt.top:8000/cc.xml）
 
-地方及数字付费：http://epg.51zmt.top:8000/difang.xml
+[地方及数字付费epg](http://epg.51zmt.top:8000/difang.xml）
 
-港澳台及海外 ：http://epg.51zmt.top:8000/gat.xml
+[港澳台及海外epg](http://epg.51zmt.top:8000/gat.xml）
