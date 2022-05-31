@@ -519,6 +519,8 @@ TNT SPORTS 2,https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 黑莓电竞,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
 哒哒赛事,http://183.207.249.16/PLTV/3/224/3221225539/index.m3u8
 哒哒赛事,http://39.134.66.66/PLTV/88888888/224/3221225559/index.m3u8
+体育赛事,http://39.134.67.6:80/wh7f454c46tw2029879648_2093826562/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/1590394299-1.m3u8
+HWF散打,http://pull-g.kktv8.com/livekktv/57588147.flv
 
 🎥电影,#genre#
 1905,https://hlslive.1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8?tm=1654380301&sign=ecaa197ce40a72a1c7a7ecac87ad6e7f
@@ -559,7 +561,6 @@ KiD影院12,http://112.74.200.9:88/tv000000/m3u8.php?/migu/617432318/index.m3u8
 周星驰影院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/623338112
 张国荣影院,http://117.148.179.177/PLTV/88888888/224/3221231790/index.m3u8
 古天乐影院,http://117.148.179.176/PLTV/88888888/224/3221231645/index.m3u8
-kk经典电影,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
 电影4,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 港台电影,http://migu.jilu8.cn/3221231583/index.m3u8
 高分影院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198191
@@ -592,10 +593,10 @@ CHC家庭电影,http://117.148.179.151/PLTV/88888888/224/3221231799/index.m3u8
 CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 老故事,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
-天映经典[768*576],http://gxfrg007.8800.org:8282/tsfile/live/1053_1.m3u8
+天映经典,http://gxfrg007.8800.org:8282/tsfile/live/1053_1.m3u8
 福州影院,http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
 隆化影院,http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8
-含山影院生活[768*576],http://223.241.197.199:1935/live/yingshi/playlist.m3u8
+含山影院生活,http://223.241.197.199:1935/live/yingshi/playlist.m3u8
 菏泽影院,http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8
 衡水影院,http://hls.hsrtv.cn/hls/hstv2.m3u8
 黄骅影院,http://hbhh.chinashadt.com:2111/live/hhys.stream/playlist.m3u8
@@ -607,8 +608,6 @@ CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 精品大剧,http://39.134.66.66/PLTV/88888888/224/3221225536/index.m3u8
 追剧少女,http://117.148.179.179/PLTV/88888888/224/3221231643/index.m3u8
 古龙作品集,http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528313
-体育赛事,http://39.134.67.6:80/wh7f454c46tw2029879648_2093826562/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/1590394299-1.m3u8
-HWF散打,http://pull-g.kktv8.com/livekktv/57588147.flv
 数码时代,http://yd-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 电影,https://sf1-ttcdn-tos.pstatp.com/obj/tos-cn-v-0000/c51103da90f442339e892f8711ab0998
 韩国劲舞,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgv5iohQYo__u7rAY.mp4
