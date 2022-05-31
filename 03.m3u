@@ -987,6 +987,10 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
 http://183.207.249.16/PLTV/3/224/3221225539/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="⚽️体育",哒哒赛事
 http://39.134.66.66/PLTV/88888888/224/3221225559/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="⚽️体育",体育赛事
+http://39.134.67.6:80/wh7f454c46tw2029879648_2093826562/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/1590394299-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="⚽️体育",HWF散打
+http://pull-g.kktv8.com/livekktv/57588147.flv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",1905
 https://hlslive.1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8?tm=1654380301&sign=ecaa197ce40a72a1c7a7ecac87ad6e7f
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",超级电影
@@ -1065,8 +1069,6 @@ http://112.74.200.9:88/tv000000/m3u8.php?/migu/623338112
 http://117.148.179.177/PLTV/88888888/224/3221231790/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",古天乐影院
 http://117.148.179.176/PLTV/88888888/224/3221231645/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",kk经典电影
-http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",电影4
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",港台电影
@@ -1115,8 +1117,6 @@ http://117.148.179.163/PLTV/88888888/224/3221231679/index.m3u8
 http://117.148.179.163/PLTV/88888888/224/3221231727/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",谍战剧场
 http://112.74.200.9:88/tv000000/m3u8.php/migu/634274665
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",超级电视剧
-http://39.135.138.59:18890/PLTV/88888910/224/3221225625/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",黑猫电影
 http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",海西电影
@@ -1127,13 +1127,13 @@ http://117.148.179.138/PLTV/88888888/224/3221231580/index.m3u8
 http://117.148.179.151/PLTV/88888888/224/3221231799/index.m3u8
 #EXTINF:-1 tvg-id="6594" tvg-name="老故事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="🎥电影",老故事
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",天映经典[768*576]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",天映经典
 http://gxfrg007.8800.org:8282/tsfile/live/1053_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",福州影院
 http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",隆化影院
 http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",含山影院生活[768*576]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",含山影院生活
 http://223.241.197.199:1935/live/yingshi/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",菏泽影院
 http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8
@@ -1145,26 +1145,18 @@ http://hbhh.chinashadt.com:2111/live/hhys.stream/playlist.m3u8
 https://jsylivealone302.iqilu.com/live/huimin_tv02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",徐州影院
 http://183.207.248.15/PLTV/3/224/3221225949/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",超级电视剧
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",超级电视剧
-http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",超级综艺
 http://39.135.138.59:18890/PLTV/88888910/224/3221225768/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",超级体育
 http://39.135.138.60:18890/PLTV/88888910/224/3221225767/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",仙界®爱情喜剧
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",爱情喜剧
 http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",仙界®精品大剧
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",精品大剧
 http://39.134.66.66/PLTV/88888888/224/3221225536/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",追剧少女
 http://117.148.179.179/PLTV/88888888/224/3221231643/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",古龙作品集
 http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528313
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",体育赛事
-http://39.134.67.6:80/wh7f454c46tw2029879648_2093826562/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/1590394299-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",HWF散打
-http://pull-g.kktv8.com/livekktv/57588147.flv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",数码时代
 http://yd-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",电影
