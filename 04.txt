@@ -283,10 +283,11 @@ TNT SPORTS 2,https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 哒哒赛事,http://39.134.66.66/PLTV/88888888/224/3221225559/index.m3u8
 
 🎥电影,#genre#
+1905,https://hlslive.1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8?tm=1654380301&sign=ecaa197ce40a72a1c7a7ecac87ad6e7f
 超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 超级电影,http://39.135.138.59:18890/PLTV/88888910/224/3221225766/index.m3u8
-超级电影,http://39.135.138.59:18890/PLTV/88888910/224/3221225623/index.m3u8
 超级电影,http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
+超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 超级电视剧,http://39.135.138.60:18890/PLTV/88888910/224/3221225765/index.m3u8
 kdi影视1,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226741/index.m3u8?servicetype=1
 kdi影视2,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226736/index.m3u8?servicetype=1
@@ -321,10 +322,6 @@ KiD影院12,http://112.74.200.9:88/tv000000/m3u8.php?/migu/617432318/index.m3u8
 kk经典电影,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
 电影4,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 港台电影,http://migu.jilu8.cn/3221231583/index.m3u8
-超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-超级电影,http://39.135.138.59:18890/PLTV/88888910/224/3221225766/index.m3u8
-超级电影,http://39.135.138.59:18890/PLTV/88888910/224/3221225623/index.m3u8
-超级电影,http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
 高分影院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198191
 笑欢剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/623674859
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
