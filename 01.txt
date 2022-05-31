@@ -527,6 +527,8 @@ TNT SPORTS 2,https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 超级电影,http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
 超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 超级电视剧,http://39.135.138.60:18890/PLTV/88888910/224/3221225765/index.m3u8
+超级电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+超级电视剧,http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
 kdi影视1,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226741/index.m3u8?servicetype=1
 kdi影视2,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226736/index.m3u8?servicetype=1
 kdi影视3,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226692/index.m3u8?servicetype=1
@@ -581,7 +583,6 @@ kk经典电影,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
 21电影轮播,http://117.148.179.163/PLTV/88888888/224/3221231679/index.m3u8
 23电影轮播,http://117.148.179.163/PLTV/88888888/224/3221231727/index.m3u8
 谍战剧场,http://112.74.200.9:88/tv000000/m3u8.php/migu/634274665
-超级电视剧,http://39.135.138.59:18890/PLTV/88888910/224/3221225625/index.m3u8
 黑猫电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
 海西电影,http://stream.haixitv.cn/1/sd/live.m3u8
 CHC动作电影,http://117.148.179.138/PLTV/88888888/224/3221231580/index.m3u8
@@ -600,8 +601,6 @@ CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 黄骅影院,http://hbhh.chinashadt.com:2111/live/hhys.stream/playlist.m3u8
 惠民影院,https://jsylivealone302.iqilu.com/live/huimin_tv02.m3u8
 徐州影院,http://183.207.248.15/PLTV/3/224/3221225949/index.m3u8
-超级电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-超级电视剧,http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
 超级综艺,http://39.135.138.59:18890/PLTV/88888910/224/3221225768/index.m3u8
 超级体育,http://39.135.138.60:18890/PLTV/88888910/224/3221225767/index.m3u8
 爱情喜剧,http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
