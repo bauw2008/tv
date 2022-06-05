@@ -60,6 +60,8 @@ c:diyp源加密码方式：
 
 [epg-DIYP接口](http://epg.51zmt.top:8000/api/diyp/)
 
+[epg-DIYP接口2](http://diyp.112114.xyz/)
+
 [epg1](https://epg.sec.st/epg.php)
 
 [epg2](https://epg.hicloud.co/epg.php)
@@ -77,3 +79,15 @@ c:diyp源加密码方式：
 [地方及数字付费epg](http://epg.51zmt.top:8000/difang.xml)
 
 [港澳台及海外epg](http://epg.51zmt.top:8000/gat.xml)
+
+[epg6](http://124.223.212.38:83/)
+
+[epg7](https://epg.112114.xyz/)
+
+[Bing每日图片](https://epg.112114.xyz/bingimg)
+
+[超级直播](https://epg.112114.xyz/epginfo)
+
+[Xml格式](https://epg.112114.xyz/pp.xml)
+[Xml格式](https://epg.112114.xyz/pp.xml.gz)
+
