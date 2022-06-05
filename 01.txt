@@ -502,6 +502,17 @@ ViuTV,http://kkmix1.f3322.net:762/hls/ch1/s.m3u8
 东森电影,http://120.84.96.43:808/hls/32/index.m3u8
 东森洋片,http://120.84.96.33:808/hls/33/index.m3u8
 星影卫视,http://data.3g.yy.com/live/hls/29900720/29900720
+星卫电影,P2p://ns2.hellotvvod.com:9906/bdb2a4266251451a918d42ec44667801
+星卫电影,mitv://ns2.hellotvvod.com:9906/0542443a632841b5b962af8f287b7e6a.ts
+星卫电影,p5p://fccs.123178.top:9906/60494c90000347391465f5d2b8473dbe.ts
+星河,P2p://ns2.hellotvvod.com:9906/5f99a3cfce824f6da2fd0c3b6797428a
+星河,http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze4CYnnpnWtwLvhLInmrMHIw
+星河,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/28
+壹电影,P2p://ns2.hellotvvod.com:9906/4726fe8fb7e748659fac6cf64370a205
+壹电影,p5p://fccs.123178.top:9906/60434a87000b209606cdef9cee9a8dfe.ts
+壹电影,mitv://ns2.hellotvvod.com:9906/cfc7f3c6f88641798fd4c57f0ae09f1f.ts
+影迷数位电影,p5p://fccs.123178.top:9906/6068a2650003dd4d135a407336ec164f.ts
+影迷数位电影,mitv://ns2.hellotvvod.com:9906/02351070157d4a33b49a516e4b5b10ca.ts
 华视,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=86
 华视,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=61
 天映经典,http://120.84.96.32:808/hls/85/index.m3u8
@@ -1548,6 +1559,11 @@ CCTV音乐之声,http://ngcdn003.cnr.cn/live/yyzs48/index.m3u8
 成都高清,http://gcalic.v.myalicdn.com/gc/ipanda_1td/index.m3u8
 
 ⚡信息_997788,#genre#
+私人影院,p5p://fccs.123178.top:9906/612b76530005bddc0079e572c66e5249
+松视1,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/477
+松视2,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/478
+松视3,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/479
+松视4,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/480
 HND-513 河南実里,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181202/7/HND-513/index.m3u8
 MXBD-221 吉沢明歩,http://videocdnbaidu.rhsj520.com/rbny/20180812/jzmb/MXBD-221/index.m3u8
 DVDMS-329-2,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181202/3/dvdms-329-2/index.m3u8
