@@ -578,7 +578,7 @@ TNT SPORTS 2,https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 HWF散打,http://pull-g.kktv8.com/livekktv/57588147.flv
 
 🎥电影,#genre#
-1905,https://hlslive.1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8?tm=1654380301&sign=ecaa197ce40a72a1c7a7ecac87ad6e7f
+1905,https://hlslive.1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8?tm=1655460301&sign=0756485445bfb27c25200465dc15589f
 超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 超级电影,http://39.135.138.59:18890/PLTV/88888910/224/3221225766/index.m3u8
 超级电影,http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
