@@ -46,6 +46,15 @@ https://cdn.jsdelivr.net/gh/你的用户名/你的仓库名@发布的版本号/�
 
 本地接口：clan://localhost/根目录下文件夹/m.json
 
+根目录emulated/0
+
+catvod/
+
+jar/
+biubiu/
+xpath/
+m.json
+
 6、源文件格式： UTF-8格式的编码。
 
 7、直播源的分类写法：
