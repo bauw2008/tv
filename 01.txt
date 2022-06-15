@@ -430,6 +430,8 @@ CEC国际频道,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
 兵团卫视,http://test5.btzx.com.cn/live/btxjbtws.stream/playlist.m3u8
 
 🇭🇰港台,#genre#
+爱奇艺 HD,http://58.247.70.104:61985/hlsok/c0603ce98/index.m3u8
+星空卫视,http://120.84.96.46:808/hls/79/index.m3u8
 星空卫视,http://120.84.96.29:808/hls/79/index.m3u8
 星空卫视,http://120.84.96.32:808/hls/79/index.m3u8
 星空卫视,http://120.84.96.25:808/hls/79/index.m3u8
@@ -544,6 +546,14 @@ NHK华语,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 国家地理,http://live.tvfix.org/hls/natlgeo.m3u8
 旅游,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=102
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+高点综合 HD,http://58.247.70.104:61985/hlsok/9569303e/index.m3u8
+公视 HD,http://58.247.70.104:61985/hlsok/a98ccb72/index.m3u8
+公视2台语台 HD,http://58.247.70.104:61985/hlsok/49ab3435/index.m3u8
+公视3HD HD,http://58.247.70.104:61985/hlsok/a804122f/index.m3u8
+8度空间 HD,http://58.247.70.104:61985/hlsok/8c1c704ed/index.m3u8
+八大第一台 HD,http://58.247.70.104:61985/hlsok/0c1c9c69/index.m3u8
+八大戏剧台 HD,http://58.247.70.104:61985/hlsok/ecd48897/index.m3u8
+八大娱乐台 HD,http://58.247.70.104:61985/hlsok/ae8d3762/index.m3u8
 
 ⚽️体育,#genre#
 TNT SPORTS 2,https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
