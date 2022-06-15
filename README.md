@@ -44,6 +44,8 @@ https://cdn.jsdelivr.net/gh/你的用户名/你的仓库名@发布的版本号/�
 
 [cdn-mys2.txt](https://cdn.jsdelivr.net/gh/bauw2008/tv/mys2.txt)
 
+本地接口：clan://localhost/根目录下文件夹/m.json
+
 6、源文件格式： UTF-8格式的编码。
 
 7、直播源的分类写法：
