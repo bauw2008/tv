@@ -416,7 +416,6 @@ CEC国际频道,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
 兵团卫视,http://test5.btzx.com.cn/live/btxjbtws.stream/playlist.m3u8
 
 🇭🇰港台,#genre#
-爱奇艺 HD,http://58.247.70.104:61985/hlsok/c0603ce98/index.m3u8
 星空卫视,http://171.108.239.6:8181/tsfile/live/1012_1.m3u8
 星空卫视,http://liveanevia.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd 
 星空卫视,P2p://ns2.hellotvvod.com:9906/473ff201fab6491eb63824e23a1a3a31.ts
@@ -572,7 +571,6 @@ TNT SPORTS 2,https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 HWF散打,http://pull-g.kktv8.com/livekktv/57588147.flv
 
 🎥电影,#genre#
-1905,https://hlslive.1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8?tm=1655460301&sign=0756485445bfb27c25200465dc15589f
 超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 超级电影,http://39.135.138.59:18890/PLTV/88888910/224/3221225766/index.m3u8
 超级电影,http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
