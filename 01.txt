@@ -431,16 +431,13 @@ CEC国际频道,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
 
 🇭🇰港台,#genre#
 爱奇艺 HD,http://58.247.70.104:61985/hlsok/c0603ce98/index.m3u8
-星空卫视,http://120.84.96.46:808/hls/79/index.m3u8
-星空卫视,http://120.84.96.29:808/hls/79/index.m3u8
+星空卫视,http://171.108.239.6:8181/tsfile/live/1012_1.m3u8
+星空卫视,P2p://ns2.hellotvvod.com：9906/473ff201fab6491eb63824e23a1a3a31.ts
 星空卫视,http://120.84.96.32:808/hls/79/index.m3u8
 星空卫视,http://120.84.96.25:808/hls/79/index.m3u8
-凤凰卫视,http://117.169.120.138:8080/live/fhchinese/index.m3u8
-凤凰卫视,http://117.169.120.138:8080/live/fhchinese/.m3u8
-凤凰电视,http://120.84.96.33:808/hls/29/index.m3u8
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 凤凰电影,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
-凤凰香港,http://120.84.96.43:808/hls/81/index.m3u8
+凤凰香港,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 凤凰香港,http://183.207.249.35:80/PLTV/3/224/3221226975/index.m3u8
 凤凰香港,http://183.207.249.35/ott.js.chinamobile.com/PLTV/3/224/3221226975/index.m3u8
 凤凰香港,http://198.204.239.194:27347/livehlsplay?channel_id=30016
@@ -596,6 +593,7 @@ HWF散打,http://pull-g.kktv8.com/livekktv/57588147.flv
 超级电视剧,http://39.135.138.60:18890/PLTV/88888910/224/3221225765/index.m3u8
 超级电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 超级电视剧,http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
+私人影院,http://171.108.239.6:8181/tsfile/live/1014_1.m3u8
 kdi影视1,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226741/index.m3u8?servicetype=1
 kdi影视2,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226736/index.m3u8?servicetype=1
 kdi影视3,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226692/index.m3u8?servicetype=1
