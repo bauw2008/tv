@@ -813,18 +813,16 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226218/1.m3u8
 http://pull2.ssws.tv/live/SswsTV20210803.m3u8
 #EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="📺省台",兵团卫视
 http://test5.btzx.com.cn/live/btxjbtws.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇭🇰港台",星空卫视
-http://120.84.96.29:808/hls/79/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇭🇰港台",星空卫视
-http://120.84.96.32:808/hls/79/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇭🇰港台",星空卫视
-http://120.84.96.25:808/hls/79/index.m3u8
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="🇭🇰港台",凤凰卫视
-http://117.169.120.138:8080/live/fhchinese/index.m3u8
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="🇭🇰港台",凤凰卫视
-http://117.169.120.138:8080/live/fhchinese/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇭🇰港台",凤凰电视
-http://120.84.96.33:808/hls/29/index.m3u8
+#EXTINF:-1 group-title="🇭🇰港台",星空卫视
+http://171.108.239.6:8181/tsfile/live/1012_1.m3u8
+#EXTINF:-1 group-title="🇭🇰港台",星空卫视
+http://liveanevia.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
+#EXTINF:-1 group-title="🇭🇰港台",星空卫视
+P2p://ns2.hellotvvod.com:9906/473ff201fab6491eb63824e23a1a3a31.ts
+#EXTINF:-1 group-title="🇭🇰港台",星空卫视
+http://qwas.eatuo.com:9901/tsfile/live/1080_1.m3u8
+#EXTINF:-1 group-title="🇭🇰港台",星空卫视
+http://120.84.96.227:808/hls/79/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇭🇰港台",凤凰电影
 http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇭🇰港台",凤凰电影
@@ -1073,8 +1071,6 @@ http://39.134.66.66/PLTV/88888888/224/3221225559/index.m3u8
 http://39.134.67.6:80/wh7f454c46tw2029879648_2093826562/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/1590394299-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="⚽️体育",HWF散打
 http://pull-g.kktv8.com/livekktv/57588147.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",1905
-https://hlslive.1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8?tm=1655460301&sign=0756485445bfb27c25200465dc15589f
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",超级电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",超级电影
@@ -1089,6 +1085,8 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225765/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",超级电视剧
 http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
+#EXTINF:-1 group-title="🎥电影",私人影院
+http://171.108.239.6:8181/tsfile/live/1014_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",kdi影视1
 http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226741/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",kdi影视2
@@ -1667,6 +1665,12 @@ http://cache.ott.fifalive.itv.cmvideo.cn:80/7185203501769528108/index.m3u8?chann
 http://cache.ott.fifalive.itv.cmvideo.cn:80/5841816227539527643/index.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=no
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺华数",3D频道
 http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000003000000558/index.m3u8?channel-id=wasusyt&Contentid=6000000003000000558&livemode=1&stbId=no
+#EXTINF:-1 group-title="📺华数",华数1
+http://171.108.239.6:8181/tsfile/live/1019_1.m3u8
+#EXTINF:-1 group-title="📺华数",华数2
+http://171.108.239.6:8181/tsfile/live/1022_1.m3u8
+#EXTINF:-1 group-title="📺华数",电影
+http://171.108.239.6:8181/tsfile/live/1023_1.m3u8
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="📺华数",CHC动作电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="📺华数",CHC家庭影院
