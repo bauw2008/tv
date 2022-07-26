@@ -1,7 +1,7 @@
 ﻿
 {
 ## spider
-"spider":"https://wp.wangshi520.com/down.php/0b697e824fb3cbb4a5259c1f51cdea36.jar",
+"spider":"http://9xi4o.tk/OneClickRun/MaooXB/XBiubiuLA3.jar;md5;537d6ed9b6e9ee932e39fd364050e720",
 
 # 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2ZyZWVkLnl1YW5oc2luZy5jZi90di9saXZlLnR4dA=="]}]}],
