@@ -1,10 +1,6 @@
 {
 ## spider
-//"spider":"https://pan.bilnn.cn/api/v3/file/sourcejump/WNXNpmT9/dMs95b_MKHJ9jwSn6DXMNJ0scc1O7CjtnbckntjhaFk*",
-"spider":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA4.jar",
-"spider":"https://gitea.com/lichadeker/mao/raw/branch/master/07061553.jar",
-"spider":"https://gitea.com/gaigai/gougou/raw/branch/main/top921.jar",
-"spider":"https://tc.24ly.cn/down.php/a769a8b02208dd1f5ceed4cddf0109d3.jar;md5;a769a8b02208dd1f5ceed4cddf0109d3",
+//"spider":""spider":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA4.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL09uZUNsaWNrUnVuL2xpdmUudHh0"]}]}],
 
