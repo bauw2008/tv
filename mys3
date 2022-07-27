@@ -2,6 +2,8 @@
   "spider":"https://tc.24ly.cn/down.php/a769a8b02208dd1f5ceed4cddf0109d3.jar;md5;a769a8b02208dd1f5ceed4cddf0109d3",
 //"spider":"https://gitea.com/gaigai/gougou/raw/branch/main/top921.jar",
 
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL09uZUNsaWNrUnVuL2xpdmUudHh0"]}]}],
+
 {
 "sites": [
 {"key": "csp_77","name": "七七","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -254,7 +256,6 @@
 "wasu",
 "bilibili"
 ],
-"spider": "https://jar1234.coding.net/p/m/d/m/git/raw/master/custom_spider_0330.jar;md5;01a4ac9109a0602124cee4feddc1971e",
 "ijk": [
 {
 "group": "软解码",
