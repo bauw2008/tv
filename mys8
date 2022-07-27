@@ -1,5 +1,6 @@
 {
-"spider": "https://raw.githubusercontents.com/liu673cn/mao/main/jar/custom_spider.jar",
+  "spider":"https://tc.24ly.cn/down.php/a769a8b02208dd1f5ceed4cddf0109d3.jar;md5;a769a8b02208dd1f5ceed4cddf0109d3",
+//"spider":"https://gitea.com/gaigai/gougou/raw/branch/main/top921.jar",
 
 "sites": [
 {"key": "csp_77"         ,"name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
