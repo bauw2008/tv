@@ -1,6 +1,6 @@
 {
-"wallpaper":"https://picsum.photos/1280/720/?blur=10",
-"spider":"http://9xi4o.tk/OneClickRun/MaooXB/XBiubiuLA3.jar;md5;537d6ed9b6e9ee932e39fd364050e720",
+  "spider":"https://tc.24ly.cn/down.php/a769a8b02208dd1f5ceed4cddf0109d3.jar;md5;a769a8b02208dd1f5ceed4cddf0109d3",
+//"spider":"https://gitea.com/gaigai/gougou/raw/branch/main/top921.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL09uZUNsaWNrUnVuL2xpdmUudHh0"]}]}],
 "sites":[
@@ -8,6 +8,7 @@
 {"key":"Kuaikan","name":"🎈快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"七七","name":"👒七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"9E03","name":"9E03","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vod.9e03.com/lvdou_api.php/v1.vod"},
+{"key": "csp_LiteApple" ,"name":"🐞苹果影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"奈落影院","name":"🐼奈落影院","type":3,"api":"csp_Newfii","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"在线之家","name":"🐼在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"小宝影院","name":"🐼小宝影院","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
