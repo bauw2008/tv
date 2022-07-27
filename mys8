@@ -2,6 +2,9 @@
   "spider":"https://tc.24ly.cn/down.php/a769a8b02208dd1f5ceed4cddf0109d3.jar;md5;a769a8b02208dd1f5ceed4cddf0109d3",
 //"spider":"https://gitea.com/gaigai/gougou/raw/branch/main/top921.jar",
 
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL09uZUNsaWNrUnVuL2xpdmUudHh0"]}]}],
+
+
 "sites": [
 {"key": "csp_77"         ,"name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_CZSPP"      ,"name":"🐞厂长资源","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":0},
