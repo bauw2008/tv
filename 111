@@ -1,6 +1,6 @@
 {
-  "spider":"https://github.com/bauw2008/tv/blob/master/1/ggtv.jar",
-//"spider":"https://github.com/bauw2008/tv/blob/master/1/custom_spider_220713.jar",
+  "spider":"https://raw.githubusercontents.com/bauw2008/tv/master/1/ggtv.jar",
+//"spider":"https://graw.githubusercontents.com/bauw2008/tv/master/1/custom_spider_220713.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL09uZUNsaWNrUnVuL2xpdmUudHh0"]}]}],
 
