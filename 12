@@ -3,7 +3,7 @@
 "spider":"https://wp.wangshi520.com/down.php/f1119df4fc629e71103cc19e2c7b2338.jar",
 
 /*-----------------------壁纸切换动漫接口(可替换)-----------------------*/
-"wallpaper":"https://raw.githubusercontents.com/bauw2008/tv/master/jpg/
+"wallpaper":"https://raw.githubusercontents.com/bauw2008/tv/master/jpg/",  //自定义
 //"wallpaper":"https://www.dmoe.cc/random.php",  //默认动漫少女
 //"wallpaper":"https://api.vvhan.com/api/acgimg",  //动漫少女
 //"wallpaper":"https://picsum.photos/1280/720/?blur=10",  //普通
