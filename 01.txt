@@ -430,7 +430,7 @@ CEC国际频道,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
 兵团卫视,http://test5.btzx.com.cn/live/btxjbtws.stream/playlist.m3u8
 
 🇭🇰港台,#genre#
-星空卫视,http://171.108.239.6:8181/tsfile/live/1012_1.m3u8
+星空卫视,http://171.108.239.12:8181/tsfile/live/1012_1.m3u8
 星空卫视,http://liveanevia.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd 
 星空卫视,P2p://ns2.hellotvvod.com:9906/473ff201fab6491eb63824e23a1a3a31.ts
 星空卫视,http://qwas.eatuo.com:9901/tsfile/live/1080_1.m3u8
