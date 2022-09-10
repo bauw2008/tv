@@ -359,7 +359,6 @@ CEC国际频道,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
 📺省台,#genre#
 贵州卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225728/index.m3u8
 贵州卫视,http://111.63.117.13:6060/030000001000/G_GUIZHOU/G_GUIZHOU.m3u8
-上海ICS外语,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/wypdhd/4000000/mnf.m3u8
 上海东方影视,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
 上海五星体育,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ssty/4000000/mnf.m3u8
 上海第一财经,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dycjhd/4000000/mnf.m3u8
@@ -544,9 +543,8 @@ NHK华语,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 高点综合 HD,http://58.247.70.104:61985/hlsok/9569303e/index.m3u8
 公视 HD,http://58.247.70.104:61985/hlsok/a98ccb72/index.m3u8
-公视2台语台 HD,http://58.247.70.104:61985/hlsok/49ab3435/index.m3u8
-公视3HD HD,http://58.247.70.104:61985/hlsok/a804122f/index.m3u8
-8度空间 HD,http://58.247.70.104:61985/hlsok/8c1c704ed/index.m3u8
+公视2 HD,http://58.247.70.104:61985/hlsok/49ab3435/index.m3u8
+公视3 HD,http://58.247.70.104:61985/hlsok/a804122f/index.m3u8
 八大第一台 HD,http://58.247.70.104:61985/hlsok/0c1c9c69/index.m3u8
 八大戏剧台 HD,http://58.247.70.104:61985/hlsok/ecd48897/index.m3u8
 八大娱乐台 HD,http://58.247.70.104:61985/hlsok/ae8d3762/index.m3u8
@@ -1287,8 +1285,6 @@ Dog狗频道,http://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
 世界未解之谜,https://61d4e7aa14ec50cd98e50d8af275583e.v.smtcdns.net/akm-tct.douyucdn.cn/live/9369468rnSIRfMjs.xs
 世界未解之谜,https://61d4e7aa14ec50cd98e50d8af275583e.v.smtcdns.net/akm-tct.douyucdn.cn/live/9369468rn SIRfMjs.xs?svr_type=live_oc&tencent_test_client_ip=218.5.77.27&dispatch_from=ztc100.115.135.238&utime=1652013694647_1
 世界未解之谜,http://zzy789.xyz/douyu1.php?id=9369468
-纯享4K,http://39.135.55.105:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1&IASHttpSessionId=OTT2734620220507145721106959
-百视通纪录,http://39.135.55.105:6610/PLTV/88888888/224/3221227048/index.m3u8?servicetype=1
 文物宝库,http://39.136.48.2:8089/PLTV/88888888/224/3221226358/1.m3u8
 动物星球,http://59.125.101.187:8719/http/192.168.77.24:8088/hls/70/812/ch37.m3u8?
 动物星球,http://50.7.218.42:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
@@ -1348,9 +1344,9 @@ Dog狗频道,http://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
 都市剧场,http://[2409:8087:6a01:1020::9]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226231/1/index.m3u8?fmt=ts2hls
 都市剧场,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227204/index.m3u8?servicetype=1
 都市剧场,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226243/1/index.m3u8?fmt=ts2hls
-法制天地,http://[2409:8087:6a01:1020::d]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226199/1/index.m3u8?fmt=ts2hls
+法治天地,http://[2409:8087:6a01:1020::d]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226199/1/index.m3u8?fmt=ts2hls
 法治天地,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227176/index.m3u8?servicetype=1
-法制天地,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226199/1/index.m3u8?fmt=ts2hls
+法治天地,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226199/1/index.m3u8?fmt=ts2hls
 七彩戏剧,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227212/index.m3u8?servicetype=1
 东方财经,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227087/index.m3u8?servicetype=1
 生活时尚,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227091/index.m3u8?servicetype=1
