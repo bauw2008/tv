@@ -429,10 +429,15 @@ CEC国际频道,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
 
 🇭🇰港台,#genre#
 星空卫视,http://171.108.239.12:8181/tsfile/live/1012_1.m3u8
-星空卫视,http://liveanevia.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd 
-星空卫视,P2p://ns2.hellotvvod.com:9906/473ff201fab6491eb63824e23a1a3a31.ts
+星空卫视,http://120.84.96.53:808/hls/79/index.m3u8 
+星空卫视,http://120.84.96.63:808/hls/79/index.m3u8 
+星空卫视,http://120.84.96.71:808/hls/79/index.m3u8 
+星空卫视,http://120.84.96.196:808/hls/79/index.m3u8 
 星空卫视,http://qwas.eatuo.com:9901/tsfile/live/1080_1.m3u8
-星空卫视,http://120.84.96.227:808/hls/79/index.m3u8
+星空卫视,http://120.84.96.62:808/hls/79/index.m3u8
+星空卫视,http://jyjxy.7766.org:808/hls/31/index.m3u8
+星空卫视,http://218.202.220.2:5000/nn_live.ts?id=STARTV
+星空卫视,https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 凤凰电影,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
 凤凰香港,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
