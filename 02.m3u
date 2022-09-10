@@ -111,13 +111,13 @@ http://117.148.179.172/PLTV/88888888/224/3221231540/index.m3u8
 http://117.148.179.162/PLTV/88888888/224/3221231604/index.m3u8
 #EXTINF:-1 group-title="📺数字网络",CCTV风云剧场
 http://42.176.185.28:9901/tsfile/live/1030_1.m3u8
-#EXTINF:-1 group-title="📺数字网络",教育一台
+#EXTINF:-1 group-title="📺数字网络",CETV1
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/zgjy1ott/2300000/mnf.m3u8
 #EXTINF:-1 group-title="📺数字网络",CGTN
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226284/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="📺数字网络",CGTN
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226239/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="📺数字网络",CGTN阿语 576[785*576]
+#EXTINF:-1 group-title="📺数字网络",CGTN阿语
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226257/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="📺数字网络",CGTN阿语
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226281/1/index.m3u8?fmt=ts2hls
@@ -615,10 +615,6 @@ http://58.247.70.104:61985/hlsok/ae8d3762/index.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 #EXTINF:-1 group-title="⚽️体育",咪咕体育1
 http://[2409:8087:6a01:1020::d]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226264/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="⚽️体育",体育赛事
-http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226196/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="⚽️体育",体育赛事
-http://[2409:8087:6a01:1020::11]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226253/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="⚽️体育",五星体育
 http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
 #EXTINF:-1 group-title="⚽️体育",五星体育
@@ -673,8 +669,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
 http://183.207.249.16/PLTV/3/224/3221225539/index.m3u8
 #EXTINF:-1 group-title="⚽️体育",哒哒赛事
 http://39.134.66.66/PLTV/88888888/224/3221225559/index.m3u8
-#EXTINF:-1 group-title="⚽️体育",体育赛事
-http://39.134.67.6:80/wh7f454c46tw2029879648_2093826562/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/1590394299-1.m3u8
 #EXTINF:-1 group-title="⚽️体育",HWF散打
 http://pull-g.kktv8.com/livekktv/57588147.flv
 #EXTINF:-1 group-title="🎥电影",超级电影
@@ -971,23 +965,23 @@ http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
 http://39.135.138.59:18890/PLTV/88888910/224/3221225768/index.m3u8
 #EXTINF:-1 group-title="🎥电影",超级体育
 http://39.135.138.60:18890/PLTV/88888910/224/3221225767/index.m3u8
-#EXTINF:-1 group-title="🎥电影",仙界®东北热剧
+#EXTINF:-1 group-title="🎥电影",东北热剧
 http://39.134.66.66/PLTV/88888888/224/3221225679/index.m3u8
-#EXTINF:-1 group-title="🎥电影",仙界®欢乐剧场
+#EXTINF:-1 group-title="🎥电影",欢乐剧场
 http://39.134.66.66/PLTV/88888888/224/3221225682/index.m3u8
-#EXTINF:-1 group-title="🎥电影",仙界®爱情喜剧
+#EXTINF:-1 group-title="🎥电影",爱情喜剧
 http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
-#EXTINF:-1 group-title="🎥电影",仙界®哈哈炫动
+#EXTINF:-1 group-title="🎥电影",哈哈炫动
 http://39.134.66.66/PLTV/88888888/224/3221225534/index.m3u8
-#EXTINF:-1 group-title="🎥电影",仙界®精品大剧
+#EXTINF:-1 group-title="🎥电影",精品大剧
 http://39.134.66.66/PLTV/88888888/224/3221225536/index.m3u8
-#EXTINF:-1 group-title="🎥电影",仙界®惊悚悬疑
+#EXTINF:-1 group-title="🎥电影",惊悚悬疑
 http://39.134.66.66/PLTV/88888888/224/3221225553/index.m3u8
-#EXTINF:-1 group-title="🎥电影",仙界®动作电影
+#EXTINF:-1 group-title="🎥电影",动作电影
 http://39.134.66.66/PLTV/88888888/224/3221225555/index.m3u8
 #EXTINF:-1 group-title="🎥电影",4K剧场
 http://117.148.179.161/PLTV/88888888/224/3221231624/index.m3u8
-#EXTINF:-1 group-title="🎥电影",红色谍战剧场
+#EXTINF:-1 group-title="🎥电影",谍战剧场
 http://117.148.179.169/PLTV/88888888/224/3221231627/index.m3u8
 #EXTINF:-1 group-title="🎥电影",少林剧场
 http://117.148.179.160/PLTV/88888888/224/3221231628/index.m3u8
@@ -1001,8 +995,6 @@ http://117.148.179.179/PLTV/88888888/224/3221231643/index.m3u8
 http://117.148.179.160/PLTV/88888888/224/3221231657/index.m3u8
 #EXTINF:-1 group-title="🎥电影",古龙作品集
 http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528313
-#EXTINF:-1 group-title="🎥电影",体育赛事
-http://39.134.67.6:80/wh7f454c46tw2029879648_2093826562/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/1590394299-1.m3u8
 #EXTINF:-1 group-title="🎥电影",HWF散打
 http://pull-g.kktv8.com/livekktv/57588147.flv
 #EXTINF:-1 group-title="🎥电影",数码时代
@@ -1063,117 +1055,117 @@ http://120.84.96.29:808/hls/36/index.m3u8
 http://120.84.96.29:808/hls/31/index.m3u8
 #EXTINF:-1 group-title="🎥电影",天映频道
 http://172.96.160.182/live/nn.php?id=0015
-#EXTINF:-1 group-title="🎥电影",1.华语经典
+#EXTINF:-1 group-title="🎥电影",华语经典
 http://epg.112114.xyz/douyu/434971
-#EXTINF:-1 group-title="🎥电影",2.吃米滴虫
+#EXTINF:-1 group-title="🎥电影",吃米滴虫
 http://epg.112114.xyz/douyu/315457
-#EXTINF:-1 group-title="🎥电影",3.华语院线
+#EXTINF:-1 group-title="🎥电影",华语院线
 http://epg.112114.xyz/douyu/5581257
-#EXTINF:-1 group-title="🎥电影",4.神乐影片1
+#EXTINF:-1 group-title="🎥电影",神乐影片1
 http://epg.112114.xyz/douyu/122402
-#EXTINF:-1 group-title="🎥电影",5.神乐影片2
+#EXTINF:-1 group-title="🎥电影",神乐影片2
 http://epg.112114.xyz/douyu/85894
-#EXTINF:-1 group-title="🎥电影",8.特辑影院
+#EXTINF:-1 group-title="🎥电影",特辑影院
 http://epg.112114.xyz/douyu/3637778
-#EXTINF:-1 group-title="🎥电影",9.贝爷MAX厅
+#EXTINF:-1 group-title="🎥电影",贝爷MAX厅
 http://epg.112114.xyz/douyu/4332
-#EXTINF:-1 group-title="🎥电影",10.漫威影片
+#EXTINF:-1 group-title="🎥电影",漫威影片
 http://epg.112114.xyz/douyu/6140589
-#EXTINF:-1 group-title="🎥电影",11.丸子经典电影
+#EXTINF:-1 group-title="🎥电影",丸子经典电影
 http://epg.112114.xyz/douyu/8986148
-#EXTINF:-1 group-title="🎥电影",12.周星驰电影
+#EXTINF:-1 group-title="🎥电影",周星驰电影
 http://epg.112114.xyz/douyu/3990812
-#EXTINF:-1 group-title="🎥电影",13.刘德华电影1
+#EXTINF:-1 group-title="🎥电影",刘德华电影1
 http://epg.112114.xyz/douyu/2516864
-#EXTINF:-1 group-title="🎥电影",14.刘德华电影2
+#EXTINF:-1 group-title="🎥电影",刘德华电影2
 http://epg.112114.xyz/douyu/8985415
-#EXTINF:-1 group-title="🎥电影",15.喜剧经典
+#EXTINF:-1 group-title="🎥电影",喜剧经典
 http://epg.112114.xyz/douyu/9650887
-#EXTINF:-1 group-title="🎥电影",16.豆瓣高分
+#EXTINF:-1 group-title="🎥电影",豆瓣高分
 http://epg.112114.xyz/douyu/8770422
-#EXTINF:-1 group-title="🎥电影",17.林正英电影1
+#EXTINF:-1 group-title="🎥电影",林正英电影1
 http://epg.112114.xyz/douyu/218859
-#EXTINF:-1 group-title="🎥电影",18.林正英电影2
+#EXTINF:-1 group-title="🎥电影",林正英电影2
 http://epg.112114.xyz/douyu/7356023
-#EXTINF:-1 group-title="🎥电影",19.宇哥电影
+#EXTINF:-1 group-title="🎥电影",宇哥电影
 http://epg.112114.xyz/douyu/413573
-#EXTINF:-1 group-title="🎥电影",20.女神金电影
+#EXTINF:-1 group-title="🎥电影",女神金电影
 http://epg.112114.xyz/douyu/747764
-#EXTINF:-1 group-title="🎥电影",22.经典怀旧系列
+#EXTINF:-1 group-title="🎥电影",经典怀旧系列
 http://epg.112114.xyz/douyu/8663752
-#EXTINF:-1 group-title="🎥电影",23.北京大蜜
+#EXTINF:-1 group-title="🎥电影",北京大蜜
 http://epg.112114.xyz/douyu/805235
-#EXTINF:-1 group-title="🎥电影",24.贝爷影厅1
+#EXTINF:-1 group-title="🎥电影",贝爷影厅1
 http://epg.112114.xyz/douyu/252802
-#EXTINF:-1 group-title="🎥电影",25.贝爷影厅2
+#EXTINF:-1 group-title="🎥电影",贝爷影厅2
 http://epg.112114.xyz/douyu/36337
-#EXTINF:-1 group-title="🎥电影",26.霍格影片
+#EXTINF:-1 group-title="🎥电影",霍格影片
 http://epg.112114.xyz/douyu/8814650
-#EXTINF:-1 group-title="🎥电影",27.可乐电影
+#EXTINF:-1 group-title="🎥电影",可乐电影
 http://epg.112114.xyz/douyu/20415
-#EXTINF:-1 group-title="🎥电影",28.冰冰经典电影
+#EXTINF:-1 group-title="🎥电影",冰冰经典电影
 http://epg.112114.xyz/douyu/74374
-#EXTINF:-1 group-title="🎥电影",29.奶虫恐怖电影
+#EXTINF:-1 group-title="🎥电影",奶虫恐怖电影
 http://epg.112114.xyz/douyu/263824
-#EXTINF:-1 group-title="🎥电影",30.奶瓶科幻片
+#EXTINF:-1 group-title="🎥电影",奶瓶科幻片
 http://epg.112114.xyz/douyu/6655271
-#EXTINF:-1 group-title="🎥电影",31.经典怀旧
+#EXTINF:-1 group-title="🎥电影",经典怀旧
 http://epg.112114.xyz/douyu/10180265
-#EXTINF:-1 group-title="🎥电影",32.避风港影院
+#EXTINF:-1 group-title="🎥电影",避风港影院
 http://epg.112114.xyz/douyu/9826611
-#EXTINF:-1 group-title="🎥电影",33.经典港片
+#EXTINF:-1 group-title="🎥电影",经典港片
 http://epg.112114.xyz/douyu/675072
-#EXTINF:-1 group-title="🎥电影",34.林林影视
+#EXTINF:-1 group-title="🎥电影",林林影视
 http://epg.112114.xyz/douyu/9652323
-#EXTINF:-1 group-title="🎥电影",35.恐怖专场
+#EXTINF:-1 group-title="🎥电影",恐怖专场
 http://epg.112114.xyz/douyu/7353112
-#EXTINF:-1 group-title="🎥电影",36.星星影院
+#EXTINF:-1 group-title="🎥电影",星星影院
 http://epg.112114.xyz/douyu/315131
-#EXTINF:-1 group-title="🎥电影",37.恐怖动作片
+#EXTINF:-1 group-title="🎥电影",恐怖动作片
 http://epg.112114.xyz/douyu/5129261
-#EXTINF:-1 group-title="🎥电影",38.经典科幻
+#EXTINF:-1 group-title="🎥电影",经典科幻
 http://epg.112114.xyz/douyu/7673566
-#EXTINF:-1 group-title="🎥电影",39.漫威电影
+#EXTINF:-1 group-title="🎥电影",漫威电影
 http://epg.112114.xyz/douyu/4282654
-#EXTINF:-1 group-title="🎥电影",40.科幻系列
+#EXTINF:-1 group-title="🎥电影",科幻系列
 http://epg.112114.xyz/douyu/8107217
-#EXTINF:-1 group-title="🎥电影",41.恐怖经典
+#EXTINF:-1 group-title="🎥电影",恐怖经典
 http://epg.112114.xyz/douyu/1165374
-#EXTINF:-1 group-title="🎥电影",42.星星华语
+#EXTINF:-1 group-title="🎥电影",星星华语
 http://epg.112114.xyz/douyu/10254810
-#EXTINF:-1 group-title="🎥电影",43.变种人电影
+#EXTINF:-1 group-title="🎥电影",变种人电影
 http://epg.112114.xyz/douyu/9651304
-#EXTINF:-1 group-title="🎥电影",44.小U电影
+#EXTINF:-1 group-title="🎥电影",小U电影
 http://epg.112114.xyz/douyu/96577
-#EXTINF:-1 group-title="🎥电影",45.小宇60帧
+#EXTINF:-1 group-title="🎥电影",小宇60帧
 http://epg.112114.xyz/douyu/323876
-#EXTINF:-1 group-title="🎥电影",46.华语电影
+#EXTINF:-1 group-title="🎥电影",华语电影
 http://epg.112114.xyz/douyu/3928
-#EXTINF:-1 group-title="🎥电影",47.华语动作电影
+#EXTINF:-1 group-title="🎥电影",华语动作电影
 http://epg.112114.xyz/douyu/1504768
-#EXTINF:-1 group-title="🎥电影",48.恐怖电影
+#EXTINF:-1 group-title="🎥电影",恐怖电影
 http://epg.112114.xyz/douyu/310926
-#EXTINF:-1 group-title="🎥电影",49.喜剧电影
+#EXTINF:-1 group-title="🎥电影",喜剧电影
 http://epg.112114.xyz/douyu/9292492
-#EXTINF:-1 group-title="🎥电影",50.欧美大片
+#EXTINF:-1 group-title="🎥电影",欧美大片
 http://epg.112114.xyz/douyu/2793084
-#EXTINF:-1 group-title="🎥电影",51.怀旧90
+#EXTINF:-1 group-title="🎥电影",怀旧90
 http://epg.112114.xyz/douyu/9275635
-#EXTINF:-1 group-title="🎥电影",52.国产影片
+#EXTINF:-1 group-title="🎥电影",国产影片
 http://epg.112114.xyz/douyu/5423
-#EXTINF:-1 group-title="🎥电影",53.麓山迷踪
+#EXTINF:-1 group-title="🎥电影",麓山迷踪
 http://epg.112114.xyz/douyu/4505431
-#EXTINF:-1 group-title="🎥电影",54.高帧影片
+#EXTINF:-1 group-title="🎥电影",高帧影片
 http://epg.112114.xyz/douyu/6763930
-#EXTINF:-1 group-title="🎥电影",56.译制影片
+#EXTINF:-1 group-title="🎥电影",译制影片
 http://epg.112114.xyz/douyu/2436390
-#EXTINF:-1 group-title="🎥电影",57.网神影厅
+#EXTINF:-1 group-title="🎥电影",网神影厅
 http://epg.112114.xyz/douyu/5081118
-#EXTINF:-1 group-title="🎥电影",59.华语电影
+#EXTINF:-1 group-title="🎥电影",华语电影
 http://epg.112114.xyz/douyu/6003761
-#EXTINF:-1 group-title="🎥电影",60.枪战影片
+#EXTINF:-1 group-title="🎥电影",枪战影片
 http://epg.112114.xyz/douyu/10240510
-#EXTINF:-1 group-title="🎥电影",61.国外电影
+#EXTINF:-1 group-title="🎥电影",国外电影
 http://epg.112114.xyz/douyu/9683979
 #EXTINF:-1 group-title="🎥电影",斗鱼电影1
 http://epg.112114.xyz/douyu/9249162
@@ -2053,20 +2045,14 @@ http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000002000032344/index.m3u8?chann
 http://111.11.123.49:6610/000000001000/6000000002000032344/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1218020220429143356239632&channel-id=03000&Contentid=03002
 #EXTINF:-1 group-title="🌏纪录",求索生活
 http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=no
-#EXTINF:-1 group-title="🌏纪录",美国 | 狗狗宠物
+#EXTINF:-1 group-title="🌏纪录",Dog狗频道
 http://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
 #EXTINF:-1 group-title="🌏纪录",大千世界
 http://111.11.123.49:6610/000000001000/7284663355496915828/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1218520220429143755267989&channel-id=268355&Contentid=96844
-#EXTINF:-1 group-title="🌏纪录",纪鹰实
-http://124.232.231.246:6610/000000001001/201600020008/index.m3u8?A$电费金720P
 #EXTINF:-1 group-title="🌏纪录",全纪实
 http://111.11.123.49:6610/000000001000/5000000006000040025/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1218020220429140845238357&channel-id=bestzb&Contentid=5000000000005
 #EXTINF:-1 group-title="🌏纪录",纪实人文
 http://183.251.61.235:80/PLTV/88888888/224/3221227213/index.m3u8?icpid=88888888&from=1&hms_devid=2529,2526
-#EXTINF:-1 group-title="🌏纪录",CGTN国际频道
-http://live.cgtn.com/1000/prog_index.m3u8?$全网标清576P
-#EXTINF:-1 group-title="🌏纪录",CGTN频道
-https://livedoc.cgtn.com/1000d/prog_index.m3u8?$全网标清576P
 #EXTINF:-1 group-title="🌏纪录",探索记录
 http://111.11.123.49:6610/000000001000/5359008697329269813/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1218020220502083144452799&channel-id=wasusyt&Contentid=596580132
 #EXTINF:-1 group-title="🌏纪录",世界未解之谜
@@ -2079,10 +2065,6 @@ http://zzy789.xyz/douyu1.php?id=9369468
 http://39.135.55.105:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1&IASHttpSessionId=OTT2734620220507145721106959
 #EXTINF:-1 group-title="🌏纪录",百视通纪录
 http://39.135.55.105:6610/PLTV/88888888/224/3221227048/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="🌏纪录",CIBN纪录
-http://211.94.219.178:18080/PLTV/68/224/3221226437/index.m3u8
-#EXTINF:-1 group-title="🌏纪录",CNC中文
-http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 #EXTINF:-1 group-title="🌏纪录",文物宝库
 http://39.136.48.2:8089/PLTV/88888888/224/3221226358/1.m3u8
 #EXTINF:-1 group-title="🌏纪录",动物星球
@@ -2177,8 +2159,6 @@ http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8
 http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227145/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="📺besTV",欢笑剧场
 http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="📺besTV",体育赛事
-http://[2409:8087:6a01:1020::11]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226253/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="📺besTV",极速汽车
 http://[2409:8087:6a01:1020::d]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226249/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="📺besTV",极速汽车
