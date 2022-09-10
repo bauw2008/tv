@@ -233,8 +233,6 @@ http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226130/1/index.m3u8?fmt=t
 http://39.134.115.163:8080/PLTV/88888910/224/3221225728/index.m3u8
 #EXTINF:-1 group-title="📺省台",贵州卫视
 http://111.63.117.13:6060/030000001000/G_GUIZHOU/G_GUIZHOU.m3u8
-#EXTINF:-1 group-title="📺省台",上海ICS外语
-http://shbu.live.bestvcdn.com.cn:8080/live/program/live/wypdhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="📺省台",上海东方影视
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="📺省台",上海五星体育
@@ -599,12 +597,10 @@ http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 http://58.247.70.104:61985/hlsok/9569303e/index.m3u8
 #EXTINF:-1 group-title="🇭🇰港台",公视 HD
 http://58.247.70.104:61985/hlsok/a98ccb72/index.m3u8
-#EXTINF:-1 group-title="🇭🇰港台",公视2台语台 HD
+#EXTINF:-1 group-title="🇭🇰港台",公视2 HD
 http://58.247.70.104:61985/hlsok/49ab3435/index.m3u8
-#EXTINF:-1 group-title="🇭🇰港台",公视3HD HD
+#EXTINF:-1 group-title="🇭🇰港台",公视3 HD
 http://58.247.70.104:61985/hlsok/a804122f/index.m3u8
-#EXTINF:-1 group-title="🇭🇰港台",8度空间 HD
-http://58.247.70.104:61985/hlsok/8c1c704ed/index.m3u8
 #EXTINF:-1 group-title="🇭🇰港台",八大第一台 HD
 http://58.247.70.104:61985/hlsok/0c1c9c69/index.m3u8
 #EXTINF:-1 group-title="🇭🇰港台",八大戏剧台 HD
@@ -2061,10 +2057,6 @@ https://61d4e7aa14ec50cd98e50d8af275583e.v.smtcdns.net/akm-tct.douyucdn.cn/live/
 https://61d4e7aa14ec50cd98e50d8af275583e.v.smtcdns.net/akm-tct.douyucdn.cn/live/9369468rn
 #EXTINF:-1 group-title="🌏纪录",世界未解之谜
 http://zzy789.xyz/douyu1.php?id=9369468
-#EXTINF:-1 group-title="🌏纪录",纯享4K
-http://39.135.55.105:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1&IASHttpSessionId=OTT2734620220507145721106959
-#EXTINF:-1 group-title="🌏纪录",百视通纪录
-http://39.135.55.105:6610/PLTV/88888888/224/3221227048/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="🌏纪录",文物宝库
 http://39.136.48.2:8089/PLTV/88888888/224/3221226358/1.m3u8
 #EXTINF:-1 group-title="🌏纪录",动物星球
@@ -2179,11 +2171,11 @@ http://[2409:8087:6a01:1020::9]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221
 http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227204/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="📺besTV",都市剧场
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226243/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="📺besTV",法制天地
+#EXTINF:-1 group-title="📺besTV",法治天地
 http://[2409:8087:6a01:1020::d]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226199/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="📺besTV",法治天地
 http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227176/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="📺besTV",法制天地
+#EXTINF:-1 group-title="📺besTV",法治天地
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226199/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="📺besTV",七彩戏剧
 http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227212/index.m3u8?servicetype=1
