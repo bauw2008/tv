@@ -24,7 +24,7 @@ CCTV16奥林匹克,http://10.0.0.1:1234/rtp/238.255.2.219:5999
 CCTV16奥林匹克,http://10.0.0.1:1234/rtp/238.255.2.217:5999
 CCTV17农业农村,http://10.0.0.1:1234/rtp/238.255.2.137:5999
 
-⚛️数字网络（电信）,#genre#
+⚛️数字（电信）,#genre#
 CCTV兵器科技,http://10.0.0.1:1234/rtp/238.255.2.34:5999
 CCTV第一剧场,http://10.0.0.1:1234/rtp/238.255.2.25:5999
 CCTV风云剧场,http://10.0.0.1:1234/rtp/238.255.2.28:5999
@@ -1072,7 +1072,7 @@ CCTV16,http://[2409:8087:5c00:10:5::153]/cdnrrs.gx.chinamobile.com/PLTV/3/224/32
 黑猩猩的丛林法则,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/05ff5278105445e1a9d5651372faf47e/1200.m3u8
 龙宫里的奇异动物,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3528163c6b7d4a48b09b24027351ccf7/1200.m3u8
 
-🔫空中课堂,#genre#
+🔫课堂,#genre#
 空中课堂一年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkyinj/1300000/mnf.m3u8
 空中课堂二年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkernj/1300000/mnf.m3u8
 空中课堂三年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kksannj/1300000/mnf.m3u8
@@ -1170,7 +1170,6 @@ Dog狗频道,http://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
 金色学堂,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227208/index.m3u8?servicetype=1
 金色学堂,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jingsepd/1300000/mnf.m3u8
 
-
 🎞️NewTV,#genre#
 哒啵赛事,,http://39.134.115.163:8080/PLTV/88888910/224/3221225653/index.m3u8
 华语视界,http://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
@@ -1204,7 +1203,7 @@ Dog狗频道,http://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
 怡伴健康,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225666/index.m3u8
 中国功夫,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225660/index.m3u8
 
-📚  iHOT,#genre#
+📚iHOT,#genre#
 爱奇谈,http://111.12.110.95:6610/000000001001/6000000006000270630/1.m3u8?stbId=3&livemode=1&channel-id=wasusyt&Contentid=6000000006000270630
 爱世界,http://111.12.110.95:6610/000000001001/6000000006000210630/1.m3u8?stbId=3&livemode=1&channel-id=wasusyt&Contentid=6000000006000210630
 爱怀旧,http://111.12.110.95:6610/000000001001/6000000006000260630/1.m3u8?stbId=3&livemode=1&channel-id=wasusyt&Contentid=6000000006000260630
@@ -1330,7 +1329,6 @@ HBO,http://220.134.196.147:9557/index.m3u8
 HBO,https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist_b2500000.m3u8
 
 🔃 轮播,#genre#
-
 古龙,http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528313
 周润发,http://112.74.200.9:88/tv000000/m3u8.php?/migu/639526984
 周星驰,http://112.74.200.9:88/tv000000/m3u8.php?/migu/623338112
@@ -1339,6 +1337,9 @@ HBO,https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist_b2500000.m3u8
 郭富城,http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528330
 刘德华,http://112.74.200.9:88/tv000000/m3u8.php?/migu/659315648
 金庸,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625774640
+杨幂,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625542372
+刘亦菲,http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528386
+古天乐,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198610
 黑莓电影,http://39.134.115.163:8080/PLTV/88888910/224/3221225718/index.m3u8
 科幻电影,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625204865
 云上电影,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625703337
@@ -1346,14 +1347,11 @@ HBO,https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist_b2500000.m3u8
 高分影院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198191
 试胆大会,http://112.74.200.9:88/tv000000/m3u8.php?/migu/637483721
 烧脑时刻,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625542365
-杨幂,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625542372
-刘亦菲,http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528386
 暑期剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198692
 黄金剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625155140
 军旅剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625643517
 少林剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625526423
 高清大片,http://112.74.200.9:88/tv000000/m3u8.php?/migu/629943678
-古天乐,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198610
 热剧联播,http://112.74.200.9:88/tv000000/m3u8.php?/migu/629943613
 喜剧联盟,http://112.74.200.9:88/tv000000/m3u8.php?/migu/637444830
 僵尸剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627033504
@@ -1472,7 +1470,6 @@ Girls Gone Wild,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgjd2w4gUou--ljQE.
 莫文蔚-电台情歌,https://vd4.bdstatic.com/mda-mact38ncv86a7z5x/v1-cae/1080p/mda-mact38ncv86a7z5x.mp4
 林忆莲、李宗盛-当爱已成往事,http://em.21dtv.com/songs/60100136.mkv
 MyHeartWillGoOn(泰坦尼克号主题曲),https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_uCa4gUo7Irtnwc.mp4
-
 
 🌽女团,#genre#
 韩国太妍01,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240162304531.mp4
@@ -1655,7 +1652,7 @@ MyHeartWillGoOn(泰坦尼克号主题曲),https://15799848.s21v.faiusr.com/58/AB
 韩国歌团★152,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240151273206.mp4
 韩国歌团★153,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240389031565.mp4
 
-🎵广播电台,#genre#
+🎵电台,#genre#
 怀集音乐台,http://live.xmcdn.com:80/live/966/64.m3u8
 高清音乐台,http://live.xmcdn.com:80/live/1427/64.m3u8
 新鲜音乐台,http://live.xmcdn.com:80/live/1908/64.m3u8
