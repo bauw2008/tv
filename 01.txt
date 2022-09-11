@@ -93,7 +93,7 @@ CGTN俄语,http://111.12.110.95:6610/PLTV/77777777/224/3221225825/index.m3u8?ser
 CGTN法语,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226270/1/index.m3u8?fmt=ts2hls
 CGTN法语,http://111.12.110.95:6610/PLTV/77777777/224/3221225878/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 CGTN纪录,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226271/1/index.m3u8?fmt=ts2hls
-CGTN记录,http://111.12.110.95:6610/000000001001/7114647837765104058/1.m3u8?stbId=3&livemode=1&channel-id=hnbblive&Contentid=7114647837765104058
+CGTN纪录,http://111.12.110.95:6610/000000001001/7114647837765104058/1.m3u8?stbId=3&livemode=1&channel-id=hnbblive&Contentid=7114647837765104058
 CGTN西语,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226232/1/index.m3u8?fmt=ts2hls
 CGTN西语,http://111.12.110.95:6610/PLTV/77777777/224/3221225875/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 CGTN英语,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226297/1/index.m3u8?fmt=ts2hls
