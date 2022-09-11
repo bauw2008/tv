@@ -183,7 +183,7 @@ http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226270/1/index.m3u8?fmt=t
 http://111.12.110.95:6610/PLTV/77777777/224/3221225878/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="⚛️数字",CGTN纪录
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226271/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="⚛️数字",CGTN记录
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="⚛️数字",CGTN纪录
 http://111.12.110.95:6610/000000001001/7114647837765104058/1.m3u8?stbId=3&livemode=1&channel-id=hnbblive&Contentid=7114647837765104058
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="⚛️数字",CGTN西语
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226232/1/index.m3u8?fmt=ts2hls
