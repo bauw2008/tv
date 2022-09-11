@@ -555,6 +555,7 @@ ELTA體育1,rtmp://59.124.75.138/sat/md051
 龙华电影,http://61.219.170.95:18574/hls/210/10014/cstv14.m3u8 
 龙祥时代,http://120.84.96.195:808/hls/35/index.m3u8 
 龙祥时代,http://171.108.239.96:8181/tsfile/live/1011_1.m3u8
+龙华洋片,http://50.7.220.74:8278/lunghuawestern_twn/playlist.m3u8?tid=m8fe1f2649ecd12830420&ct=17874&tsum=a6674ed93a8ec4ea4705c721b752d4db
 卫视电影台,http://61.219.170.95:18529/hls/62/804/ch07.m3u8 
 东森电影,http://171.108.239.96:8181/tsfile/live/1010_1.m3u8 
 东森电影,http://120.84.96.195:808/hls/32/index.m3u8 

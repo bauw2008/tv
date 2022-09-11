@@ -1063,6 +1063,8 @@ http://61.219.170.95:18574/hls/210/10014/cstv14.m3u8
 http://120.84.96.195:808/hls/35/index.m3u8
 #EXTINF:-1 group-title="🇭🇰港台",龙祥时代
 http://171.108.239.96:8181/tsfile/live/1011_1.m3u8
+#EXTINF:-1 group-title="🇭🇰港台",龙祥洋片
+龙华洋片,http://50.7.220.74:8278/lunghuawestern_twn/playlist.m3u8?tid=m8fe1f2649ecd12830420&ct=17874&tsum=a6674ed93a8ec4ea4705c721b752d4db
 #EXTINF:-1 group-title="🇭🇰港台",卫视电影台
 http://61.219.170.95:18529/hls/62/804/ch07.m3u8
 #EXTINF:-1 group-title="🇭🇰港台",东森电影
