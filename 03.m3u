@@ -125,6 +125,8 @@ http://111.20.33.82/PLTV/88888893/224/3221226975/index.m3u8
 http://111.20.33.82/PLTV/88888893/224/3221226969/index.m3u8
 #EXTINF:-1 tvg-id="6594" tvg-name="老故事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="⚛️数字",CCTV老故事
 http://111.20.33.82/PLTV/88888893/224/3221226236/index.m3u8
+#EXTINF:-1 tvg-id="6594" tvg-name="老故事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="⚛️数字",CCTV老故事
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="⚛️数字",CCTV电视指南
 http://[2409:8087:6a01:1020::d]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226120/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="⚛️数字",CCTV电视指南
@@ -233,6 +235,10 @@ http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226293/1/index.m3u8?fmt=t
 http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225741/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🦚贵州",贵州7
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226274/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🦚贵州",贵阳1
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226037/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🦚贵州",贵阳1
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225743/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🦚贵州",贵阳2
 http://[2409:8087:6a01:1020::d]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225684/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🦚贵州",贵阳3
@@ -257,20 +263,8 @@ http://[2409:8087:6a01:1020::d]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221
 https://player.juyun.tv/camera/64413134.m3u8?zguizd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🦚贵州",安顺公共频道2
 http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226276/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🦚贵州",黔东南新闻综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🦚贵州",黔东南新闻
 http://[2409:8087:6a01:1020::d]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226033/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🦚贵州",瓮安
-http://[2409:8087:6a01:1020::f]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226174/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🦚贵州",瓮安
-http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226294/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🦚贵州",松桃新闻
-http://live.strmtzx.cn/stxw/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🦚贵州",七星关电视台
-https://p2.weizan.cn/1681337293/692202026033145509/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🦚贵州",雷山综合
-http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226130/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🦚贵州",毕节2
-http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226133/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🦚贵州",黔东南新闻
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226033/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🦚贵州",黔南一套
@@ -279,22 +273,30 @@ http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225693/1/index.m3u8?fmt=t
 rtmp://tv.qntv.net/channellive/ch1?zguizd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🦚贵州",黔南二套
 rtmp://tv.qntv.net/channellive/ch2?zguizd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🦚贵州",思南
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🦚贵州",思南综合
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226299/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🦚贵州",凯里
-http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226094/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🦚贵州",清镇新闻综合
-http://pili-live-rtmp.143.i2863.com/i2863-143/live_143_397273.m3u8?zguizd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🦚贵州",思南综合
 https://pili-live-hdl-sndst.tianma3600.com/sndst2/dspd2.m3u8?zguizd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🦚贵州",思南综合
 rtmp://pili-live-rtmp.sndst.tianma3600.com/sndst2/dspd2?zguizd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🦚贵州",瓮安
+http://[2409:8087:6a01:1020::f]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226174/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🦚贵州",瓮安
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226294/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🦚贵州",松桃融媒体中心
-http://live.strmtzx.cn/stxw/sd/live.m3u8?zguizd
+http://live.strmtzx.cn/stxw/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🦚贵州",七星关电视台
+https://p2.weizan.cn/1681337293/692202026033145509/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🦚贵州",雷山综合
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226130/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🦚贵州",毕节2
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226133/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🦚贵州",凯里
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226094/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🦚贵州",清镇新闻综合
+http://pili-live-rtmp.143.i2863.com/i2863-143/live_143_397273.m3u8?zguizd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🦚贵州",罗甸综合
 http://pili-live-rtmp.210.i2863.com/i2863-210/live_210_050252.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🦚贵州",七星关电视台
-https://p2.weizan.cn/1681337293/692202026033145509/live.m3u8?zguizd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🦚贵州",湄潭综合
 http://p2.weizan.cn/1635496647/663562647402642026/live.m3u8?zguizd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🦚贵州",仁怀新闻
@@ -473,6 +475,14 @@ http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226781/index.m3u8
 http://39.135.138.58:18890/PLTV/88888888/224/3221226201/index.m3u8
 #EXTINF:-1 tvg-id="65" tvg-name="黄河卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/huanghe.png" group-title="📡省台",黄河卫视
 http://liveflash.sxrtv.com/live/huanghe.m3u8
+#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="📡省台",广东珠江
+http://218.17.216.102:9901/tsfile/live/1001_1.m3u8
+#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="📡省台",广东珠江
+http://61.143.45.150:9901/tsfile/live/0018_1.m3u8
+#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="📡省台",广东珠江
+http://39.135.32.6:6610/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="📡省台",广东珠江
+http://fxhack.f3322.org:8000/udp/239.77.0.1:5146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇭🇰港台",星空卫视
 http://120.84.96.53:808/hls/79/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇭🇰港台",星空卫视
@@ -511,6 +521,16 @@ https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="🇭🇰港台",凤凰中文
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227222/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇭🇰港台",Channel V
+http://203.77.246.50:5000/udp/239.1.1.144:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇭🇰港台",Channel V
+http://iptv.tvfix.org/hls/channelv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇭🇰港台",Channel V
+http://pili-live-hdl.qhmywl.com/dsdtv/c8ade260941e368acfdb110a04811b3e.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇭🇰港台",Channel V
+https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇭🇰港台",Channel V
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="🇭🇰港台",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="🇭🇰港台",香港卫视
@@ -523,16 +543,16 @@ http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="🇭🇰港台",翡翠台
 http://jyjxy.7766.org:808/hls/36/index.m3u8
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="🇭🇰港台",翡翠台
+http://113.64.147.72:808/hls/67/index.m3u8
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="🇭🇰港台",翡翠台
+http://113.64.147.86:808/hls/67/index.m3u8
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="🇭🇰港台",翡翠台
+http://113.64.147.97:808/hls/67/index.m3u8
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="🇭🇰港台",明珠台
 http://jyjxy.7766.org:808/hls/37/index.m3u8
 #EXTINF:-1 tvg-id="131" tvg-name="TVB星河频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png" group-title="🇭🇰港台",TVB星河频道
 http://jyjxy.7766.org:808/hls/35/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇭🇰港台",华语电视1
-http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇭🇰港台",华语电视2
-http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇭🇰港台",华语电视3
-http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="🇭🇰港台",ViuTV
 https://cdn.hklive.tv/xxxx/99/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇭🇰港台",澳门Macau
@@ -555,36 +575,16 @@ http://nettvpro.live/hls/lotustv.php
 http://gxfrg007.8800.org:8282/tsfile/live/1053_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇭🇰港台",NHK华语
 https://nhkw-zh-hlscomp.akamaized.net:443/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇭🇰港台",中国环球电视
-http://live.cgtn.com/500/prog_index.m3u8
 #EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="🇭🇰港台",动物星球
 http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
 #EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="🇭🇰港台",动物星球
 http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
 #EXTINF:-1 tvg-id="701" tvg-name="FashionTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="🇭🇰港台",法国时尚
 http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇭🇰港台",耀才财经台
-http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="🇭🇰港台",民视新闻台
-https://epg.pm/stream/41a27760357d19c61969e35967cf5a18a3f850a75b00a1e2377ab2cc934a44d9.m3u8
-#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="🇭🇰港台",民视新闻台
-https://epg.pm/stream/c4e4884645d94d0d2e76e47c691546493b7031348b663eb9a67769b0096f8b7e.m3u8
-#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="🇭🇰港台",民视新闻台
-http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="🇭🇰港台",民视新闻台
-http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-#EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="🇭🇰港台",台视新闻
-https://epg.pm/stream/dc6941ad1ea0592ef8189f4315353b7de9f8a1d5574caa04298de9f154c2f46d.m3u8
-#EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="🇭🇰港台",台视新闻
-http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-#EXTINF:-1 tvg-id="6108" tvg-name="三立财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="🇭🇰港台",三立iNews
-https://epg.pm/stream/17b9026c3c8b88f7d16f6cbbd7593d9d375fcb4ed6d796991d34ed84d280e61d.m3u8
+#EXTINF:-1 tvg-id="701" tvg-name="FashionTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="🇭🇰港台",法国时尚
+http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="🇭🇰港台",寰宇新闻台湾台
 https://epg.pm/stream/4057a26433e36dbc3a39fd473ec099b70c118accf94777da98ad93480d9bcf4c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇭🇰港台",中天新闻
-http://123.51.230.124:8535/.m3u8
-#EXTINF:-1 tvg-id="7176" tvg-name="中视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="🇭🇰港台",中视新闻
-https://epg.pm/stream/3424fe5c5c950cf105fcff7c1e99bf9ab5ccbfa9da5f7fa7882416bcf619ac43.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇭🇰港台",星卫电影台
 http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
 #EXTINF:-1 tvg-id="6054" tvg-name="中天综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="🇭🇰港台",中天综合
@@ -601,32 +601,14 @@ rtmp://59.124.75.138/sat/tv111
 rtmp://59.124.75.138/sat/tv551
 #EXTINF:-1 tvg-id="6060" tvg-name="TVBS欢乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS欢乐.png" group-title="🇭🇰港台",TVBS欢乐
 rtmp://59.124.75.138/sat/tv421
-#EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="🇭🇰港台",东森财经新闻
-rtmp://59.124.75.138/sat/tv571
 #EXTINF:-1 tvg-id="6088" tvg-name="纬来育乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMaxTV.png" group-title="🇭🇰港台",纬来育乐
 rtmp://59.124.75.138/sat/tv701
 #EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="🇭🇰港台",纬来体育
 rtmp://59.124.75.138/sat/tv721
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇭🇰港台",ELEVEN1
-rtmp://59.124.75.138/sat/tv731
-#EXTINF:-1 tvg-id="7149" tvg-name="ELEVEN体育二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports2.png" group-title="🇭🇰港台",ELEVEN2
-rtmp://59.124.75.138/sat/tv741
 #EXTINF:-1 tvg-id="6095" tvg-name="纬来日本台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png" group-title="🇭🇰港台",纬来日本
 rtmp://59.124.75.138/sat/tv771
-#EXTINF:-1 tvg-id="6042" tvg-name="MOMO亲子台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/MOMOkids.png" group-title="🇭🇰港台",MOMO综合
-rtmp://59.124.75.138/sat/tv761
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇭🇰港台",ELTA体育2
-rtmp://59.124.75.138/sat/md011
 #EXTINF:-1 tvg-id="6175" tvg-name="博斯网球台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport_tennis.png" group-title="🇭🇰港台",博斯网球
 rtmp://59.124.75.138/sat/md031
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇭🇰港台",ELTA体育3
-rtmp://59.124.75.138/sat/md041
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇭🇰港台",ELTA体育1
-rtmp://59.124.75.138/sat/md051
-#EXTINF:-1 tvg-id="6027" tvg-name="大爱一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="🇭🇰港台",大爱一台
-https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 tvg-id="6142" tvg-name="大爱二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai2.png" group-title="🇭🇰港台",大爱二台
-https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1 tvg-id="6044" tvg-name="纬来综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandOnTV.png" group-title="🇭🇰港台",纬来综合
 http://61.219.170.95:18540/hls/68/810/ch32.m3u8
 #EXTINF:-1 tvg-id="6061" tvg-name="纬来戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandDrama.png" group-title="🇭🇰港台",纬来戏剧
@@ -647,8 +629,8 @@ http://61.219.170.95:18574/hls/210/10014/cstv14.m3u8
 http://120.84.96.195:808/hls/35/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇭🇰港台",龙祥时代
 http://171.108.239.96:8181/tsfile/live/1011_1.m3u8
-#EXTINF:-1 tvg-id="7132" tvg-name="龙祥洋片" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙祥洋片.png" group-title="🇭🇰港台",龙祥洋片
-龙华洋片,http://50.7.220.74:8278/lunghuawestern_twn/playlist.m3u8?tid=m8fe1f2649ecd12830420&ct=17874&tsum=a6674ed93a8ec4ea4705c721b752d4db
+#EXTINF:-1 tvg-id="7132" tvg-name="龙华洋片" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华洋片.png" group-title="🇭🇰港台",龙华洋片
+http://50.7.220.74:8278/lunghuawestern_twn/playlist.m3u8?tid=m8fe1f2649ecd12830420&ct=17874&tsum=a6674ed93a8ec4ea4705c721b752d4db
 #EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="🇭🇰港台",卫视电影台
 http://61.219.170.95:18529/hls/62/804/ch07.m3u8
 #EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="🇭🇰港台",东森电影
@@ -661,12 +643,12 @@ http://61.219.170.95:18555/hls/64/806/ch14.m3u8
 http://iptv.tvfix.org/hls/mydy.m3u8
 #EXTINF:-1 tvg-id="145" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="🇭🇰港台",美亚电影台
 rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH89/89
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🇭🇰港台",Channel V
-http://iptv.tvfix.org/hls/channelv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🏀体育",TNT SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🏀体育",TNT SPORTS
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🏀体育",咪咕体育1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🏀体育",咪咕体育
 http://[2409:8087:6a01:1020::d]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226264/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🏀体育",咪咕体育
+http://[2409:8087:6a01:1020::9]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226177/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="🏀体育",五星体育
 http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
 #EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="🏀体育",新视觉
@@ -675,8 +657,6 @@ http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8?zshangd
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="🏀体育",五星体育
 http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🏀体育",超级体育
-http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226220/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🏀体育",超级体育
 http://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🏀体育",超级体育
@@ -689,10 +669,6 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226574/1.m3u8
 http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="🏀体育",广东体育
 http://183.63.15.42:9901/tsfile/live/0136_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🏀体育",咪咕体育
-http://[2409:8087:6a01:1020::9]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226177/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="🏀体育",魅力足球
-http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="🏀体育",魅力足球
 http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="🏀体育",魅力足球
@@ -701,8 +677,6 @@ http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8?zshangd
 http://[2409:8087:6a01:1020::f]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226193/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="🏀体育",游戏风云
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226252/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="🏀体育",游戏风云
-http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226193/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🏀体育",足球频道
 http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226137/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🏀体育",足球频道
@@ -2089,11 +2063,11 @@ http://txtest-xp2p.p2p.huya.com/src/1199563486009-1199563486009-5444345319443660
 http://txtest-xp2p.p2p.huya.com/src/1199561463578-1199561463578-5435659044440244224-2399123050612-10057-A-0-1.xs
 #EXTINF:-1 group-title="📺埋堆堆",斗气一族
 http://txtest-xp2p.p2p.huya.com/src/1199564062365-1199564062365-5446820749614514176-2399128248186-10057-A-0-1.xs
-#EXTINF:-1 group-title="🌿华数",CHC动作电影
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="🌿华数",CHC动作电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="🌿华数",CHC家庭影院
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="🌿华数",CHC家庭影院
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="🌿华数",CHC高清电影
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="🌿华数",CHC高清电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="🐠斗鱼",斗鱼电影HD10
 http://diyp.112114.xyz/douyu/8770422
@@ -2105,10 +2079,32 @@ http://diyp.112114.xyz/douyu/36337
 http://diyp.112114.xyz/douyu/413573
 #EXTINF:-1 group-title="🐠斗鱼",斗鱼电影HD20
 http://diyp.112114.xyz/douyu/315131
-#EXTINF:-1 group-title="🏵️北京",北京新闻
+#EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="🏵️北京",北京新闻
 http://live.funhillrm.com/5/sd/live.m3u8?zbeid
-#EXTINF:-1 group-title="🏵️北京",北京卡酷少儿
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="🏵️北京",北京卡酷少儿
 http://39.135.138.60:18890/PLTV/88888888/224/3221225677/index.m3u8?zbeid
+#EXTINF:-1 group-title="🏵️北京",北京淘baby
+http://111.13.42.6/PLTV/88888888/224/3221226554/1.m3u8
+#EXTINF:-1 group-title="🏵️北京",北京淘baby
+http://zb.688768.xyz/jiudian/jddb.php?member=liubwdefd34&playurl=http://223.72.123.244:4022/rtp/239.3.1.238:8001
+#EXTINF:-1 group-title="🏵️北京",北京淘baby
+http://beifeng.site:4000/udp/239.3.1.238:8001
+#EXTINF:-1 group-title="🏵️北京",北京IPTV淘电影
+http://111.13.42.234/PLTV/88888888/224/3221226552/1.m3u8
+#EXTINF:-1 group-title="🏵️北京",北京IPTV淘电影
+http://111.13.42.241/PLTV/88888888/224/3221226552/1.m3u8
+#EXTINF:-1 group-title="🏵️北京",北京IPTV淘电影
+http://genglicai.3322.org:9901/tsfile/live/1022_1.m3u8
+#EXTINF:-1 group-title="🏵️北京",北京IPTV淘娱乐
+http://111.13.42.230/PLTV/88888888/224/3221226551/1.m3u8?北京
+#EXTINF:-1 group-title="🏵️北京",北京IPTV淘娱乐
+http://111.13.42.237/PLTV/88888888/224/3221226551/1.m3u8?北京
+#EXTINF:-1 group-title="🏵️北京",北京IPTV淘娱乐
+http://zb.688768.xyz/jiudian/jddb.php?member=liubwdefd34&playurl=http://223.72.123.244:4022/rtp/239.3.1.100:8001
+#EXTINF:-1 group-title="🏵️北京",北京IPTV萌宠
+http://111.13.42.235/PLTV/88888888/224/3221226555/1.m3u8
+#EXTINF:-1 group-title="🏵️北京",北京IPTV萌宠
+http://111.13.42.242/PLTV/88888888/224/3221226555/1.m3u8
 #EXTINF:-1 group-title="🏵️北京",通州电视台
 http://pull.dayuntongzhou.com/live/tztv.m3u8?zbeid
 #EXTINF:-1 group-title="🏵️北京",清华大学
@@ -2119,19 +2115,19 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
 https://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 #EXTINF:-1 group-title="🏵️北京",CNC_EN
 https://source07.v.news.cn/live/CNC_EN/playlist.m3u8
-#EXTINF:-1 group-title="⛲HBO",HBO
+#EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="⛲HBO",HBO
 http://gg.gg/HaNoiIPTV-HBO_HD
-#EXTINF:-1 group-title="⛲HBO",HBO
+#EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="⛲HBO",HBO
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="⛲HBO",HBO
+#EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="⛲HBO",HBO
 http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?bycoca
-#EXTINF:-1 group-title="⛲HBO",HBO
+#EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="⛲HBO",HBO
 http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="⛲HBO",HBO Asia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="⛲HBO",HBO Asia
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="⛲HBO",HBO
+#EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="⛲HBO",HBO
 http://220.134.196.147:9557/index.m3u8
-#EXTINF:-1 group-title="⛲HBO",HBO
+#EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="⛲HBO",HBO
 https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="🔃 轮播",古龙
 http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528313
