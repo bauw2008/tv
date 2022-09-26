@@ -1134,90 +1134,174 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225709/index.m3u8
 http://39.135.138.60:18890/PLTV/88888910/224/3221225709/index.m3u8
 #EXTINF:-1 tvg-id="6175" tvg-name="博斯网球台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport_tennis.png" group-title="🏀体育",博斯网球
 rtmp://59.124.75.138/sat/md031
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",超级电影
+#EXTINF:-1 group-title="🎥电影",超级电影
+http://39.134.115.163:8080/PLTV/88888910/224/3221225623/index.m3u8
+#EXTINF:-1 group-title="🎥电影",超级电影
 http://39.135.138.59:18890/PLTV/88888910/224/3221225766/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",超级电影
+#EXTINF:-1 group-title="🎥电影",超级电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",超级电视剧
+#EXTINF:-1 group-title="🎥电影",超级电影
+http://39.135.138.58:18890/PLTV/88888888/224/3221225623/index.m3u8
+#EXTINF:-1 group-title="🎥电影",超级电影
+http://39.135.138.58:18890/PLTV/88888888/224/3221225766/index.m3u8
+#EXTINF:-1 group-title="🎥电影",超级电视剧
 http://39.135.138.60:18890/PLTV/88888910/224/3221225765/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",超级电视剧
+#EXTINF:-1 group-title="🎥电影",超级电视剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",KiD影院1
+#EXTINF:-1 group-title="🎥电影",超级电视剧
+http://39.135.138.58:18890/PLTV/88888888/224/3221225625/index.m3u8
+#EXTINF:-1 group-title="🎥电影",超级电视剧
+http://39.135.138.58:18890/PLTV/88888888/224/3221225765/index.m3u8
+#EXTINF:-1 group-title="🎥电影",1905电影
+http://txtest-xp2p.p2p.huya.com/huyalive/1199513205060-1199513205060-5228390287876816896-2399026533576-10057-A-0-1.xs
+#EXTINF:-1 group-title="🎥电影",KiD影院1
 https://sf1-ttcdn-tos.pstatp.com/obj/tos-cn-v-0000/c51103da90f442339e892f8711ab0998
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",KiD影院2
+#EXTINF:-1 group-title="🎥电影",KiD影院2
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",KiD影院3
+#EXTINF:-1 group-title="🎥电影",KiD影院3
 http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198822/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",KiD影院4
+#EXTINF:-1 group-title="🎥电影",KiD影院4
 http://112.74.200.9:88/tv000000/m3u8.php?/migu/617432318/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",KiD影院5
-http://bp-caster.bestv.com.cn/494/1/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",KiD影院6
-http://bp-caster.bestv.com.cn/532/1/video.m3u8
-#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="🎥电影",欢笑剧场
+#EXTINF:-1 group-title="🎥电影",KiD影院5
+http://39.135.138.58:18890/TVOD/88888888/224/3221225716/index.m3u8
+#EXTINF:-1 group-title="🎥电影",欢笑剧场
 http://112.74.200.9:88/tv000000/m3u8.php?/migu/623674859
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",黑莓电影
+#EXTINF:-1 group-title="🎥电影",黑莓电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",黑莓电影
+#EXTINF:-1 group-title="🎥电影",黑莓电影
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225718/index.m3u8
-#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="🎥电影",CHC动作电影
+#EXTINF:-1 group-title="🎥电影",黑莓电影
+http://39.135.138.58:18890/PLTV/88888888/224/3221225718/index.m3u8
+#EXTINF:-1 group-title="🎥电影",黑莓电影
+http://39.135.138.58:18890/PLTV/88888888/224/3221225764/index.m3u8
+#EXTINF:-1 group-title="🎥电影",黑莓电影
+http://39.135.138.58:18890/PLTV/88888888/224/3221225769/index.m3u8
+#EXTINF:-1 group-title="🎥电影",CHC动作电影
 http://111.20.33.79/wh7f454c46tw2676886234_1042025358/PLTV/88888893/224/3221226465/index.m3u8
-#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="🎥电影",CHC动作电影
+#EXTINF:-1 group-title="🎥电影",CHC动作电影
 http://111.20.33.93/wh7f454c46tw66682855_961085433/PLTV/88888893/224/3221226465/index.m3u8
-#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="🎥电影",CHC高清电影
+#EXTINF:-1 group-title="🎥电影",CHC高清电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="🎥电影",CHC家庭影院
+#EXTINF:-1 group-title="🎥电影",CHC家庭影院
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",经典功夫
-https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",湖南电影
-http://124.232.231.246:6610/000000001001/201600020005/index.m3u8?A=&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="🎥电影",东方影视
-http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="🎥电影",东方影视
-http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",万州影院
-http://123.146.162.24:8017/d4ceB1a/1000/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",武强影院
-http://hbwq.chinashadt.com:2035/live/stream:wqys.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",西安影院
-http://stream2.xiancity.cn/xatv4/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",西安影院
-http://stream2.xiancity.cn/xatv4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",新昌休闲
-http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",新泰影院
-http://live.xtgdw.cn:1935/live/xtys/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",绍兴影院
-http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",黑猫电影
-http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",海西电影
-http://stream.haixitv.cn/1/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",天映经典
+#EXTINF:-1 group-title="🎥电影",TVB影视
+http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221231733/1.m3u8
+#EXTINF:-1 group-title="🎥电影",天映经典
 http://gxfrg007.8800.org:8282/tsfile/live/1053_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",福州影院
-http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",隆化影院
-http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",菏泽影院
-http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",衡水影院
-http://hls.hsrtv.cn/hls/hstv2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",影视频道
-https://jsylivealone302.iqilu.com/live/huimin_tv02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",徐州影院
+#EXTINF:-1 group-title="🎥电影",高清影院
+http://112.19.214.90:8883/tsfile/live/1011_1.m3u8
+#EXTINF:-1 group-title="🎥电影",电影频道
+http://106.115.24.46:9901/tsfile/live/1029_1.m3u8
+#EXTINF:-1 group-title="🎥电影",高青影视
+https://jsylivealone302.iqilu.com/gaoqing/gaoqing_tv02.m3u8
+#EXTINF:-1 group-title="🎥电影",广东影视
+http://183.11.239.32:808/hls/8/index.m3u8
+#EXTINF:-1 group-title="🎥电影",广东影视
+http://218.17.216.102:9901/tsfile/live/1008_1.m3u8
+#EXTINF:-1 group-title="🎥电影",江苏影视
+http://58.222.75.102:9901/tsfile/live/1010_1.m3u8
+#EXTINF:-1 group-title="🎥电影",江苏影视
+http://183.207.248.15/PLTV/4/224/3221225937/index.m3u8
+#EXTINF:-1 group-title="🎥电影",徐州影视
 http://183.207.248.15/PLTV/3/224/3221225949/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",南宁影院
+#EXTINF:-1 group-title="🎥电影",浙江影视娱乐
+http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
+#EXTINF:-1 group-title="🎥电影",浙江教科影视
+http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 group-title="🎥电影",绍兴影视
+http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+#EXTINF:-1 group-title="🎥电影",湖南电影
+http://124.232.231.246:6610/000000001001/201600020005/index.m3u8?A=&IASHttpSessionId=OTT
+#EXTINF:-1 group-title="🎥电影",湖南电影
+http://111.40.196.30/PLTV/88888888/224/3221225660/index.m3u8
+#EXTINF:-1 group-title="🎥电影",东方影视
+http://111.40.196.28/PLTV/88888888/224/3221225615/index.m3u8?
+#EXTINF:-1 group-title="🎥电影",东方影视
+http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="🎥电影",东方影视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="🎥电影",吉林影视
+http://stream1.jlntv.cn/yspd/sd/live.m3u8
+#EXTINF:-1 group-title="🎥电影",山西影视
+http://liveflash.sxrtv.com/live/sxfilm.m3u8
+#EXTINF:-1 group-title="🎥电影",山西影视
+http://liveflash.sxrtv.com:80/live/sxfilm.m3u8
+#EXTINF:-1 group-title="🎥电影",西安影视
+http://stream2.xiancity.cn/xatv4/sd/live.m3u8
+#EXTINF:-1 group-title="🎥电影",西安影视
+http://stream2.xiancity.cn/xatv4/playlist.m3u8
+#EXTINF:-1 group-title="🎥电影",西安影视
+http://111.20.33.70/PLTV/88888893/224/3221226369/index.m3u8
+#EXTINF:-1 group-title="🎥电影",福州影视
+http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
+#EXTINF:-1 group-title="🎥电影",河北影视剧
+https://event.pull.hebtv.com/jishi/yingshijupindao.m3u8
+#EXTINF:-1 group-title="🎥电影",昆明影视综艺
+http://wshls.live.migucloud.com/live/KYLNJWFD_C0_2/playlist.m3u8?token=006f3811c18fb70b91442573728aa10e
+#EXTINF:-1 group-title="🎥电影",江西四套影视
+http://39.134.115.163:8080/PLTV/88888888/224/3221225579/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="🎥电影",云南影视
+https://hwapi.yunshicloud.com/62hdvf/utrat7.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
+#EXTINF:-1 group-title="🎥电影",南宁影视
 http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",漫威影片
+#EXTINF:-1 group-title="🎥电影",深圳电视剧
+http://218.17.216.102:9901/tsfile/live/1057_1.m3u8
+#EXTINF:-1 group-title="🎥电影",东至影视频道
+http://223.247.33.124:1935/live/yingshi/playlist.m3u8
+#EXTINF:-1 group-title="🎥电影",新泰影视
+http://111.17.214.4:1935/live/xtys/playlist.m3u8
+#EXTINF:-1 group-title="🎥电影",新泰影院
+http://live.xtgdw.cn:1935/live/xtys/playlist.m3u8
+#EXTINF:-1 group-title="🎥电影",新昌休闲影视
+http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+#EXTINF:-1 group-title="🎥电影",济阳影视
+https://jsylivealone302.iqilu.com/live/jiyang_tv02.m3u8
+#EXTINF:-1 group-title="🎥电影",任城影视娱乐
+https://jsylivealone302.iqilu.com/rencheng/rencheng_tv02.m3u8
+#EXTINF:-1 group-title="🎥电影",石河子影视文体
+http://124.88.144.73:1935/live/jjsh/HasBahCa.m3u8
+#EXTINF:-1 group-title="🎥电影",衡水影视
+http://hls.hsrtv.cn/hls/hstv2.m3u8
+#EXTINF:-1 group-title="🎥电影",海西影视
+http://stream.haixitv.cn/1/sd/live.m3u8
+#EXTINF:-1 group-title="🎥电影",溧水影视
+http://live.lsrmw.cn/ysyl/sd/live.m3u8
+#EXTINF:-1 group-title="🎥电影",滨海影视
+http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8
+#EXTINF:-1 group-title="🎥电影",烟台影视
+http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8
+#EXTINF:-1 group-title="🎥电影",菏泽影视
+http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8
+#EXTINF:-1 group-title="🎥电影",定州国学影视
+https://jwliveqxzb.hebyun.com.cn/yspd/yspd.m3u8
+#EXTINF:-1 group-title="🎥电影",定州国学影视
+https://jwcdnqx.hebyun.com.cn/live/yspd/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="🎥电影",万州影院
+http://123.146.162.24:8017/d4ceB1a/1000/live.m3u8
+#EXTINF:-1 group-title="🎥电影",万州影视
+http://wanzhoulive.cbg.cn:8017/d4ceB1a/1000/live.m3u8
+#EXTINF:-1 group-title="🎥电影",武强影院
+http://hbwq.chinashadt.com:2035/live/stream:wqys.stream/playlist.m3u8
+#EXTINF:-1 group-title="🎥电影",平泉影视
+https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
+#EXTINF:-1 group-title="🎥电影",兴隆影视
+https://jwcdnqx.hebyun.com.cn/live/xlys/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="🎥电影",隆化影院
+http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8
+#EXTINF:-1 group-title="🎥电影",影视频道
+https://jsylivealone302.iqilu.com/live/huimin_tv02.m3u8
+#EXTINF:-1 group-title="🎥电影",漫威影片
 http://epg.112114.xyz/douyu/6140589
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",喜剧电影
+#EXTINF:-1 group-title="🎥电影",喜剧电影
 http://epg.112114.xyz/douyu/9292492
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",高帧影片
+#EXTINF:-1 group-title="🎥电影",喜剧经典
+http://epg.112114.xyz/douyu/9650887
+#EXTINF:-1 group-title="🎥电影",豆瓣高分
+http://epg.112114.xyz/douyu/8770422
+#EXTINF:-1 group-title="🎥电影",宇哥电影
+http://epg.112114.xyz/douyu/413573
+#EXTINF:-1 group-title="🎥电影",高帧影片
 http://epg.112114.xyz/douyu/6763930
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎥电影",相声专场
-http://bp-caster.bestv.com.cn/512/1/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🗼4k高清",纯享4K
 http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🗼4k高清",纯享4K
@@ -2364,62 +2448,90 @@ http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8
 http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🌵besTV",炫动卡通
 http://183.207.255.188/live/program/live/xdkt/1300000/mnf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎞️NewTV",华语视界
+#EXTINF:-1 group-title="🌵besTV",BesTV轮播
+http://bp-caster.bestv.com.cn/532/1/video.m3u8
+#EXTINF:-1 group-title="🌵besTV",相声专场
+http://bp-caster.bestv.com.cn/512/1/video.m3u8
+#EXTINF:-1 group-title="🎞️NewTV",华语视界
 http://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎞️NewTV",精品体育
+#EXTINF:-1 group-title="🎞️NewTV",精品体育
 http://39.134.115.163:8080/PLTV/88888910/224/3221225709/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎞️NewTV",超级电视剧
+#EXTINF:-1 group-title="🎞️NewTV",超级电影
+http://39.135.138.58:18890/PLTV/88888888/224/3221225623/index.m3u8
+#EXTINF:-1 group-title="🎞️NewTV",超级电影
+http://39.135.138.58:18890/PLTV/88888888/224/3221225766/index.m3u8
+#EXTINF:-1 group-title="🎞️NewTV",超级电视剧
 http://39.134.115.163:8080/PLTV/88888910/224/3221225625/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎞️NewTV",超级体育
+#EXTINF:-1 group-title="🎞️NewTV",超级电视剧
+http://39.135.138.58:18890/PLTV/88888888/224/3221225625/index.m3u8
+#EXTINF:-1 group-title="🎞️NewTV",超级电视剧
+http://39.135.138.58:18890/PLTV/88888888/224/3221225765/index.m3u8
+#EXTINF:-1 group-title="🎞️NewTV",超级体育
 http://39.135.138.58:18890/PLTV/88888888/224/3221225622/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎞️NewTV",超级体育
+#EXTINF:-1 group-title="🎞️NewTV",超级体育
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225767/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎞️NewTV",超级综艺
+#EXTINF:-1 group-title="🎞️NewTV",超级综艺
 http://39.135.138.58:18890/PLTV/88888888/224/3221225620/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎞️NewTV",超级综艺
+#EXTINF:-1 group-title="🎞️NewTV",超级综艺
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225768/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎞️NewTV",潮妈辣婆
+#EXTINF:-1 group-title="🎞️NewTV",潮妈辣婆
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225708/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎞️NewTV",东北热剧
+#EXTINF:-1 group-title="🎞️NewTV",潮妈辣婆
+http://39.135.138.58:18890/PLTV/88888888/224/3221225708/index.m3u8
+#EXTINF:-1 group-title="🎞️NewTV",东北热剧
 http://39.135.138.58:18890/PLTV/88888888/224/3221226202/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎞️NewTV",东北热剧
+#EXTINF:-1 group-title="🎞️NewTV",东北热剧
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226202/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎞️NewTV",古装剧场
+#EXTINF:-1 group-title="🎞️NewTV",古装剧场
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225678/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎞️NewTV",海外剧场
+#EXTINF:-1 group-title="🎞️NewTV",古装剧场
+http://39.135.138.58:18890/PLTV/88888888/224/3221225678/index.m3u8
+#EXTINF:-1 group-title="🎞️NewTV",海外剧场
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225712/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎞️NewTV",海外剧场
+#EXTINF:-1 group-title="🎞️NewTV",海外剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎞️NewTV",欢乐剧场
+#EXTINF:-1 group-title="🎞️NewTV",欢乐剧场
 http://39.135.138.58:18890/PLTV/88888888/224/3221226210/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎞️NewTV",欢乐剧场
+#EXTINF:-1 group-title="🎞️NewTV",欢乐剧场
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226210/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎞️NewTV",家庭剧场
+#EXTINF:-1 group-title="🎞️NewTV",家庭剧场
 http://111.40.196.9/PLTV/88888888/224/3221225626/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎞️NewTV",家庭剧场
+#EXTINF:-1 group-title="🎞️NewTV",家庭剧场
+http://39.135.138.58:18890/PLTV/88888888/224/3221225713/index.m3u8
+#EXTINF:-1 group-title="🎞️NewTV",家庭剧场
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225713/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎞️NewTV",金牌综艺
+#EXTINF:-1 group-title="🎞️NewTV",金牌综艺
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225711/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎞️NewTV",精品大剧
+#EXTINF:-1 group-title="🎞️NewTV",精品大剧
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225714/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎞️NewTV",精品纪录
+#EXTINF:-1 group-title="🎞️NewTV",精品大剧
+http://39.135.138.58:18890/PLTV/88888888/224/3221225714/index.m3u8
+#EXTINF:-1 group-title="🎞️NewTV",精品纪录
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225710/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎞️NewTV",军旅剧场
+#EXTINF:-1 group-title="🎞️NewTV",军旅剧场
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225669/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎞️NewTV",军事评论
+#EXTINF:-1 group-title="🎞️NewTV",军旅剧场
+http://39.135.138.58:18890/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1 group-title="🎞️NewTV",军事评论
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225757/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎞️NewTV",明星大片
+#EXTINF:-1 group-title="🎞️NewTV",明星大片
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225716/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎞️NewTV",明星大片
+#EXTINF:-1 group-title="🎞️NewTV",明星大片
 http://39.135.138.59:18890/PLTV/88888910/224/3221225716/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎞️NewTV",农业致富
+#EXTINF:-1 group-title="🎞️NewTV",农业致富
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225670/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎞️NewTV",武搏世界
+#EXTINF:-1 group-title="🎞️NewTV",武搏世界
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225656/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎞️NewTV",中国功夫
+#EXTINF:-1 group-title="🎞️NewTV",中国功夫
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225660/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎞️NewTV",精品萌宠
+#EXTINF:-1 group-title="🎞️NewTV",精品萌宠
 http://111.13.42.234/PLTV/88888888/224/3221226976/1.m3u8
+#EXTINF:-1 group-title="🎞️NewTV",热播精选
+http://39.135.138.58:18890/PLTV/88888888/224/3221225712/index.m3u8
+#EXTINF:-1 group-title="🎞️NewTV",精品综合
+http://39.135.138.58:18890/PLTV/88888888/224/3221225716/index.m3u8
+#EXTINF:-1 group-title="🎞️NewTV",调解剧场
+http://39.164.218.68:9901/tsfile/live/1015_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬️老电影",51号兵站
 http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/fa6557276d644b5ea399956a6bf94e59/850.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🎬️老电影",巴黎圣母院
