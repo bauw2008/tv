@@ -1532,7 +1532,7 @@ Travel Channel,P2p://ns1.hellotvvod.com:9906/281e96812a8f4acdbba71ad79c15fe95
 BesTV轮播,http://bp-caster.bestv.com.cn/532/1/video.m3u8
 相声专场,http://bp-caster.bestv.com.cn/512/1/video.m3u8
 
-🧩NewTV,#genre#
+🎸️NewTV,#genre#
 超级电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225623/index.m3u8
 超级电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225766/index.m3u8
 超级电视剧,http://39.134.115.163:8080/PLTV/88888910/224/3221225625/index.m3u8
@@ -2006,7 +2006,7 @@ TVB剧场,http://hms2944nc1972666638.live.aikan.miguvideo.com/PLTV/88888888/224/
 影像俄罗斯,http://hms323nc1880172767.live.aikan.miguvideo.com/PLTV/88888888/224/3221232143/1.m3u8
 美食李子柒,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
 
-🌐Y Y,#genre#
+🥀Y Y,#genre#
 动画连播,http://mmitv.top/pltv/yy.php?id=1354930977
 欧美科幻,http://mmitv.top/pltv/yy.php?id=37988782
 鬼吹灯,http://mmitv.top/pltv/yy.php?id=1331686180
