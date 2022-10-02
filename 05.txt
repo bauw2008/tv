@@ -462,6 +462,7 @@ CEC国际频道,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
 厦门卫视,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226781/index.m3u8
 延边卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221226201/index.m3u8
 黄河卫视,http://liveflash.sxrtv.com/live/huanghe.m3u8
+安多卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226195/index.m3u8
 广东珠江,http://218.17.216.102:9901/tsfile/live/1001_1.m3u8
 广东珠江,http://61.143.45.150:9901/tsfile/live/0018_1.m3u8
 广东珠江,http://39.135.32.6:6610/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&IASHttpSessionId=OTT
@@ -804,6 +805,7 @@ CCTV高尔夫网球,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/20125
 哒啵赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
 哒啵赛事,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225653/index.m3u8
 哒啵赛事,http://39.134.115.163:8080/PLTV/88888910/224/3221225653/index.m3u8
+哒啵电竞,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226265/index.m3u8
 哒啵电竞,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226951/index.m3u8
 纬来育乐台,P2p://ns1.hellotvvod.com:9906/081ded65dfb345cb993f1d63b454341e
 纬来体育台,P2p://ns1.hellotvvod.com:9906/e86f0ed664fe4ad889461916ce915467
@@ -838,6 +840,7 @@ KiD影院2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 KiD影院3,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198822/index.m3u8
 KiD影院4,http://112.74.200.9:88/tv000000/m3u8.php?/migu/617432318/index.m3u8
 KiD影院5,http://39.135.138.58:18890/TVOD/88888888/224/3221225716/index.m3u8
+功夫,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226440/index.m3u8
 欢笑剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/623674859
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 黑莓电影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225718/index.m3u8
@@ -860,6 +863,13 @@ KiD影院5,http://39.135.138.58:18890/TVOD/88888888/224/3221225716/index.m3u8
 绍兴影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 湖南电影,http://124.232.231.246:6610/000000001001/201600020005/index.m3u8?A=&IASHttpSessionId=OTT
 湖南电影,http://111.40.196.30/PLTV/88888888/224/3221225660/index.m3u8
+湖南电影,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000038/main.m3u8?IASHttpSessionId=OTT
+湖南娱乐,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000040/main.m3u8?IASHttpSessionId=OTT
+长沙影视,http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000030/main.m3u8?IASHttpSessionId=OTT
+芒果剧场,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226692/index.m3u8?servicetype=1&c=福建三明移动
+峨眉电影,http://[2409:8c02:21c:60::2b]/live2.rxip.sc96655.com/live/emdygqH265_4000.m3u8
+西乡融媒,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002207/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+悦美生活,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002325/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 东方影视,http://111.40.196.28/PLTV/88888888/224/3221225615/index.m3u8?
 东方影视,http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
 东方影视,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
@@ -1038,7 +1048,9 @@ MOMO亲子台,P2p://ns1.hellotvvod.com:9906/f99539ee05024a3cb1e0531484d81e7e
 摄影频道,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 天元围棋,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
 国学频道,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226629/index.m3u8
+靓妆,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225509/index.m3u8?fmt=ts2hls
 车迷频道,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226666/index.m3u8
+车迷频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226347/index.m3u8
 优优宝贝,http://[2409:8087:5011:1020::1a]/180000001001/00000001000000000002000000028049/main.m3u8?IASHttpSessionId=OTT
 环球旅游,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226610/index.m3u8
 京视剧场,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001319/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -1050,9 +1062,15 @@ Dog狗频道,http://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
 茶频道,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226859/index.m3u8?servicetype=1
 快乐垂钓,http://[2409:8087:6a01:1020::d]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226224/1/index.m3u8?fmt=ts2hls
 中华美食,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225924/index.m3u8
+中华特产,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
+棋牌汇.576,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226449/index.m3u8
+美食汇.576,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226702/index.m3u8
 先锋乒羽,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226851/index.m3u8?servicetype=1
+先锋乒羽,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226331/index.m3u8
 快乐垂钓,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226190/1/index.m3u8?fmt=ts2hls
 江西陶瓷,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227234/index.m3u8?servicetype=1
+江西陶瓷,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226247/index.m3u8?fmt=ts2hls
+中国交通,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/08984400000000060000000000000438/index.m3u8?IAS
 求索记录,p2p://54.39.16.152:9906/62541db9000483b809827e6fdf85c22c
 求索生活,http://111.12.110.95:6610/000000001001/6000000002000003382/1.m3u8?stbId=3&livemode=1&channel-id=wasusyt&Contentid=6000000002000003382
 求索科学,http://111.12.110.95:6610/000000001001/6000000002000032344/1.m3u8?stbId=3&livemode=1&channel-id=wasusyt&Contentid=6000000002000032344
@@ -1560,9 +1578,11 @@ BesTV轮播,http://bp-caster.bestv.com.cn/532/1/video.m3u8
 家庭剧场,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225713/index.m3u8
 怡伴健康,http://39.135.138.58:18890/PLTV/88888910/224/3221225666/index.m3u8
 惊悚悬疑,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225885/index.m3u8
+惊悚悬疑,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225885/index.m3u8?servicetype=1
 金牌综艺,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225711/index.m3u8
 金牌综艺,http://39.135.138.58:18890/PLTV/88888910/224/3221225711/index.m3u8
 炫舞未来,http://39.135.138.58:18890/PLTV/88888910/224/3221225707/index.m3u8
+炫舞未来,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225707/index.m3u8
 精品大剧,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225714/index.m3u8
 精品大剧,http://39.135.138.58:18890/PLTV/88888888/224/3221225714/index.m3u8
 精品纪录,http://39.135.138.58:18890/PLTV/88888910/224/3221225710/index.m3u8
@@ -1571,6 +1591,7 @@ BesTV轮播,http://bp-caster.bestv.com.cn/532/1/video.m3u8
 精品体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225709/index.m3u8
 精品综合,http://39.135.138.58:18890/PLTV/88888888/224/3221225716/index.m3u8
 精品萌宠,http://111.13.42.234/PLTV/88888888/224/3221226976/1.m3u8
+精品萌宠,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226245/index.m3u8
 军旅剧场,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225669/index.m3u8
 军旅剧场,http://39.135.138.58:18890/PLTV/88888888/224/3221225669/index.m3u8
 军事评论,http://39.135.138.58:18890/PLTV/88888910/224/3221225757/index.m3u8
@@ -1590,6 +1611,7 @@ BesTV轮播,http://bp-caster.bestv.com.cn/532/1/video.m3u8
 热播精选,http://39.135.138.58:18890/PLTV/88888888/224/3221225712/index.m3u8
 调解剧场,http://39.164.218.68:9901/tsfile/live/1015_1.m3u8
 精彩综艺,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001273/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+精彩综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226009/index.m3u8
 精彩电视剧,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001276/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 精彩影视,http://111.12.110.95:6610/000000001001/6000000006000320630/1.m3u8?stbId=3&livemode=1&channel-id=wasusyt&Contentid=6000000006000320630
 
@@ -1844,10 +1866,13 @@ CHC高清电影,http://39.134.18.68/PLTV/88888888/224/3221232382/index.m3u8
 CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC家庭影院,http://111.20.33.93/PLTV/88888893/224/3221226462/index.m3u8
+CBN风尚生活,http://[2409:8c02:21c:60::2b]/live2.rxip.sc96655.com/live/fssh_4000.m3u8
 CBN每日影院,http://120.253.104.16:808/hls/140/index.m3u8
 CBN每日影院,http://[2409:8c02:21c:60::2b]/live2.rxip.sc96655.com/live/mryy_4000.m3u8
 CBN幸福剧场,http://120.253.104.16:808/hls/142/index.m3u8
+CBN幸福剧场,http://[2409:8c02:21c:60::2b]/live2.rxip.sc96655.com/live/xfjc_4000.m3u8
 CBN幸福娱乐,http://120.253.104.16:808/hls/143/index.m3u8
+CBN幸福娱乐,http://[2409:8c02:21c:60::2b]/live2.rxip.sc96655.com/live/xfyl_4000.m3u8
 少儿动漫,http://111.12.110.95:6610/000000001001/8145334647720731271/1.m3u8?stbId=3&livemode=1&channel-id=wasusyt&Contentid=8145334647720731271
 欧美影院,http://111.12.110.95:6610/000000001001/7185203501769528108/1.m3u8?stbId=3&livemode=1&channel-id=wasusyt&Contentid=7185203501769528108
 亚洲影院,http://111.12.110.95:6610/000000001001/5841816227539527643/1.m3u8?stbId=3&livemode=1&channel-id=wasusyt&Contentid=5841816227539527643
@@ -1877,6 +1902,8 @@ CBN幸福娱乐,http://120.253.104.16:808/hls/143/index.m3u8
 精彩放送,http://tc-tct.douyucdn2.cn/dyliveflv3a/6173973rfSIHv72F.flv?wsAuth=6bb8ae2bee7a5e225f579261464f4d29&token=cpn-androidmpro-0-6173973-a20f2e77df27ff78cbd96314eb3a81af739e74418554e4f4&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
 
 🌀️IPTV,#genre#
+IPTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225712/index.m3u8
+IPTV2,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225716/index.m3u8
 IPTV3+,http://39.134.32.102:6610/270000001111/1110000317/index.m3u8?IASHttpSessionId=OTT
 IPTV5+,http://39.134.32.102:6610/270000001111/1110000321/index.m3u8?IASHttpSessionId=OTT
 IPTV6+,http://39.134.32.102:6610/270000001111/1110000319/index.m3u8?IASHttpSessionId=OTT
@@ -2006,7 +2033,7 @@ TVB剧场,http://hms2944nc1972666638.live.aikan.miguvideo.com/PLTV/88888888/224/
 影像俄罗斯,http://hms323nc1880172767.live.aikan.miguvideo.com/PLTV/88888888/224/3221232143/1.m3u8
 美食李子柒,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
 
-🥀Y Y,#genre#
+👗️Y Y,#genre#
 动画连播,http://mmitv.top/pltv/yy.php?id=1354930977
 欧美科幻,http://mmitv.top/pltv/yy.php?id=37988782
 鬼吹灯,http://mmitv.top/pltv/yy.php?id=1331686180
