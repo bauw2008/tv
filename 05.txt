@@ -1584,10 +1584,6 @@ BesTV轮播,http://bp-caster.bestv.com.cn/532/1/video.m3u8
 相声专场,http://bp-caster.bestv.com.cn/512/1/video.m3u8
 
 🎸️NewTV,#genre#
-
-
-
-
 NewTV超级电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225623/index.m3u8
 NewTV超级电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225766/index.m3u8
 NewTV超级电视剧,http://39.134.115.163:8080/PLTV/88888910/224/3221225625/index.m3u8
@@ -1657,7 +1653,7 @@ NewTV热播精选,http://39.135.138.58:18890/PLTV/88888888/224/3221225712/index.
 NewTV精彩综艺,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001273/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 NewTV精彩综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226009/index.m3u8
 NewTV精品剧场,http://111.12.110.95:6610/000000001001/8230197131234717902/1.m3u8?stbId=3&livemode=1&channel-id=wasusyt&Contentid=8230197131234717902
-NewTV精彩影视,http://111.12.110.95:6610/000000001001/6000000006000320630/1.m3u8?stbId=3&livemode=1&channel-id=wasusyt&Contentid=6000000006000320630
+精彩影视,http://111.12.110.95:6610/000000001001/6000000006000320630/1.m3u8?stbId=3&livemode=1&channel-id=wasusyt&Contentid=6000000006000320630
 黑莓电影,http://39.135.138.58:18890/PLTV/88888910/224/3221225718/index.m3u8
 黑莓动画,http://39.135.138.58:18890/PLTV/88888910/224/3221225672/index.m3u8
 黑莓电竞,http://39.135.138.58:18890/PLTV/88888910/224/3221225653/index.m3u8
