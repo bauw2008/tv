@@ -358,6 +358,9 @@ CEC国际频道,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
 黔南一套,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225693/1/index.m3u8?fmt=ts2hls
 黔南一套,rtmp://tv.qntv.net/channellive/ch1?zguizd
 黔南二套,rtmp://tv.qntv.net/channellive/ch2?zguizd
+黔西南综合,http://live2.qxndt.com/zhpd/sd/live.m3u8
+黔西南公共,http://live2.qxndt.com/ggpd/sd/live.m3u8
+金沙综合,https://customer-live.slradio.cn/live/jinsharmt-app2.m3u8
 思南综合,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226299/1/index.m3u8?fmt=ts2hls
 思南综合,https://pili-live-hdl-sndst.tianma3600.com/sndst2/dspd2.m3u8?zguizd
 思南综合,rtmp://pili-live-rtmp.sndst.tianma3600.com/sndst2/dspd2?zguizd
@@ -372,6 +375,7 @@ CEC国际频道,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
 罗甸综合,http://pili-live-rtmp.210.i2863.com/i2863-210/live_210_050252.m3u8
 湄潭综合,http://p2.weizan.cn/1635496647/663562647402642026/live.m3u8?zguizd
 仁怀新闻,https://ali-live.rh163.cn/live/app1.m3u8?zguizd
+石阡新闻,http://111.123.209.13:9000/hls/main/playlist.m3u8
 
 📡省台,#genre#
 贵州卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225728/index.m3u8
