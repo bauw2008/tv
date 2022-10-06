@@ -340,7 +340,8 @@ CEC国际频道,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
 贵州6,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226293/1/index.m3u8?fmt=ts2hls
 贵州7,http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225741/1/index.m3u8?fmt=ts2hls
 贵州7,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226274/1/index.m3u8?fmt=ts2hls
-贵阳1,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226037/1/index.m3u8?fmt=ts2hls
+贵阳1,https://2061824986.cloudvdn.com/a.m3u8?domain=pili-live-hls-gzzzgy.tianma3600.com&player=z_8AAFob6HbhbhsX&secondToken=secondToken%3AF8K3SvqQ-B0f8Dgnr4sPEth0D0s&sign=743812d177f63fb7e047569f2d4d85a0&streamid=gzzzgy%3Agzzzgy%2Fnewssynthesis&t=633e9e89&v3=1
+贵阳1,https://pili-live-hls-gzzzgy.tianma3600.com/gzzzgy/newssynthesis.m3u8?sign=743812d177f63fb7e047569f2d4d85a0&t=633e9e89
 贵阳1,http://[2409:8087:6a01:1020::d]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226037/1/index.m3u8?fmt=ts2hls
 贵阳1,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225743/1/index.m3u8?fmt=ts2hls
 贵阳2,http://[2409:8087:6a01:1020::d]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225684/1/index.m3u8?fmt=ts2hls
@@ -380,6 +381,8 @@ CEC国际频道,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
 湄潭综合,http://p2.weizan.cn/1635496647/663562647402642026/live.m3u8?zguizd
 仁怀新闻,https://ali-live.rh163.cn/live/app1.m3u8?zguizd
 石阡新闻,http://111.123.209.13:9000/hls/main/playlist.m3u8
+六盘水新闻,http://file.lpsntv.com/nmip-media/channellive/channel110181/playlist.m3u8
+六盘水公共,http://file.lpsntv.com/nmip-media/channellive/channel110983/playlist.m3u8
 
 📡省台,#genre#
 贵州卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225728/index.m3u8
@@ -821,6 +824,7 @@ CCTV高尔夫网球,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/20125
 五星体育,http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
 五星体育,P2p://ns1.hellotvvod.com:9906/00c702ecebb442cdbdc85d47cf5ac4b1
 劲爆体育,http://112.25.48.69/live/program/live/jbtyhd/2300000/mnf.m3u8
+劲爆体育,http://183.207.255.207/live/program/live/jbtyhd/4000000/mnf.m3u8
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8?zshangd
 超级体育,http://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.m3u8
@@ -2792,15 +2796,6 @@ HAPPY,P2p://ns1.hellotvvod.com:9906/e0f27b1dc3f34298b020a47e396471fc
 惊艳成人电影台,P2p://ns1.hellotvvod.com:9906/70ef51bf19b14520ad2c466bc41abb9e
 LOOK TV,P2p://ns1.hellotvvod.com:9906/90450f3f6f954f438a01342ce437a53d
 K頻道,P2p://ns1.hellotvvod.com:9906/059ea3eecc1244f0992815346ab94f3d
-感谢祭1,https://siwazywcdn2.com:5278/zhongwenzimu/LmePT34f/index.m3u8
-感谢祭2,https://siwazywcdn2.com:5278/zhongwenzimu/BpDhA5SX/index.m3u8
-感谢祭3,https://siwazywcdn2.com:5278/zhongwenzimu/94xcQ38r/index.m3u8
-感谢祭4,https://siwazywcdn2.com:5278/koubao/ArO0ZKyh/index.m3u8
-感谢祭5,https://siwazywcdn2.com:5278/zhongwenzimu/1et0icd2/index.m3u8
-感谢祭6,https://siwazywcdn2.com:5278/zhongwenzimu/Qge2P3qk/index.m3u8
-感谢祭7,https://siwazywcdn2.com:5278/zhongwenzimu/Ydug5DxQ/index.m3u8
-感谢祭8,https://siwazywcdn2.com:5278/zhongwenzimu/3Cl64rKR/index.m3u8
-感谢祭9,https://play2.laoyacdn.com/20220816/U0QB5Y0I/index.m3u8
 楪カレン1,https://play.cmbofang1.com/20220715/17D4qvDe/index.m3u8
 楪カレン2,https://siwazywcdn2.com:5278/zhongwenzimu/C16jHm9M/index.m3u8
 楪カレン3,https://siwazywcdn2.com:5278/zhongwenzimu/c9aSvVZI/index.m3u8
