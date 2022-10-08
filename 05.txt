@@ -352,7 +352,8 @@ CEC国际频道,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
 遵义都市,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226317/1/index.m3u8?fmt=ts2hls
 遵义综合,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226318/1/index.m3u8?fmt=ts2hls
 遵义公共,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226320/1/index.m3u8?fmt=ts2hls
-绥阳电视台,https://v3-default.ixigua.com/42af7dcb669025e8519ecba5e39e3ba4/63404500/video/tos/cn/tos-cn-v-0076/e5cc37aaadaa416787e721545f689f06/
+绥阳电视台,https://p26.toutiaoimg.com/obj/tos-cn-i-0004/27e3bce280ea4fc19649e7529c59ac45
+绥阳电视台,http://106.54.30.243/gz009/gz.php?id=hydst
 贵州旅游频道,http://[2409:8087:6a01:1020::12]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226160/1/index.m3u8?fmt=ts2hls
 安顺新闻综合1,http://[2409:8087:6a01:1020::d]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226241/1/index.m3u8?fmt=ts2hls
 安顺新闻综合1,https://player.juyun.tv/camera/64413134.m3u8?zguizd
@@ -2416,6 +2417,7 @@ Kiss -因为是女子,https://vd2.bdstatic.com/mda-me107z4jv2r19kve/sc/mda-me107
 滨崎步-M,https://vd2.bdstatic.com/mda-me100xkq9nz6hdk2/sc/mda-me100xkq9nz6hdk2.mp4
 滨崎步-My all,https://vd2.bdstatic.com/mda-me0zzb1sbym882bp/sc/mda-me0zzb1sbym882bp.mp4
 中岛美雪,https://rescdn.yishihui.com/longvideo/transcode/video/2019-1-3/6abe05f7397249d9a2bcf90d372669f61548290067589.m3u8
+匹若曹,https://p26.toutiaoimg.com/obj/tos-cn-i-0004/55033caa58aa4563bc92f11667367ee6
 朴孝敏-SKETCH,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAguq6r7gUouOyF4gE.mp4
 蔡妍-两个人,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239834716201.mp4
 西域男孩 - My love,https://vd2.bdstatic.com/mda-mb2qsbmzz0rp8g7y/v1-cae/1080p/mda-mb2qsbmzz0rp8g7y.mp4
