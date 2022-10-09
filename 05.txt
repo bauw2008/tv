@@ -352,7 +352,7 @@ CEC国际频道,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
 遵义都市,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226317/1/index.m3u8?fmt=ts2hls
 遵义综合,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226318/1/index.m3u8?fmt=ts2hls
 遵义公共,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226320/1/index.m3u8?fmt=ts2hls
-绥阳电视台,https://p26.toutiaoimg.com/obj/tos-cn-i-0004/27e3bce280ea4fc19649e7529c59ac45
+绥阳电视台,http://note.youdao.com/yws/api/personal/file/WEB188d0409dbfa7be1d9d0a97ae04c647a?method=download&inline=true&shareKey=f728b3ed52ba9f80d4572770c9035baf
 绥阳电视台,http://106.54.30.243/gz009/gz.php?id=hydst
 贵州旅游频道,http://[2409:8087:6a01:1020::12]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226160/1/index.m3u8?fmt=ts2hls
 安顺新闻综合1,http://[2409:8087:6a01:1020::d]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226241/1/index.m3u8?fmt=ts2hls
@@ -1911,8 +1911,10 @@ CHC家庭影院,http://111.20.33.93/PLTV/88888893/224/3221226462/index.m3u8
 CBN风尚生活,http://[2409:8c02:21c:60::2c]/live2.rxip.sc96655.com/live/fssh_4000.m3u8
 CBN风尚生活,http://[2409:8c02:21c:60::2b]/live2.rxip.sc96655.com/live/fssh_4000.m3u8
 CBN每日影院,http://120.253.104.16:808/hls/140/index.m3u8
-CBN每日影院,http://[2409:8c02:21c:60::2b]/live2.rxip.sc96655.com/live/mryy_4000.m3u8
+CBN每日影院,http://175.154.201.15:5003/custom46.m3u8
 CBN每日影院,http://[2409:8c02:21c:60::2c]/live2.rxip.sc96655.com/live/mryy_4000.m3u8
+CBN每日影院,http://120.253.104.16:808/hls/140/index.m3u8
+CBN每日影院,http://fyld.eatuo.com:9901/tsfile/live/1046_1.m3u8
 CBN幸福剧场,http://120.253.104.16:808/hls/142/index.m3u8
 CBN幸福剧场,http://[2409:8c02:21c:60::2b]/live2.rxip.sc96655.com/live/xfjc_4000.m3u8
 CBN幸福剧场,http://[2409:8c02:21c:60::2c]/live2.rxip.sc96655.com/live/xfjc_4000.m3u8
