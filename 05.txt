@@ -542,8 +542,6 @@ CEC国际频道,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
 RTHK31,http://link.sczhgx.com:59845/hls/89/index.m3u8
 RTHK32,mitv://ns1.hellotvvod.com:9906/69c233c4cda34a8c9639aab527abeb12
 RTHK32,http://link.sczhgx.com:59845/hls/90/index.m3u8
-now直播台,mitv://ns1.hellotvvod.com:9906/0c5a24ee0d3e48a29d74d3e12b084e1f
-now新闻台,mitv://ns1.hellotvvod.com:9906/bcb627e9ef484a21ae1ed89d4d63dae0
 翡翠台,http://jyjxy.7766.org:808/hls/36/index.m3u8
 翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
 翡翠台,http://98.142.138.122:1639/zhiboyuandakaTV/tvbjade83675.m3u8
@@ -554,8 +552,8 @@ TVB经典台,mitv://ns1.hellotvvod.com:9906/fde911797e1148c1a8af75139f546ab6
 TVB星河频道,http://jyjxy.7766.org:808/hls/35/index.m3u8
 TVB星河频道,mitv://ns1.hellotvvod.com:9906/1c69befc07c54d24beaf54ca48c9c9f5
 TVB娱乐新闻台,mitv://ns1.hellotvvod.com:9906/7643b4f6340344fe85fd9178369881c0
-TVBS,mitv://ns1.hellotvvod.com:9906/6f1ede1d1a864d25af99ee89f3ec6c01
-TVBS亚洲,mitv://ns1.hellotvvod.com:9906/8c12c7392f8c45169631c68a6b606cdb
+TVBS,mitv://ns1.hellotvvod.com:9906/8c12c7392f8c45169631c68a6b606cdb
+TVBSHD,mitv://ns1.hellotvvod.com:9906/6f1ede1d1a864d25af99ee89f3ec6c01
 TVBS新闻,rtmp://59.124.75.138/sat/tv551
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 TVBS新闻,mitv://ns1.hellotvvod.com:9906/85edca8cca3a4669866401756e6b0fc9
@@ -720,7 +718,6 @@ ELTA体育3台,rtmp://59.124.75.138/sat/md021
 高点综合台,mitv://ns1.hellotvvod.com:9906/1cc6602d456040d7a24b3ba1e52b2c9b
 韩国娱乐台KMTV,mitv://ns1.hellotvvod.com:9906/86c6977521d94569b5866980616aa94c
 年代新闻台,mitv://ns1.hellotvvod.com:9906/25ee7224f52140c6995afd407f37d7af
-爱尔达影剧,mitv://ns1.hellotvvod.com:9906/26c1d92ad6344402a9468ed142abf4a1
 博斯网球,http://50.7.220.74:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
 博斯网球台,mitv://ns1.hellotvvod.com:9906/061e0b29b56e41e98c8c3387976d169e
 博斯高球1,http://50.7.220.74:8278/bosigolf1_twn/playlist.m3u8?tid=MD5D3832704238327042&ct=18393&tsum=cbf3bf749c9b0bf4828ab19efff1c5b0
@@ -1184,7 +1181,6 @@ History,mitv://ns1.hellotvvod.com:9906/98edb2bc02714efcbdca7a5d68ad0b13
 DiscoveryAsia,mitv://ns1.hellotvvod.com:9906/f97c7017d0814d13a0d3a776597138ff
 Discovery,http://173.211.42.73:8278/discoveryhd_twn/playlist.m3u8?tid=MB0B5177298351772983&ct=19234&tsum=ca4373fe502ea49d281ea1ecdd3531f5
 Discovery科学,mitv://ns1.hellotvvod.com:9906/08b339326ee449f5ae0b8280aeb8b2aa
-Nat Geo Wild,mitv://ns1.hellotvvod.com:9906/292cf8c6267b43ee956e6a9dfa0b4fec
 国家地理频道,mitv://ns1.hellotvvod.com:9906/8750510b3c724a23a7d2a2c219109f67
 国家地理野生,mitv://ns1.hellotvvod.com:9906/4079ae68f645425cab555d9f21d21fb
 动物星球,mitv://ns1.hellotvvod.com:9906/dc309453b7c14ea5ac822eb1c6b57358
@@ -1196,7 +1192,6 @@ HGTV居家乐活频道,mitv://ns1.hellotvvod.com:9906/1d49d97b20df4655a5cb813f96
 亚洲旅游,mitv://ns1.hellotvvod.com:9906/4a9c5931e2624b6095ccd882b04fa9ba
 亚洲旅游,http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d
 亚洲美食,mitv://ns1.hellotvvod.com:9906/cc0554d0926f43748414640044e38d1f
-探索频道,P2p://ns1.hellotvvod.com:9906/77d7615bfb1b4387afa4764c9ba1d243
 达文西频道,mitv://ns1.hellotvvod.com:9906/5f436a1d7db2465fa8c23478f628a6da
 
 🔫课堂,#genre#
