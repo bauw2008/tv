@@ -286,7 +286,7 @@ CCTV央视文化精品,http://[2409:8087:6a01:1020::d]/cdnrrs.gz.chinamobile.com
 CCTV央视文化精品,http://111.20.33.82/PLTV/88888893/224/3221226981/index.m3u8
 CCTV央视台球,http://[2409:8087:6a01:1020::d]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226156/1/index.m3u8?fmt=ts2hls
 CCTV央视台球,http://[2409:8087:6a01:1020::12]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls
-CCTV央视台球,,http://111.20.33.82/PLTV/88888893/224/3221226956/index.m3u8
+CCTV央视台球,http://111.20.33.82/PLTV/88888893/224/3221226956/index.m3u8
 CCTV高尔夫网球,http://[2409:8087:6a01:1020::d]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226114/1/index.m3u8?fmt=ts2hls
 CCTV高尔夫网球,http://111.20.33.82/PLTV/88888893/224/3221226978/index.m3u8
 CCTV兵器科技,http://[2409:8087:6a01:1020::a]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls
@@ -849,26 +849,27 @@ AXN亚洲,mitv://ns1.hellotvvod.com:9906/221db2ce78774efb88e321a5f19581e7
 Arirang,mitv://ns1.hellotvvod.com:9906/6d334c90a6cf4a3c890f5aa96cc73504
 
 🏀体育,#genre#
-CCTV央视台球,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513703.m3u8
-CCTV央视台球,rtsp://221.203.83.34:554/PLTV/88888888/224/3221226706/10000100000000060000000006385172_0.smil
-CCTV央视台球,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513702.m3u8
+CCTV央视台球,http://[2409:8087:6a01:1020::d]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226156/1/index.m3u8?fmt=ts2hls
+CCTV央视台球,http://[2409:8087:6a01:1020::12]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls
+CCTV央视台球,http://111.20.33.82/PLTV/88888893/224/3221226956/index.m3u8
 CCTV高尔夫网球,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012512503.m3u8
 CCTV高尔夫网球,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012512502.m3u8
 咪咕体育,http://[2409:8087:6a01:1020::d]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226264/1/index.m3u8?fmt=ts2hls
+咪咕体育,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226137/1/index.m3u8?fmt=ts2hls
 咪咕体育,http://[2409:8087:6a01:1020::9]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226177/1/index.m3u8?fmt=ts2hls
+咪咕体育,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226134/1/index.m3u8?fmt=ts2hls
 五星体育,http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
-五星体育,P2p://ns1.hellotvvod.com:9906/00c702ecebb442cdbdc85d47cf5ac4b1
 劲爆体育,http://112.25.48.69/live/program/live/jbtyhd/2300000/mnf.m3u8
 劲爆体育,http://183.207.255.207/live/program/live/jbtyhd/4000000/mnf.m3u8
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8?zshangd
 超级体育,http://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.m3u8
 超级体育,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225767/index.m3u8
+超级体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 极速汽车,http://[2409:8087:6a01:1020::d]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226249/1/index.m3u8?fmt=ts2hls
 极速汽车,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226574/1.m3u8
 极速汽车,http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8
 极速汽车,http://111.20.33.93/PLTV/88888893/224/3221226574/index.m3u8
-新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 广东体育,http://183.63.15.42:9901/tsfile/live/0136_1.m3u8
 广东体育,P2p://ns1.hellotvvod.com:9906/0b3bac2e90b6403ca5ca1d2da76a55e8
 山东体育,http://119.164.216.162:9901/tsfile/live/1002_1.m3u8
@@ -880,11 +881,8 @@ CCTV高尔夫网球,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/20125
 魅力足球,P2p://ns1.hellotvvod.com:9906/d73ea0600eab4fff83063fbe132b85d3
 游戏风云,http://[2409:8087:6a01:1020::f]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226193/1/index.m3u8?fmt=ts2hls
 游戏风云,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226252/1/index.m3u8?fmt=ts2hls
-足球频道,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226137/1/index.m3u8?fmt=ts2hls
-足球频道,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226134/1/index.m3u8?fmt=ts2hls
-足球,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226236/1/index.m3u8?fmt=ts2hls
+足球频道,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226236/1/index.m3u8?fmt=ts2hls
 澳门体育,http://103.233.191.132:1935/ch4/sport_ch4.live/playlist.m3u8
-超级体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 精品体育,http://111.40.196.37/PLTV/88888888/224/3221225608/index.m3u8
 精品体育,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225709/index.m3u8
 精品体育,http://39.135.138.60:18890/PLTV/88888910/224/3221225709/index.m3u8
@@ -1017,7 +1015,6 @@ KiD影院9,http://39.135.138.58:18890/TVOD/88888888/224/3221225716/index.m3u8
 纯享4K,http://39.135.138.58:18890/ysten-businessmobile/live/HD-20M-2160P-chunxiang4k/1.m3u8
 纯享4K,http://39.135.138.58:18890/PLTV/88888888/224/3221225786/index.m3u8
 纯享4K,http://39.135.138.60:18890/PLTV/88888910/224/3221225786/index.m3u8
-苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 4K,http://[2409:8087:1070:301:2026::12]:80/wh7f454c46tw4179594525_1038075197/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225858/10000100000000060000000000262129_0.smil/01.m3u8?fmt=ts2hls
 4K,http://[2409:8087:5c00:10:5::121]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225726/index.m3u8
 4K,http://[2409:8087:5c00:10:5::8a]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225726/index.m3u8
@@ -1054,6 +1051,7 @@ CCTV16,http://[2409:8087:5c00:10:5::153]/cdnrrs.gx.chinamobile.com/PLTV/3/224/32
 苏州4K,http://3740480834.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=wIgAANH1UieYTeIW&secondToken=secondToken%3AlDV9er1_pa4JZ7B_HTFDHqOPHaI&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1
 苏州4K,http://3740480837.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=X7wAAPMizr_MF-gW&secondToken=secondToken%3A08GykFLGXy4k9xKOwtRpMVC8WOU&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1
 苏州4K,http://3740480837.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=VooAANf18QP9F-QW&secondToken=secondToken%3AMc0mRObNpYc8gL7T_KxOb7N02NI&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1
+苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 
 👶卡通,#genre#
 卡酷少儿,http://39.135.138.60:18890/PLTV/88888910/224/3221225677/index.m3u8
@@ -1076,10 +1074,10 @@ CCTV16,http://[2409:8087:5c00:10:5::153]/cdnrrs.gx.chinamobile.com/PLTV/3/224/32
 金鹰卡通,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225870/index.m3u8?servicetype=1
 动漫秀场,http://[2409:8087:6a01:1020::d]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226211/1/index.m3u8?fmt=ts2hls
 动漫秀场,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226211/1/index.m3u8?fmt=ts2hls?8M
-嘉佳卡通,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227230/index.m3u8?servicetype=1
 动漫秀场,http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8
 黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 黑莓动画,http://[2409:8087:5c0b:10:2::9d]:6610/000000001000/6497762188035533951/1.m3u8?channel-id=ystenlive&Contentid=6497762188035533951&livemode=1&stbId=0
+嘉佳卡通,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227230/index.m3u8?servicetype=1
 嘉佳卡通,http://www.kitcc.cn:8888/rtp/239.77.0.179:5146
 嘉佳卡通,http://mzwh4455.qicp.vip:280/hls/22/index.m3u8
 嘉佳卡通,http://fyld.eatuo.com:9901/tsfile/live/1043_1.m3u8
@@ -1159,6 +1157,7 @@ Dog狗频道,http://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
 快乐垂钓,http://[2409:8087:6a01:1020::d]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226224/1/index.m3u8?fmt=ts2hls
 快乐垂钓,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227028/index.m3u8?servicetype=1
 快乐垂钓,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226940/index.m3u8?servicetype=1
+快乐垂钓,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226190/1/index.m3u8?fmt=ts2hls
 中华美食,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225924/index.m3u8
 中华特产,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
 棋牌汇,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226449/index.m3u8
@@ -1166,7 +1165,6 @@ Dog狗频道,http://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
 先锋乒羽,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226851/index.m3u8?servicetype=1
 先锋乒羽,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226331/index.m3u8
 先锋乒羽,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221226851/index.m3u8?servicetype=1
-快乐垂钓,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226190/1/index.m3u8?fmt=ts2hls
 江西陶瓷,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227234/index.m3u8?servicetype=1
 江西陶瓷,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226247/index.m3u8?fmt=ts2hls
 江西陶瓷,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227234/index.m3u8?servicetype=1
@@ -2013,8 +2011,8 @@ IPTV大健康,http://120.234.110.137/ywotttv.bj.chinamobile.com/PLTV/88888888/22
 北京生活,http://111.13.42.242/PLTV/88888888/224/3221226561/1.m3u8
 北京青年,http://111.13.42.242/PLTV/88888888/224/3221226562/1.m3u8
 北京新闻,http://111.13.42.235/PLTV/88888888/224/3221226437/1.m3u8
-北京国际,http://111.13.42.234/PLTV/88888888/224/3221226510/1.m3u8
 北京新闻,http://live.funhillrm.com/5/sd/live.m3u8?zbeid
+北京国际,http://111.13.42.234/PLTV/88888888/224/3221226510/1.m3u8
 北京卡酷少儿,http://111.13.42.230/PLTV/88888888/224/3221226558/1.m3u8
 北京卡酷少儿,http://39.135.138.60:18890/PLTV/88888888/224/3221225677/index.m3u8?zbeid
 北京体育休闲,http://111.20.33.70/TVOD/88888893/224/3221226232/index.m3u8
