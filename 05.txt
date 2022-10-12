@@ -895,11 +895,11 @@ CCTV高尔夫网球,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/20125
 哒啵电竞,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226951/index.m3u8
 
 🎥电影,#genre#
-NewTV动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 NewTV动作电影,http://111.13.42.234/TVOD/88888888/224/3221226329/1.m3u8
 NewTV动作电影,http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221225879/index.m3u8?servicetype=1
 NewTV超级电影,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225623/2/index.m3u8
 NewTV超级电影,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225766/2/index.m3u8
+NewTV超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 NewTV超级电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 NewTV超级电视剧,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225625/index.m3u8
 NewTV超级电视剧,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225765/2/index.m3u8
