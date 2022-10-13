@@ -1447,11 +1447,17 @@ http://183.207.255.207/live/program/live/jbtyhd/4000000/mnf.m3u8
 http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png",group-title="🏀体育",新视觉
 http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8?zshangd
-#EXTINF:-1 group-title="🏀体育",超级体育
-http://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.m3u8
-#EXTINF:-1 group-title="🏀体育",超级体育
+#EXTINF:-1 group-title="🏀体育",NewTV超级体育
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225648/2/index.m3u8
+#EXTINF:-1 group-title="🏀体育",NewTV超级体育
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225622/2/index.m3u8
+#EXTINF:-1 group-title="🏀体育",NewTV超级体育
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225767/index.m3u8
-#EXTINF:-1 group-title="🏀体育",超级体育
+#EXTINF:-1 group-title="🏀体育",NewTV超级体育
+http://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.m3u8
+#EXTINF:-1 group-title="🏀体育",NewTV超级体育
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225767/index.m3u8
+#EXTINF:-1 group-title="🏀体育",NewTV超级体育
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png",group-title="🏀体育",极速汽车
 http://[2409:8087:6a01:1020::d]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226249/1/index.m3u8?fmt=ts2hls
@@ -1515,13 +1521,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225625/index.m3u8
 #EXTINF:-1 group-title="🎥电影",NewTV超级电视剧
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225765/2/index.m3u8
-#EXTINF:-1 group-title="🎥电影",NewTV超级体育
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225648/2/index.m3u8
-#EXTINF:-1 group-title="🎥电影",NewTV超级体育
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225622/2/index.m3u8
-#EXTINF:-1 group-title="🎥电影",NewTV超级体育
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225767/index.m3u8
-#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="🎥电影",
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="🎥电影",CHC动作电影
 http://live.cooltv.top/tv/aishang.php?id=chcdzdy
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="🎥电影",CHC动作电影
 http://111.20.33.93/PLTV/88888893/224/3221226465/index.m3u8
