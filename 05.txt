@@ -1955,7 +1955,7 @@ CBN幸福娱乐,http://[2409:8c02:21c:60::2c]/live2.rxip.sc96655.com/live/xfyl_4
 
 🐠斗鱼,#genre#
 斗鱼4K,http://tc-tct.douyucdn2.cn/dyliveflv3a/10617369rxIjiYfM.flv?wsAuth=97d11ebe61ddfad04b25cc0fba1de6c0&token=cpn-androidmpro-0-10617369-720ce646e818b07e540110b7ab38e4097e311e9a6a4e1b47&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
-斗鱼电影1,斗鱼电影1,http://tc-tct.douyucdn2.cn/dyliveflv1a/3637778raLSXdOdu.flv?wsAuth=87594bf7f0bf3d140de4168e744691f4&token=cpn-androidmpro-0-3637778-8c089871434b9344984c03f4c7655cdf172a1b1a18c4438c&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+斗鱼电影1,http://tc-tct.douyucdn2.cn/dyliveflv1a/3637778raLSXdOdu.flv?wsAuth=87594bf7f0bf3d140de4168e744691f4&token=cpn-androidmpro-0-3637778-8c089871434b9344984c03f4c7655cdf172a1b1a18c4438c&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 斗鱼电影2,http://tc-tct.douyucdn2.cn/dyliveflv3a/3637726rQLDdfto7.flv?wsAuth=d2de897a1c4bc2c3e94bda29fa8e82cf&token=cpn-androidmpro-0-3637726-a97a3241d7613834441361018b2b346fd79c37174509c8bc&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
 斗鱼电影3,http://tc-tct.douyucdn2.cn/dyliveflv3/10240539rbcsxy6p.flv?wsAuth=0c469ad651f25fd500a62dfda48f4221&token=cpn-androidmpro-0-10240539-634f8de57f44783d485132f45471693462b8cf5f09f5453c&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
 斗鱼电影4,http://tc-tct.douyucdn2.cn/dyliveflv3/9650887rv7EFUewS.flv?wsAuth=3cf89fcdd8b33adfeaea99dd84242807&token=cpn-androidmpro-0-9650887-05de1fcd022bbd158b831831e39862ad339d45e713c3a897&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
@@ -2088,30 +2088,6 @@ HBOHD,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&
 古装武侠,http://txtest-xp2p.p2p.huya.com/src/1394575562-1394575562-5989656430590820352-2789274580-10057-A-0-1.xs
 女神系列,http://txtest-xp2p.p2p.huya.com/src/1388451591-1388451591-5963354175424167936-2777026638-10057-A-0-1.xs
 贺岁影院,http://txtest-xp2p.p2p.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.xs
-高清影院,http://112.19.214.90:8883/tsfile/live/1011_1.m3u8
-经典再现,http://112.19.214.90:8883/tsfile/live/1009_1.m3u8
-科幻电影,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625204865
-云上电影,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625703337
-新片放映厅,http://112.74.200.9:88/tv000000/m3u8.php?/migu/619495952
-盗墓,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625525181
-高分影院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198191
-试胆大会,http://112.74.200.9:88/tv000000/m3u8.php?/migu/637483721
-烧脑时刻,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625542365
-暑期剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198692
-黄金剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625155140
-军旅剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625643517
-少林剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625526423
-高清大片,http://112.74.200.9:88/tv000000/m3u8.php?/migu/629943678
-热剧联播,http://112.74.200.9:88/tv000000/m3u8.php?/migu/629943613
-喜剧联盟,http://112.74.200.9:88/tv000000/m3u8.php?/migu/637444830
-僵尸剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627033504
-失眠剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625759558
-谍战剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/634274665
-贺岁片,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625774662
-追剧少女,http://112.74.200.9:88/tv000000/m3u8.php?/migu/617432318
-武侠剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198822
-怀旧老片,http://112.74.200.9:88/tv000000/m3u8.php?/migu/621640582
-盗墓笔记,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625681367
 动作片专场,https://cn-hnld-ct-01-30.bilivideo.com/live-bvc/294186/live_400392_6822511_1500.m3u8
 喜剧电影,http://epg.112114.xyz/douyu/9292492
 
