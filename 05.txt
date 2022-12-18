@@ -608,13 +608,15 @@ Hands Up,mitv://ns1.hellotvvod.com:9906/a266ec1576c44c619d99991f3c4bfdff
 爆谷台,http://hs.crtvhstv.xyz:80/play/VcEn_Ptf76IRZM6gvuBMygQ164eZT2c3b45rryEtOk4
 Thrill,mitv://ns1.hellotvvod.com:9906/e56f768d9804456480418d445894a4c1
 Channel V,http://175.154.201.15:5003/custom22.m3u8
-Channel V,http://110.184.196.9:9527/rtp/239.93.0.157:2194
-Channel V,http://203.77.246.50:5000/udp/239.1.1.144:5000
-星空卫视,http://99.sc1970.xyz:8888/iptv/GDH.php?id=xingkong_1500
-星空卫视,http://118.31.113.130:82/gudou.php?id=xingkong_1500
+Channel V,http://116.205.130.205:66/6/gudtv.php?id=MTV_1500
+Channel V,http://www.56ku.ml/gudou.php?id=MTV_1500
+星空卫视,http://116.205.130.205:66/6/gudtv.php?id=xingkong_1500
+星空卫视,http://www.56ku.ml/gudou.php?id=xingkong_1500
 星空卫视,http://123.58.201.173:52411/test/谷豆.php?id=xingkong_1500
-星空卫视,http://110.184.196.9:9527/rtp/239.93.0.156:2193
+星空卫视,https://www.56ku.ml/gudou.php?id=xingkong_1500
 星空卫视,http://218.89.248.152:18000/rtp/239.93.0.156:2193
+DOXTV,http://116.205.130.205:66/6/gudtv.php?id=DOXTV_1500
+DOXTV,http://www.56ku.ml/gudou.php?id=DOXTV_1500
 阳光卫视,mitv://ns1.hellotvvod.com:9906/fe458b1a717c40c38781db04d024e5ce
 AMC,mitv://ns1.hellotvvod.com:9906/a8037bf2c67945639b5e495a3d880a91
 AXN,mitv://ns1.hellotvvod.com:9906/ead2ab5a3ebf4782acf83192185af6f2
