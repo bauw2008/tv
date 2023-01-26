@@ -610,9 +610,9 @@ Thrill,mitv://ns1.hellotvvod.com:9906/e56f768d9804456480418d445894a4c1
 Channel V,http://175.154.201.15:5003/custom22.m3u8
 Channel V,http://116.205.130.205:66/6/gudtv.php?id=MTV_1500
 Channel V,http://www.56ku.ml/gudou.php?id=MTV_1500
-星空卫视,http://116.205.130.205:66/6/gudtv.php?id=xingkong_1500
-星空卫视,http://www.56ku.ml/gudou.php?id=xingkong_1500
-星空卫视,http://123.58.201.173:52411/test/谷豆.php?id=xingkong_1500
+星空卫视,http://159.75.85.63:8765/telegram@feiyangdigital-xingkong.m3u8
+星空卫视,mitv://generationnexxxt.com:18806/be955da83e484c5daaf910086d1cc654
+星空卫视,http://218.202.220.2:5000/nn_live.ts?id=STARTV
 星空卫视,https://www.56ku.ml/gudou.php?id=xingkong_1500
 星空卫视,http://218.89.248.152:18000/rtp/239.93.0.156:2193
 DOXTV,http://116.205.130.205:66/6/gudtv.php?id=DOXTV_1500
@@ -946,6 +946,7 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/in
 1905电影,http://mmitv.top/other/1905.php?id=1905
 1905电影,http://111.177.34.98/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
 1905电影,http://txtest-xp2p.p2p.huya.com/huyalive/1199513205060-1199513205060-5228390287876816896-2399026533576-10057-A-0-1.xs
+未知,http://204bae1.123nat.com:55/yfy.php?id=400
 CIBN-好莱坞,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 欧美电影,http://111.11.123.33:6610/000000001000/7185203501769528108/index.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=3
 亚洲电影,http://111.11.123.33:6610/000000001000/5841816227539527643/index.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=3
