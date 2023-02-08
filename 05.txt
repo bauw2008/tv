@@ -694,7 +694,14 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/in
 1905电影,http://mmitv.top/other/1905.php?id=1905
 1905电影,http://111.177.34.98/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
 1905电影,http://txtest-xp2p.p2p.huya.com/huyalive/1199513205060-1199513205060-5228390287876816896-2399026533576-10057-A-0-1.xs
-未知,http://204bae1.123nat.com:55/yfy.php?id=400
+影视1,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226741/index.m3u8
+影视2,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226736/index.m3u8
+影视3,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226692/index.m3u8
+影视4,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226754/index.m3u8
+影视5,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226732/index.m3u8
+影视6,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226712/index.m3u8
+影视7,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226743/index.m3u8
+影视8,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226708/index.m3u8
 CIBN-好莱坞,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 欧美大片,https://magselect-stirr.amagi.tv/playlist1080p.m3u8
 功夫,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226440/index.m3u8
@@ -1036,6 +1043,7 @@ NewTV精彩综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226009/
 NewTV魅力潇湘,http://39.135.7.4:6610/000000001000/1000000001000006197/index.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=3
 NewTV-1,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225893/index.m3u8?servicetype=1
 NewTV-2,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225881/index.m3u8?servicetype=1
+咪咕全民热练,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227314/index.m3u8
 芒果华语电影,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226708/index.m3u8?servicetype=1
 芒果TV独播,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226692/index.m3u8?servicetype=1
 芒果欧美电影,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226712/index.m3u8?servicetype=1
