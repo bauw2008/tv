@@ -610,7 +610,7 @@ CIBN-好莱坞,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 广东影视,http://218.17.216.102:9901/tsfile/live/1008_1.m3u8
-浙江教科影视,http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江影视,http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 绍兴影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 峨眉电影,http://vl15191373.imwork.net:8880/udp/239.93.0.252:5140
 峨眉电影,http://r.jdshipin.com/XIjta
@@ -624,7 +624,7 @@ CIBN-好莱坞,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 淮阴影视,http://huaiyin-tv-hls.cm.jstv.com/huaiyin-tv/hyys.m3u8
 深圳电视剧,http://218.17.216.102:9901/tsfile/live/1057_1.m3u8
 新泰影视,http://111.17.214.4:1935/live/xtys/playlist.m3u8
-新昌休闲影视,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+新昌影视,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 石河子影视,http://124.88.144.73:1935/live/jjsh/HasBahCa.m3u8
 海西影视,http://stream.haixitv.cn/1/sd/live.m3u8
 溧水影视,http://live.lsrmw.cn/ysyl/sd/live.m3u8
@@ -646,7 +646,6 @@ CIBN-好莱坞,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 欢笑剧场4K,http://[2409:8087:7001:20:2::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 4K超高清电影,https://live.goodiptv.club/api/sxg.php?id=emdy4k_8000
-4K60PHLG-HEVC-EAC3测试,http://159.75.85.63:5680/d/ad/playad.m3u8
 CCTV4 4K,http://liveop.CCTV.cn/hls/4KHD/playlist.m3u8
 4K测试,http://[2409:8087:7001:20:3::5]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226352/index.m3u8
 4K测试,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226352/1.m3u8
