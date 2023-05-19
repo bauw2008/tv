@@ -528,7 +528,6 @@ CETV4,https://live.goodiptv.club/api/sxg.php?id=CETV-4H264_2000
 凤凰电影,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
 香港卫视,https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
-番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 Bread-Tv,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 星空卫视,http://120.84.96.82:808/hls/79/index.m3u8
 星空卫视,http://120.84.96.87:808/hls/79/index.m3u8
@@ -540,6 +539,12 @@ Bread-Tv,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 东森戏剧,https://epg.pw/stream/bd995e93516fcdae2dc7e69f74a8e6ddcde55333bb97d6b2d1c53eaed7d7bab6.ctv
 东森戏剧,https://epg.pw/stream/af6418a130b4f97ee5e454f6045325b35b7785ac31da460b4541b02138cb0f89.m3u8
 翡翠台,http://r.jdshipin.com/62WM7
+翡翠台,http://r.jdshipin.com/62WM7
+翡翠台,http://r.jdshipin.com/n90gt
+翡翠台,http://r.jdshipin.com/thuYX
+J2,http://r.jdshipin.com/Nr5jq
+J2,http://r.jdshipin.com/ndGgS
+VIUTV,http://r.jdshipin.com/vSJvl
 明珠台,http://radius.8866.org:800/hls/84/index.m3u8
 明珠台,http://shazui.8866.org:800/hls/84/index.m3u8
 TVBSJ2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
@@ -562,6 +567,7 @@ NHK华语,https://nhkwlive-burnin2.webcdn.stream.ne.jp/live/index_1M.m3u8
 NHK华语,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8?zshijd
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 NHK世界,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
