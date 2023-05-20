@@ -1106,7 +1106,7 @@ IPTV3+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226341/index.m3u8
 IPTV5+,http://ct.whosayssowhat.top:4022/udp/239.77.0.176:5146
 IPTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226342/index.m3u8
 IPTV6+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226343/index.m3u8
-IPTV8+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226344/index.m3u8
+IPTV8+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226344/index.m3u8
 IPTV法制,http://39.134.32.102:6610/270000001111/1110000334/index.m3u8?IASHttpSessionId=OTT
 IPTV怀旧剧场,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225712/index.m3u8
 IPTV经典电影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225716/index.m3u8
