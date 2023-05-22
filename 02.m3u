@@ -578,59 +578,67 @@ https://live.goodiptv.club/api/sxg.php?id=CETV-4H264_2000
 #EXTINF:-1 group-title="🔢️数字",中国天气
 http://cntv.sbs/ipv6?id=zgqx
 #EXTINF:-1 group-title="❄️贵州",贵州卫视
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225483/2/index.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw2087544744_109645303/ott.mobaibox.com/PLTV/3/224/3221228136/index.m3u8?icpid=3&RTS=1669700688&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
 #EXTINF:-1 group-title="❄️贵州",贵州卫视
-http://hnan.ueuo.com/gzstv/ws.m3u8
+http://10.0.0.1:1111/gz.php?id=gzws
 #EXTINF:-1 group-title="❄️贵州",贵州卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225728/index.m3u8
+http://10.0.0.1:1111/gz1.php?id=gzws
 #EXTINF:-1 group-title="❄️贵州",贵州2
-http://hnan.ueuo.com/gzstv/gg.m3u8
+http://10.0.0.1:1111/gz.php?id=gzgg
+#EXTINF:-1 group-title="❄️贵州",贵州2
+http://10.0.0.1:1111/gz1.php?id=gzgg
 #EXTINF:-1 group-title="❄️贵州",贵州3
-http://hnan.ueuo.com/gzstv/yswy.m3u8
+http://10.0.0.1:1111/gz.php?id=gzwy
+#EXTINF:-1 group-title="❄️贵州",贵州3
+http://10.0.0.1:1111/gz1.php?id=gzwy
 #EXTINF:-1 group-title="❄️贵州",贵州4
-http://hnan.ueuo.com/gzstv/dzsh.m3u8
+http://10.0.0.1:1111/gz1.php?id=gzsh
+#EXTINF:-1 group-title="❄️贵州",贵州4
+http://10.0.0.1:1111/gz.php?id=zsh
 #EXTINF:-1 group-title="❄️贵州",贵州5
-http://hnan.ueuo.com/gzstv/d5.m3u8
+http://10.0.0.1:1111/gz.php?id=gzfz
+#EXTINF:-1 group-title="❄️贵州",贵州5
+http://10.0.0.1:1111/gz1.php?id=gzfz
 #EXTINF:-1 group-title="❄️贵州",贵州6
-http://hnan.ueuo.com/gzstv/kjjk.m3u8
+http://10.0.0.1:1111/gz.php?id=gzkj
 #EXTINF:-1 group-title="❄️贵州",贵州6
-http://211.94.219.178:18080/PLTV/68/224/3221226422/index.m3u8
+http://10.0.0.1:1111/gz1.php?id=gzkj
 #EXTINF:-1 group-title="❄️贵州",贵州7
-http://211.94.219.178:18080/PLTV/68/224/3221226424/index.m3u8
+http://10.0.0.1:1111/gz.php?id=gzjj
+#EXTINF:-1 group-title="❄️贵州",贵州7
+http://10.0.0.1:1111/gz1.php?id=gzjj
 #EXTINF:-1 group-title="❄️贵州",贵州移动电视
-http://ye23.win/iptv/2021/guizhou.php?id=ch13
+http://10.0.0.1:1111/gz.php?id=gzyd
+#EXTINF:-1 group-title="❄️贵州",贵州移动电视
+http://10.0.0.1:1111/gz1.php?id=gzyd
 #EXTINF:-1 group-title="❄️贵州",贵阳1
-http://211.94.219.178:18080/PLTV/68/224/3221226449/index.m3u8
+http://10.0.0.1:1111/gy.php?id=xwzh
 #EXTINF:-1 group-title="❄️贵州",贵阳1
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225743/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="❄️贵州",贵阳1
-http://[2409:8087:6a01:1020::d]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226037/1/index.m3u8?fmt=ts2hls
+http://10.0.0.1:1111/gy1.php?id=gyxwzh
 #EXTINF:-1 group-title="❄️贵州",贵阳2
-http://211.94.219.178:18080/PLTV/68/224/3221226426/index.m3u8
+http://10.0.0.1:1111/gy.php?id=jjsh
 #EXTINF:-1 group-title="❄️贵州",贵阳2
-http://[2409:8087:6a01:1020::d]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225684/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="❄️贵州",贵阳2
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225684/1/index.m3u8?fmt=ts2hls
+http://10.0.0.1:1111/gy1.php?id=gyjjsh
 #EXTINF:-1 group-title="❄️贵州",贵阳3
-http://211.94.219.178:18080/PLTV/68/224/3221226451/index.m3u8
+http://10.0.0.1:1111/gy.php?id=ds
 #EXTINF:-1 group-title="❄️贵州",贵阳3
-http://[2409:8087:6a01:1020::f]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226287/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="❄️贵州",贵阳3
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225725/1/index.m3u8?fmt=ts2hls
+http://10.0.0.1:1111/gy1.php?id=gyds
 #EXTINF:-1 group-title="❄️贵州",贵阳4
-http://[2409:8087:6a01:1020::f]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226280/1/index.m3u8?fmt=ts2hls
+http://10.0.0.1:1111/gy.php?id=fz
 #EXTINF:-1 group-title="❄️贵州",贵阳4
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225705/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="❄️贵州",贵阳4
-http://211.94.219.178:18080/PLTV/68/224/3221226453/index.m3u8
-#EXTINF:-1 group-title="❄️贵州",贵阳5
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225715/1/index.m3u8?fmt=ts2hls
+http://10.0.0.1:1111/gy1.php?id=gyfz
 #EXTINF:-1 group-title="❄️贵州",遵义都市
 http://lu1.cc/itv/gztv/zyxl.php?id=zyds
+#EXTINF:-1 group-title="❄️贵州",遵义都市
+http://10.0.0.1:1111/zy.php?id=zyds
 #EXTINF:-1 group-title="❄️贵州",遵义综合
 http://lu1.cc/itv/gztv/zyxl.php?id=zyzh
+#EXTINF:-1 group-title="❄️贵州",遵义综合
+http://10.0.0.1:1111/zy.php?id=zyzh
 #EXTINF:-1 group-title="❄️贵州",遵义公共
 http://lu1.cc/itv/gztv/zyxl.php?id=zygg
+#EXTINF:-1 group-title="❄️贵州",遵义公共
+http://10.0.0.1:1111/zy.php?id=zygg
 #EXTINF:-1 group-title="❄️贵州",绥阳电视台
 http://note.youdao.com/yws/api/personal/file/WEB188d0409dbfa7be1d9d0a97ae04c647a?method=download&inline=true&shareKey=f728b3ed52ba9f80d4572770c9035baf
 #EXTINF:-1 group-title="❄️贵州",绥阳电视台
@@ -717,54 +725,6 @@ http://lu1.cc/itv/gztv/zy_xstv.php?id=xszh
 http://lu1.cc/itv/gztv/zy_xstv.php?id=xsjj
 #EXTINF:-1 group-title="❄️贵州",测试
 http://10.0.0.1:1111/1.php
-#EXTINF:-1 group-title="❄️贵州",贵州卫视
-http://10.0.0.1:1111/gz.php?id=1
-#EXTINF:-1 group-title="❄️贵州",贵州卫视
-http://10.0.0.1:1111/gz1.php?id=gzws
-#EXTINF:-1 group-title="❄️贵州",贵州公共
-http://10.0.0.1:1111/gz.php?id=2
-#EXTINF:-1 group-title="❄️贵州",贵州公共
-http://10.0.0.1:1111/gz1.php?id=gzgg
-#EXTINF:-1 group-title="❄️贵州",贵州影视
-http://10.0.0.1:1111/gz.php?id=3
-#EXTINF:-1 group-title="❄️贵州",贵州影视
-http://10.0.0.1:1111/gz1.php?id=gzwy
-#EXTINF:-1 group-title="❄️贵州",贵州生活
-http://10.0.0.1:1111/gz1.php?id=gzsh
-#EXTINF:-1 group-title="❄️贵州",贵州生活
-http://10.0.0.1:1111/gz.php?id=4
-#EXTINF:-1 group-title="❄️贵州",贵州法制
-http://10.0.0.1:1111/gz.php?id=5
-#EXTINF:-1 group-title="❄️贵州",贵州法制
-http://10.0.0.1:1111/gz1.php?id=gzfz
-#EXTINF:-1 group-title="❄️贵州",贵州科教
-http://10.0.0.1:1111/gz.php?id=6
-#EXTINF:-1 group-title="❄️贵州",贵州科教
-http://10.0.0.1:1111/gz1.php?id=gzkj
-#EXTINF:-1 group-title="❄️贵州",贵州经济
-http://10.0.0.1:1111/gz1.php?id=gzjj
-#EXTINF:-1 group-title="❄️贵州",贵州移动
-http://10.0.0.1:1111/gz1.php?id=gzyd
-#EXTINF:-1 group-title="❄️贵州",贵阳新闻综合
-http://10.0.0.1:1111/gy.php?id=xwzh
-#EXTINF:-1 group-title="❄️贵州",贵阳新闻综合
-http://10.0.0.1:1111/gy1.php?id=gyxwzh
-#EXTINF:-1 group-title="❄️贵州",贵阳经济生活
-http://10.0.0.1:1111/gy.php?id=jjsh
-#EXTINF:-1 group-title="❄️贵州",贵阳经济生活
-http://10.0.0.1:1111/gy1.php?id=gyjjsh
-#EXTINF:-1 group-title="❄️贵州",贵阳都市
-http://10.0.0.1:1111/gy.php?id=ds
-#EXTINF:-1 group-title="❄️贵州",贵阳都市
-http://10.0.0.1:1111/gy1.php?id=gyds
-#EXTINF:-1 group-title="❄️贵州",贵阳法制
-http://10.0.0.1:1111/gy1.php?id=gyfz
-#EXTINF:-1 group-title="❄️贵州",遵义综合
-http://10.0.0.1:1111/gy.php?id=zyzh
-#EXTINF:-1 group-title="❄️贵州",遵义公共
-http://10.0.0.1:1111/gy.php?id=zygg
-#EXTINF:-1 group-title="❄️贵州",遵义都市
-http://10.0.0.1:1111/gy.php?id=zyds
 #EXTINF:-1 group-title="📡省台",贵州卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw2087544744_109645303/ott.mobaibox.com/PLTV/3/224/3221228136/index.m3u8?icpid=3&RTS=1669700688&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
 #EXTINF:-1 group-title="📡省台",贵州卫视
