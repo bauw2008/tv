@@ -325,19 +325,14 @@ CETV4,https://live.goodiptv.club/api/sxg.php?id=CETV-4H264_2000
 贵州7,http://10.0.0.1:1111/gz1.php?id=gzjj
 贵州移动电视,http://10.0.0.1:1111/gz.php?id=gzyd
 贵州移动电视,http://10.0.0.1:1111/gz1.php?id=gzyd
-贵阳1,http://211.94.219.178:18080/PLTV/68/224/3221226449/index.m3u8
-贵阳1,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225743/1/index.m3u8?fmt=ts2hls
-贵阳1,http://[2409:8087:6a01:1020::d]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226037/1/index.m3u8?fmt=ts2hls
-贵阳2,http://211.94.219.178:18080/PLTV/68/224/3221226426/index.m3u8
-贵阳2,http://[2409:8087:6a01:1020::d]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225684/1/index.m3u8?fmt=ts2hls
-贵阳2,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225684/1/index.m3u8?fmt=ts2hls
-贵阳3,http://211.94.219.178:18080/PLTV/68/224/3221226451/index.m3u8
-贵阳3,http://[2409:8087:6a01:1020::f]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226287/1/index.m3u8?fmt=ts2hls
-贵阳3,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225725/1/index.m3u8?fmt=ts2hls
-贵阳4,http://[2409:8087:6a01:1020::f]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226280/1/index.m3u8?fmt=ts2hls
-贵阳4,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225705/1/index.m3u8?fmt=ts2hls
-贵阳4,http://211.94.219.178:18080/PLTV/68/224/3221226453/index.m3u8
-贵阳5,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225715/1/index.m3u8?fmt=ts2hls
+贵阳1,http://10.0.0.1:1111/gy.php?id=xwzh
+贵阳1,http://10.0.0.1:1111/gy1.php?id=gyxwzh
+贵阳2,http://10.0.0.1:1111/gy.php?id=jjsh
+贵阳2,http://10.0.0.1:1111/gy1.php?id=gyjjsh
+贵阳3,http://10.0.0.1:1111/gy.php?id=ds
+贵阳3,http://10.0.0.1:1111/gy1.php?id=gyds
+贵阳4,http://10.0.0.1:1111/gy.php?id=fz
+贵阳4,http://10.0.0.1:1111/gy1.php?id=gyfz
 遵义都市,http://lu1.cc/itv/gztv/zyxl.php?id=zyds
 遵义都市,http://10.0.0.1:1111/zy.php?id=zyds
 遵义综合,http://lu1.cc/itv/gztv/zyxl.php?id=zyzh
@@ -386,7 +381,7 @@ CETV4,https://live.goodiptv.club/api/sxg.php?id=CETV-4H264_2000
 道真电视,http://live.dzrmtzx.org.cn:90/live/dspd_1M.m3u8
 习水综合,http://lu1.cc/itv/gztv/zy_xstv.php?id=xszh
 习水经济,http://lu1.cc/itv/gztv/zy_xstv.php?id=xsjj
-测试,http://10.0.0.1:1111/1.php
+测试,http://10.0.0.1:1111/cs.php
 
 📡省台,#genre#
 贵州卫视,http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw2087544744_109645303/ott.mobaibox.com/PLTV/3/224/3221228136/index.m3u8?icpid=3&RTS=1669700688&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
@@ -591,6 +586,7 @@ CHC家庭影院,http://113.207.84.195:8090/__cl/cg:live/__c/chcjtyyHD/__op/defau
 CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CIBN-好莱坞,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+1905,https://hlslive.1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8?tm=1685505901&sign=10030cb1ff06e56b06918481f6b62555
 功夫,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226440/index.m3u8
 黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
