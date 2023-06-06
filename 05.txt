@@ -509,9 +509,10 @@ CETV4,https://live.goodiptv.club/api/sxg.php?id=CETV-4H264_2000
 香港卫视,https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 Bread-Tv,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-星空卫视,http://120.84.96.82:808/hls/79/index.m3u8
-星空卫视,http://120.84.96.87:808/hls/79/index.m3u8
 星空卫视,http://120.84.96.89:808/hls/79/index.m3u8
+星空卫视,http://113.117.74.24:8081/hls/87/index.m3u8
+星空卫视,http://113.117.74.40:8081/hls/87/index.m3u8
+Channel [V],http://xcm13.f3322.net:4000/udp/239.93.1.7:2194
 东森电影,https://epg.pw/stream/46040f173daf166d063c205a131fdfbfed265adb2cc7da201ee7263e7e5d864b.m3u8
 东森电影,https://epg.pw/stream/c8ef8b845915b634c7469c4cc3e0642f15d0e0ebe037a6c4a33b25ff731349a0.m3u8
 东森洋片,https://epg.pw/stream/75147bfeafd1977e933ae81191d8327dbdb4129cf69bc1ac8719b9a6a95c5835.m3u8
@@ -522,6 +523,7 @@ Bread-Tv,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,http://r.jdshipin.com/n90gt
 翡翠台,http://r.jdshipin.com/thuYX
+星河,http://nsszds.f3322.net:8081/hls/135/index.m3u8
 J2,http://r.jdshipin.com/Nr5jq
 J2,http://r.jdshipin.com/ndGgS
 VIUTV,http://r.jdshipin.com/vSJvl
