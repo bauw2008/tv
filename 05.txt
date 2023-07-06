@@ -588,7 +588,8 @@ CHC家庭影院,http://113.207.84.195:8090/__cl/cg:live/__c/chcjtyyHD/__op/defau
 CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CIBN-好莱坞,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-1905,https://hlslive.1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8?tm=1685505901&sign=10030cb1ff06e56b06918481f6b62555
+1905,https://hlslive.1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8?tm=1688663134&sign=5ba03a053f9cbc3041a6eadabc8e439f
+1905,http://10.0.0.1:1111/1905.php?id=1905dy
 功夫,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226440/index.m3u8
 黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
@@ -2756,7 +2757,7 @@ M-096/侵犯骚货亲姐,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/l8/ne
 M-104/诱人的家教老师,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/gf/ai/5g/hw/174350035e6843cf9e9af38ae2400bf6.m3u8?
 M-105/黑脸王的淫行逆袭,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/fp/c7/yx/2t/7e1116b8df4940df836ca2e31b80e779.m3u8?
 M-106/我的裸体室友,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/9f/75/sj/0g/0a7e3eac418c47cbbd8fb1061bc3ec28.m3u8?
-M-107/丈夫当家   炮房,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/8c/hz/z5/xc/587c43e791b244559f5b66737d6ca870.m3u8?
+M-107/丈夫当家炮房,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/8c/hz/z5/xc/587c43e791b244559f5b66737d6ca870.m3u8?
 M-108/看着姐姐给人操,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/0h/87/t2/ap/2eaf34126e304659927ca047da48907e.m3u8?
 M-110/肉臀学姐上位榨精,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/qk/2p/5h/s0/b14f9cce57684362ade1fd00c9833528.m3u8?
 M-112/惹火上门按摩,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/9m/p7/v3/bo/b72ab2435d384fee9f620eb908911c51.m3u8?
