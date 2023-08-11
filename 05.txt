@@ -515,13 +515,11 @@ CETV4,https://live.goodiptv.club/api/sxg.php?id=CETV-4H264_2000
 香港卫视,http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
 香港卫视,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&stream=153402
 香港卫视,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
-星空卫视,http://60.208.16.27:1505/gudou.php?id=364&id=xingkong_1500
+星空卫视,http://live.hust.edu.cn/hls/startv.m3u8
 星空卫视,http://113.117.74.24:8081/hls/87/index.m3u8
-星空卫视,http://113.117.74.40:8081/hls/87/index.m3u8
 星空卫视,http://103.112.191.9:880/LAOSAT1016.m3u8
 星空卫视,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&stream=683118
-星空卫视,http://xcm13.f3322.net:4000/udp/239.93.1.7:2194
-Channel [V],http://xcm13.f3322.net:4000/udp/239.93.1.7:2194
+Channel [V],http://live.hust.edu.cn/hls/channelv.m3u8
 Channel [V],http://vl15191373.imwork.net:8880/udp/239.93.0.157:219
 Channel [V],http://103.112.191.9:880/LAOSAT1070.m3u8
 东森电影,http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
@@ -568,6 +566,9 @@ NHK世界,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/in
 CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 环球新闻,http://121.51.249.103/tlivecloud-ipv6.ysp.cctv.cn/ysp/2001656803.m3u8
+starsports,http://live.hust.edu.cn/hls/starsports.m3u8
+Discovery,http://live.hust.edu.cn/hls/discovery.m3u8
+国家地理,http://live.hust.edu.cn/hls/natlgeo.m3u8
 
 🏀体育,#genre#
 CCTV央视台球,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002496/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -604,7 +605,7 @@ CHC家庭影院,http://113.207.84.195:8090/__cl/cg:live/__c/chcjtyyHD/__op/defau
 CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CIBN-好莱坞,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-1905,https://hlslive.1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8?tm=1688663134&sign=5ba03a053f9cbc3041a6eadabc8e439f
+1905,http://jh.d7g.cn/live/1905.php?id=1905dy
 1905,http://10.0.0.1:1111/1905.php?id=1905dy
 功夫,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226440/index.m3u8
 黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
@@ -652,6 +653,7 @@ CCTV4 4K,http://liveop.CCTV.cn/hls/4KHD/playlist.m3u8
 4K修复,http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
 4K频道,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+斗鱼4K电影,http://jh.d7g.cn/live/z/douyu.php?id=9249162
 
 👶卡通,#genre#
 江苏教育,http://www.yiyibest.com:7777/udp/239.49.9.42:6000
