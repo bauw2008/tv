@@ -711,6 +711,9 @@ CIBN-好莱坞,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 功夫,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226440/index.m3u8
 黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+FGTV,http://mmitv.top/pltv/source.php?id=wzdst-fgtv&token=afbed9120109
+HSTV,http://mmitv.top/pltv/source.php?id=wzdst-hstv&token=a0bb403423bd
+LYTV,http://mmitv.top/pltv/source.php?id=wzdst-lytv&token=deb27b627dde
 广东影视,http://218.17.216.102:9901/tsfile/live/1008_1.m3u8
 浙江影视,http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 绍兴影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
