@@ -1111,7 +1111,6 @@ NewTV中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/
 爱院线,http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000034/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000034&livemode=1&stbId=3
 爱院线,http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 爱院线,http://49.235.110.121:9090/898/peda/zhhs.php?id=18
-爱极限,http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000170630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000170630&livemode=1&stbId=3
 
 💖爱奇艺,#genre#
 爱奇艺-电影大片,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_183_600_t10/c56_lb_183_600_t10.m3u8?key
@@ -1289,7 +1288,7 @@ IPTV收视指南,http://106.39.160.148/live.aishang.ctlcdn.com/00000110240225_1/
 北京IPTV萌宠TV,http://webmail.axxe.top:4022/udp/239.3.1.102:8001
 北京IPTV淘Baby,http://111.196.130.165:4022/udp/239.3.1.238:8001
 北京IPTV淘Baby,http://218.241.192.50:8808/udp/239.3.1.238:8001
-北京IPTV淘BABY,http://cn-north-1d.dnsfab.com:4022/udp/239.3.1.238:8001
+北京IPTV淘Baby,http://cn-north-1d.dnsfab.com:4022/udp/239.3.1.238:8001
 北京IPTV淘Baby,http://webmail.axxe.top:4022/udp/239.3.1.238:8001
 北京IPTV淘电影,http://111.196.130.165:4022/udp/239.3.1.250:8001
 北京IPTV淘电影,http://218.241.192.50:8808/udp/239.3.1.250:8001
@@ -1640,6 +1639,7 @@ ESPN 4,http://208.115.225.174:14510
 茜茜公主,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ffa8a73877194632b0278898f297d07b/850.m3u8
 出水芙蓉,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/28f9967b04984830b3a1f6fb27561000/850.m3u8
 桂河大桥,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b125a3edccb34637b336cb867e8a5d5d/850.m3u8
+新兵马强,https://s1.bfzycdn.com/video/xinbingmaqiang/HD%E5%9B%BD%E8%AF%AD/index.m3u8
 
 🎶️mv,#genre#
 MTV Biggest Pop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
