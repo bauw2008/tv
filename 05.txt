@@ -1639,6 +1639,7 @@ ESPN 4,http://208.115.225.174:14510
 茜茜公主,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ffa8a73877194632b0278898f297d07b/850.m3u8
 出水芙蓉,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/28f9967b04984830b3a1f6fb27561000/850.m3u8
 桂河大桥,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b125a3edccb34637b336cb867e8a5d5d/850.m3u8
+新兵马强,https://s1.bfzycdn.com/video/xinbingmaqiang/HD%E5%9B%BD%E8%AF%AD/index.m3u8
 新兵马强,https://vip.kuaikan-cdn2.com/20230401/su8IXAzt/hls/index.m3u8
 
 🎶️mv,#genre#
