@@ -671,7 +671,7 @@ CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122639
 广东体育,http://r.jdshipin.com/LiYdg
 广东体育,http://183.63.15.42:9901/tsfile/live/0136_1.m3u8
 风云足球,http://111.20.40.162/PLTV/88888893/224/3221226984/index.m3u8
-WWE,http://49.235.110.121:9090/898/peda/hy.php?id=20971519
+WWE,http://204bae1.123nat.com:66/test/hya1.php?id=20971519
 哒啵赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
 哒啵赛事,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226954/index.m3u8
 哒啵赛事,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226954/1.m3u8
@@ -705,6 +705,8 @@ CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 1905,http://10.0.0.1:1111/1905.php?id=1905dy
+1905,http://cfyy.cc/Dp/1905.php
+1905,http://alltzy.cn/live/t/tv/1905.php
 黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 广东影视,http://218.17.216.102:9901/tsfile/live/1008_1.m3u8
@@ -1162,42 +1164,59 @@ NewTV中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/
 爱奇艺-倒霉熊,http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c54_lb_140_600_t10/c54_lb_140_600_t10.m3u8?key
 
 📺埋堆堆,#genre#
-封神榜-温碧霞,http://49.235.110.121:9090/898/peda/hy.php?id=23749096
-西游记-陈浩民,http://49.235.110.121:9090/898/peda/hy.php?id=23735126
-西游记-张卫健,http://49.235.110.121:9090/898/peda/hy.php?id=23728660
-楚汉骄雄,http://49.235.110.121:9090/898/peda/hy.php?id=23740156
-鹿鼎记-陈小春,http://49.235.110.121:9090/898/peda/hy.php?id=23865080
-天龙八部-黄日华,http://49.235.110.121:9090/898/peda/hy.php?id=23903123
-刑事侦缉档案,http://49.235.110.121:9090/898/peda/hy.php?id=23734169
-寻秦记,http://49.235.110.121:9090/898/peda/hy.php?id=23864973
-法证先锋,http://49.235.110.121:9090/898/peda/hy.php?id=23863804
+封神榜-温碧霞,http://204bae1.123nat.com:66/test/hya1.php?id=23749096
+封神榜-温碧霞,http://43.128.40.42:198/虎牙直播/huya.php?id=23749096
+西游记-陈浩民,http://204bae1.123nat.com:66/test/hya1.php?id=23735126
+西游记-陈浩民,http://43.128.40.42:198/虎牙直播/huya.php?id=23735126
+西游记-张卫健,http://204bae1.123nat.com:66/test/hya1.php?id=23728660
+西游记-张卫健,http://43.128.40.42:198/虎牙直播/huya.php?id=23728660
+楚汉骄雄,http://204bae1.123nat.com:66/test/hya1.php?id=23740156
+楚汉骄雄,http://43.128.40.42:198/虎牙直播/huya.php?id=23740156
+鹿鼎记-陈小春,http://204bae1.123nat.com:66/test/hya1.php?id=23865080
+鹿鼎记-陈小春,http://43.128.40.42:198/虎牙直播/huya.php?id=23865080
+天龙八部-黄日华,http://204bae1.123nat.com:66/test/hya1.php?id=23903123
+天龙八部-黄日华,http://43.128.40.42:198/虎牙直播/huya.php?id=23903123
+刑事侦缉档案,http://204bae1.123nat.com:66/test/hya1.php?id=23734169
+刑事侦缉档案,http://43.128.40.42:198/虎牙直播/huya.php?id=23734169
+寻秦记,http://204bae1.123nat.com:66/test/hya1.php?id=23864973
+寻秦记,http://43.128.40.42:198/虎牙直播/huya.php?id=23864973
+法证先锋,http://204bae1.123nat.com:66/test/hya1.php?id=23863804
 法证先锋,http://43.128.40.42:198/虎牙直播/huya.php?id=23863804
-陀枪师姐,http://49.235.110.121:9090/898/peda/hy.php?id=23860039
-笑傲江湖,http://49.235.110.121:9090/898/peda/hy.php?id=23865142
+陀枪师姐,http://204bae1.123nat.com:66/test/hya1.php?id=23860039
+陀枪师姐,http://43.128.40.42:198/虎牙直播/huya.php?id=23860039
+笑傲江湖,http://204bae1.123nat.com:66/test/hya1.php?id=23865142
 笑傲江湖,http://43.128.40.42:198/虎牙直播/huya.php?id=23865142
-洗冤录,http://49.235.110.121:9090/898/peda/hy.php?id=23903130
+洗冤录,http://204bae1.123nat.com:66/test/hya1.php?id=23903130
 洗冤录,http://43.128.40.42:198/虎牙直播/huya.php?id=23903130
-倚天屠龙记,http://49.235.110.121:9090/898/peda/hy.php?id=23734246
+倚天屠龙记,http://204bae1.123nat.com:66/test/hya1.php?id=23734246
 倚天屠龙记,http://43.128.40.42:198/虎牙直播/huya.php?id=23734246
-神雕侠侣,http://49.235.110.121:9090/898/peda/hy.php?id=23865171
-鉴证实录,http://49.235.110.121:9090/898/peda/hy.php?id=23903183
+神雕侠侣,http://204bae1.123nat.com:66/test/hya1.php?id=23865171
+神雕侠侣,http://43.128.40.42:198/虎牙直播/huya.php?id=23865171
+鉴证实录,http://204bae1.123nat.com:66/test/hya1.php?id=23903183
 鉴证实录,http://43.128.40.42:198/虎牙直播/huya.php?id=23903183
-创世纪,http://49.235.110.121:9090/898/peda/hy.php?id=23749083
+创世纪,http://204bae1.123nat.com:66/test/hya1.php?id=23749083
 创世纪,http://43.128.40.42:198/虎牙直播/huya.php?id=23749083
-使徒行者,http://49.235.110.121:9090/898/peda/hy.php?id=23734256
-金枝欲孽,http://49.235.110.121:9090/898/peda/hy.php?id=23865036
+使徒行者,http://204bae1.123nat.com:66/test/hya1.php?id=23734256
+使徒行者,http://43.128.40.42:198/虎牙直播/huya.php?id=23734256
+金枝欲孽,http://204bae1.123nat.com:66/test/hya1.php?id=23865036
 金枝欲孽,http://43.128.40.42:198/虎牙直播/huya.php?id=23865036
-大唐双龙传,http://49.235.110.121:9090/898/peda/hy.php?id=23728674
+大唐双龙传,http://204bae1.123nat.com:66/test/hya1.php?id=23728674
 大唐双龙传,http://43.128.40.42:198/虎牙直播/huya.php?id=23728674
-妙手仁心,http://49.235.110.121:9090/898/peda/hy.php?id=23829543
-扫黄先锋,http://49.235.110.121:9090/898/peda/hy.php?id=23903196
-笑看风云,http://49.235.110.121:9090/898/peda/hy.php?id=23865058
+妙手仁心,http://204bae1.123nat.com:66/test/hya1.php?id=23829543
+妙手仁心,http://43.128.40.42:198/虎牙直播/huya.php?id=23829543
+扫黄先锋,http://204bae1.123nat.com:66/test/hya1.php?id=23903196
+扫黄先锋,http://43.128.40.42:198/虎牙直播/huya.php?id=23903196
+笑看风云,http://204bae1.123nat.com:66/test/hya1.php?id=23865058
 笑看风云,http://43.128.40.42:198/虎牙直播/huya.php?id=23865058
-大时代,http://49.235.110.121:9090/898/peda/hy.php?id=23865161
-鹿鼎记-梁朝伟,http://49.235.110.121:9090/898/peda/hy.php?id=23734183
-野蛮奶奶大战戈师奶,http://49.235.110.121:9090/898/peda/hy.php?id=23863796
-射雕英雄传-张智霖,http://49.235.110.121:9090/898/peda/hy.php?id=23824164
+大时代,http://204bae1.123nat.com:66/test/hya1.php?id=23865161
+大时代,http://43.128.40.42:198/虎牙直播/huya.php?id=23865161
+鹿鼎记-梁朝伟,http://204bae1.123nat.com:66/test/hya1.php?id=23734183
+鹿鼎记-梁朝伟,http://43.128.40.42:198/虎牙直播/huya.php?id=23734183
+野蛮奶奶大战戈师奶,http://204bae1.123nat.com:66/test/hya1.php?id=23863796
+野蛮奶奶大战戈师奶,http://43.128.40.42:198/虎牙直播/huya.php?id=23863796
+射雕英雄传-张智霖,http://204bae1.123nat.com:66/test/hya1.php?id=23824164
 射雕英雄传-张智霖,http://43.128.40.42:198/虎牙直播/huya.php?id=23824164
+大头绿衣斗僵尸,http://204bae1.123nat.com:66/test/hya1.php?id=23865152
 大头绿衣斗僵尸,http://43.128.40.42:198/虎牙直播/huya.php?id=23865152
 
 🌿华数,#genre#
@@ -1335,111 +1354,111 @@ ESPN 4,http://208.115.225.174:14510
 迪士尼,http://redlabmcdn.s.llnwi.net/nv02/bs13hd/index.m3u8
 
 👗明星,#genre#
-成龙,http://49.235.110.121:9090/898/peda/hy.php?id=11342386
+成龙,http://204bae1.123nat.com:66/test/hya1.php?id=11342386
 成龙,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1354888751
 成龙,http://49.235.110.121:9090/898/peda/yy.php?id=1354888751
-冯小刚,http://49.235.110.121:9090/898/peda/hy.php?id=11352906
-古天乐,http://49.235.110.121:9090/898/peda/hy.php?id=11602041
+冯小刚,http://204bae1.123nat.com:66/test/hya1.php?id=11352906
+古天乐,http://204bae1.123nat.com:66/test/hya1.php?id=11602041
 洪金宝,http://diyp.112114.xyz/huya/11342427
 洪金宝,http://diyp.112114.xyz/huya/11342427
-洪金宝,http://49.235.110.121:9090/898/peda/hy.php?id=11279251
-黄渤,http://49.235.110.121:9090/898/peda/hy.php?id=11352876
-黄渤,http://49.235.110.121:9090/898/peda/hy.php?id=11352876
+洪金宝,http://204bae1.123nat.com:66/test/hya1.php?id=11279251
+黄渤,http://204bae1.123nat.com:66/test/hya1.php?id=11352876
+黄渤,http://204bae1.123nat.com:66/test/hya1.php?id=11352876
 杰森斯坦森,http://diyp.112114.xyz/huya/11336572
-杰森斯坦森,http://49.235.110.121:9090/898/peda/hy.php?id=21059581
-杰森斯坦森,http://49.235.110.121:9090/898/peda/hy.php?id=21059588
-李连杰,http://49.235.110.121:9090/898/peda/hy.php?id=11342390
+杰森斯坦森,http://204bae1.123nat.com:66/test/hya1.php?id=21059581
+杰森斯坦森,http://204bae1.123nat.com:66/test/hya1.php?id=21059588
+李连杰,http://204bae1.123nat.com:66/test/hya1.php?id=11342390
 林正英,http://diyp.112114.xyz/huya/11342421
 林正英,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351505899
 林正英,http://49.235.110.121:9090/898/peda/yy.php?id=1351505899
 林正英,http://49.235.110.121:9090/898/peda/yy.php?id=1353685311
-林正英,http://49.235.110.121:9090/898/peda/hy.php?id=11342421
+林正英,http://204bae1.123nat.com:66/test/hya1.php?id=11342421
 刘德华,http://49.235.110.121:9090/898/peda/dyu.php?id=2516864
-刘德华,http://49.235.110.121:9090/898/peda/hy.php?id=11342424
-邱淑贞,http://49.235.110.121:9090/898/peda/hy.php?id=11352949
-沈腾,http://49.235.110.121:9090/898/peda/hy.php?id=11601968
-沈腾,http://49.235.110.121:9090/898/peda/hy.php?id=11601968
-王晶,http://49.235.110.121:9090/898/peda/hy.php?id=11602058
-五福星,http://49.235.110.121:9090/898/peda/hy.php?id=11282233
-徐克,http://49.235.110.121:9090/898/peda/hy.php?id=11352909
-徐峥,http://49.235.110.121:9090/898/peda/hy.php?id=11602043
-许冠英,http://49.235.110.121:9090/898/peda/hy.php?id=11601972
+刘德华,http://204bae1.123nat.com:66/test/hya1.php?id=11342424
+邱淑贞,http://204bae1.123nat.com:66/test/hya1.php?id=11352949
+沈腾,http://204bae1.123nat.com:66/test/hya1.php?id=11601968
+沈腾,http://204bae1.123nat.com:66/test/hya1.php?id=11601968
+王晶,http://204bae1.123nat.com:66/test/hya1.php?id=11602058
+五福星,http://204bae1.123nat.com:66/test/hya1.php?id=11282233
+徐克,http://204bae1.123nat.com:66/test/hya1.php?id=11352909
+徐峥,http://204bae1.123nat.com:66/test/hya1.php?id=11602043
+许冠英,http://204bae1.123nat.com:66/test/hya1.php?id=11601972
 甄子丹,http://diyp.112114.xyz/huya/11352935
-周润发,http://49.235.110.121:9090/898/peda/hy.php?id=11342387
+周润发,http://204bae1.123nat.com:66/test/hya1.php?id=11342387
 周润发,http://diyp.112114.xyz/huya/11342387
 周星驰,http://49.235.110.121:9090/898/peda/dyu.php?id=122402
-周星驰,http://49.235.110.121:9090/898/peda/hy.php?id=11342412
+周星驰,http://204bae1.123nat.com:66/test/hya1.php?id=11342412
 周星驰,http://diyp.112114.xyz/huya/11342412
-梁家辉,http://49.235.110.121:9090/898/peda/hy.php?id=11342429
+梁家辉,http://204bae1.123nat.com:66/test/hya1.php?id=11342429
 
 🔃️轮播,#genre#
-漫威,http://49.235.110.121:9090/898/peda/hy.php?id=11602034
-宇宙,http://49.235.110.121:9090/898/peda/hy.php?id=11342428
-怪兽,http://49.235.110.121:9090/898/peda/hy.php?id=21059577
-武侠,http://49.235.110.121:9090/898/peda/hy.php?id=11342427
-警匪,http://49.235.110.121:9090/898/peda/hy.php?id=11352886
-罪犯,http://49.235.110.121:9090/898/peda/hy.php?id=11352962
-枪战,http://49.235.110.121:9090/898/peda/hy.php?id=21059579
-海盗,http://49.235.110.121:9090/898/peda/hy.php?id=21059595
-赛车,http://49.235.110.121:9090/898/peda/hy.php?id=11279247
-推荐,http://49.235.110.121:9090/898/peda/hy.php?id=11602041
-救援,http://49.235.110.121:9090/898/peda/hy.php?id=21059594
-热血,http://49.235.110.121:9090/898/peda/hy.php?id=11352934
-盗墓,http://49.235.110.121:9090/898/peda/hy.php?id=21059552
-贺岁,http://49.235.110.121:9090/898/peda/hy.php?id=11601971
-玄幻,http://49.235.110.121:9090/898/peda/hy.php?id=11342414
-谍战,http://49.235.110.121:9090/898/peda/hy.php?id=21059585
-战争,http://49.235.110.121:9090/898/peda/hy.php?id=21059592
-喜剧,http://49.235.110.121:9090/898/peda/hy.php?id=11352877
-港片,http://49.235.110.121:9090/898/peda/hy.php?id=11602043
-国产,http://49.235.110.121:9090/898/peda/hy.php?id=11352973
-小鬼头,http://49.235.110.121:9090/898/peda/hy.php?id=11352963
-八点档,http://49.235.110.121:9090/898/peda/hy.php?id=880261
-蜘蛛侠,http://49.235.110.121:9090/898/peda/hy.php?id=21059599
-贺岁片,http://49.235.110.121:9090/898/peda/hy.php?id=11601986
-功夫片,http://49.235.110.121:9090/898/peda/hy.php?id=11352941
-黑帮片,http://49.235.110.121:9090/898/peda/hy.php?id=11336719
-丧尸片,http://49.235.110.121:9090/898/peda/hy.php?id=21059578
-灾难片,http://49.235.110.121:9090/898/peda/hy.php?id=11602075
-谍战片,http://49.235.110.121:9090/898/peda/hy.php?id=21059587
-战争片,http://49.235.110.121:9090/898/peda/hy.php?id=21059574
-犯罪片,http://49.235.110.121:9090/898/peda/hy.php?id=11352974
-古装片,http://49.235.110.121:9090/898/peda/hy.php?id=11336590
-高分动作,http://49.235.110.121:9090/898/peda/hy.php?id=11352884
-动作电影,http://49.235.110.121:9090/898/peda/hy.php?id=11602077
-搞笑喜剧,http://49.235.110.121:9090/898/peda/hy.php?id=11342423
-喜剧专场,http://49.235.110.121:9090/898/peda/hy.php?id=11602044
-欢笑影院,http://49.235.110.121:9090/898/peda/hy.php?id=11352894
-不挤影院,http://49.235.110.121:9090/898/peda/hy.php?id=11352897
-国产悬疑,http://49.235.110.121:9090/898/peda/hy.php?id=11342395
-快意江湖,http://49.235.110.121:9090/898/peda/hy.php?id=11342435
-黑帮斗争,http://49.235.110.121:9090/898/peda/hy.php?id=11342419
-古墓系列,http://49.235.110.121:9090/898/peda/hy.php?id=11352913
-嫣然影厅,http://49.235.110.121:9090/898/peda/hy.php?id=11601977
-女神系列,http://49.235.110.121:9090/898/peda/hy.php?id=11336571
-经典女神,http://49.235.110.121:9090/898/peda/hy.php?id=11352909
-许氏三杰,http://49.235.110.121:9090/898/peda/hy.php?id=11602033
-经典港片,http://49.235.110.121:9090/898/peda/hy.php?id=11352965
-镖行天下,http://49.235.110.121:9090/898/peda/hy.php?id=11352969
-高能反转,http://49.235.110.121:9090/898/peda/hy.php?id=11352887
-喜乐影院,http://49.235.110.121:9090/898/peda/hy.php?id=21059580
-蘑菇影厅,http://49.235.110.121:9090/898/peda/hy.php?id=11601981
-搞笑恐怖,http://49.235.110.121:9090/898/peda/hy.php?id=11601960
-死神来了,http://49.235.110.121:9090/898/peda/hy.php?id=11352903
-变形金刚,http://49.235.110.121:9090/898/peda/hy.php?id=21059596
-怪兽系列,http://49.235.110.121:9090/898/peda/hy.php?id=21059554
-陈翔六点半,http://49.235.110.121:9090/898/peda/hy.php?id=11274154
-老三国,http://49.235.110.121:9090/898/peda/hy.php?id=11602081
-新三国,http://49.235.110.121:9090/898/peda/hy.php?id=11352944
-新水浒,http://49.235.110.121:9090/898/peda/hy.php?id=11342384
-纪晓岚,http://49.235.110.121:9090/898/peda/hy.php?id=11342396
-庆余年,http://49.235.110.121:9090/898/peda/hy.php?id=11352960
-雍正王朝,http://49.235.110.121:9090/898/peda/hy.php?id=11342439
-士兵突击,http://49.235.110.121:9090/898/peda/hy.php?id=11342430
-爱情公寓,http://49.235.110.121:9090/898/peda/hy.php?id=11336726
-家有儿女,http://49.235.110.121:9090/898/peda/hy.php?id=11352872
-地下交通站,http://49.235.110.121:9090/898/peda/hy.php?id=11342433
-邻里一家亲,http://49.235.110.121:9090/898/peda/hy.php?id=11342426
+漫威,http://204bae1.123nat.com:66/test/hya1.php?id=11602034
+宇宙,http://204bae1.123nat.com:66/test/hya1.php?id=11342428
+怪兽,http://204bae1.123nat.com:66/test/hya1.php?id=21059577
+武侠,http://204bae1.123nat.com:66/test/hya1.php?id=11342427
+警匪,http://204bae1.123nat.com:66/test/hya1.php?id=11352886
+罪犯,http://204bae1.123nat.com:66/test/hya1.php?id=11352962
+枪战,http://204bae1.123nat.com:66/test/hya1.php?id=21059579
+海盗,http://204bae1.123nat.com:66/test/hya1.php?id=21059595
+赛车,http://204bae1.123nat.com:66/test/hya1.php?id=11279247
+推荐,http://204bae1.123nat.com:66/test/hya1.php?id=11602041
+救援,http://204bae1.123nat.com:66/test/hya1.php?id=21059594
+热血,http://204bae1.123nat.com:66/test/hya1.php?id=11352934
+盗墓,http://204bae1.123nat.com:66/test/hya1.php?id=21059552
+贺岁,http://204bae1.123nat.com:66/test/hya1.php?id=11601971
+玄幻,http://204bae1.123nat.com:66/test/hya1.php?id=11342414
+谍战,http://204bae1.123nat.com:66/test/hya1.php?id=21059585
+战争,http://204bae1.123nat.com:66/test/hya1.php?id=21059592
+喜剧,http://204bae1.123nat.com:66/test/hya1.php?id=11352877
+港片,http://204bae1.123nat.com:66/test/hya1.php?id=11602043
+国产,http://204bae1.123nat.com:66/test/hya1.php?id=11352973
+小鬼头,http://204bae1.123nat.com:66/test/hya1.php?id=11352963
+八点档,http://204bae1.123nat.com:66/test/hya1.php?id=880261
+蜘蛛侠,http://204bae1.123nat.com:66/test/hya1.php?id=21059599
+贺岁片,http://204bae1.123nat.com:66/test/hya1.php?id=11601986
+功夫片,http://204bae1.123nat.com:66/test/hya1.php?id=11352941
+黑帮片,http://204bae1.123nat.com:66/test/hya1.php?id=11336719
+丧尸片,http://204bae1.123nat.com:66/test/hya1.php?id=21059578
+灾难片,http://204bae1.123nat.com:66/test/hya1.php?id=11602075
+谍战片,http://204bae1.123nat.com:66/test/hya1.php?id=21059587
+战争片,http://204bae1.123nat.com:66/test/hya1.php?id=21059574
+犯罪片,http://204bae1.123nat.com:66/test/hya1.php?id=11352974
+古装片,http://204bae1.123nat.com:66/test/hya1.php?id=11336590
+高分动作,http://204bae1.123nat.com:66/test/hya1.php?id=11352884
+动作电影,http://204bae1.123nat.com:66/test/hya1.php?id=11602077
+搞笑喜剧,http://204bae1.123nat.com:66/test/hya1.php?id=11342423
+喜剧专场,http://204bae1.123nat.com:66/test/hya1.php?id=11602044
+欢笑影院,http://204bae1.123nat.com:66/test/hya1.php?id=11352894
+不挤影院,http://204bae1.123nat.com:66/test/hya1.php?id=11352897
+国产悬疑,http://204bae1.123nat.com:66/test/hya1.php?id=11342395
+快意江湖,http://204bae1.123nat.com:66/test/hya1.php?id=11342435
+黑帮斗争,http://204bae1.123nat.com:66/test/hya1.php?id=11342419
+古墓系列,http://204bae1.123nat.com:66/test/hya1.php?id=11352913
+嫣然影厅,http://204bae1.123nat.com:66/test/hya1.php?id=11601977
+女神系列,http://204bae1.123nat.com:66/test/hya1.php?id=11336571
+经典女神,http://204bae1.123nat.com:66/test/hya1.php?id=11352909
+许氏三杰,http://204bae1.123nat.com:66/test/hya1.php?id=11602033
+经典港片,http://204bae1.123nat.com:66/test/hya1.php?id=11352965
+镖行天下,http://204bae1.123nat.com:66/test/hya1.php?id=11352969
+高能反转,http://204bae1.123nat.com:66/test/hya1.php?id=11352887
+喜乐影院,http://204bae1.123nat.com:66/test/hya1.php?id=21059580
+蘑菇影厅,http://204bae1.123nat.com:66/test/hya1.php?id=11601981
+搞笑恐怖,http://204bae1.123nat.com:66/test/hya1.php?id=11601960
+死神来了,http://204bae1.123nat.com:66/test/hya1.php?id=11352903
+变形金刚,http://204bae1.123nat.com:66/test/hya1.php?id=21059596
+怪兽系列,http://204bae1.123nat.com:66/test/hya1.php?id=21059554
+陈翔六点半,http://204bae1.123nat.com:66/test/hya1.php?id=11274154
+老三国,http://204bae1.123nat.com:66/test/hya1.php?id=11602081
+新三国,http://204bae1.123nat.com:66/test/hya1.php?id=11352944
+新水浒,http://204bae1.123nat.com:66/test/hya1.php?id=11342384
+纪晓岚,http://204bae1.123nat.com:66/test/hya1.php?id=11342396
+庆余年,http://204bae1.123nat.com:66/test/hya1.php?id=11352960
+雍正王朝,http://204bae1.123nat.com:66/test/hya1.php?id=11342439
+士兵突击,http://204bae1.123nat.com:66/test/hya1.php?id=11342430
+爱情公寓,http://204bae1.123nat.com:66/test/hya1.php?id=11336726
+家有儿女,http://204bae1.123nat.com:66/test/hya1.php?id=11352872
+地下交通站,http://204bae1.123nat.com:66/test/hya1.php?id=11342433
+邻里一家亲,http://204bae1.123nat.com:66/test/hya1.php?id=11342426
 邵氏影院,http://49.235.110.121:9090/898/peda/dyu.php?id=4246519
 邦德影院,http://49.235.110.121:9090/898/peda/dyu.php?id=9292499
 怡寳影院,http://49.235.110.121:9090/898/peda/dyu.php?id=434971
@@ -2828,31 +2847,66 @@ MTV Live音樂頻道,http://154.216.191.59/ycdz/tw220.php?id=48
 寵物頻道,http://154.216.191.59/ycdz/tw220.php?id=50
 亚美卫视,http://www.seasky.icu/ymws.php
 韩国娱乐台KMTV,mitv://ns1.hellotvvod.com:9906/86c6977521d94569b5866980616aa94c
+凤凰中文,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
+凤凰资讯,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
+民視,mitv://135.148.104.228:19806/935809b7311d490392cc408f76a885dd
+台視,mitv://135.148.104.228:19806/ca94cf81f5184e1ba38c417df53083e9
+中視,mitv://135.148.104.228:19806/46c5103da0be4fdf8c80e33c58e9065b
+華視,mitv://135.148.104.228:19806/16217ed00ce348c28ff6378f0562f69f
+公視,mitv://135.148.104.228:19806/f2f582cb073b4d9da89f016994dc7aa7
+壹電視新聞台,mitv://135.148.104.228:19806/e099d9d2e11144bca5f54ab05e2a61f6
+年代新聞,mitv://135.148.104.228:19806/f1f22b55b3ee484e92cb9c4a1f8108d0
+東森新聞台,mitv://135.148.104.228:19806/c486dc0047df4754b7ec787a31d9606c
+中天新聞台,mitv://135.148.104.228:19806/38b072212e0c4bc0bb223f0ff69f53ea
+民視新聞台,mitv://135.148.104.228:19806/26b8a83d633f4118a5aab7b84bbe4b4b
+三立新聞台,mitv://135.148.104.228:19806/03f994cee3394939a2a89da78bf3ea16
+TVBS新聞台,mitv://135.148.104.228:19806/50c8e12ad3074c0da084608b952d9162
+TVBS,mitv://135.148.104.228:19806/3b6d4c58350b42eb83e733dcdd5a1917
+東森財經新聞台,mitv://135.148.104.228:19806/63b4d992b3e54e32853dd041731e70cb
+非凡新聞台,mitv://135.148.104.228:19806/019f4256632b4c7d88a59111c5ce59dc
+衛視電影台,mitv://135.148.104.228:19806/e4ef1bfd6b81426795d89025e902611c
+東森電影台,mitv://135.148.104.228:19806/e22cf7e2590e469c98a36af4d430dd0d
+緯來電影台,mitv://135.148.104.228:19806/5f1461c049754222ba75f8e46b7be2bb
+龍祥電影,mitv://135.148.104.228:19806/49242efdae444b7687fbf2775bd66ce5
+HBO,mitv://135.148.104.228:19806/94f53aeb87614480883b5cd03690d6c2
+東森洋片台,mitv://135.148.104.228:19806/eefb39405d7742239028bc2cbb169840
+AXN,mitv://135.148.104.228:19806/f36c3de820774cdcb36eb420e664e62b
+好萊塢電影台,mitv://135.148.104.228:19806/ec8126f7c43f4462948b66018b98c9b7
+CINEMAX,mitv://135.148.104.228:19806/c5053b418c434ba780f1512588b419df
+HBO強檔巨獻,mitv://135.148.104.228:19806/e07464982744437a83c59245af481502
+HBO原創巨獻,mitv://135.148.104.228:19806/508daca92fca485f9ee41bd5884ca51f
+美亞電影台HD,mitv://135.148.104.228:19806/a05d4db3a1d04c7a8193344fea31955f
+龍華電影,mitv://135.148.104.228:19806/fbb48740df2b4a7aa1e837f00c1d0575
+星衛HD電影台,mitv://135.148.104.228:19806/3fdd3561905a448494fc306e7e928a7a
+靖天映畫,mitv://135.148.104.228:19806/ea0dd409091a40dca01c6030ab10a230
+靖天電影台,mitv://135.148.104.228:19806/c5cd653913204a2ba2c20cb958c20b2e
+WARNERTV,mitv://135.148.104.228:19806/46c9e9be1f7d4698acc6520036f450e9
+StarMoviesHD,mitv://135.148.104.228:19806/498e8e2f167e4f1ca65fbda92add971a
+AMC最愛電影,mitv://135.148.104.228:19806/5b524d162c60487d979792cbc5c6fe4a
+HBOFamily,mitv://135.148.104.228:19806/32b2b904243c49aeae440baa6b102e5e
+CatchPlay電影台,mitv://135.148.104.228:19806/618488b324c7474eaa344b0e2d93a78f
+壹新聞,http://154.36.187.125/蓝山.php?cid=live1242&p=5003
+三立都會HD,http://154.36.187.125/蓝山.php?cid=live1020&p=5003
+MUCH TV,http://154.36.187.125/蓝山.php?cid=live1189&p=5003
+三立台灣HD,http://154.36.187.125/蓝山.php?cid=live1021&p=5003
 
 🚫💞信息_997788,#genre#
+星笑优菜-061717-446,https://fc.maa1830.com/n/azzpisdwnb/azzpisdwnb.m3u8
+西川-112516-311,https://fc.maa1830.com/h/kmqtdxwjmz/kmqtdxwjmz.m3u8
+桃尻-101417_003,https://fc.maa1830.com/h/mfjvokxtyd/mfjvokxtyd.m3u8
+月刊 折原-081217_001,https://fc.maa1830.com/c/huevucfsfc/huevucfsfc.m3u8
+白砂-112316-310,https://fc.maa1830.com/n/hnalcnmzly/hnalcnmzly.m3u8
+浅见友纪-061616_318,https://fc.maa1830.com/e/esnqqjxpqs/esnqqjxpqs.m3u8
+上山奈-100518-766,https://fc.maa1830.com/g/ourljpopnt/ourljpopnt.m3u8
+柏木-091118_741,https://fc.maa1830.com/f/vjmpkkgpst/vjmpkkgpst.m3u8
+柏木-HEYZO-1855,https://fc.maa1830.com/c/holrsllinf/holrsllinf.m3u8
 ADN-291夏目彩春,https://siwazywcdn2.com:5278/zhongwenzimu/KnjeVorl/index.m3u8
-SCOP-697,https://siwazywcdn2.com:5278/zhongwenzimu/59LHYbi4/index.m3u8
-ssis-108,https://siwazywcdn2.com:5278/zhongwenzimu/bZXowNav/index.m3u8
-上原亚衣3,https://vod1.ttbfp2.com/20210822/hVWMxztT/index.m3u8
-上原亚衣6,https://cdn-bo2.mangguo-youku.com:5278/20210901/kYyBFZQv/index.m3u8
-上原亚衣8,https://cdn-bo2.mangguo-youku.com:5278/20210901/mRQe633H/index.m3u8
-上原亚衣11,https://a.ak-kk.com/20220612/JSeeS8Up/index.m3u8
 Tokyo-Hot n0869,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181202/djr/n0869/index.m3u8
-Tokyo-Hot n0813,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/7/djr/n0813/index.m3u8
-Tokyo-Hot n0429,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/5/djr/n0429/index.m3u8
-TIKB-028 波木はるか,https://video1.rhsj520.com/nyrm3/tikb/tikb-028-2/1500kb/hls/index.m3u8
-Tokyo-Hot n0803,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/7/djr/n0803/index.m3u8
-Pacopacomama 082918_326,http://videocdnbaidu.rhsj520.com/rbny/20180915/mmxl/082918_326/index.m3u8
 Caribbean-011115-781,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/3/1bd/011115-781/index.m3u8
-1Pondo-051317_526 秋場莉緒,http://videocdnbaidu.rhsj520.com/rbny/20181005/ybd/051317_526/index.m3u8
 1Pondo-092416_391 水谷心音,http://videocdnbaidu.rhsj520.com/rbny/20181005/ybd/092416_391/index.m3u8
-DVDMS-329,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181202/3/dvdms-329/index.m3u8
 1Pondo-122917_624 こころ,http://videocdnbaidu.rhsj520.com/rbny/20181005/ybd/122917_624/index.m3u8
 MIDE-007 大橋未久,http://videocdnbaidu.rhsj520.com/rbny/20180812/dqwj/MIDE-007/index.m3u8
 Tokyo Hot-n0499 優木もなみ,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181121/hot/n0499_1/index.m3u8
-ANND-056 片瀬くるみ 早乙女ルイ,http://videocdnbaidu.rhsj520.com/rbny/20180728/zynly/ANND-056/index.m3u8
-HAR-027,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181212/loo/HAR-027/index.m3u8
-PGD-747 波多野結衣,http://videocdnbaidu.rhsj520.com/rbny/20180915/bdyjy/PGD-747/index.m3u8
 Caribbean-081916-001 羽田真里,http://videocdnbaidu.rhsj520.com/rbny/20181005/jlb/081916-001/index.m3u8
 MEYD-017 椎名ゆな,http://videocdnbaidu.rhsj520.com/rbny/20180821/zmyn/MEYD-017/index.m3u8
 JUX-469 椎名ゆな,http://videocdnbaidu.rhsj520.com/rbny/20180804/_/zmyn/JUX-469/1/index.m3u8
@@ -2880,7 +2934,7 @@ SMD-117 保坂えり,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181212/loo/SMD-1
 SNIS-416 吉沢明歩,http://videocdnbaidu.rhsj520.com/rbny/20180812/jzmb/SNIS-416/index.m3u8
 一日女友的漂亮姐姐上她是谁,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/zh/70/fm/e0/kc/f7beb303cedd40b2a3f0255889aa6360.m3u8?
 一日女友的漂亮姐姐中,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/zh/75/da/ic/nq/654561e53a8f44d4b452ee45db1d5aaa.m3u8?
-一日女友的漂亮姐姐下 ,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/zh/k6/r5/4l/88/60aac9f4edee40078853a86817ead1ff.m3u8?
+一日女友的漂亮姐姐下,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/zh/k6/r5/4l/88/60aac9f4edee40078853a86817ead1ff.m3u8?
 一日女友的漂亮姐姐 番外篇二 热恋海岸线,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/zh/yu/mt/0k/df/68768a0f7843400c91a65843e069f9fa.m3u8?
 一日女友的漂亮姐姐 番外篇,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/zh/cj/ku/jy/a5/0aaa29e835d944988662c8ca32374134.m3u8?
 未知名1,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/zh/18/za/32/me/2a7f84f6b6094f73b46d5aac8996adc4.m3u8?
@@ -2895,7 +2949,7 @@ SNIS-416 吉沢明歩,http://videocdnbaidu.rhsj520.com/rbny/20180812/jzmb/SNIS-4
 森林02-欺骗,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/jm/jr/pg/bh/03dd6e239b5c40ceb3b156344a64b372.m3u8?
 森林03-碎裂,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/si/p3/76/69/ff14c7c54f1143ddaacac8810fdb8e90.m3u8?
 情人节特辑,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/zh/gj/v2/mf/a8/77534e95584448e4a62d3205b260e398.m3u8?
-动漫《缘之空》极品萝莉穹妹,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/11/pw/5m/9o/7767714a57434242a353b23d4a3ef841.m3u8?
+萝莉穹妹,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/11/pw/5m/9o/7767714a57434242a353b23d4a3ef841.m3u8?
 香港玩偶姐姐-9,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/2v/hl/ll/f0/ec17339c89b348b3a3d66edfeb412b24.m3u8?
 公共场合性爱,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/lu/2b/qx/84/13f8f69e45ff4c85ac114a3df7b1ca9e.m3u8?
 白丝诱惑,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/pc/pl/12/8b/e42a460570f24b01a74d96680dda0786.m3u8?
