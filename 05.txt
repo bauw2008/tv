@@ -378,6 +378,12 @@ CCTV央视购物,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/22
 贵州7,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226289/1/index.m3u8?fmt=ts2hls
 贵州7,http://10.0.0.1:1111/gz.php?id=gzjj
 贵州7,http://10.0.0.1:1111/gz1.php?id=gzjj
+贵州2,http://103.45.68.47:666/gy/gy_JsEu/贵州长id.php?id=852b5f4f18e48d3dc3ced5b612394348
+贵州3,http://103.45.68.47:666/gy/gy_JsEu/贵州长id.php?id=5d2efb4d7b1e5b3d4503e743e1e6d845
+贵州4,http://103.45.68.47:666/gy/gy_JsEu/贵州长id.php?id=b83cd70d9462c3f1c5533fa12558f38c
+贵州5,http://103.45.68.47:666/gy/gy_JsEu/贵州长id.php?id=0023edbee08fd1d39920e364044e07c0
+贵州6,http://103.45.68.47:666/gy/gy_JsEu/贵州长id.php?id=9ca14da91c162549c4991704a3623168
+贵州7,http://103.45.68.47:666/gy/gy_JsEu/贵州长id.php?id=a6dd2066acfcc8d87d2a164d4a757aa2
 贵州移动电视,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225774/1/index.m3u8?fmt=ts2hls
 贵州移动电视,http://10.0.0.1:1111/gz.php?id=gzyd
 贵州移动电视,http://10.0.0.1:1111/gz1.php?id=gzyd
@@ -389,6 +395,9 @@ CCTV央视购物,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/22
 贵阳2,http://222.85.207.79:9901/hls/58/index.m3u8
 贵阳2,http://10.0.0.1:1111/gy1.php?id=
 贵阳2,http://10.0.0.1:1111/gy.php?id=jjsh
+贵阳3,http://103.45.68.47:666/gy/gy_JsEu/贵州长id.php?id=2e66ca5402d6a9c466427d1e4daf3286
+贵阳1,http://103.45.68.47:666/gy/gy_JsEu/贵州长id.php?id=34365dd8e98a4e3ab75b70d77f291849
+贵阳2,http://103.45.68.47:666/gy/gy_JsEu/贵州长id.php?id=0ba92829e7bedb882fdca42a35ba5dbc
 贵阳3,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225705/1/index.m3u8?fmt=ts2hls
 贵阳3,http://10.0.0.1:1111/gy.php?id=ds
 贵阳3,http://10.0.0.1:1111/gy1.php?id=gyds
@@ -637,6 +646,14 @@ TVB翡翠台,http://120.236.57.77:9901/tsfile/live/1076_1.m3u8
 TVBE,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153398
 TVB CHINESE,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153401
 NHK华语,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8?zshijd
+美亚电影,http://gwtv.cnv8.tv:8097/meiyamovie_twn/playlist.m3u8?tid=ME9E6301165163011651&ct=19249&tsum=c2c246af848b424b68e94e4b35cfa337
+星卫电影,http://gwtv.cnv8.tv:8097/xingwei_movie/playlist.m3u8?tid=MB7B3700339537003395&ct=19249&tsum=54d5231b311c4cd2b6716eafe88bb0dd
+东森洋片,http://gwtv.cnv8.tv:8097/ettvwestern/playlist.m3u8?tid=MB7B8303252483032524&ct=19249&tsum=14f89967cdf6c504230be29a87cc54f0
+东森洋片,mitv://generationnexxxt.com:19806/f6d1d0c3123c4d0585dcdb3c1dae9226
+东森电影ETTVMovie,http://gwtv.cnv8.tv:8097/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
+东森电影,mitv://generationnexxxt.com:19806/f24f7f109d69491da8fbd20cb1b2eebd
+纬来电影,mitv://generationnexxxt.com:19806/6160319318a3418e821d8bc74632ab2a
+龙祥电影,mitv://generationnexxxt.com:19806/5eef16338d51449f907fdf11312c1af1
 天映经典,http://162.19.247.76:22222/live/tyjd/index.m3u8
 中国电影,http://lcx-olt.8866.org:8181/tsfile/live/1074_1.m3u8
 长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
@@ -707,6 +724,7 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/in
 1905,http://10.0.0.1:1111/1905.php?id=1905dy
 1905,http://cfyy.cc/Dp/1905.php
 1905,http://alltzy.cn/live/t/tv/1905.php
+1905,http://103.45.68.47:666/gy/gy_JsEu/1905.php
 黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 广东影视,http://218.17.216.102:9901/tsfile/live/1008_1.m3u8
@@ -1329,28 +1347,20 @@ IPTV收视指南,http://106.39.160.148/live.aishang.ctlcdn.com/00000110240225_1/
 北京IPTV淘精彩,http://cn-north-1d.dnsfab.com:4022/udp/239.3.1.178:8001
 北京IPTV淘精彩,http://cn-north-1d.dnsfab.com:4022/udp/239.3.1.178:8001
 北京IPTV淘精彩,http://webmail.axxe.top:4022/udp/239.3.1.178:8001
+新华中文,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225693/index.m3u8
+新华海外,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225694/index.m3u8
 
 ⛲HBO,#genre#
-好莱坞电影1,https://epg.pw/stream/665cffbfd7d4d9cfe8be8b00daa8386d7fd94c34e1fbdc6509966c7a5782af2a.m3u8
-好莱坞电影2,https://epg.pw/stream/1c6b20e12edd9a52ca487e7a8a8c5a595e26e2430c35818527979b11ffd0d3c2.m3u8
-好莱坞电影3,https://epg.pw/stream/03df7f340404876dda8ce6a38abbd398d8d82382a724fdb85b5cd475f1d0f99f.m3u8
-好莱坞电影4,https://epg.pw/stream/a903333ac6090aba3ab42a5b5173660c8557af31bf6f00be5ba558d2093b0e6b.m3u8
-HBO,http://208.115.225.174:14136
-HBO2,http://208.115.225.174:14140
-HBO Mundi,http://208.115.225.174:14148
-HBO signature,http://208.115.225.174:14160
-HBO X,http://208.115.225.174:14165
-Sbt,http://208.115.225.174:14170
-Sbt,http://208.115.225.174:14173
-Sbt,http://208.115.225.174:14176
-14259,http://208.115.225.174:14259
-BDMG,http://208.115.225.174:14263
-14271,http://208.115.225.174:14271
-Show FE,http://208.115.225.174:14420
-Show FE,http://208.115.225.174:14428
-Premiere,http://208.115.225.174:14460
-Premiere,http://208.115.225.174:14468
-ESPN 4,http://208.115.225.174:14510
+好莱坞电影,http://gwtv.cnv8.tv:8097/hollywoodmovies_twn/playlist.m3u8?tid=MECE5611281156112811&ct=19225&tsum=ad8884ee16b04f885f24bae98fc5fb9f
+好莱坞电影台,mitv://generationnexxxt.com:19806/a1d9af8fe6974f878a9076fa9480ee49
+HBO原创,http://gwtv.cnv8.tv:8097/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
+HBO原创,http://gwtv.cnv8.tv:8097/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
+HBO家庭,http://gwtv.cnv8.tv:8097/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
+HBO家庭,http://gwtv.cnv8.tv:8097/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
+HBO,mitv://generationnexxxt.com:19806/96c5695018634889930275d7db0e6b08
+HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+HBO强档巨献,mitv://generationnexxxt.com:19806/bcaa114e3d8b4467974e63f6b43ff2d9
+HBO原创巨献,mitv://generationnexxxt.com:19806/c3c756105b6a4ce684a1e8a1e31ec725
 迪士尼,http://redlabmcdn.s.llnwi.net/nv02/bs13hd/index.m3u8
 
 👗明星,#genre#
@@ -3020,3 +3030,4 @@ ASMR姐姐的梦境,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/74/oh/ov/k
 独自练习,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/i6/ic/gf/sz/5aae7ba090374eb89fa4cf650d8a8c27.m3u8?
 短片集1,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/jv/t1/9o/ji/6c4a0c8b190944bc8dee75fc8e37cc67.m3u8?
 写真短片-晨,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/eo/hw/ag/q1/1105642eb79f45f580c473c9fcb64725.m3u8?
+
