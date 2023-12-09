@@ -1582,6 +1582,16 @@ HBO原创巨献,mitv://generationnexxxt.com:19806/c3c756105b6a4ce684a1e8a1e31ec7
 音乐欣赏,http://49.235.110.121:9090/898/peda/dyu.php?id=3186217
 舌尖美食,http://49.235.110.121:9090/898/peda/dyu.php?id=9650849
 篮球人物,http://49.235.110.121:9090/898/peda/dyu.php?id=8434598
+北京光影,https://jihulab.com/qianruan/tszs/-/raw/main/sp/bjgy.mp4
+上海之声,https://jihulab.com/qianruan/tszs/-/raw/main/sp/shzs.mp4
+广东醒狮,https://jihulab.com/qianruan/tszs/-/raw/main/sp/gdxs.mp4
+梦回徽州,https://jihulab.com/qianruan/tszs/-/raw/main/sp/mhhz.mp4
+何为河南,https://jihulab.com/qianruan/tszs/-/raw/main/sp/hwhn.mp4
+湖南寻龙,https://jihulab.com/qianruan/tszs/-/raw/main/sp/hnxl.mp4
+江苏水韵,https://jihulab.com/qianruan/tszs/-/raw/main/sp/jssy.mp4
+山东蓝翔,https://jihulab.com/qianruan/tszs/-/raw/main/sp/sdlx.mp4
+活力浙江,https://jihulab.com/qianruan/tszs/-/raw/main/sp/hlzj.mp4
+辽宁鞍家,https://jihulab.com/qianruan/tszs/-/raw/main/sp/lnaj.mp4
 
 🌟️邵氏,#genre#
 追魂镖,http://50069.njc.svp.tencent-cloud.com/0bf2suaa2aaat4aemkeb4fqvbfodbwkqadia.f10003.mp4
@@ -2875,20 +2885,12 @@ RTHK32,http://bziyunshao.synology.me:8892/bysid/32
 私人影院,http://171.108.239.89:8020/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 东森洋片,http://171.108.239.89:8020/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 台視HD,http://154.216.191.59/ycdz/tw220.php?id=0
-人間衛視,http://154.216.191.59/ycdz/tw220.php?id=1
-大愛電視,http://154.216.191.59/ycdz/tw220.php?id=2
 國家地理HD,http://154.216.191.59/ycdz/tw220.php?id=3
 DISCOVERY,http://154.216.191.59/ycdz/tw220.php?id=4
 旅遊生活,http://154.216.191.59/ycdz/tw220.php?id=5
 動物星球,http://154.216.191.59/ycdz/tw220.php?id=6
 momo親子台,http://154.216.191.59/ycdz/tw220.php?id=7
 東森幼幼HD,http://154.216.191.59/ycdz/tw220.php?id=8
-緯來綜合HD,http://154.216.191.59/ycdz/tw220.php?id=9
-八大第一HD,http://154.216.191.59/ycdz/tw220.php?id=10
-八大綜合HD,http://154.216.191.59/ycdz/tw220.php?id=11
-三立台灣HD,http://154.216.191.59/ycdz/tw220.php?id=12
-三立都會HD,http://154.216.191.59/ycdz/tw220.php?id=13
-衛視中文HD,http://154.216.191.59/ycdz/tw220.php?id=14
 中天娛樂HD,http://154.216.191.59/ycdz/tw220.php?id=15
 MUCH TV,http://154.216.191.59/ycdz/tw220.php?id=16
 年代新聞,http://154.216.191.59/ycdz/tw220.php?id=17
