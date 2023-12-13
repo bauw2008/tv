@@ -1289,17 +1289,22 @@ CHC家庭影院,https://live.goodiptv.club/api/sxg.php?id=jbtygqCHCjtyyH265_4000
 精彩影视,http://39.134.136.161:6610/000000001000/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3$ITV
 精彩影视,http://39.134.136.161:6610/000000001000/2000000004000000063/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000063&livemode=1&stbId=3$ITV
 精彩影视,http://49.235.110.121:9090/898/peda/zhhs.php?id=1
+精品剧场,http://[2409:8087:7001:20:1000::95]:6610/000000001000/8230197131234717902/index.m3u8?channel-id=wasusyt&Contentid=8230197131234717902&livemode=1&stbId=3
 新片放映厅,http://hms184nc1972679575.live.aikan.miguvideo.com/wh7f454c46tw3655704731_-356850043/wd-virtuallive5100030975-150/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=118.239.16.214&timestamp=20230621215717&ContentId=265218930&timezone=UTC&mtv_session=c19529e8de950b6df1f3f1e044fcd802&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=b2040d05ff4c448b3178bbfb660332f7
 高清娱乐,http://39.134.136.161:6610/000000001000/2000000004000000013/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000013&livemode=1&stbId=3$ITV
 高清娱乐,http://39.134.136.161:6610/000000001000/6000000003000001569/index.m3u8?channel-id=wasusyt&Contentid=6000000003000001569&livemode=1&stbId=3$ITV
 华数4K,http://39.134.136.161:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3$ITV
 华数4K,http://39.134.136.161:6610/000000001000/2000000004000000014/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000014&livemode=1&stbId=3$ITV
 华数频道,http://39.134.136.161:6610/000000001000/2000000004000000007/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000007&livemode=1&stbId=3$ITV
+华数超清,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 风尚音乐,http://39.134.136.161:6610/000000001000/2000000004000000004/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000004&livemode=1&stbId=3$ITV
 Hot精品剧场,http://39.134.136.161:6610/000000001000/2000000004000000002/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000002&livemode=1&stbId=3$ITV
 Hot欧美影院,http://39.134.136.161:6610/000000001000/2000000004000000005/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000005&livemode=1&stbId=3$ITV
+Hot欧美影院,http://[2409:8087:7001:20:1000::95]:6610/000000001000/7185203501769528108/index.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=3
 Hot亚洲影院,http://39.134.136.161:6610/000000001000/2000000004000000006/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000006&livemode=1&stbId=3$ITV
 Hot亚洲影院,http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000006/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000006&livemode=1&stbId=3
+Hot亚洲影院,http://[2409:8087:7001:20:1000::95]:6610/000000001000/5841816227539527643/index.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=3
+
 
 🐠斗鱼,#genre#
 斗鱼探险,http://epg.112114.xyz/douyu/3485629
