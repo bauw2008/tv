@@ -673,6 +673,30 @@ NHK华语,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/in
 东森电影,http://lcx-olt.8866.org:8181/tsfile/live/1075_1.m3u8
 半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 GOODTV好医生,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch9-2.m3u8
+环球影片,http://208.115.225.174:14128
+华纳影院,http://208.115.225.174:14132
+HBO,http://208.115.225.174:14136
+HBO2,http://208.115.225.174:14140
+HBO-family,http://208.115.225.174:14144
+HBO-MUNDL,http://208.115.225.174:14148
+HBO+,http://208.115.225.174:14152
+HBO-POP,http://208.115.225.174:14156
+HBO-signature,http://208.115.225.174:14160
+HBO-xtreme,http://208.115.225.174:14165
+sbt,http://208.115.225.174:14170
+sbt,http://208.115.225.174:14173
+sbt,http://208.115.225.174:14176
+动物星球,http://208.115.225.174:14192
+环球电视,http://208.115.225.174:14259
+环球电视,http://208.115.225.174:14263
+环球电视,http://208.115.225.174:14271
+premiere,http://208.115.225.174:14460
+premiere,http://208.115.225.174:14464
+premiere,http://208.115.225.174:14468
+premiere,http://208.115.225.174:14472
+premiere,http://208.115.225.174:14476
+STAR,http://208.115.225.174:14510
+STAR+,http://208.115.225.174:14754
 
 🏀体育,#genre#
 新视觉,https://live.goodiptv.club/api/bestv.php?id=xsjhd8m/8000000
@@ -1289,22 +1313,17 @@ CHC家庭影院,https://live.goodiptv.club/api/sxg.php?id=jbtygqCHCjtyyH265_4000
 精彩影视,http://39.134.136.161:6610/000000001000/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3$ITV
 精彩影视,http://39.134.136.161:6610/000000001000/2000000004000000063/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000063&livemode=1&stbId=3$ITV
 精彩影视,http://49.235.110.121:9090/898/peda/zhhs.php?id=1
-精品剧场,http://[2409:8087:7001:20:1000::95]:6610/000000001000/8230197131234717902/index.m3u8?channel-id=wasusyt&Contentid=8230197131234717902&livemode=1&stbId=3
 新片放映厅,http://hms184nc1972679575.live.aikan.miguvideo.com/wh7f454c46tw3655704731_-356850043/wd-virtuallive5100030975-150/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=118.239.16.214&timestamp=20230621215717&ContentId=265218930&timezone=UTC&mtv_session=c19529e8de950b6df1f3f1e044fcd802&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=b2040d05ff4c448b3178bbfb660332f7
 高清娱乐,http://39.134.136.161:6610/000000001000/2000000004000000013/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000013&livemode=1&stbId=3$ITV
 高清娱乐,http://39.134.136.161:6610/000000001000/6000000003000001569/index.m3u8?channel-id=wasusyt&Contentid=6000000003000001569&livemode=1&stbId=3$ITV
 华数4K,http://39.134.136.161:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3$ITV
 华数4K,http://39.134.136.161:6610/000000001000/2000000004000000014/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000014&livemode=1&stbId=3$ITV
 华数频道,http://39.134.136.161:6610/000000001000/2000000004000000007/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000007&livemode=1&stbId=3$ITV
-华数超清,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 风尚音乐,http://39.134.136.161:6610/000000001000/2000000004000000004/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000004&livemode=1&stbId=3$ITV
 Hot精品剧场,http://39.134.136.161:6610/000000001000/2000000004000000002/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000002&livemode=1&stbId=3$ITV
 Hot欧美影院,http://39.134.136.161:6610/000000001000/2000000004000000005/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000005&livemode=1&stbId=3$ITV
-Hot欧美影院,http://[2409:8087:7001:20:1000::95]:6610/000000001000/7185203501769528108/index.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=3
 Hot亚洲影院,http://39.134.136.161:6610/000000001000/2000000004000000006/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000006&livemode=1&stbId=3$ITV
 Hot亚洲影院,http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000006/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000006&livemode=1&stbId=3
-Hot亚洲影院,http://[2409:8087:7001:20:1000::95]:6610/000000001000/5841816227539527643/index.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=3
-
 
 🐠斗鱼,#genre#
 斗鱼探险,http://epg.112114.xyz/douyu/3485629
@@ -2914,68 +2933,6 @@ AXN,http://154.216.191.59/ycdz/tw220.php?id=29
 CINEMAX HD,http://154.216.191.59/ycdz/tw220.php?id=30
 STAR MOVIES GOLD,http://154.216.191.59/ycdz/tw220.php?id=31
 Star World,http://154.216.191.59/ycdz/tw220.php?id=32
-緯來體育HD,http://154.216.191.59/ycdz/tw220.php?id=33
-博斯運動一,http://154.216.191.59/ycdz/tw220.php?id=34
-momo 綜合台,http://154.216.191.59/ycdz/tw220.php?id=35
-ELEVEN SPORTS 1 HD,http://154.216.191.59/ycdz/tw220.php?id=36
-ELEVEN SPORTS 2 HD,http://154.216.191.59/ycdz/tw220.php?id=37
-Star World,http://154.216.191.59/ycdz/tw220.php?id=38
-FOX MOVIES,http://154.216.191.59/ycdz/tw220.php?id=39
-國家地理,http://154.216.191.59/ycdz/tw220.php?id=40
-衛視中文,http://154.216.191.59/ycdz/tw220.php?id=41
-衛視電影,http://154.216.191.59/ycdz/tw220.php?id=42
-三立台灣,http://154.216.191.59/ycdz/tw220.php?id=43
-年代新聞台,http://154.216.191.59/ycdz/tw220.php?id=44
-三立新聞,http://154.216.191.59/ycdz/tw220.php?id=45
-尼克兒童頻道,http://154.216.191.59/ycdz/tw220.php?id=46
-nickjr.小尼克,http://154.216.191.59/ycdz/tw220.php?id=47
-MTV Live音樂頻道,http://154.216.191.59/ycdz/tw220.php?id=48
-達文西頻道,http://154.216.191.59/ycdz/tw220.php?id=49
-寵物頻道,http://154.216.191.59/ycdz/tw220.php?id=50
-亚美卫视,http://www.seasky.icu/ymws.php
-韩国娱乐台KMTV,mitv://ns1.hellotvvod.com:9906/86c6977521d94569b5866980616aa94c
-凤凰中文,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
-凤凰资讯,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
-民視,mitv://135.148.104.228:19806/935809b7311d490392cc408f76a885dd
-台視,mitv://135.148.104.228:19806/ca94cf81f5184e1ba38c417df53083e9
-中視,mitv://135.148.104.228:19806/46c5103da0be4fdf8c80e33c58e9065b
-華視,mitv://135.148.104.228:19806/16217ed00ce348c28ff6378f0562f69f
-公視,mitv://135.148.104.228:19806/f2f582cb073b4d9da89f016994dc7aa7
-壹電視新聞台,mitv://135.148.104.228:19806/e099d9d2e11144bca5f54ab05e2a61f6
-年代新聞,mitv://135.148.104.228:19806/f1f22b55b3ee484e92cb9c4a1f8108d0
-東森新聞台,mitv://135.148.104.228:19806/c486dc0047df4754b7ec787a31d9606c
-中天新聞台,mitv://135.148.104.228:19806/38b072212e0c4bc0bb223f0ff69f53ea
-民視新聞台,mitv://135.148.104.228:19806/26b8a83d633f4118a5aab7b84bbe4b4b
-三立新聞台,mitv://135.148.104.228:19806/03f994cee3394939a2a89da78bf3ea16
-TVBS新聞台,mitv://135.148.104.228:19806/50c8e12ad3074c0da084608b952d9162
-TVBS,mitv://135.148.104.228:19806/3b6d4c58350b42eb83e733dcdd5a1917
-東森財經新聞台,mitv://135.148.104.228:19806/63b4d992b3e54e32853dd041731e70cb
-非凡新聞台,mitv://135.148.104.228:19806/019f4256632b4c7d88a59111c5ce59dc
-衛視電影台,mitv://135.148.104.228:19806/e4ef1bfd6b81426795d89025e902611c
-東森電影台,mitv://135.148.104.228:19806/e22cf7e2590e469c98a36af4d430dd0d
-緯來電影台,mitv://135.148.104.228:19806/5f1461c049754222ba75f8e46b7be2bb
-龍祥電影,mitv://135.148.104.228:19806/49242efdae444b7687fbf2775bd66ce5
-HBO,mitv://135.148.104.228:19806/94f53aeb87614480883b5cd03690d6c2
-東森洋片台,mitv://135.148.104.228:19806/eefb39405d7742239028bc2cbb169840
-AXN,mitv://135.148.104.228:19806/f36c3de820774cdcb36eb420e664e62b
-好萊塢電影台,mitv://135.148.104.228:19806/ec8126f7c43f4462948b66018b98c9b7
-CINEMAX,mitv://135.148.104.228:19806/c5053b418c434ba780f1512588b419df
-HBO強檔巨獻,mitv://135.148.104.228:19806/e07464982744437a83c59245af481502
-HBO原創巨獻,mitv://135.148.104.228:19806/508daca92fca485f9ee41bd5884ca51f
-美亞電影台HD,mitv://135.148.104.228:19806/a05d4db3a1d04c7a8193344fea31955f
-龍華電影,mitv://135.148.104.228:19806/fbb48740df2b4a7aa1e837f00c1d0575
-星衛HD電影台,mitv://135.148.104.228:19806/3fdd3561905a448494fc306e7e928a7a
-靖天映畫,mitv://135.148.104.228:19806/ea0dd409091a40dca01c6030ab10a230
-靖天電影台,mitv://135.148.104.228:19806/c5cd653913204a2ba2c20cb958c20b2e
-WARNERTV,mitv://135.148.104.228:19806/46c9e9be1f7d4698acc6520036f450e9
-StarMoviesHD,mitv://135.148.104.228:19806/498e8e2f167e4f1ca65fbda92add971a
-AMC最愛電影,mitv://135.148.104.228:19806/5b524d162c60487d979792cbc5c6fe4a
-HBOFamily,mitv://135.148.104.228:19806/32b2b904243c49aeae440baa6b102e5e
-CatchPlay電影台,mitv://135.148.104.228:19806/618488b324c7474eaa344b0e2d93a78f
-壹新聞,http://154.36.187.125/蓝山.php?cid=live1242&p=5003
-三立都會HD,http://154.36.187.125/蓝山.php?cid=live1020&p=5003
-MUCH TV,http://154.36.187.125/蓝山.php?cid=live1189&p=5003
-三立台灣HD,http://154.36.187.125/蓝山.php?cid=live1021&p=5003
 
 🚫💞信息_997788,#genre#
 星笑优菜-061717-446,https://fc.maa1830.com/n/azzpisdwnb/azzpisdwnb.m3u8
