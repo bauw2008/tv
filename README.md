@@ -79,6 +79,10 @@ c:diyp源加密码方式：
 
 [epg-DIYP接口2](http://diyp.112114.xyz/)
 
+[epg-DIYP接口3](https://diyp.112114.xyz)    
+
+[euepg接口4](https://epg.112114.eu.org//)
+
 [epg1](https://epg.sec.st/epg.php)
 
 [epg2](https://epg.hicloud.co/epg.php)
