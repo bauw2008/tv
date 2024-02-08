@@ -350,6 +350,7 @@ CCTV央视购物,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/22
 贵州卫视,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225771/1/index.m3u8?fmt=ts2hls
 贵州卫视,http://10.0.0.1:1111/gz.php?id=gzws
 贵州卫视,http://10.0.0.1:1111/gz1.php?id=gzws
+贵州2,rtmp://pili-publish.live.v2gogo.com/v2gogo-live/e7b9e08f7f8d4e4ca4f41fa399aeae17
 贵州2,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226119/1/index.m3u8?fmt=ts2hls
 贵州2,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225682/1/index.m3u8?fmt=ts2hls
 贵州2,http://10.0.0.1:1111/gz.php?id=gzgg
@@ -461,6 +462,8 @@ CCTV央视购物,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/22
 北京卫视,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226049/1/index.m3u8?fmt=ts2hls
 北京卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8
 北京卫视,https://live.goodiptv.club/api/sxg.php?id=bjwsH265_4000
+北京卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8
+北京卫视,https://live.sjsrm.com/bjsjs/sd/live.m3u8
 兵团卫视,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225722/1/index.m3u8?fmt=ts2hls
 兵团卫视,https://live.goodiptv.club/api/sxg.php?id=btws_4000
 东方卫视,http://[2409:8087:2001:20:2800:0:df6e:eb16]/wh7f454c46tw2542426131_1585848046/ott.mobaibox.com/PLTV/3/224/3221227511/index.m3u8?icpid=3&RTS=1668597336&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
@@ -675,6 +678,7 @@ NHK华语,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/in
 GOODTV好医生,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch9-2.m3u8
 环球影片,http://208.115.225.174:14128
 华纳影院,http://208.115.225.174:14132
+大爱卫视,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 HBO,http://208.115.225.174:14136
 HBO2,http://208.115.225.174:14140
 HBO-family,http://208.115.225.174:14144
@@ -752,7 +756,8 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/in
 CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-1905,http://10.0.0.1:1111/1905.php?id=1905dy
+1905,http://10.0.0.1:1111/1905.php?id=1905a
+1905,http://10.0.0.1:1111/1905.php?id=1905b
 1905,http://cfyy.cc/Dp/1905.php
 1905,http://alltzy.cn/live/t/tv/1905.php
 1905,http://103.45.68.47:666/gy/gy_JsEu/1905.php
