@@ -3,6 +3,8 @@ CCTV1综合,http://10.0.0.1:1234/rtp/238.255.2.91:5999
 CCTV1综合,http://10.0.0.1:1234/rtp/238.255.0.113:4152
 CCTV2财经,http://10.0.0.1:1234/rtp/238.255.2.11:5999
 CCTV3综艺,http://10.0.0.1:1234/rtp/238.255.2.133:5999
+CCTV4中文国际,http://10.0.0.1:1234/rtp/238.255.2.139:5999
+CCTV4中文国际,http://10.0.0.1:1234/rtp/238.255.3.105:5999
 CCTV4中文国际,http://10.0.0.1:1234/rtp/238.255.2.92:5999
 CCTV4中文国际美洲,http://10.0.0.1:1234/rtp/238.255.2.214:5999
 CCTV4中文国际欧洲,http://10.0.0.1:1234/rtp/238.255.2.213:5999
@@ -756,8 +758,8 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/in
 CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-1905,http://10.0.0.1:1111/1905.php?id=1905a
-1905,http://10.0.0.1:1111/1905.php?id=1905b
+1905国外电影,http://10.0.0.1:1111/1905.php?id=1905a
+1905国内电影,http://10.0.0.1:1111/1905.php?id=1905b
 1905,http://cfyy.cc/Dp/1905.php
 1905,http://alltzy.cn/live/t/tv/1905.php
 1905,http://103.45.68.47:666/gy/gy_JsEu/1905.php
