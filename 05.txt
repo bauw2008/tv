@@ -619,38 +619,48 @@ CCTV央视购物,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/22
 安多卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226228/index.m3u8
 
 🇭🇰港台,#genre#
-凤凰资讯,https://live.goodiptv.club/api/sxg.php?id=test2_4000
-凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8
+凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰资讯,https://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰资讯,https://play-flive.ifeng.com/live/06OLEEWQKN4.flv
+凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.flv
+凤凰资讯,rtmp://play-flive.ifeng.com/live/06OLEEWQKN4
 凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8
-凤凰资讯,http://113.117.74.18:8081/hls/36/index.m3u8
 凤凰资讯,http://111.20.40.166:80/PLTV/88888893/224/3221226546/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1668336154&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
-凤凰中文,https://live.goodiptv.club/api/sxg.php?id=test1_4000
+凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰中文,https://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰中文,https://play-flive.ifeng.com/live/06OLEGEGM4G.flv
+凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.flv
+凤凰中文,rtmp://play-flive.ifeng.com/live/06OLEGEGM4G
 凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8
-凤凰中文,http://113.117.74.26:8081/hls/37/index.m3u8
-凤凰中文,http://113.117.74.18:8081/hls/37/index.m3u8
 凤凰中文,http://111.20.40.166:80/PLTV/88888893/224/3221226547/index.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1668336154&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 凤凰中文,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=fhzw_1500
 凤凰香港,http://113.117.74.29:8081/hls/38/index.m3u8
 凤凰香港,http://113.117.74.19:8081/hls/38/index.m3u8
-香港文旅,http://ali-play.lezhibo.com/lezhibo/d803719995ab40df83fca5e638cac7f4.m3u8
-香港卫视,http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
+香港卫视,https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639
+香港文旅,http://ali-play.lezhibo.com/lezhibo/d803719995ab40df83fca5e638cac7f4.m3u8
 凤凰电影,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
 星空卫视,http://vl15191373.imwork.net:8880/udp/239.93.1.10:2193
 星空卫视,http://vl15191373.imwork.net:8880/udp/239.93.0.156:2193
 星空卫视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=xingkong_1500
+星空卫视,http://119.34.189.27:33333/udp/224.1.100.13:11111
+星空卫视,http://yuju666888.x3322.net:808/hls/110/index.m3u8
 ChannelV,http://vl15191373.imwork.net:8880/udp/239.93.1.7:2194
 ChannelV,http://vl15191373.imwork.net:8880/udp/239.93.0.157:2194
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 澳亚卫视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=aoya_1500
+澳视澳门,http://183.237.246.14:9931/tsfile/live/1039_1.m3u8
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
 澳门莲花,http://49.235.110.121:9090/898/peda/lianhua.php
 TVB翡翠台,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1350_4500
 TVB翡翠台,http://120.236.57.77:9901/tsfile/live/1076_1.m3u8
+TVB翡翠台,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwwjpthjyjtjjjxcxbfhjjfjvhdtjdvbtvjsjxjfsjjcvbctvbfc.flv
 明珠台,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1351_4500
 VIUTV,http://r.jdshipin.com/vSJvl
 TVBE,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153398
@@ -3028,4 +3038,3 @@ ASMR姐姐的梦境,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/74/oh/ov/k
 独自练习,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/i6/ic/gf/sz/5aae7ba090374eb89fa4cf650d8a8c27.m3u8?
 短片集1,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/jv/t1/9o/ji/6c4a0c8b190944bc8dee75fc8e37cc67.m3u8?
 写真短片-晨,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/eo/hw/ag/q1/1105642eb79f45f580c473c9fcb64725.m3u8?
-
