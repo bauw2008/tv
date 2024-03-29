@@ -768,11 +768,8 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/in
 CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-1905国外电影,http://10.0.0.1:1111/1905.php?id=1905a
-1905国内电影,http://10.0.0.1:1111/1905.php?id=1905b
-1905,http://cfyy.cc/Dp/1905.php
-1905,http://alltzy.cn/live/t/tv/1905.php
-1905,http://103.45.68.47:666/gy/gy_JsEu/1905.php
+1905国内电影,http://10.0.0.1:1111/1905.php?id=1905a
+1905国外电影,http://10.0.0.1:1111/1905.php?id=1905b
 邵氏影院,http://43.138.170.29:35455/douyu/4246519
 黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
@@ -3038,3 +3035,4 @@ ASMR姐姐的梦境,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/74/oh/ov/k
 独自练习,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/i6/ic/gf/sz/5aae7ba090374eb89fa4cf650d8a8c27.m3u8?
 短片集1,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/jv/t1/9o/ji/6c4a0c8b190944bc8dee75fc8e37cc67.m3u8?
 写真短片-晨,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/eo/hw/ag/q1/1105642eb79f45f580c473c9fcb64725.m3u8?
+
