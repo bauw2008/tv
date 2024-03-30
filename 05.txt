@@ -618,7 +618,6 @@ CCTV央视购物,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/22
 农林卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
 三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
 三沙卫视,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226324/1/index.m3u8?fmt=ts2hls
-南方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226218/1.m3u8
 
 🇭🇰港台,#genre#
 凤凰资讯,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
@@ -636,9 +635,6 @@ CCTV央视购物,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/22
 凤凰中文,https://play-flive.ifeng.com/live/06OLEGEGM4G.flv
 凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.flv
 凤凰中文,rtmp://play-flive.ifeng.com/live/06OLEGEGM4G
-凤凰香港,http://113.117.74.29:8081/hls/38/index.m3u8
-凤凰香港,http://113.117.74.19:8081/hls/38/index.m3u8
-凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 香港卫视,https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639
@@ -728,6 +724,7 @@ CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122639
 魅力足球,https://live.goodiptv.club/api/sxg.php?id=mlyy_4000
 玫瑰轮播台,http://maomao.kandiantv.cn/m3u8.php?/migu/788816794
 辽宁体育,http://42.176.185.28:9901/tsfile/live/1007_1.m3u8
+劲爆体育,http://[2409:8087:7001:20:3::6]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226239/index.m3u8
 劲爆体育,https://live.goodiptv.club/api/sxg.php?id=lqhxjcHDH265_4000
 极限运动,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/144/index.m3u8
 广东体育,http://r.jdshipin.com/LiYdg
@@ -782,7 +779,10 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/in
 峨眉电影,http://vl15191373.imwork.net:8880/udp/239.93.0.252:5140
 峨眉电影,http://r.jdshipin.com/XIjta
 西乡融媒,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002207/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+西安影视频道,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226369/index.m3u8
 河北影视剧,https://event.pull.hebtv.com/jishi/yingshijupindao.m3u8
+陕西西部电影,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226364/index.m3u8
+陕西影视频道,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226360/index.m3u8
 南宁影视,http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
 淮阴综合,http://huaiyin-tv-hls.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8
 淮阴影视,http://huaiyin-tv-hls.cm.jstv.com/huaiyin-tv/hyys.m3u8
