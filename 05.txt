@@ -885,32 +885,6 @@ Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_d
 中国天气,http://39.134.136.161:6610/000000001000/2000000002000000057/index.m3u8?channel-id=hnbblive&Contentid=2000000002000000057&livemode=1&stbId=3$ITV
 中国天气,http://39.134.136.161:6610/000000001000/5000000005000031974/index.m3u8?channel-id=bestzb&Contentid=5000000005000031974&livemode=1&stbId=3$ITV
 
-🔫课堂,#genre#
-空中课堂一年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkyinj/1300000/mnf.m3u8
-空中课堂一年级,http://liveplay-kk.rtxapp.com/live/program/live/kkyinj/1300000/mnf.m3u8
-空中课堂二年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkernj/1300000/mnf.m3u8
-空中课堂二年级,http://liveplay-kk.rtxapp.com/live/program/live/kkernj/1300000/mnf.m3u8
-空中课堂三年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kksannj/1300000/mnf.m3u8
-空中课堂三年级,http://liveplay-kk.rtxapp.com/live/program/live/kksannj/1300000/mnf.m3u8
-空中课堂四年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kksinj/1300000/mnf.m3u8
-空中课堂四年级,http://liveplay-kk.rtxapp.com/live/program/live/kksinj/1300000/mnf.m3u8
-空中课堂五年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkwunj/1300000/mnf.m3u8
-空中课堂五年级,http://liveplay-kk.rtxapp.com/live/program/live/kkwunj/1300000/mnf.m3u8
-空中课堂六年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkliunj/1300000/mnf.m3u8
-空中课堂六年级,http://liveplay-kk.rtxapp.com/live/program/live/kkliunj/1300000/mnf.m3u8
-空中课堂七年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkqinj/1300000/mnf.m3u8
-空中课堂七年级,http://liveplay-kk.rtxapp.com/live/program/live/kkqinj/1300000/mnf.m3u8
-空中课堂八年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkbanj/1300000/mnf.m3u8
-空中课堂八年级,http://liveplay-kk.rtxapp.com/live/program/live/kkbanj/1300000/mnf.m3u8
-空中课堂九年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkjiunj/1300000/mnf.m3u8
-空中课堂九年级,,http://liveplay-kk.rtxapp.com/live/program/live/kkjiunj/1300000/mnf.m3u8
-空中课堂高一,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkgaoyinj/1300000/mnf.m3u8
-空中课堂高一,http://liveplay-kk.rtxapp.com/live/program/live/kkgaoyinj/1300000/mnf.m3u8
-空中课堂高二,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkgaoernj/1300000/mnf.m3u8
-空中课堂高二,http://liveplay-kk.rtxapp.com/live/program/live/kkgaoernj/1300000/mnf.m3u8
-空中课堂高三,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkgaosannj/1300000/mnf.m3u8
-空中课堂高三,http://liveplay-kk.rtxapp.com/live/program/live/kkgaosannj/1300000/mnf.m3u8
-
 🌵besTV,#genre#
 BesTV华语影院,http://php.jdshipin.com:8880/bst.php?id=hyyy8m/8000000
 BesTV星光影院,http://php.jdshipin.com:8880/bst.php?id=xgyy8m/8000000
@@ -1109,7 +1083,7 @@ NewTV中国功夫,http://111.40.196.38:443/PLTV/88888888/224/3221225678/1.m3u8
 爱奇艺-倒霉熊,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c54_lb_140_600_t10/c54_lb_140_600_t10.m3u8?key
 爱奇艺-倒霉熊,http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c54_lb_140_600_t10/c54_lb_140_600_t10.m3u8?key
 
-📺埋堆堆,#genre#
+🔫埋堆堆,#genre#
 封神榜-温碧霞,https://live.metshop.top/huya/23749096
 封神榜-温碧霞,http://cfss.cc/cdn/hy/23749096.flv
 西游记-陈浩民,https://live.metshop.top/huya/23735126
@@ -1240,50 +1214,41 @@ Hot亚洲影院,http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004
 国产影片,http://epg.112114.xyz/douyu/5423
 小宇60帧,http://epg.112114.xyz/douyu/323876
 变种人电影,http://epg.112114.xyz/douyu/9651304
-电影台01,https://live.metshop.top//1382749892
-电影台02,https://live.metshop.top//1382735573
-电影台03,https://live.metshop.top//24921161
-电影台04,https://live.metshop.top//1382736803
-电影台05,https://live.metshop.top//1354930924
-电影台06,https://live.metshop.top//1382745095
-电影台07,https://live.metshop.top//1355171357
-电影台08,https://live.metshop.top//24066336
-电影台09,https://live.metshop.top//1354143966
-電影輪播,https://live.metshop.top//1353059120
-歐美電影,https://live.metshop.top//24923327
-歐美科幻,https://live.metshop.top//37988782
-歐美動作,https://live.metshop.top//1382745089
-連續劇台,https://live.metshop.top//1352227227
-剧场频道,https://live.metshop.top//1382702247
-剧场怀旧,https://live.metshop.top//1382627144
-菲菲影院,https://live.metshop.top//1456668939
-幸福影院,https://live.metshop.top//1382737886
-经典鬼片,https://live.metshop.top//29460894
-米娜影院,https://live.metshop.top//1382690078
-豪哥影院,https://live.metshop.top//23402146
-绝版电影,https://live.metshop.top//1454587259
-港片电影,https://live.metshop.top//1355479289
-泡芙影院,https://live.metshop.top//24407222
-数码测评,https://live.metshop.top//11352878
-速度与激情,https://live.metshop.top//1382749892
-林正英电影,https://live.metshop.top//34229877
-林正英鬼片,https://live.metshop.top//1351505899
-菲菲影院,https://live.metshop.top//1456668939
-幸福影视,https://live.metshop.top//1382737886
-豪哥影视,https://live.metshop.top//23402146
-封神榜,https://live.metshop.top//1353426319
-知否知否,https://live.metshop.top//21881901
-正阳门下,https://live.metshop.top//1354931580
-雍正王朝,https://live.metshop.top//23206872
-下饭神剧,https://live.metshop.top//23512910
-武林外传,https://live.metshop.top//1355914397
-盜暮笔记,https://live.metshop.top//1382702247
-神医喜来乐,https://live.metshop.top//1382714119
-地下交通站,https://live.metshop.top//1353428972
-宰相刘罗锅,https://live.metshop.top//1382745191
-隋唐英雄传,https://live.metshop.top//1352475619
 豆瓣高分,http://43.138.170.29:35455/douyu/8770422
 爱情公寓,http://43.138.170.29:35455/douyu/6863367
+电影轮播,https://live.metshop.top/yy/1353059120
+欧美电影,https://live.metshop.top/yy/24923327
+欧美科幻,https://live.metshop.top/yy/37988782
+欧美动作,https://live.metshop.top/yy/1382745089
+连续剧台,https://live.metshop.top/yy/1352227227
+剧场频道,https://live.metshop.top/yy/1382702247
+剧场怀旧,https://live.metshop.top/yy/1382627144
+菲菲影院,https://live.metshop.top/yy/1456668939
+幸福影院,https://live.metshop.top/yy/1382737886
+经典鬼片,https://live.metshop.top/yy/29460894
+米娜影院,https://live.metshop.top/yy/1382690078
+豪哥影院,https://live.metshop.top/yy/23402146
+绝版电影,https://live.metshop.top/yy/1454587259
+港片电影,https://live.metshop.top/yy/1355479289
+泡芙影院,https://live.metshop.top/yy/24407222
+数码测评,https://live.metshop.top/yy/11352878
+速度与激情,https://live.metshop.top/yy/1382749892
+林正英电影,https://live.metshop.top/yy/34229877
+林正英鬼片,https://live.metshop.top/yy/1351505899
+菲菲影院,https://live.metshop.top/yy/1456668939
+幸福影视,https://live.metshop.top/yy/1382737886
+豪哥影视,https://live.metshop.top/yy/23402146
+封神榜,https://live.metshop.top/yy/1353426319
+知否知否,https://live.metshop.top/yy/21881901
+正阳门下,https://live.metshop.top/yy/1354931580
+雍正王朝,https://live.metshop.top/yy/23206872
+下饭神剧,https://live.metshop.top/yy/23512910
+武林外传,https://live.metshop.top/yy/1355914397
+盗暮笔记,https://live.metshop.top/yy/1382702247
+神医喜来乐,https://live.metshop.top/yy/1382714119
+地下交通站,https://live.metshop.top/yy/1353428972
+宰相刘罗锅,https://live.metshop.top/yy/1382745191
+隋唐英雄传,https://live.metshop.top/yy/1352475619
 
 🌀️IPTV,#genre#
 IPTV3+,http://106.39.160.148/live.aishang.ctlcdn.com/00000110240093_1/encoder/0/playlist.m3u8?CONTENTID=00000110240093_1
@@ -1420,7 +1385,7 @@ HBO原创巨献,mitv://generationnexxxt.com:19806/bd0a33ff8b6f4fe9ba7791ad73c6c1
 搞笑恐怖,https://live.metshop.top/huya/11601960
 死神来了,https://live.metshop.top/huya/11352903
 变形金刚,https://live.metshop.top/huya/21059596
-怪兽系列,https://live.metshop.top/huya/21059554
+怪兽系列,https://live.metshop.top/huya/21059554‘
 老三国,https://live.metshop.top/huya/11602081
 新三国,https://live.metshop.top/huya/11352944
 新水浒,https://live.metshop.top/huya/11342384
@@ -1448,79 +1413,682 @@ HBO原创巨献,mitv://generationnexxxt.com:19806/bd0a33ff8b6f4fe9ba7791ad73c6c1
 [印]猛虎3,https://hnzy.bfvvs.com/play/Pdy4pmzb/index.m3u8
 大冒险王之金丝玉盘,https://hnzy.bfvvs.com/play/YerGjXpa/index.m3u8
 志愿军：雄兵出击,https://dghls.mcloud.139.com/hls/L1c36c04a53255f72579c1f62fe2ad8e1b/single/video/0/376/index.m3u8
+经典影视,https://lunbo.freetv.top/yy/1414974362
+军旅剧,https://lunbo.freetv.top/yy/1354784284
+惊险抗日,https://lunbo.freetv.top/yy/1382736877
+绝版电影,https://lunbo.freetv.top/yy/1455988450
+武林外传,https://lunbo.freetv.top/yy/21092633
+封神榜,https://lunbo.freetv.top/yy/1353426319
+喜剧动作,https://lunbo.freetv.top/yy/1355480591
+绝版电影,https://lunbo.freetv.top/yy/1461579859
+济公游记,https://lunbo.freetv.top/yy/1355265814
+港片电影,https://lunbo.freetv.top/yy/1455225203
+经典电影,https://lunbo.freetv.top/yy/34229877
+港片赌片,https://lunbo.freetv.top/yy/1355076627
+古惑仔,https://lunbo.freetv.top/yy/1458015189
+纪晓岚,https://lunbo.freetv.top/yy/1354143978
+纪晓岚,https://lunbo.freetv.top/yy/1352227227
+鹿鼎记,https://lunbo.freetv.top/yy/28265277
+武林外传,https://lunbo.freetv.top/yy/1355652820
+新三国,https://lunbo.freetv.top/yy/1382705738
+狂飙,https://lunbo.freetv.top/yy/1354790484
+林正英鬼片,https://lunbo.freetv.top/yy/1355263385
+经典港片,https://lunbo.freetv.top/yy/1353059120
+鬼片港片,https://lunbo.freetv.top/yy/1335509613
+鹿鼎记,https://lunbo.freetv.top/yy/1354658049
+宰相刘罗锅,https://lunbo.freetv.top/yy/1382745191
+战狼3吴京独播,https://lunbo.freetv.top/yy/37999586
+少年包青天1~3蓝光版,https://lunbo.freetv.top/yy/38498680
+地下交通站,https://lunbo.freetv.top/yy/1382736795
+战狼4 吴京首播,https://lunbo.freetv.top/yy/1354784966
+战狼3吴京首播,https://lunbo.freetv.top/yy/1456668939
+距离你500米,https://lunbo.freetv.top/yy/1382883365
+雪中悍刀行,https://lunbo.freetv.top/yy/1382660835
+超级吓人鬼片 恐怖片,https://lunbo.freetv.top/yy/1355641195
+荒野求生德爷,https://lunbo.freetv.top/yy/36949900
+雪中悍刀行,https://lunbo.freetv.top/yy/1462996362
+经典鬼片3000部,https://lunbo.freetv.top/yy/29460894
+狂飙老莫请你吃鱼,https://lunbo.freetv.top/yy/1382881866
+林正英电影,https://lunbo.freetv.top/yy/1382841203
+鬼经典老片,https://lunbo.freetv.top/yy/1463783198
+新三国萌儿陪看,https://lunbo.freetv.top/yy/29216766
+火凤凰之战狼七,https://lunbo.freetv.top/yy/1463088777
+喜欢的小哥哥点点关注,https://lunbo.freetv.top/yy/98544634
+鹊刀门,https://lunbo.freetv.top/yy/1355344777
+神雕侠侣,https://lunbo.freetv.top/yy/1351762426
+港片赌片 动作,https://lunbo.freetv.top/yy/24921161
+83射雕英雄传,https://lunbo.freetv.top/yy/1354210357
+港片,https://lunbo.freetv.top/yy/1459901192
+电影 古惑仔全集,https://lunbo.freetv.top/yy/1354507447
+神医喜来乐,https://lunbo.freetv.top/yy/1382714119
+惊恐盗暮鬼怪,https://lunbo.freetv.top/yy/1382749525
+我的兄弟叫顺溜,https://lunbo.freetv.top/yy/1459331991
+燕双鹰,https://lunbo.freetv.top/yy/1354143942
+林正英合集,https://lunbo.freetv.top/yy/1453996620
+泡芙陪你看电影,https://lunbo.freetv.top/yy/24407222
+兔牙妹吖正在直播,https://lunbo.freetv.top/yy/1353782648
+神探狄仁杰,https://lunbo.freetv.top/yy/38338029
+少年包青天,https://lunbo.freetv.top/yy/1356043677
+(周星驰)超经典搞笑电影,https://lunbo.freetv.top/yy/29945997
+小沈阳 海青之后厨,https://lunbo.freetv.top/yy/1351059494
+24H国漫热播,https://lunbo.freetv.top/yy/1353937086
+狂飙,https://lunbo.freetv.top/yy/1355142167
+康熙微服私访记,https://lunbo.freetv.top/yy/1352811698
+倚天屠龙记,https://lunbo.freetv.top/yy/33300793
+雍正王朝,https://lunbo.freetv.top/yy/1356043620
+倚天屠龙记,https://lunbo.freetv.top/yy/1449856066
+神探狄仁杰,https://lunbo.freetv.top/yy/1351755386
+港台鬼片 惊悚 喜剧,https://lunbo.freetv.top/yy/1351030377
+经典动漫,https://lunbo.freetv.top/yy/22777075
+金超群电视剧,https://lunbo.freetv.top/yy/1356158015
+小宝 天龙 神雕金庸,https://lunbo.freetv.top/yy/1356043609
+狂飙,https://lunbo.freetv.top/yy/1382764587
+少年包青天,https://lunbo.freetv.top/yy/1382701828
+66车讯,https://lunbo.freetv.top/yy/1382571192
+隋唐英雄传,https://lunbo.freetv.top/yy/1352475619
+家花与野花,https://lunbo.freetv.top/yy/1354420982
+超清经典港片,https://lunbo.freetv.top/yy/1356180261
+欢乐集结号-每天笑不停,https://lunbo.freetv.top/yy/1382741642
+神探狄仁杰2,https://lunbo.freetv.top/yy/1382828767
+正阳门下,https://lunbo.freetv.top/yy/1354931580
+正阳门下,https://lunbo.freetv.top/yy/1382851588
+神探狄仁杰1,https://lunbo.freetv.top/yy/1382851575
+火蓝刀锋,https://lunbo.freetv.top/yy/1382737892
+小沈阳春晚小品,https://lunbo.freetv.top/yy/1382749941
+情满四合院-高分电视剧,https://lunbo.freetv.top/yy/1382735541
+洪金宝福星系列,https://lunbo.freetv.top/yy/1354924839
+国内侦探电影大全,https://lunbo.freetv.top/yy/1354936134
+敢死队-精彩动作电影,https://lunbo.freetv.top/yy/1382735573
+风筝,https://lunbo.freetv.top/yy/1382828770
+星爷经典-百看不厌,https://lunbo.freetv.top/yy/1382736808
+神探狄仁杰1,https://lunbo.freetv.top/yy/1354930934
+知否知否应是绿肥红瘦,https://lunbo.freetv.top/yy/21881901
+花儿开心吧,https://lunbo.freetv.top/yy/1354930984
+经典大片合集,https://lunbo.freetv.top/yy/1382749895
+新白娘子传奇,https://lunbo.freetv.top/yy/1354490667
+天道-9.2高分好剧,https://lunbo.freetv.top/yy/1382735574
+炊事班的故事II,https://lunbo.freetv.top/yy/1382736885
+雪豹,https://lunbo.freetv.top/yy/28099939
+二号交通站,https://lunbo.freetv.top/yy/1382735582
+榜一短剧,https://lunbo.freetv.top/yy/34844096
+笑傲江湖,https://lunbo.freetv.top/yy/1354930909
+热门短剧,https://lunbo.freetv.top/yy/23458682
+真实案件系列,https://lunbo.freetv.top/yy/1382671124
+速度与激情系列！-精彩大片,https://lunbo.freetv.top/yy/1382736911
+勇敢的心  玄幻仙侠短剧,https://lunbo.freetv.top/yy/1354744544
+经典 绝版 恐怖3000,https://lunbo.freetv.top/yy/84238895
+康熙王朝,https://lunbo.freetv.top/yy/1382736818
+新主播，求照顾,https://lunbo.freetv.top/yy/29197808
+动漫斗罗斗破,https://lunbo.freetv.top/yy/1353098382
+天龙八部,https://lunbo.freetv.top/yy/1351814644
+全职高手,https://lunbo.freetv.top/yy/26870427
+鬼怪恐怖惊辣,https://lunbo.freetv.top/yy/1382748585
+恐怖电影,https://lunbo.freetv.top/yy/24066336
+三国演义94年经典版,https://lunbo.freetv.top/yy/1354936241
+新三国24小时播放,https://lunbo.freetv.top/yy/1354555195
+斗罗斗破精彩动漫,https://lunbo.freetv.top/yy/1507304388
+新水浒传,https://lunbo.freetv.top/yy/1353215589
+盗暮惊悚妖魔,https://lunbo.freetv.top/yy/1382765507
+动漫斗罗斗破超清全屏,https://lunbo.freetv.top/yy/28796627
+燕双鹰专场,https://lunbo.freetv.top/yy/23026835
+卿卿鬼片,https://lunbo.freetv.top/yy/1382788850
+林正英 僵尸 鬼片,https://lunbo.freetv.top/yy/1351505899
+赌神片 动作片 港片,https://lunbo.freetv.top/yy/1355112116
+燕双鹰,https://lunbo.freetv.top/yy/1352227153
+李连杰功夫 经典武侠,https://lunbo.freetv.top/yy/74613175
+2024盗幕鬼怪,https://lunbo.freetv.top/yy/1355171231
+僵尸女鬼电影,https://lunbo.freetv.top/yy/1457229809
+精彩玄幻电影,https://lunbo.freetv.top/yy/1382688400
+进来 陪你看动漫,https://lunbo.freetv.top/yy/1352866135
+奇缘39262港台影院,https://lunbo.freetv.top/yy/1354889234
+军旅电视剧,https://lunbo.freetv.top/yy/1352575322
+宰相刘罗锅,https://lunbo.freetv.top/yy/1353892468
+电影超然巨作,https://lunbo.freetv.top/yy/29170933
+布丁-玄幻电影正在直播,https://lunbo.freetv.top/yy/1455460998
+港片 恐怖片 鬼片,https://lunbo.freetv.top/yy/1353850051
+我和僵尸有个约会,https://lunbo.freetv.top/yy/1354143966
+狄仁杰等你哦,https://lunbo.freetv.top/yy/1457579747
+神雕侠侣金庸经典,https://lunbo.freetv.top/yy/1382704651
+鬼片恐怖私人影院,https://lunbo.freetv.top/yy/1354952229
+武侠港片合集,https://lunbo.freetv.top/yy/1451866697
+武林外传,https://lunbo.freetv.top/yy/1454629602
+电影超然巨作,https://lunbo.freetv.top/yy/26623173
+皮蛋影视 正在直播,https://lunbo.freetv.top/yy/23055599
+少年歌行,https://lunbo.freetv.top/yy/1354806550
+港片电影,https://lunbo.freetv.top/yy/33897188
+倚天屠龙记,https://lunbo.freetv.top/yy/1354755003
+花千骨,https://lunbo.freetv.top/yy/1354943110
+二龙湖浩哥经典搞笑,https://lunbo.freetv.top/yy/28205255
+鸡毛飞上天,https://lunbo.freetv.top/yy/1461033197
+案发现场1-4部全集,https://lunbo.freetv.top/yy/33567888
+精彩动漫斗罗斗破,https://lunbo.freetv.top/yy/76101626
+破案港剧,https://lunbo.freetv.top/yy/1350670730
+24动漫正在直播,https://lunbo.freetv.top/yy/1350984033
+荒野求生德爷 贝爷,https://lunbo.freetv.top/yy/39123221
+无敌燕双鹰,https://lunbo.freetv.top/yy/1354825244
+案发现场（1-3）,https://lunbo.freetv.top/yy/31368110
+电视剧天下第一,https://lunbo.freetv.top/yy/1354780649
+进来 陪你看电视,https://lunbo.freetv.top/yy/1353518742
+重温经典港片电影,https://lunbo.freetv.top/yy/1382793140
+动漫斗罗斗破,https://lunbo.freetv.top/yy/35742228
+士兵突击电视剧,https://lunbo.freetv.top/yy/1456622512
+雪中悍刀行,https://lunbo.freetv.top/yy/1460836818
+破案TVB港剧,https://lunbo.freetv.top/yy/1354932707
+鹊刀门传奇,https://lunbo.freetv.top/yy/1382745997
+林正英僵尸 鬼片,https://lunbo.freetv.top/yy/30668277
+国漫 一起看正在直播,https://lunbo.freetv.top/yy/1351417866
+24H地下交通站全,https://lunbo.freetv.top/yy/37880083
+新水浒传,https://lunbo.freetv.top/yy/1382690078
+鬼片 恐怖片,https://lunbo.freetv.top/yy/1455891197
+正阳门下 正在直播,https://lunbo.freetv.top/yy/1453059740
+经典动漫,https://lunbo.freetv.top/yy/24180320
+过年了,https://lunbo.freetv.top/yy/1454553780
+西游记后传 蓝光,https://lunbo.freetv.top/yy/1353392400
+一起合租的快乐生活~,https://lunbo.freetv.top/yy/38525272
+独一无二的飞哥乐乐陪看,https://lunbo.freetv.top/yy/1352946111
+薛元帅传奇,https://lunbo.freetv.top/yy/31313785
+动漫,https://lunbo.freetv.top/yy/25055036
+你不知道的汽车冷知识,https://lunbo.freetv.top/yy/1346966327
+大家车言论,https://lunbo.freetv.top/yy/1382570702
+的直播间,https://lunbo.freetv.top/yy/1354129442
+动漫,https://lunbo.freetv.top/yy/1382747970
+电影,https://lunbo.freetv.top/yy/37454459
+斗罗斗破动漫,https://lunbo.freetv.top/yy/1420843376
+神探狄仁杰,https://lunbo.freetv.top/yy/66821259
+丫头动漫 斗罗斗破,https://lunbo.freetv.top/yy/1458722520
+东北一家人,https://lunbo.freetv.top/yy/1355273385
+鹿鼎记-高清全集,https://lunbo.freetv.top/yy/1382704650
+彭禺厶鬼怪奇幻系列电影,https://lunbo.freetv.top/yy/1353200190
+港片鬼片老电影,https://lunbo.freetv.top/yy/1355269576
+狂飙,https://lunbo.freetv.top/yy/1508778570
+成龙经典动作,https://lunbo.freetv.top/yy/34460526
+奇领 铁山靠Y 正在直播,https://lunbo.freetv.top/yy/41584371
+父母爱情,https://lunbo.freetv.top/yy/1382851594
+大话西游至尊宝,https://lunbo.freetv.top/yy/1382851590
+震撼！国内功夫大片,https://lunbo.freetv.top/yy/1382736902
+西游记后传,https://lunbo.freetv.top/yy/1382736846
+澳门风云,https://lunbo.freetv.top/yy/1459243913
+速度与激情全集,https://lunbo.freetv.top/yy/1382749892
+爆笑小品,https://lunbo.freetv.top/yy/1354931503
+野山鹰-影视剧,https://lunbo.freetv.top/yy/1354932395
+电影百团大战,https://lunbo.freetv.top/yy/1382736871
+欢乐集结号,https://lunbo.freetv.top/yy/1354931582
+变形金刚,https://lunbo.freetv.top/yy/1382736803
+国内喜剧,https://lunbo.freetv.top/yy/1382735563
+法证先锋Ⅱ,https://lunbo.freetv.top/yy/1382851597
+新白娘子传奇,https://lunbo.freetv.top/yy/1354930969
+张国荣与周润发的兄弟情,https://lunbo.freetv.top/yy/1354930961
+父母爱情,https://lunbo.freetv.top/yy/1354926650
+双月之城-国漫,https://lunbo.freetv.top/yy/1382736907
+小兵张嘎,https://lunbo.freetv.top/yy/1354930225
+易中天品三国,https://lunbo.freetv.top/yy/1354931498
+炊事班的故事III,https://lunbo.freetv.top/yy/1382736716
+情满四合院,https://lunbo.freetv.top/yy/1382851524
+少年包青天第三部,https://lunbo.freetv.top/yy/1382736814
+炊事班的故事II,https://lunbo.freetv.top/yy/1382851579
+今夜欢乐颂,https://lunbo.freetv.top/yy/1382735572
+伪装者,https://lunbo.freetv.top/yy/1382851593
+笑声传奇,https://lunbo.freetv.top/yy/1382736880
+寻秦记-,https://lunbo.freetv.top/yy/1382851591
+刑事侦缉档案I,https://lunbo.freetv.top/yy/1382851585
+法证先锋,https://lunbo.freetv.top/yy/1382851599
+斗破苍穹斗罗,https://lunbo.freetv.top/yy/1356051105
+热血抗日电影,https://lunbo.freetv.top/yy/1382749907
+红色系列,https://lunbo.freetv.top/yy/1382745083
+经典抗日电影,https://lunbo.freetv.top/yy/1354936141
+夏洛特烦恼,https://lunbo.freetv.top/yy/1354936201
+雪儿动漫,https://lunbo.freetv.top/yy/1354143938
+宋小宝春晚小品合集,https://lunbo.freetv.top/yy/1382736866
+炊事班的故事,https://lunbo.freetv.top/yy/1382749901
+血色浪漫,https://lunbo.freetv.top/yy/1354926676
+欢乐集结号,https://lunbo.freetv.top/yy/1382735550
+华子系列,https://lunbo.freetv.top/yy/1354888726
+盜暮笔记24h,https://lunbo.freetv.top/yy/1356373644
+寻秦记,https://lunbo.freetv.top/yy/1382749900
+神雕侠侣,https://lunbo.freetv.top/yy/1460913377
+国产喜剧,https://lunbo.freetv.top/yy/1382741637
+新水浒传,https://lunbo.freetv.top/yy/23206872
+国产喜剧,https://lunbo.freetv.top/yy/1382736856
+打狗棍,https://lunbo.freetv.top/yy/39736069
+你最爱的宋小宝,https://lunbo.freetv.top/yy/1354936198
+二号交通站,https://lunbo.freetv.top/yy/1382851582
+纪晓岚,https://lunbo.freetv.top/yy/1382781415
+欢乐颂,https://lunbo.freetv.top/yy/1382735624
+法证先锋,https://lunbo.freetv.top/yy/1354930939
+笑傲江湖,https://lunbo.freetv.top/yy/1354282410
+抗战神剧,https://lunbo.freetv.top/yy/1507704566
+新三国,https://lunbo.freetv.top/yy/26744898
+笑傲帮,https://lunbo.freetv.top/yy/1382735555
+狂飙,https://lunbo.freetv.top/yy/1382754187
+8090年的热血与回忆,https://lunbo.freetv.top/yy/1356243352
+经典港片,https://lunbo.freetv.top/yy/23531261
+父母爱情,https://lunbo.freetv.top/yy/1382746276
+天龙八部https://lunbo.freetv.top/yy/28996058
+武林外传,https://lunbo.freetv.top/yy/1353852605
+斗罗斗破,https://lunbo.freetv.top/yy/1354768831
+动作搞笑,https://lunbo.freetv.top/yy/1459869766
+悬疑港剧,https://lunbo.freetv.top/yy/1382800083
+24小时陪你看,https://lunbo.freetv.top/yy/1331686180
+高分武侠动作,https://lunbo.freetv.top/yy/1450496699
+单挑荒野第一季,https://lunbo.freetv.top/yy/1354933535
+特种兵系列,https://lunbo.freetv.top/yy/1508456184
+金刚葫芦娃,https://lunbo.freetv.top/yy/1353323999
+楚乔传,https://lunbo.freetv.top/yy/29067083
+24h 我爱我家 纯音频,https://lunbo.freetv.top/yy/1356212303
+战狼3,https://lunbo.freetv.top/yy/1459714870
+电影电影,https://lunbo.freetv.top/yy/1458819360
+香港经典蓝光电影,https://lunbo.freetv.top/yy/1382627144
+武庚纪,https://lunbo.freetv.top/yy/1355171357
+小甜甜 闯关东,https://lunbo.freetv.top/yy/1382658790
+国漫动漫,https://lunbo.freetv.top/yy/1354768828
+神探狄仁杰1—5部全集,https://lunbo.freetv.top/yy/1382705592
+案发现场全集,https://lunbo.freetv.top/yy/1354775242
+放羊的星星,https://lunbo.freetv.top/yy/1355260662
+探案！探案！,https://lunbo.freetv.top/yy/1382829413
+军旅剧,https://lunbo.freetv.top/yy/1356306672
+妹子高分搞笑电影,https://lunbo.freetv.top/yy/33478222
+彭禺厶鬼怪奇幻系列电影,https://lunbo.freetv.top/yy/1355249116
+最美女鬼,https://lunbo.freetv.top/yy/1460889796
+动漫,https://lunbo.freetv.top/yy/26664495
+动漫,https://lunbo.freetv.top/yy/23993334
+24小时循环播电视剧,https://lunbo.freetv.top/yy/53320802
+少年包青天三,https://lunbo.freetv.top/yy/61318527
+动漫斗罗斗破超清全屏,https://lunbo.freetv.top/yy/1382689904
+少年包青天,https://lunbo.freetv.top/yy/1382651363
+福贵,https://lunbo.freetv.top/yy/1354926537
+木乃伊全集,https://lunbo.freetv.top/yy/1354889024
+法证先锋Ⅱ,https://lunbo.freetv.top/yy/1354888736
+第一滴血全集,https://lunbo.freetv.top/yy/1354932355
+贾玲春晚小品,https://lunbo.freetv.top/yy/1382736720
+神探狄仁杰2,https://lunbo.freetv.top/yy/1382851146
+叶问全集,https://lunbo.freetv.top/yy/1382828771
+宝莲灯前传,https://lunbo.freetv.top/yy/1354931631
+经典动作电影,https://lunbo.freetv.top/yy/1370293254
+读心神探,https://lunbo.freetv.top/yy/1382736875
+情满四合院,https://lunbo.freetv.top/yy/1382736888
+大话西游至尊宝,https://lunbo.freetv.top/yy/1382736910
+魔幻手机,https://lunbo.freetv.top/yy/1382735544
+小敏,https://lunbo.freetv.top/yy/1382736890
+康熙王朝,https://lunbo.freetv.top/yy/1382851583
+人生必看的科幻片,https://lunbo.freetv.top/yy/1382745114
+欢乐一起看,https://lunbo.freetv.top/yy/1354930926
+天龙八部,https://lunbo.freetv.top/yy/1382749944
+少年包青天第三部,https://lunbo.freetv.top/yy/1382851540
+亲爱的热爱的,https://lunbo.freetv.top/yy/1354932433
+成龙系列,https://lunbo.freetv.top/yy/1354888751
+情满四合院,https://lunbo.freetv.top/yy/1382736848
+春晚小品,https://lunbo.freetv.top/yy/1382773708
+来看修牛蹄,https://lunbo.freetv.top/yy/1382749887
+欢乐集结号2,https://lunbo.freetv.top/yy/1354930919
+加勒比海盗系列,https://lunbo.freetv.top/yy/1382749914
+科幻片,https://lunbo.freetv.top/yy/1354930897
+我的前半生,https://lunbo.freetv.top/yy/1382735564
+我爱我家,https://lunbo.freetv.top/yy/1382851580
+法证先锋2,https://lunbo.freetv.top/yy/1382736870
+鬼片.惊悚.港片,https://lunbo.freetv.top/yy/1355497884
+小欢喜,https://lunbo.freetv.top/yy/1382737888
+传奇英雄,https://lunbo.freetv.top/yy/1382735578
+西游记张卫健版,https://lunbo.freetv.top/yy/1354936155
+平凡岁月,https://lunbo.freetv.top/yy/1382745117
+士兵突击,https://lunbo.freetv.top/yy/1382828766
+最美的青春,https://lunbo.freetv.top/yy/1382851530
+老夫少妻搞笑忘年恋,https://lunbo.freetv.top/yy/1354932391
+爆惊天大瓜了,https://lunbo.freetv.top/yy/1353327982
+最美的青春,https://lunbo.freetv.top/yy/1382745116
+吐槽大会 第5季,https://lunbo.freetv.top/yy/1354889009
+芳心纵火犯上线,https://lunbo.freetv.top/yy/1414974976
+尽享国内精彩战争片,https://lunbo.freetv.top/yy/1382745094
+金婚,https://lunbo.freetv.top/yy/1382736832
+金婚,https://lunbo.freetv.top/yy/1382828768
+公主嫁到,https://lunbo.freetv.top/yy/1382736915
+国漫,https://lunbo.freetv.top/yy/1354076248
+中国味道 第4季-美食纪录片,https://lunbo.freetv.top/yy/1382736845
+伪装者,https://lunbo.freetv.top/yy/1354936244
+科幻,https://lunbo.freetv.top/yy/37988782
+海王,https://lunbo.freetv.top/yy/1354936142
+动漫奥斯卡,https://lunbo.freetv.top/yy/1382626335
+国威影院,https://lunbo.freetv.top/yy/1354866665
+河山,https://lunbo.freetv.top/yy/1382749952
+国内喜剧,https://lunbo.freetv.top/yy/1382736862
+雯子：港剧场,https://lunbo.freetv.top/yy/1456829119
+和你不见不散,https://lunbo.freetv.top/yy/1355635293
+大明王朝,https://lunbo.freetv.top/yy/1382736879
+雪中悍刀行,https://lunbo.freetv.top/yy/59719179
+国内高分悬疑剧-风筝,https://lunbo.freetv.top/yy/1354931585
+顶级动作电影,https://lunbo.freetv.top/yy/24923327
+新白娘子传奇4K高清观看,https://lunbo.freetv.top/yy/1508902755
+国内经典动作电影,https://lunbo.freetv.top/yy/1382851522
+妖神记之黑狱篇,https://lunbo.freetv.top/yy/1382745173
+动漫,https://lunbo.freetv.top/yy/1382788679
+影视剧场,https://lunbo.freetv.top/yy/1355260855
+经典影视,https://lunbo.freetv.top/yy/1355002394
+封神榜,https://lunbo.freetv.top/yy/1356043643
+最可爱的人,https://lunbo.freetv.top/yy/1354585554
+古装断案,https://lunbo.freetv.top/yy/1382824983
+来一碗小鲜肉,https://lunbo.freetv.top/yy/1382861117
+绝版电视剧联播,https://lunbo.freetv.top/yy/1356338181
+赌神-发哥,https://lunbo.freetv.top/yy/1354889044
+欢天喜地七仙女,https://lunbo.freetv.top/yy/1382735553
+三国演义1994,https://lunbo.freetv.top/yy/1354930932
+动物世界,https://lunbo.freetv.top/yy/1382749889
+萌萌爱追剧,https://lunbo.freetv.top/yy/1382745093
+魔幻手机,https://lunbo.freetv.top/yy/1382851541
+超燃科幻大片：明日边缘,https://lunbo.freetv.top/yy/1382736835
+士兵突击,https://lunbo.freetv.top/yy/1382851600
+我的体育老师,https://lunbo.freetv.top/yy/1382745169
+天下第一,https://lunbo.freetv.top/yy/1382736838
+金三角大营救,https://lunbo.freetv.top/yy/1354930924
+仙剑奇侠传-神仙姐姐驾到,https://lunbo.freetv.top/yy/1382749903
+热血战争巨作,https://lunbo.freetv.top/yy/1382745087
+热血动作电影,https://lunbo.freetv.top/yy/1382736804
+末日系列-外国电影合集,https://lunbo.freetv.top/yy/1354889019
+院线动作大片,https://lunbo.freetv.top/yy/1382736900
+了不起的萝莉小玲,https://lunbo.freetv.top/yy/1382736799
+红楼梦1987经典版,https://lunbo.freetv.top/yy/1382745084
+非诚勿扰,https://lunbo.freetv.top/yy/1382745106
+国内喜剧,https://lunbo.freetv.top/yy/1382851598
+绗��叉�婀�,https://lunbo.freetv.top/yy/1382851576
+动物世界-领略原始野性,https://lunbo.freetv.top/yy/1382743138
+非诚勿扰,https://lunbo.freetv.top/yy/1382735583
+老广的味道 第3季-美食纪录片,https://lunbo.freetv.top/yy/1382735565
+深夜惊悚大片,https://lunbo.freetv.top/yy/1382745110
+高分科幻动作片,https://lunbo.freetv.top/yy/1382749948
+读心神探,https://lunbo.freetv.top/yy/1382851589
+聊斋志异S1,https://lunbo.freetv.top/yy/1382736975
+国产大片电影,https://lunbo.freetv.top/yy/1354926655
+黑衣人1、2—动作喜剧大片,https://lunbo.freetv.top/yy/1354930936
+生逢灿烂的日子,https://lunbo.freetv.top/yy/1382745085
+战争大片-国外电影,https://lunbo.freetv.top/yy/1382736857
+高分动作大片-热血出击,https://lunbo.freetv.top/yy/1382736909
+特种兵归来-国产电影,https://lunbo.freetv.top/yy/1382735581
+热门喜剧,https://lunbo.freetv.top/yy/1354931495
+国内科幻片来袭,https://lunbo.freetv.top/yy/1354930821
+上海滩,https://lunbo.freetv.top/yy/1382745184
+以家人之名,https://lunbo.freetv.top/yy/1382736908
+超精彩！系列动作电影,https://lunbo.freetv.top/yy/1382745096
+施公奇案1-欧阳震华,https://lunbo.freetv.top/yy/1382749918
+灌篮高手,https://lunbo.freetv.top/yy/1382735626
+叛逆者,https://lunbo.freetv.top/yy/1382736868
+非诚勿扰,https://lunbo.freetv.top/yy/1382745100
+探秘中华美食,https://lunbo.freetv.top/yy/1354930954
+漫威超级英雄系列,https://lunbo.freetv.top/yy/1354932402
+笑傲江湖 第1季,https://lunbo.freetv.top/yy/1382749896
+国内战争电影,https://lunbo.freetv.top/yy/1382736865
+无敌县令,https://lunbo.freetv.top/yy/1354932390
+科幻电影,https://lunbo.freetv.top/yy/1354930209
+深海利剑,https://lunbo.freetv.top/yy/1382736906
+国外高分大片,https://lunbo.freetv.top/yy/1382736867
+笑傲江湖-电视剧,https://lunbo.freetv.top/yy/1354936128
+洪大哥系列,https://lunbo.freetv.top/yy/1354888743
+法证先锋Ⅲ,https://lunbo.freetv.top/yy/1382736802
+巩汉林春晚小品合集,https://lunbo.freetv.top/yy/1354889035
+我爱我家,https://lunbo.freetv.top/yy/1382735557
+珍珠港-电影,https://lunbo.freetv.top/yy/1354936234
+黑冰,https://lunbo.freetv.top/yy/1354932427
+粉红女郎,https://lunbo.freetv.top/yy/1354888671
+美国队长史蒂夫,https://lunbo.freetv.top/yy/1382736813
+史诗级战争大片,https://lunbo.freetv.top/yy/1382745092
+本山快乐营,https://lunbo.freetv.top/yy/1354933529
+本山快乐营1,https://lunbo.freetv.top/yy/1354936209
+鹿鼎记-陈小春版,https://lunbo.freetv.top/yy/1382736920
+香港动作大片,https://lunbo.freetv.top/yy/1382736816
+国外科幻,https://lunbo.freetv.top/yy/1382736800
+穿越时空的爱恋,https://lunbo.freetv.top/yy/1382735567
+国产动作电影,https://lunbo.freetv.top/yy/1382736858
+大唐双龙传,https://lunbo.freetv.top/yy/1354930979
+小鬼当家-童年回忆,https://lunbo.freetv.top/yy/1382745104
+来自星星的你,https://lunbo.freetv.top/yy/1354930976
+国产喜剧,https://lunbo.freetv.top/yy/1382735584
+白夜追凶,https://lunbo.freetv.top/yy/1354932359
+动作电影,https://lunbo.freetv.top/yy/1382736823
+中国第一神探-狄仁杰,https://lunbo.freetv.top/yy/1354932438
+渴望,https://lunbo.freetv.top/yy/1354930963
+漫威十年,https://lunbo.freetv.top/yy/1354930233
+欢乐集结号3,https://lunbo.freetv.top/yy/1382736822
+流金岁月,https://lunbo.freetv.top/yy/1382736891
+迷,https://lunbo.freetv.top/yy/1382736719
+大汉贤后卫子夫,https://lunbo.freetv.top/yy/1382735569
+哈利波特全集,https://lunbo.freetv.top/yy/1382745105
+毒液：致命守护者,https://lunbo.freetv.top/yy/1382745095
+精彩动作电影,https://lunbo.freetv.top/yy/1382736809
+忠烈杨家将,https://lunbo.freetv.top/yy/1382749909
+国外动作大片,https://lunbo.freetv.top/yy/1382735540
+十亿少女的噩梦,https://lunbo.freetv.top/yy/1354921392
+最后的狮子,https://lunbo.freetv.top/yy/1382735577
+远去的飞鹰,https://lunbo.freetv.top/yy/1354930912
+我的父亲我的兵,https://lunbo.freetv.top/yy/1353413714
+漫画解说,https://lunbo.freetv.top/yy/1382735568
+黑色喜剧,https://lunbo.freetv.top/yy/1382745175
+钟馗传说,https://lunbo.freetv.top/yy/1382736839
+飓风营救,https://lunbo.freetv.top/yy/1382735547
+大汉天子,https://lunbo.freetv.top/yy/1382749902
+拆弹专家,https://lunbo.freetv.top/yy/1382745111
+一起来笑吧,https://lunbo.freetv.top/yy/1454859415
+舌尖上的中国第2季,https://lunbo.freetv.top/yy/1354930943
+小公举,https://lunbo.freetv.top/yy/1382745124
+动作大片,https://lunbo.freetv.top/yy/1354936168
+热血动作,https://lunbo.freetv.top/yy/1382735627
+农家小菜,https://lunbo.freetv.top/yy/1382736894
+笑傲江湖,https://lunbo.freetv.top/yy/1382736914
+玄幻电影,https://lunbo.freetv.top/yy/1354932444
+大汉天子,https://lunbo.freetv.top/yy/1382736807
+X战警系列,https://lunbo.freetv.top/yy/1382736893
+谈判专家,https://lunbo.freetv.top/yy/1382735560
+野性欧洲,https://lunbo.freetv.top/yy/1354926622
+学生兵,https://lunbo.freetv.top/yy/1354658003
+重生之超级赛亚人,https://lunbo.freetv.top/yy/1354936124
+新世界,https://lunbo.freetv.top/yy/1382736850
+科幻大片,https://lunbo.freetv.top/yy/1382747628
+憨豆先生,https://lunbo.freetv.top/yy/1354936239
+小生物的故事,https://lunbo.freetv.top/yy/1382736834
+真心想让你幸福,https://lunbo.freetv.top/yy/1382736876
+请回答1988,https://lunbo.freetv.top/yy/1354932362
+心理追凶,https://lunbo.freetv.top/yy/1354936207
+小米粒Mili,https://lunbo.freetv.top/yy/1382736842
+战争大片,https://lunbo.freetv.top/yy/1382736819
+寻秦记,https://lunbo.freetv.top/yy/1354658048
+降服魔女的手段-泰剧,https://lunbo.freetv.top/yy/1354932405
+热播国内侦探片,https://lunbo.freetv.top/yy/1382736820
+黄大妮,https://lunbo.freetv.top/yy/1354930904
+陈情令,https://lunbo.freetv.top/yy/1382745121
+地球上的地狱,https://lunbo.freetv.top/yy/1382736918
+编辑部的故事,https://lunbo.freetv.top/yy/1354936120
+大江大河2,https://lunbo.freetv.top/yy/1382736797
+大汉天子,https://lunbo.freetv.top/yy/1382736810
+国外科幻,https://lunbo.freetv.top/yy/1382735585
+机动步队,https://lunbo.freetv.top/yy/1354932371
+开心麻花街,https://lunbo.freetv.top/yy/1354926643
+大江大河,https://lunbo.freetv.top/yy/1382736806
+小小飞虎队,https://lunbo.freetv.top/yy/1382749888
+憨豆先生,https://lunbo.freetv.top/yy/1354930189
+致敬星爷致敬经典,https://lunbo.freetv.top/yy/1354889048
+外国战争大片,https://lunbo.freetv.top/yy/1382736872
+热血战争片,https://lunbo.freetv.top/yy/1354932409
+达叔系列,https://lunbo.freetv.top/yy/1354888728
+谍战片,https://lunbo.freetv.top/yy/1382736817
+国产喜剧,https://lunbo.freetv.top/yy/1382745113
+宫心计,https://lunbo.freetv.top/yy/1354933540
+妖神记-全集,https://lunbo.freetv.top/yy/1382735551
+经典系列,https://lunbo.freetv.top/yy/1354930204
+闲暇观看综艺,https://lunbo.freetv.top/yy/1354932379
+动作大片,https://lunbo.freetv.top/yy/1354930887
+风味原产地潮汕,https://lunbo.freetv.top/yy/1382745178
+法外风云,https://lunbo.freetv.top/yy/1382736805
+国外最强动作大片！,https://lunbo.freetv.top/yy/1354936157
+粟裕大将-影视,https://lunbo.freetv.top/yy/1354926542
+缺宅男女-精彩港剧,https://lunbo.freetv.top/yy/1382745088
+赌神3之少年赌神,https://lunbo.freetv.top/yy/1382749912
+暮光之城全季,https://lunbo.freetv.top/yy/1354930181
+国外院线动作大片,https://lunbo.freetv.top/yy/1382735570
+馋哭了！川味来袭,https://lunbo.freetv.top/yy/1382736913
+空谷幽兰,https://lunbo.freetv.top/yy/1382745182
+原始人大挑战,https://lunbo.freetv.top/yy/1382736884
+阿拉丁与神灯,https://lunbo.freetv.top/yy/1382749950
+苦乐村官,https://lunbo.freetv.top/yy/1382736864
+超级英雄系列,https://lunbo.freetv.top/yy/1382736863
+田园生活,https://lunbo.freetv.top/yy/1382736898
+熊出没之探险日记,https://lunbo.freetv.top/yy/1354930977
+第8号当铺,https://lunbo.freetv.top/yy/1382736905
+蒲松龄,https://lunbo.freetv.top/yy/1354889042
+科幻大片,https://lunbo.freetv.top/yy/1382745181
+警匪片,https://lunbo.freetv.top/yy/1382735576
+名媛望族,https://lunbo.freetv.top/yy/1354932431
+港剧-溏心风暴,https://lunbo.freetv.top/yy/1382736916
+悬疑破案,https://lunbo.freetv.top/yy/1382749905
+动作大片,https://lunbo.freetv.top/yy/1382749940
+蜘蛛侠-院线大片,https://lunbo.freetv.top/yy/1354926671
+侏罗纪公园三部曲,https://lunbo.freetv.top/yy/1354936191
+铭记历史-甲午大海战,https://lunbo.freetv.top/yy/1354936195
+怀旧小品,https://lunbo.freetv.top/yy/1382736821
+丁大命,https://lunbo.freetv.top/yy/1382735579
+蔡明春晚小品,https://lunbo.freetv.top/yy/1354936177
+银河护卫队,https://lunbo.freetv.top/yy/1382736815
+高分港剧,https://lunbo.freetv.top/yy/1382735542
+雷神系列,https://lunbo.freetv.top/yy/1354932441
+如果岁月可回头,https://lunbo.freetv.top/yy/1382736883
+少年四大名捕,https://lunbo.freetv.top/yy/1354936203
+白鹿原,https://lunbo.freetv.top/yy/1354931488
+另类民兵葛二蛋,https://lunbo.freetv.top/yy/1382736895
+飞虎之雷霆极战,https://lunbo.freetv.top/yy/1382736869
+回家的诱惑,https://lunbo.freetv.top/yy/1382851148
+二号交通站,https://lunbo.freetv.top/yy/1354930965
+今晚80后脱口秀,https://lunbo.freetv.top/yy/1382745098
+惊险大片,https://lunbo.freetv.top/yy/1354932407
+宇宙护卫队,https://lunbo.freetv.top/yy/1382736837
+金装四大才子,https://lunbo.freetv.top/yy/1354926600
+动作大片,https://lunbo.freetv.top/yy/1354888739
+丛林敢死队,https://lunbo.freetv.top/yy/1354936214
+科幻电影,https://lunbo.freetv.top/yy/1382851586
+娘亲舅大,https://lunbo.freetv.top/yy/1354932360
+仙灵儿,https://lunbo.freetv.top/yy/1382736887
+缺宅男女,https://lunbo.freetv.top/yy/1354930937
+爆笑抗日,https://lunbo.freetv.top/yy/1354930816
+火线追凶,https://lunbo.freetv.top/yy/1382745090
+女拳,https://lunbo.freetv.top/yy/1382736843
+战争大片,https://lunbo.freetv.top/yy/1382735556
+大时代,https://lunbo.freetv.top/yy/1354930891
+战争大片,https://lunbo.freetv.top/yy/1354932397
+科幻电影,https://lunbo.freetv.top/yy/1355065896
+国内科幻,https://lunbo.freetv.top/yy/1354936170
+施公奇案2,https://lunbo.freetv.top/yy/1382736824
+密子君,https://lunbo.freetv.top/yy/1382736717
+萌鸡小队,https://lunbo.freetv.top/yy/1382736904
+超英集结,https://lunbo.freetv.top/yy/1382745091
+家有九凤,https://lunbo.freetv.top/yy/1354930894
+007系列,https://lunbo.freetv.top/yy/1382736897
+饥饿游戏,https://lunbo.freetv.top/yy/1354932365
+抗战影视剧,https://lunbo.freetv.top/yy/1354936122
+寒山潜龙,https://lunbo.freetv.top/yy/1382745103
+迷糊,https://lunbo.freetv.top/yy/1509058476
+香港院线,https://lunbo.freetv.top/yy/1354936242
+宫心计,https://lunbo.freetv.top/yy/1354932429
+男亲女爱,https://lunbo.freetv.top/yy/1382736715
+国家宝藏,https://lunbo.freetv.top/yy/1382736853
+老卓电影,https://lunbo.freetv.top/yy/1354770516
+经典电影,https://lunbo.freetv.top/yy/1354690927
+一分钟学道菜,https://lunbo.freetv.top/yy/1382736901
+狂飙2,https://lunbo.freetv.top/yy/1382618077
+两公婆八条心,https://lunbo.freetv.top/yy/1382736917
+变形金刚,https://lunbo.freetv.top/yy/1354658064
+金玉满堂,https://lunbo.freetv.top/yy/1382736881
+舌尖上的中国第一季,https://lunbo.freetv.top/yy/1354930952
+王朝-自然-纪录片,https://lunbo.freetv.top/yy/1354930927
+夺宝奇兵1-4,https://lunbo.freetv.top/yy/1382736833
+战火中的故事,https://lunbo.freetv.top/yy/1382735625
+欢乐集结号4,https://lunbo.freetv.top/yy/1382736889
+公公出宫-港剧,https://lunbo.freetv.top/yy/1354936208
+国内动作大片,https://lunbo.freetv.top/yy/1382749917
+律政俏佳人,https://lunbo.freetv.top/yy/1382745099
+机械战警1-3,https://lunbo.freetv.top/yy/1382736854
+传奇之王-,https://lunbo.freetv.top/yy/1354926735
+十诫,https://lunbo.freetv.top/yy/1354930945
+宫心计,https://lunbo.freetv.top/yy/1382828769
+能耐大了第1季,https://lunbo.freetv.top/yy/1354930195
+喜剧闹翻天,https://lunbo.freetv.top/yy/1382735548
+巾帼枭雄之义海豪情,https://lunbo.freetv.top/yy/1382736859
+解放：苏联战争巨片,https://lunbo.freetv.top/yy/1354936249
+我比你更懂车 你偏不信,https://lunbo.freetv.top/yy/85042287
+飞虎之潜行极战,https://lunbo.freetv.top/yy/1354932420
+蜥蜴世界,https://lunbo.freetv.top/yy/1382735545
+国内最新战争大片,https://lunbo.freetv.top/yy/1382745189
+回家的诱惑,https://lunbo.freetv.top/yy/1354658043
+情满四合院,https://lunbo.freetv.top/yy/1382851601
+法证先锋Ⅳ,https://lunbo.freetv.top/yy/1354932426
+超炫科幻大片,https://lunbo.freetv.top/yy/1382736840
+国内动作大片,https://lunbo.freetv.top/yy/1382745176
+天龙八部,https://lunbo.freetv.top/yy/1382736855
+2012：世界末日,https://lunbo.freetv.top/yy/1382736836
+战争大片,https://lunbo.freetv.top/yy/1354936160
+少年包青天,https://lunbo.freetv.top/yy/37033366
+俺娘田小草,https://lunbo.freetv.top/yy/1382741638
+少年歌行,https://lunbo.freetv.top/yy/1450556636
+灌篮高手,https://lunbo.freetv.top/yy/1382735559
+经典电视剧,https://lunbo.freetv.top/yy/1356341389
+血色浪漫,https://lunbo.freetv.top/yy/1382745190
+耀舞长安-港剧,https://lunbo.freetv.top/yy/1382741640
+鬼片剧场,https://lunbo.freetv.top/yy/1353255986
+翻生武林,https://lunbo.freetv.top/yy/1382749910
+一城一味（舌尖姐妹篇）,https://lunbo.freetv.top/yy/1382745179
+你看与不看我都在,https://lunbo.freetv.top/yy/1353422557
+神雕侠侣,https://lunbo.freetv.top/yy/1354926637
+女医明妃传,https://lunbo.freetv.top/yy/1382736861
+烧脑悬疑电影,https://lunbo.freetv.top/yy/1382735571
+情满四合院,https://lunbo.freetv.top/yy/1382745089
+星球大战系列,https://lunbo.freetv.top/yy/1354936136
+高分韩剧,https://lunbo.freetv.top/yy/1354936228
+我是特种兵利刃出鞘,https://lunbo.freetv.top/yy/1354127609
+动作喜剧,https://lunbo.freetv.top/yy/1461037999
+24H轮播,https://lunbo.freetv.top/yy/1382843075
+小戏骨黄飞鸿,https://lunbo.freetv.top/yy/1354936181
+张译电视剧合集,https://lunbo.freetv.top/yy/14082141
+欢乐集结号,https://lunbo.freetv.top/yy/1382749911
+恐怖经典,https://lunbo.freetv.top/yy/1508896025
+僵尸鬼片,https://lunbo.freetv.top/yy/1462938994
+非常小特务,https://lunbo.freetv.top/yy/1382736849
+港剧-肝胆昆仑,https://lunbo.freetv.top/yy/1354936116
+港剧-巴不得爸爸,https://lunbo.freetv.top/yy/1382749890
+警匪片,https://lunbo.freetv.top/yy/1354930964
+喜剧电影,https://lunbo.freetv.top/yy/1382851137
+绝代双骄,https://lunbo.freetv.top/yy/1382882091
+搞笑影片,https://lunbo.freetv.top/yy/1382749878
+犬夜叉，半妖四魂之玉之路,https://lunbo.freetv.top/yy/1509038705
+欢乐中国人,https://lunbo.freetv.top/yy/1354930967
+雪豹,https://lunbo.freetv.top/yy/28298966
+妖神记,https://lunbo.freetv.top/yy/1382745171
+喜剧电影,https://lunbo.freetv.top/yy/1382736844
+宫锁珠帘,https://lunbo.freetv.top/yy/1354926666
+喜剧电影,https://lunbo.freetv.top/yy/39344825
+喜剧电影,https://lunbo.freetv.top/yy/1354658051
+TVB经典—九江十二坊,https://lunbo.freetv.top/yy/1382735566
+怪医文三块-影视剧,https://lunbo.freetv.top/yy/1354936154
+侦探烧脑电影-悬疑,https://lunbo.freetv.top/yy/1382735543
+复仇者联盟4：终局之战,https://lunbo.freetv.top/yy/1354936167
+爱情电影,https://lunbo.freetv.top/yy/1354936199
+悬疑剧-河神,https://lunbo.freetv.top/yy/1353413683
+流金岁月,https://lunbo.freetv.top/yy/1382749906
+侏罗纪世界,https://lunbo.freetv.top/yy/1382736851
+少年包青天,https://lunbo.freetv.top/yy/1461133588
+音乐视频,https://lunbo.freetv.top/yy/1355823667
+动作大片,https://lunbo.freetv.top/yy/1354933556
+经典港片,https://lunbo.freetv.top/yy/1461396681
+白头神探,https://lunbo.freetv.top/yy/1382735561
+悬疑烧脑,https://lunbo.freetv.top/yy/1354930903
+天龙八部,https://lunbo.freetv.top/yy/1382818085
+荒诞喜剧,https://lunbo.freetv.top/yy/1382736886
+温情电影,https://lunbo.freetv.top/yy/1354936238
+新白娘子传奇,https://lunbo.freetv.top/yy/1354748830
+⎛⎝⚡⏝⏝⚡⎠⎞果冻,https://lunbo.freetv.top/yy/1461722256
+春晚小品,https://lunbo.freetv.top/yy/1382773706
+宋小宝小品,https://lunbo.freetv.top/yy/1354931577
+小品1,https://lunbo.freetv.top/yy/1382851460
+小品2,https://lunbo.freetv.top/yy/1382851462
+小品3,https://lunbo.freetv.top/yy/1382773717
+小品4,https://lunbo.freetv.top/yy/1355555484
+小品5,https://lunbo.freetv.top/yy/1382773705
+小品6,https://lunbo.freetv.top/yy/1382773715
+小品7,https://lunbo.freetv.top/yy/1394000564
 
-🌟️邵氏,#genre#
-追魂镖,http://50069.njc.svp.tencent-cloud.com/0bf2suaa2aaat4aemkeb4fqvbfodbwkqadia.f10003.mp4
-断肠剑,http://50069.njc.svp.tencent-cloud.com/0bf2kaaa2aaakaaem74b6bqvaugdbviaadia.f10004.mp4
-霹雳拳,http://50069.njc.svp.tencent-cloud.com/0b78uiaagaaa44akhvme4vqvbiwdaoraaaya.f10003.mp4
-女儿国,https://50069.njc.svp.tencent-cloud.com/0bf2liaagaaakaak3kzf3bqvawwdannaaaya.f10003.mp4
-少林传人,http://50069.njc.svp.tencent-cloud.com/0bf2oiaa2aaafuaeneub6bqva4wdbvzaadia.f10003.mp4
-山歌姻緣,http://50069.njc.svp.tencent-cloud.com/0bf2tqabkaaap4annylcovqvbhgdcwoaafia.f10003.mp4
-键女幽魂,http://50069.njc.svp.tencent-cloud.com/0bf2tqaa4aaaeeal5wecbvqvbhgdb2oaadqa.f10003.mp4
-风流.韵事,http://50069.njc.svp.tencent-cloud.com/0bf2dqaa2aaajeapbkkohjqvahgdbuoaadia.f10003.mp4
-五虎屠龙,http://50069.njc.svp.tencent-cloud.com/0b78cqaakaaadmalareh2vqvafgdaukaabia.f10003.mp4
-少林五祖,http://50069.njc.svp.tencent-cloud.com/0bc3fiabaaaalaanebud7vqvakwdcavaaeaa.f10004.mp4
-爱情的代价,https://50069.njc.svp.tencent-cloud.com/0bc3t4aaqaaag4aj2fso7brfbh6dbcpqacaa.f10003.mp4
-剑女幽魂,https://50069.njc.svp.tencent-cloud.com/0bf2tqaa4aaaeeal5wecbvqvbhgdb2oaadqa.f10003.mp4
-断肠剑,https://50069.njc.svp.tencent-cloud.com/0bf2kaaa2aaakaaem74b6bqvaugdbviaadia.f10004.mp4
-追魂镖,https://50069.njc.svp.tencent-cloud.com/0bf2suaa2aaat4aemkeb4fqvbfodbwkqadia.f10003.mp4
-剑女幽魂,https://50069.njc.svp.tencent-cloud.com/0bf2tqaa4aaaeeal5wecbvqvbhgdb2oaadqa.f10003.mp4
-断肠剑,https://50069.njc.svp.tencent-cloud.com/0bf2kaaa2aaakaaem74b6bqvaugdbviaadia.f10004.mp4
-追魂镖,https://50069.njc.svp.tencent-cloud.com/0bf2suaa2aaat4aemkeb4fqvbfodbwkqadia.f10003.mp4
-少林子弟,https://50069.njc.svp.tencent-cloud.com/0bf2giaaeaaa7uapzf3ybbqvamwdaizaaaqa.f10003.mp4
-金臂童,https://50069.njc.svp.tencent-cloud.com/0b78baaaeaaai4aaaklwujqvacgdaieaaaqa.f10003.mp4
-断刀客,https://50069.njc.svp.tencent-cloud.com/0bc3iaabaaaazyaldque5bqvaqgdcbaaaeaa.f10002.mp4
-霹雳拳,https://50069.njc.svp.tencent-cloud.com/0b78uiaagaaa44akhvme4vqvbiwdaoraaaya.f10003.mp4
-五虎屠龙,https://50069.njc.svp.tencent-cloud.com/0b78cqaakaaadmalareh2vqvafgdaukaabia.f10003.mp4
-六指琴魔,https://50069.njc.svp.tencent-cloud.com/0bc36qaa4aaavaam2cuda5qvb5gdb32aadqa.f10004.mp4
-少林五祖,https://50069.njc.svp.tencent-cloud.com/0bc3fiabaaaalaanebud7vqvakwdcavaaeaa.f10004.mp4
-少林传人,https://50069.njc.svp.tencent-cloud.com/0bf2oiaa2aaafuaeneub6bqva4wdbvzaadia.f10003.mp4
-追魂镖,http://50069.njc.svp.tencent-cloud.com/0bf2suaa2aaat4aemkeb4fqvbfodbwkqadia.f10003.mp4
-断肠剑,http://50069.njc.svp.tencent-cloud.com/0bf2kaaa2aaakaaem74b6bqvaugdbviaadia.f10004.mp4
-霹雳拳,http://50069.njc.svp.tencent-cloud.com/0b78uiaagaaa44akhvme4vqvbiwdaoraaaya.f10003.mp4
-
-🌙春晚,#genre#
-1983年,http://txmov2.a.kwimgs.com/bs3/video-hls/5207287136834522947_hlshd15.m3u8
-1984年,https://txmov2.a.kwimgs.com/bs3/video-hls/5229242184269609742_hlshd15.m3u8
-1985年,http://txmov2.a.kwimgs.com/bs3/video-hls/5227271857652377954_hlshd15.m3u8
-1986年,https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8
-1987年,https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
-1988年,https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
-1989年,https://txmov2.a.kwimgs.com/bs3/video-hls/5194620763762726260_hlsb.m3u8
-1991年,https://txmov2.a.kwimgs.com/bs3/video-hls/5210664837540712798_hlshd15.m3u8
-1992年,https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
-1993年,https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8
-1994年,https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8
-1995年,https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8
-1996年,https://txmov2.a.kwimgs.com/bs3/video-hls/5202783562064785590_hlshd15.m3u8
-1997年,https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
-1998年,https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
-1999年,https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8
-2000年,https://txmov2.a.kwimgs.com/bs3/video-hls/5216294359327079321_hlshd15.m3u8
-2001年,https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8
-2002年,https://txmov2.a.kwimgs.com/bs3/video-hls/5255700858599864364_hlshd15.m3u8
-2003年,https://txmov2.a.kwimgs.com/bs3/video-hls/5232338436280256836_hlshd15.m3u8
-2004年,https://txmov2.a.kwimgs.com/bs3/video-hls/5223894184413450769_hlshd15.m3u8
-2005年,https://txmov2.a.kwimgs.com/bs3/video-hls/5254012008863954469_hlshd15.m3u8
-2006年,https://txmov2.a.kwimgs.com/bs3/video-hls/5194339310474320155_hlshd15.m3u8
-2007年,https://txmov2.a.kwimgs.com/bs3/video-hls/5194902262344826321_hlshd15.m3u8
-2008年,https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8
-2009年,https://txmov2.a.kwimgs.com/bs3/video-hls/5214042558858339330_hlshd15.m3u8
-2010年,https://txmov2.a.kwimgs.com/bs3/video-hls/5210664862006975841_hlshd15.m3u8
-2011年,https://txmov2.a.kwimgs.com/bs3/video-hls/5243597434070590481_hlshd15.m3u8
-2012年,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953534755647343_hlshd15.m3u8
-2013年,https://txmov2.a.kwimgs.com/bs3/video-hls/5241627109089548390_hlshd15.m3u8
-2014年,https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8
-2015年,https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8
-2016年,https://txmov2.a.kwimgs.com/bs3/video-hls/5238530884094441260_hlshd15.m3u8
-2017年,https://txmov2.a.kwimgs.com/bs3/video-hls/5191524564569524830_hlshd15.m3u8
-2018年,https://txmov2.a.kwimgs.com/bs3/video-hls/5212635188105848764_hlshd15.m3u8
-2019年,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093835831655107_hlshd15.m3u8
-2020年,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
-2021年,https://txmov2.a.kwimgs.com/bs3/video-hls/5255700831151909807_hlshd15.m3u8
-2022年,https://txmov2.a.kwimgs.com/bs3/video-hls/5224457109297710655_hlshd15.m3u8
-2023年网络,https://vod12.xmyysw.com/20230115/0WtBoE23/index.m3u8
-2023年总台,https://vod12.xmyysw.com/20230122/JgWBWCQH/index.m3u8
+🌟️小品,#genre#
 吃面,https://vd3.bdstatic.com/mda-kihjn2cq7103ivig/v1-cae/hd/mda-kihjn2cq7103ivig.mp4
 非诚来扰,https://vd3.bdstatic.com/mda-jk4sx2ggq7u355d6/hd/mda-jk4sx2ggq7u355d6.mp4
 幸福密码,https://vd3.bdstatic.com/mda-kj9ispnax8gpirkf/hd/mda-kj9ispnax8gpirkf.mp4
@@ -1572,6 +2140,49 @@ HBO原创巨献,mitv://generationnexxxt.com:19806/bd0a33ff8b6f4fe9ba7791ad73c6c1
 孔云龙扒马褂,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0300fg10000c7la4l3c77u5vs0abgs0&ratio=720p&line=0
 经典小品[1920x1080],http://epg.112114.xyz/douyu/9067836
 相声小品[960x540],http://epg.112114.xyz/douyu/9286868
+
+🌙春晚,#genre#
+1983年,http://txmov2.a.kwimgs.com/bs3/video-hls/5207287136834522947_hlshd15.m3u8
+1984年,https://txmov2.a.kwimgs.com/bs3/video-hls/5229242184269609742_hlshd15.m3u8
+1985年,http://txmov2.a.kwimgs.com/bs3/video-hls/5227271857652377954_hlshd15.m3u8
+1986年,https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8
+1987年,https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
+1988年,https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
+1989年,https://txmov2.a.kwimgs.com/bs3/video-hls/5194620763762726260_hlsb.m3u8
+1991年,https://txmov2.a.kwimgs.com/bs3/video-hls/5210664837540712798_hlshd15.m3u8
+1992年,https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
+1993年,https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8
+1994年,https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8
+1995年,https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8
+1996年,https://txmov2.a.kwimgs.com/bs3/video-hls/5202783562064785590_hlshd15.m3u8
+1997年,https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
+1998年,https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
+1999年,https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8
+2000年,https://txmov2.a.kwimgs.com/bs3/video-hls/5216294359327079321_hlshd15.m3u8
+2001年,https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8
+2002年,https://txmov2.a.kwimgs.com/bs3/video-hls/5255700858599864364_hlshd15.m3u8
+2003年,https://txmov2.a.kwimgs.com/bs3/video-hls/5232338436280256836_hlshd15.m3u8
+2004年,https://txmov2.a.kwimgs.com/bs3/video-hls/5223894184413450769_hlshd15.m3u8
+2005年,https://txmov2.a.kwimgs.com/bs3/video-hls/5254012008863954469_hlshd15.m3u8
+2006年,https://txmov2.a.kwimgs.com/bs3/video-hls/5194339310474320155_hlshd15.m3u8
+2007年,https://txmov2.a.kwimgs.com/bs3/video-hls/5194902262344826321_hlshd15.m3u8
+2008年,https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8
+2009年,https://txmov2.a.kwimgs.com/bs3/video-hls/5214042558858339330_hlshd15.m3u8
+2010年,https://txmov2.a.kwimgs.com/bs3/video-hls/5210664862006975841_hlshd15.m3u8
+2011年,https://txmov2.a.kwimgs.com/bs3/video-hls/5243597434070590481_hlshd15.m3u8
+2012年,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953534755647343_hlshd15.m3u8
+2013年,https://txmov2.a.kwimgs.com/bs3/video-hls/5241627109089548390_hlshd15.m3u8
+2014年,https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8
+2015年,https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8
+2016年,https://txmov2.a.kwimgs.com/bs3/video-hls/5238530884094441260_hlshd15.m3u8
+2017年,https://txmov2.a.kwimgs.com/bs3/video-hls/5191524564569524830_hlshd15.m3u8
+2018年,https://txmov2.a.kwimgs.com/bs3/video-hls/5212635188105848764_hlshd15.m3u8
+2019年,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093835831655107_hlshd15.m3u8
+2020年,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
+2021年,https://txmov2.a.kwimgs.com/bs3/video-hls/5255700831151909807_hlshd15.m3u8
+2022年,https://txmov2.a.kwimgs.com/bs3/video-hls/5224457109297710655_hlshd15.m3u8
+2023年网络,https://vod12.xmyysw.com/20230115/0WtBoE23/index.m3u8
+2023年总台,https://vod12.xmyysw.com/20230122/JgWBWCQH/index.m3u8
 
 🎬️老电影,#genre#
 少林寺,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8af9ff377238407e927e597a1af47788/850.m3u8
@@ -2709,7 +3320,6 @@ Big B Radio - 亚洲流行,http://apop.bigbradio.net/s
 湖南-宝峰湖,https://gcalic.v.myalicdn.com/gc/zjjbfh_1/index.m3u8?contentid=2820180516001
 广东-东莞中心广场,https://gcalic.v.myalicdn.com/gc/zsslstpt_1/index.m3u8?contentid=2820180516001
 广东-深圳世界之窗,https://gcalic.v.myalicdn.com/gc/sjzc01_1/index.m3u8?contentid=2820180516001
-广东-丹霞山丹梯铁锁,https://gcalic.v.myalicdn.com/gc/dxsdtts_1/index.m3u8?contentid=2820180516001
 都江堰青青,http://gcalic.v.myalicdn.com/gc/xiongmao20_1/index.m3u8
 都江堰妃妃,http://gcalic.v.myalicdn.com/gc/xiongmao13_1/index.m3u8
 都江堰壹壹玖玖,http://gcalic.v.myalicdn.com/gc/xiongmao14_1/index.m3u8
@@ -2799,11 +3409,7 @@ Love Nature,mitv://generationnexxxt.com:19806/574be1e2e0054216abe436413ea4221a
 TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec03679804
 动物星球,mitv://generationnexxxt.com:19806/5b41e724ea8e4e7eb92e3dac95589165
 卡通频道,mitv://generationnexxxt.com:19806/f4dd909eedc64e6b9736e248aedf6d61
-MOMO综合台,mitv://generationnexxxt.com:19806/659391fc000353d298b54dbe4b486dab
-MOMO亲子台,mitv://generationnexxxt.com:19806/2f2d9ad70ce7410aa99f2b9fa1753dd4
-now新闻台,mitv://generationnexxxt.com:19806/d7a5bbf5664945cc8589b36b8434d68d
 18台,mitv://generationnexxxt.com:19806/8bf8f53c61944785b13817297101af20
-now新闻台,mitv://generationnexxxt.com:19806/d7a5bbf5664945cc8589b36b8434d68d
 18台,mitv://generationnexxxt.com:19806/8bf8f53c61944785b13817297101af20
 黄金翡翠台,mitv://generationnexxxt.com:19806/864714d6ebe847edaa948e9104107f12
 凤凰资讯,mitv://generationnexxxt.com:19806/6684e9f6606f49fba9b6de846dbdcb64
@@ -2909,4 +3515,3 @@ ASMR姐姐的梦境,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/74/oh/ov/k
 独自练习,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/i6/ic/gf/sz/5aae7ba090374eb89fa4cf650d8a8c27.m3u8?
 短片集1,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/jv/t1/9o/ji/6c4a0c8b190944bc8dee75fc8e37cc67.m3u8?
 写真短片-晨,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/eo/hw/ag/q1/1105642eb79f45f580c473c9fcb64725.m3u8?
-
