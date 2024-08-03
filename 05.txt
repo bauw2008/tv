@@ -56,7 +56,6 @@ CGTN纪录,http://10.0.0.1:1234/rtp/238.255.2.172:5999
 贵州公共,http://10.0.0.1:1234/rtp/238.255.2.2:5999
 贵州影视文艺,http://10.0.0.1:1234/rtp/238.255.2.3:5999
 贵州影视文艺,http://10.0.0.1:1234/rtp/238.255.2.183:5999
-贵阳影视文艺,http://10.0.0.1:1234/rtp/238.255.2.22:5999
 贵州影视文艺,http://10.0.0.1:1234/rtp/238.255.2.200:5999
 贵州影视文艺,http://10.0.0.1:1234/rtp/238.255.2.187:5999
 贵州大众生活,http://10.0.0.1:1234/rtp/238.255.2.4:5999
@@ -64,8 +63,9 @@ CGTN纪录,http://10.0.0.1:1234/rtp/238.255.2.172:5999
 贵州科教健康,http://10.0.0.1:1234/rtp/238.255.2.6:5999
 贵州经济,http://10.0.0.1:1234/rtp/238.255.2.9:5999
 贵州移动电视,http://10.0.0.1:1234/rtp/238.255.2.117:5999
-贵阳公共,http://10.0.0.1:1234/rtp/238.255.2.20:5999
 贵阳综合,http://10.0.0.1:1234/rtp/238.255.2.19:5999
+贵阳公共,http://10.0.0.1:1234/rtp/238.255.2.20:5999
+贵阳影视文艺,http://10.0.0.1:1234/rtp/238.255.2.22:5999
 贵阳生活,http://10.0.0.1:1234/rtp/238.255.2.22:5999
 遵义公共,http://10.0.0.1:1234/rtp/238.255.2.152:5999
 遵义综合,http://10.0.0.1:1234/rtp/238.255.2.153:5999
@@ -781,6 +781,7 @@ CCTV老故事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/inde
 南方卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010108/1.m3u8
 
 🇭🇰港台,#genre#
+凤凰资讯,http://171.213.50.223:8888/udp/239.93.1.4:2191
 凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯,http://2fc574.netsite.cc/proxy/1650326537/1650326537.m3u8
 凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
@@ -4816,39 +4817,60 @@ beIN Sports 2,P2p://generationnexxxt.com:19806/65619d35000372e967236fc35ab64b39
 NBA,P2p://generationnexxxt.com:19806/65159b8e000aa81c3e3cd2861b6b31f1
 HITS Movies,P2p://generationnexxxt.com:19806/72b44f288c8c4c5baa031ec11d9e0e35
 
-🚫💖💞信息_997788,#genre#
-铃木里奈121022_754,https://fc.mjv003.com/f/bbfsjvdaey/bbfsjvdaey.m3u8
-立花りんか050224_001,https://excitingav.com/m3u8/1po/1PONDO-050224_001.m3u8
-高垣楓012724-001,https://excitingav.com/m3u8/car/CARIB-012724-001.m3u8
-永瀬なこ040224-001,https://excitingav.com/m3u8/car/CARIB-040224-001.m3u8
-りおん りおん041224-001,https://excitingav.com/m3u8/car/CARIB-041224-001.m3u8
-星野さやか050124-001,https://excitingav.com/m3u8/car/CARIB-050124-001.m3u8
+🚫🎵💖💞信息_997788,#genre#
+立花美凉-021316_245,https://fc.mjv003.com/n/aqskmrpknv/aqskmrpknv.m3u8
+立花美凉-060915_895,https://fc.mjv003.com/n/vbkosszlfm/vbkosszlfm.m3u8
+立花美凉-071815-923,https://fc.mjv003.com/h/emvkdmqobs/emvkdmqobs.m3u8
+立花美凉-122315_213,https://fc.mjv003.com/f/ucrygybsph/ucrygybsph.m3u8
+立花美凉-110315-014,https://fc.mjv003.com/e/iuucevzaiy/iuucevzaiy.m3u8
+深美里奈-071517_553,https://fc.mjv003.com/n/vcehaebztg/vcehaebztg.m3u8
+こころ-110418_001,https://fc.mjv003.com/d/glnppkpirj/glnppkpirj.m3u8
+藤嵨直-021619_812,https://fc.mjv003.com/n/ouohpjunmp/ouohpjunmp.m3u8 
+神田るな-123017_625,https://fc.mjv003.com/d/roqlnmslml/roqlnmslml.m3u8
+古瀬玲-123118_790,https://fc.mjv003.com/e/vzfssvqnha/vzfssvqnha.m3u8
+大桥未久-121914_760,https://fc.mjv003.com/g/qdsbagkxgr/qdsbagkxgr.m3u8
+大桥未久-LAFBD_41,https://fc.mjv003.com/d/mwwqejujgw/mwwqejujgw.m3u8
+大桥未久-10115_001,https://fc.mjv003.com/e/dmzwrbeyve/dmzwrbeyve.m3u8
+大桥未久-MIDE_007,http://videocdnbaidu.rhsj520.com/rbny/20180812/dqwj/MIDE-007/index.m3u8
+南あい-011023_001,https://fc.mjv003.com/m/dogonvvtgt/dogonvvtgt.m3u8
+立花あんり-HEYZO_1982,https://fc.mjv003.com/g/futinomptf/futinomptf.m3u8
+立花あんり-HEYZO_1793,https://fc.mjv003.com/f/ocnbffvhhu/ocnbffvhhu.m3u8
+南未果子-HEYZO_1819,https://fc.mjv003.com/b/flrftauevj/flrftauevj.m3u8
+桥本りん-HEYZO_1826,https://fc.mjv003.com/f/qvyhrkacvk/qvyhrkacvk.m3u8
+西条沙罗-091515_971,https://fc.mjv003.com/m/oxbkfyvtvh/oxbkfyvtvh.m3u8
+小泉沙彩-HEYZO_1387,https://fc.mjv003.com/h/sbnasttqcr/sbnasttqcr.m3u8
+铃木里奈-121022_754,https://fc.mjv003.com/f/bbfsjvdaey/bbfsjvdaey.m3u8
+爱花沙也-n0869,https://fc.mjv003.com/c/oyuiabhbed/oyuiabhbed.m3u8
+爱花沙也-n0869,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181202/djr/n0869/index.m3u8
+立花りんか-050224_001,https://excitingav.com/m3u8/1po/1PONDO-050224_001.m3u8
+高垣楓-012724_001,https://excitingav.com/m3u8/car/CARIB-012724-001.m3u8
+永瀬なこ-040224_001,https://excitingav.com/m3u8/car/CARIB-040224-001.m3u8
+りおん りおん-041224_001,https://excitingav.com/m3u8/car/CARIB-041224-001.m3u8
+星野さやか-050124_001,https://excitingav.com/m3u8/car/CARIB-050124-001.m3u8
 HEYZO-3347,https://excitingav.com/m3u8/hey/HEYZO-3347.m3u8
-One more time, One more fuck082623-001,https://excitingav.com/m3u8/car/CARIB-082623-001.m3u8
-PtoMセックス050324_001,https://excitingav.com/m3u8/1po/1PONDO-050324_001.m3u8
-上山奈々060524-001,https://excitingav.com/m3u8/car/CARIB-060524-001.m3u8
-上山奈々100518-766,https://fc.mjv003.com/m/amexyvyeqw/amexyvyeqw.m3u8
-大澤みきHEYZO-3336,https://excitingav.com/m3u8/hey/HEYZO-3336.m3u8
-深沢直美k1418,https://fc.mjv003.com/e/olnohdwcdw/olnohdwcdw.m3u8
+One more time, One more fuck-082623_001,https://excitingav.com/m3u8/car/CARIB-082623-001.m3u8
+PtoMセックス-050324_001,https://excitingav.com/m3u8/1po/1PONDO-050324_001.m3u8
+上山奈々-060524_001,https://excitingav.com/m3u8/car/CARIB-060524-001.m3u8
+上山奈々-100518_766,https://fc.mjv003.com/m/amexyvyeqw/amexyvyeqw.m3u8
+大澤みき-HEYZO_3336,https://excitingav.com/m3u8/hey/HEYZO-3336.m3u8
+深沢直美-k1418,https://fc.mjv003.com/e/olnohdwcdw/olnohdwcdw.m3u8
 折原ほのか080516_354,https://fc.mjv003.com/c/fexvjzvpcs/fexvjzvpcs.m3u8
-星笑优菜-061717-446,https://fc.mjv003.com/n/azzpisdwnb/azzpisdwnb.m3u8
-西川-112516-311,https://fc.mjv003.com/h/kmqtdxwjmz/kmqtdxwjmz.m3u8
+星笑优菜-061717_446,https://fc.mjv003.com/n/azzpisdwnb/azzpisdwnb.m3u8
+西川-112516_311,https://fc.mjv003.com/h/kmqtdxwjmz/kmqtdxwjmz.m3u8
 桃尻-101417_003,https://fc.mjv003.com/h/mfjvokxtyd/mfjvokxtyd.m3u8
 折原-081217_001,https://fc.mjv003.com/c/huevucfsfc/huevucfsfc.m3u8
-白砂-112316-310,https://fc.mjv003.com/n/hnalcnmzly/hnalcnmzly.m3u8
+白砂-112316_310,https://fc.mjv003.com/n/hnalcnmzly/hnalcnmzly.m3u8
 浅见友纪-061616_318,https://fc.mjv003.com/e/esnqqjxpqs/esnqqjxpqs.m3u8
-上山奈-100518-766,https://fc.mjv003.com/g/ourljpopnt/ourljpopnt.m3u8
+上山奈-100518_766,https://fc.mjv003.com/g/ourljpopnt/ourljpopnt.m3u8
 柏木-091118_741,https://fc.mjv003.com/f/vjmpkkgpst/vjmpkkgpst.m3u8
-柏木-HEYZO-1855,https://fc.mjv003.com/c/holrsllinf/holrsllinf.m3u8
-ADN-291夏目彩春,https://siwazywcdn2.com:5278/zhongwenzimu/KnjeVorl/index.m3u8
-Tokyo-Hot n0869,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181202/djr/n0869/index.m3u8
+柏木-HEYZO_1855,https://fc.mjv003.com/c/holrsllinf/holrsllinf.m3u8
+夏目彩春-ADN_291,https://siwazywcdn2.com:5278/zhongwenzimu/KnjeVorl/index.m3u8
 Caribbean-011115-781,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/3/1bd/011115-781/index.m3u8
-1Pondo-092416_391 水谷心音,http://videocdnbaidu.rhsj520.com/rbny/20181005/ybd/092416_391/index.m3u8
-1Pondo-122917_624 こころ,http://videocdnbaidu.rhsj520.com/rbny/20181005/ybd/122917_624/index.m3u8
-MIDE-007大橋未久,http://videocdnbaidu.rhsj520.com/rbny/20180812/dqwj/MIDE-007/index.m3u8
-Tokyo Hot-n0499 優木もなみ,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181121/hot/n0499_1/index.m3u8
-Caribbean-081916-001 羽田真里,http://videocdnbaidu.rhsj520.com/rbny/20181005/jlb/081916-001/index.m3u8
-1Pondo-052717_532 さくらみゆき,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181202/2/2bd/052717_532/index.m3u8
-Caribbean-111914-739 江波りゅう,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181212/jlb/111914-739/index.m3u8
-WANZ-332 麻倉憂,https://videocdnbaidu.rhsj520.com/rbny/20180807/mcy/WANZ-332/index.m3u8
-1PONDO-080616-355 篠田あゆみ,http://videocdnbaidu.rhsj520.com/rbny/20181005/ybd/080616_355/index.m3u8
+水谷心音-092416_391,http://videocdnbaidu.rhsj520.com/rbny/20181005/ybd/092416_391/index.m3u8
+こころ-122917_624,http://videocdnbaidu.rhsj520.com/rbny/20181005/ybd/122917_624/index.m3u8
+優木もなみ-Hot_n0499,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181121/hot/n0499_1/index.m3u8
+羽田真里-081916_001,http://videocdnbaidu.rhsj520.com/rbny/20181005/jlb/081916-001/index.m3u8
+さくらみゆき-052717_532,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181202/2/2bd/052717_532/index.m3u8
+江波りゅう-111914-739,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181212/jlb/111914-739/index.m3u8
+麻倉憂-WANZ_332,https://videocdnbaidu.rhsj520.com/rbny/20180807/mcy/WANZ-332/index.m3u8
+篠田あゆみ-080616_355,http://videocdnbaidu.rhsj520.com/rbny/20181005/ybd/080616_355/index.m3u8
