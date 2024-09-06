@@ -3,8 +3,9 @@ CCTV1,http://10.0.0.1:1234/rtp/238.255.2.91:5999
 CCTV1,http://10.0.0.1:1234/rtp/238.255.0.113:4152
 CCTV2,http://10.0.0.1:1234/rtp/238.255.2.11:5999
 CCTV3,http://10.0.0.1:1234/rtp/238.255.2.133:5999
-CCTV4,http://10.0.0.1:1234/rtp/238.255.2.139:5999
 CCTV4,http://10.0.0.1:1234/rtp/238.255.2.92:5999
+CCTV4,http://10.0.0.1:1234/rtp/238.255.2.139:5999
+CCTV4,http://10.0.0.1:1234/rtp/238.255.3.105:5999
 CCTV4欧洲,http://10.0.0.1:1234/rtp/238.255.2.213:5999
 CCTV4美洲,http://10.0.0.1:1234/rtp/238.255.2.214:5999
 CCTV5,http://10.0.0.1:1234/rtp/238.255.2.134:5999
@@ -4818,6 +4819,16 @@ NBA,P2p://generationnexxxt.com:19806/65159b8e000aa81c3e3cd2861b6b31f1
 HITS Movies,P2p://generationnexxxt.com:19806/72b44f288c8c4c5baa031ec11d9e0e35
 
 🚫🎵💖💞信息_997788,#genre#
+大泽マリア-HEYZO-2925,https://fc.mjv003.com/d/odpnkegqgo/odpnkegqgo.m3u8
+佐々木かな-012823_001,https://fc.mjv003.com/a/ydqbrcdsly/ydqbrcdsly.m3u8
+佐々木かな-111822-001,https://fc.mjv003.com/g/aylgiejhef/aylgiejhef.m3u8
+深泽直美-Tokyo Hot k1418,https://fc.mjv003.com/e/olnohdwcdw/olnohdwcdw.m3u8
+相沢れいか-011717_01,https://fc.mjv003.com/f/drdcnseeeb/drdcnseeeb.m3u8
+碧しの-031618-622,https://fc.mjv003.com/e/typjrybnev/typjrybnev.m3u8
+神崎玲香-Tokyo Hot k1349,https://fc.mjv003.com/n/xtoafmoibe/xtoafmoibe.m3u8
+真白爱梨-060716-179,https://fc.mjv003.com/m/wbspmnhmqg/wbspmnhmqg.m3u8
+前田香织-012715-793,https://fc.mjv003.com/d/ahsdbcngek/ahsdbcngek.m3u8
+立花美凉-050214-593,https://fc.mjv003.com/d/jubslitufb/jubslitufb.m3u8
 立花美凉-021316_245,https://fc.mjv003.com/n/aqskmrpknv/aqskmrpknv.m3u8
 立花美凉-060915_895,https://fc.mjv003.com/n/vbkosszlfm/vbkosszlfm.m3u8
 立花美凉-071815-923,https://fc.mjv003.com/h/emvkdmqobs/emvkdmqobs.m3u8
@@ -4854,6 +4865,7 @@ PtoMセックス-050324_001,https://excitingav.com/m3u8/1po/1PONDO-050324_001.m3
 上山奈々-100518_766,https://fc.mjv003.com/m/amexyvyeqw/amexyvyeqw.m3u8
 大澤みき-HEYZO_3336,https://excitingav.com/m3u8/hey/HEYZO-3336.m3u8
 深沢直美-k1418,https://fc.mjv003.com/e/olnohdwcdw/olnohdwcdw.m3u8
+折原ほのか-HEYZO-2748,https://cdn73.tryletny.com/data/A/4C/yOCVeu5J8X5Y7lcUIQ6L3yfaHLKqTOJSOZa/yOCVeu5J8X5Y7lcUIQ6L3yfaHLKqTOJSOZa1080.m3u8
 折原ほのか080516_354,https://fc.mjv003.com/c/fexvjzvpcs/fexvjzvpcs.m3u8
 星笑优菜-061717_446,https://fc.mjv003.com/n/azzpisdwnb/azzpisdwnb.m3u8
 西川-112516_311,https://fc.mjv003.com/h/kmqtdxwjmz/kmqtdxwjmz.m3u8
