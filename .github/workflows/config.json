@@ -1,0 +1,9 @@
+{
+    "m3u_url": "https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u",
+    "output_https": "filtered_https_only.m3u",
+    "output_http_valid": "filtered_http_only_valid.m3u",
+    "attributes_to_remove": ["tvg-logo", "tvg-id"],
+    "request_timeout": 5,
+    "max_retries": 2,
+    "retry_delay": 2
+}
