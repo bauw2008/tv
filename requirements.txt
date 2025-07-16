@@ -1,0 +1,4 @@
+requests
+aiodns
+aiohttp
+cloudscraper
