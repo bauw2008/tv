@@ -53,6 +53,8 @@ http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e0418
 http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=99705a1921ddd49fb7079a02f02bedc4&token=cpn-androidmpro-0-20415-b6774b3b3249db17d8beee6676fdf877fe8b1576307ef8e6&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
 #EXTINF:-1 tvg-name="斗鱼高分电影" group-title="电影频道", 斗鱼高分电影
 http://b.zgjok.com:35455/douyu/431460
+#EXTINF:-1 tvg-name="斗鱼魔幻影院" group-title="电影频道", 斗鱼魔幻影院
+http://www.douzhicloud.site:35455/douyu/1274132
 #EXTINF:-1 tvg-name="无心法师" group-title="电影频道", 无心法师
 http://iptv.jxpan.vip:18888/aio/huya/30080233
 #EXTINF:-1 tvg-name="楚汉骄雄" group-title="电影频道", 楚汉骄雄
@@ -375,6 +377,10 @@ http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 http://play.kankanlive.com/live/1720408089419110.m3u8
 #EXTINF:-1 tvg-name="盈江综合" group-title="地方频道", 盈江综合
 http://live.ynurl.com/video/s10016-YJTV-2/index.m3u8?zyund
+#EXTINF:-1 tvg-name="睢宁三农" group-title="地方频道", 睢宁三农
+http://3739115337.cloudvdn.com/a.m3u8?domain=suining-tv-hls.cm.jstv.com&player=nwEAAJApyIx-AKAX&secondToken=secondToken%3AfyPrvACXUQ_VSZUu3Rxm-2py1fo&streamid=suining-tv%3Asuining-tv%2Fsuiningsn&v3=1
+#EXTINF:-1 tvg-name="睢宁综合" group-title="地方频道", 睢宁综合
+http://3739115311.cloudvdn.com/a.m3u8?domain=suining-tv-hls.cm.jstv.com&player=TwMAAPjPskOkJ6kX&secondToken=secondToken%3AjegfwzYXwUE9HzG7kRfhCd81WMU&streamid=suining-tv%3Asuining-tv%2Fsuiningzh&v3=1&zjiangsd=#rtmp://221.229.243.45:1935/live/live1
 #EXTINF:-1 tvg-name="石屏综合" group-title="地方频道", 石屏综合
 http://live.ynurl.com/video/s10059-SPTV/index.m3u8?zyund
 #EXTINF:-1 tvg-name="砚山电视台" group-title="地方频道", 砚山电视台
@@ -729,8 +735,6 @@ http://iptv.jxpan.vip:18888/aio/huya/11342418
 http://iptv.jxpan.vip:18888/aio/huya/29465868
 #EXTINF:-1 group-title="电视剧频道",芈月传
 http://iptv.jxpan.vip:18888/aio/huya/11352975
-#EXTINF:-1 group-title="埋堆堆频道",封神榜
-http://iptv.jxpan.vip:18888/aio/huya/29465849
 #EXTINF:-1 group-title="埋堆堆频道",西游记2
 http://iptv.jxpan.vip:18888/aio/huya/29465859
 #EXTINF:-1 group-title="埋堆堆频道",大唐双龙传
@@ -761,6 +765,22 @@ http://iptv.jxpan.vip:18888/aio/huya/23863796
 http://iptv.jxpan.vip:18888/aio/huya/29465858
 #EXTINF:-1 group-title="☘️四川频道",广安公共
 http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8?zsicd
+#EXTINF:-1 tvg-name="辽宁公共" group-title="☘️辽宁频道",辽宁公共
+http://dassby.qqff.top:99/live/辽宁公共/index.m3u8
+#EXTINF:-1 tvg-name="辽宁北方" group-title="☘️辽宁频道",辽宁北方
+http://dassby.qqff.top:99/live/辽宁北方/index.m3u8
+#EXTINF:-1 tvg-name="辽宁影视剧" group-title="☘️辽宁频道",辽宁影视
+http://dassby.qqff.top:99/live/辽宁影视剧/index.m3u8
+#EXTINF:-1 tvg-name="辽宁教育青少" group-title="☘️辽宁频道",辽宁青少
+http://dassby.qqff.top:99/live/辽宁教育青少/index.m3u8
+#EXTINF:-1 tvg-name="辽宁生活" group-title="☘️辽宁频道",辽宁生活
+http://dassby.qqff.top:99/live/辽宁生活/index.m3u8
+#EXTINF:-1 tvg-name="辽宁经济" group-title="☘️辽宁频道",辽宁经济
+http://dassby.qqff.top:99/live/辽宁经济/index.m3u8
+#EXTINF:-1 tvg-name="辽宁都市" group-title="☘️辽宁频道",辽宁都市
+http://dassby.qqff.top:99/live/辽宁都市/index.m3u8
+#EXTINF:-1 tvg-name="辽宁体育" group-title="☘️辽宁频道",辽宁体育
+http://dassby.qqff.top:99/live/辽宁体育/index.m3u8
 #EXTINF:-1 tvg-name="广东珠江" group-title="☘️广东频道",广东珠江
 http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 #EXTINF:-1 tvg-name="广东体育" group-title="☘️广东频道",广东体育
@@ -785,10 +805,6 @@ http://nn.7x9d.cn/石家庄.php?id=5
 http://nn.7x9d.cn/石家庄.php?id=6
 #EXTINF:-1 tvg-name="三沙卫视" group-title="☘️海南频道",三沙卫视
 http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
-#EXTINF:-1 tvg-name="海南自贸" group-title="☘️海南频道",海南自贸
-http://nn.7x9d.cn/地方台8563/海南.php?id=jjpd
-#EXTINF:-1 tvg-name="海南新闻" group-title="☘️海南频道",海南新闻
-http://nn.7x9d.cn/地方台8563/海南.php?id=xwpd
 #EXTINF:-1 tvg-name="海南公共" group-title="☘️海南频道",海南公共
 http://nn.7x9d.cn/地方台8563/海南.php?id=ggpd
 #EXTINF:-1 tvg-name="海南文旅" group-title="☘️海南频道",海南文旅
