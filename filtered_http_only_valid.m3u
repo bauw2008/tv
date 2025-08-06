@@ -155,8 +155,6 @@ http://iptv.jxpan.vip:18888/aio/huya/11601963
 http://iptv.jxpan.vip:18888/aio/huya/23865080
 #EXTINF:-1 tvg-name="新动漫" group-title="儿童频道", 新动漫
 http://nas.hssvm.com:8888/udp/225.1.1.216:5002
-#EXTINF:-1 tvg-name="武汉少儿频道" group-title="儿童频道", 武汉少儿频道
-http://hzzzz530.com:4022/udp/239.69.1.6:9676
 #EXTINF:-1 tvg-name="福州少儿" group-title="儿童频道", 福州少儿
 http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 #EXTINF:-1 tvg-name="精灵宝可梦" group-title="儿童频道", 精灵宝可梦
@@ -851,6 +849,8 @@ http://iptv.jxpan.vip:18888/aio/huya/11342425
 http://iptv.jxpan.vip:18888/aio/huya/11336726
 #EXTINF:-1 group-title="电视剧频道",亮剑
 http://iptv.jxpan.vip:18888/aio/huya/30080238
+#EXTINF:-1 group-title="电视剧频道",雪豹
+http://iptv.jxpan.vip:18888/aio/huya/29580970
 #EXTINF:-1 group-title="电视剧频道",特种兵之火凤凰
 http://iptv.jxpan.vip:18888/aio/huya/29982636
 #EXTINF:-1 group-title="电视剧频道",士兵突击
@@ -891,6 +891,8 @@ http://iptv.jxpan.vip:18888/aio/huya/23860039
 http://iptv.jxpan.vip:18888/aio/huya/26355866
 #EXTINF:-1 group-title="电视剧频道",大秦赋
 http://iptv.jxpan.vip:18888/aio/huya/23903130
+#EXTINF:-1 group-title="电视剧频道",永夜星河
+http://iptv.jxpan.vip:18888/aio/huya/23734169
 #EXTINF:-1 group-title="电视剧频道",流水迢迢
 http://iptv.jxpan.vip:18888/aio/huya/23865036
 #EXTINF:-1 group-title="电视剧频道",唐诡之西行
@@ -901,6 +903,8 @@ http://iptv.jxpan.vip:18888/aio/huya/23865142
 http://iptv.jxpan.vip:18888/aio/huya/26355765
 #EXTINF:-1 group-title="电视剧频道",康熙微服私访记
 http://iptv.jxpan.vip:18888/aio/huya/11342418
+#EXTINF:-1 group-title="电视剧频道",如懿传
+http://iptv.jxpan.vip:18888/aio/huya/29465868
 #EXTINF:-1 group-title="电视剧频道",芈月传
 http://iptv.jxpan.vip:18888/aio/huya/11352975
 #EXTINF:-1 group-title="埋堆堆频道",楚汉骄雄
