@@ -3,28 +3,32 @@
 https://event.pull.hebtv.com/jishi/cp1.m3u8
 #EXTINF:-1 tvg-name="广西卫视" group-title="卫视频道", 广西卫视
 https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
-#EXTINF:-1 tvg-name="安多卫视" group-title="地方频道", 安多卫视
-https://liveout.xntv.tv/a65jur/96iln2.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视频道", 浙江卫视
+https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 tvg-name="山东教育" group-title="卫视频道", 山东教育
 https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
+#EXTINF:-1 tvg-name="莲花卫视" group-title="卫视频道", 莲花卫视
+https://fenghuang.tv12.xyz/187.m3u8
 #EXTINF:-1 tvg-name="科幻电影" group-title="电影频道", 科幻电影
-https://mursor.ottiptv.cc/yy/1355065896
+https://mursor.ottiptv.cc/yy/1354930209
 #EXTINF:-1 tvg-name="龙华电影" group-title="电影频道", 龙华电影
 https://cdn8.163189.xyz/live/lhdy/stream.m3u8
+#EXTINF:-1 tvg-name="浙江少儿" group-title="儿童频道", 浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 tvg-name="安多卫视" group-title="地方频道", 安多卫视
+https://liveout.xntv.tv/a65jur/96iln2.m3u8
 #EXTINF:-1 tvg-name="精品体育" group-title="体育频道", 精品体育
-https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
-#EXTINF:-1 tvg-name="24小时轮播霞慕尼amp马德里攀岩世界杯" group-title="电影频道", 24小时轮播霞慕尼amp马德里攀岩世界杯
-https://mursor.ottiptv.cc/bilibili/1809421678
+https://epg.pw/stream/94ed0232b61ce8d89883160a4cdfbfc8f3225cae70ef8e17d93eec249a3c8ad6.m3u8
+#EXTINF:-1 tvg-name="1930年代经典电影" group-title="电影频道", 1930年代经典电影
+https://mursor.ottiptv.cc/yy/1356363815
 #EXTINF:-1 tvg-name="28岁电影" group-title="电影频道", 28岁电影
 https://mursor.ottiptv.cc/douyu/8884164
 #EXTINF:-1 tvg-name="8090电影一哥" group-title="电影频道", 8090电影一哥
 https://mursor.ottiptv.cc/yy/29197808
-#EXTINF:-1 tvg-name="S哥影视" group-title="电影频道", S哥影视
-https://mursor.ottiptv.cc/huya/24720260
+#EXTINF:-1 tvg-name="Q娃电台随机轮播" group-title="电影频道", Q娃电台随机轮播
+https://mursor.ottiptv.cc/bilibili/614167
 #EXTINF:-1 tvg-name="三七电影V" group-title="电影频道", 三七电影V
 https://mursor.ottiptv.cc/douyu/9457792
-#EXTINF:-1 tvg-name="上视东方影视" group-title="电影频道", 上视东方影视
-https://mursor.ottiptv.cc/migu/617290047.m3u8?migutoken=f0ebbf5d6cd682c0eecd4f90bdb26be715adc5c567fa91d862c492e3d34643c51c5a9f406e352c160262ecdec604bb8f981dd2ed59632ecc9dd136144e4c74c8842fd142a8ea739d1070883d46
 #EXTINF:-1 tvg-name="二胖影视" group-title="电影频道", 二胖影视
 https://mursor.ottiptv.cc/douyu/10064260
 #EXTINF:-1 tvg-name="互换身份成龙主演电影双龙会" group-title="电影频道", 互换身份成龙主演电影双龙会
@@ -49,10 +53,12 @@ https://mursor.ottiptv.cc/huya/29399457
 https://mursor.ottiptv.cc/huya/21059566
 #EXTINF:-1 tvg-name="刘哔电影" group-title="电影频道", 刘哔电影
 https://mursor.ottiptv.cc/douyu/2632223
-#EXTINF:-1 tvg-name="前任电影" group-title="电影频道", 前任电影
-https://mursor.ottiptv.cc/douyu/9329242
+#EXTINF:-1 tvg-name="动画电影放映厅" group-title="电影频道", 动画电影放映厅
+https://mursor.ottiptv.cc/huya/11352878
 #EXTINF:-1 tvg-name="发条张的电影最TOP" group-title="电影频道", 发条张的电影最TOP
 https://mursor.ottiptv.cc/douyu/2164691
+#EXTINF:-1 tvg-name="古枫影视" group-title="电影频道", 古枫影视
+https://mursor.ottiptv.cc/huya/30297201
 #EXTINF:-1 tvg-name="可乐电影o" group-title="电影频道", 可乐电影o
 https://mursor.ottiptv.cc/huya/29598686
 #EXTINF:-1 tvg-name="史诗级科幻电影阿凡达" group-title="电影频道", 史诗级科幻电影阿凡达
@@ -65,12 +71,8 @@ https://mursor.ottiptv.cc/douyu/9505584
 https://mursor.ottiptv.cc/yy/38670875
 #EXTINF:-1 tvg-name="周星驰经典电影" group-title="电影频道", 周星驰经典电影
 https://mursor.ottiptv.cc/bilibili/1787123111
-#EXTINF:-1 tvg-name="哈利影视" group-title="电影频道", 哈利影视
-https://mursor.ottiptv.cc/douyu/8475821
 #EXTINF:-1 tvg-name="喜人电影" group-title="电影频道", 喜人电影
 https://mursor.ottiptv.cc/douyu/10348735
-#EXTINF:-1 tvg-name="喜剧电影放映厅" group-title="电影频道", 喜剧电影放映厅
-https://mursor.ottiptv.cc/huya/11602031
 #EXTINF:-1 tvg-name="喜剧电影笑不停" group-title="电影频道", 喜剧电影笑不停
 https://mursor.ottiptv.cc/douyu/10298856
 #EXTINF:-1 tvg-name="噬元兽影视" group-title="电影频道", 噬元兽影视
@@ -89,24 +91,20 @@ https://mursor.ottiptv.cc/yy/1354932444
 https://mursor.ottiptv.cc/yy/1382851522
 #EXTINF:-1 tvg-name="墨逗电影" group-title="电影频道", 墨逗电影
 https://mursor.ottiptv.cc/douyu/9614847
-#EXTINF:-1 tvg-name="夏洛特烦恼国内电影喜剧" group-title="电影频道", 夏洛特烦恼国内电影喜剧
-https://mursor.ottiptv.cc/yy/1354936201
-#EXTINF:-1 tvg-name="大仙爱电影" group-title="电影频道", 大仙爱电影
-https://mursor.ottiptv.cc/huya/30695684
-#EXTINF:-1 tvg-name="大墨电影" group-title="电影频道", 大墨电影
-https://mursor.ottiptv.cc/huya/29458834
 #EXTINF:-1 tvg-name="大壮撞电影" group-title="电影频道", 大壮撞电影
 https://mursor.ottiptv.cc/douyu/9437349
 #EXTINF:-1 tvg-name="大江大河2高分影视推荐" group-title="电影频道", 大江大河2高分影视推荐
 https://mursor.ottiptv.cc/yy/1382736797
 #EXTINF:-1 tvg-name="大江大河高分影视推荐" group-title="电影频道", 大江大河高分影视推荐
 https://mursor.ottiptv.cc/yy/1382736806
+#EXTINF:-1 tvg-name="大潘影视" group-title="电影频道", 大潘影视
+https://mursor.ottiptv.cc/huya/30439834
+#EXTINF:-1 tvg-name="大神影视" group-title="电影频道", 大神影视
+https://mursor.ottiptv.cc/huya/30297011
 #EXTINF:-1 tvg-name="大米饭影视" group-title="电影频道", 大米饭影视
 https://mursor.ottiptv.cc/douyu/9824094
 #EXTINF:-1 tvg-name="大荒电影" group-title="电影频道", 大荒电影
 https://mursor.ottiptv.cc/douyu/3508538
-#EXTINF:-1 tvg-name="大趴电影院" group-title="电影频道", 大趴电影院
-https://mursor.ottiptv.cc/douyu/8747638
 #EXTINF:-1 tvg-name="大进军全集红色系列电影" group-title="电影频道", 大进军全集红色系列电影
 https://mursor.ottiptv.cc/yy/1382745083
 #EXTINF:-1 tvg-name="天堂电影1895" group-title="电影频道", 天堂电影1895
@@ -117,6 +115,8 @@ https://mursor.ottiptv.cc/yy/1382851586
 https://mursor.ottiptv.cc/douyu/9440966
 #EXTINF:-1 tvg-name="寒战" group-title="电影频道", 寒战
 https://vip.ffzy-play6.com/20221019/157_bf0740ee/index.m3u8
+#EXTINF:-1 tvg-name="小丑电影" group-title="电影频道", 小丑电影
+https://mursor.ottiptv.cc/huya/29869799
 #EXTINF:-1 tvg-name="小儛电影嘚啵嘚" group-title="电影频道", 小儛电影嘚啵嘚
 https://mursor.ottiptv.cc/douyu/8362978
 #EXTINF:-1 tvg-name="小儿难养影视剧" group-title="电影频道", 小儿难养影视剧
@@ -127,28 +127,18 @@ https://mursor.ottiptv.cc/douyu/8762120
 https://mursor.ottiptv.cc/yy/1354926612
 #EXTINF:-1 tvg-name="影视小艺" group-title="电影频道", 影视小艺
 https://mursor.ottiptv.cc/yy/1382737886
-#EXTINF:-1 tvg-name="影视插班生" group-title="电影频道", 影视插班生
-https://mursor.ottiptv.cc/huya/29882513
 #EXTINF:-1 tvg-name="影视梗大叔" group-title="电影频道", 影视梗大叔
 https://mursor.ottiptv.cc/douyu/9480648
-#EXTINF:-1 tvg-name="影视直播" group-title="电影频道", 影视直播
-https://mursor.ottiptv.cc/yy/1383563529
 #EXTINF:-1 tvg-name="影视笑工场" group-title="电影频道", 影视笑工场
 https://mursor.ottiptv.cc/douyu/10298846
-#EXTINF:-1 tvg-name="影视铺FILMSHOP" group-title="电影频道", 影视铺FILMSHOP
-https://mursor.ottiptv.cc/huya/30297166
 #EXTINF:-1 tvg-name="影视集装箱" group-title="电影频道", 影视集装箱
 https://mursor.ottiptv.cc/douyu/8651489
 #EXTINF:-1 tvg-name="怪兽马提尼电影" group-title="电影频道", 怪兽马提尼电影
 https://mursor.ottiptv.cc/douyu/9075333
 #EXTINF:-1 tvg-name="怪味爆米花电影" group-title="电影频道", 怪味爆米花电影
 https://mursor.ottiptv.cc/douyu/9422144
-#EXTINF:-1 tvg-name="恐怖电影" group-title="电影频道", 恐怖电影
-https://mursor.ottiptv.cc/yy/24066336
 #EXTINF:-1 tvg-name="惊悚电影放映厅" group-title="电影频道", 惊悚电影放映厅
 https://mursor.ottiptv.cc/huya/26355795
-#EXTINF:-1 tvg-name="惊悚鬼电影" group-title="电影频道", 惊悚鬼电影
-https://mursor.ottiptv.cc/yy/1355052097
 #EXTINF:-1 tvg-name="我不是药神" group-title="电影频道", 我不是药神
 https://vip.ffzy-play1.com/20221018/478_c3afed66/index.m3u8
 #EXTINF:-1 tvg-name="我是吃泡面看电影" group-title="电影频道", 我是吃泡面看电影
@@ -159,12 +149,12 @@ https://vip.ffzy-online.com/20221015/719_80ff87c2/index.m3u8
 https://vip.ffzy-online.com/20221015/722_e32c42bc/index.m3u8
 #EXTINF:-1 tvg-name="指缝里看电影" group-title="电影频道", 指缝里看电影
 https://mursor.ottiptv.cc/douyu/9647834
+#EXTINF:-1 tvg-name="搞笑经典电影" group-title="电影频道", 搞笑经典电影
+https://mursor.ottiptv.cc/yy/1351537467
 #EXTINF:-1 tvg-name="无际电影" group-title="电影频道", 无际电影
 https://mursor.ottiptv.cc/douyu/9720498
 #EXTINF:-1 tvg-name="无限复活张柏芝主演爱情电影" group-title="电影频道", 无限复活张柏芝主演爱情电影
 https://mursor.ottiptv.cc/yy/1382745190
-#EXTINF:-1 tvg-name="晨晨的影视小窝" group-title="电影频道", 晨晨的影视小窝
-https://mursor.ottiptv.cc/yy/1382851576
 #EXTINF:-1 tvg-name="有部电影儿" group-title="电影频道", 有部电影儿
 https://mursor.ottiptv.cc/douyu/9736479
 #EXTINF:-1 tvg-name="末日系列外国电影合集" group-title="电影频道", 末日系列外国电影合集
@@ -177,22 +167,22 @@ https://mursor.ottiptv.cc/yy/1462895099
 https://mursor.ottiptv.cc/yy/34229877
 #EXTINF:-1 tvg-name="欧美配音电影" group-title="电影频道", 欧美配音电影
 https://mursor.ottiptv.cc/yy/1354693629
-#EXTINF:-1 tvg-name="止戈电影2" group-title="电影频道", 止戈电影2
-https://mursor.ottiptv.cc/huya/29982681
-#EXTINF:-1 tvg-name="武侠电影放映厅" group-title="电影频道", 武侠电影放映厅
-https://mursor.ottiptv.cc/huya/29982611
 #EXTINF:-1 tvg-name="每日好电影V" group-title="电影频道", 每日好电影V
 https://mursor.ottiptv.cc/douyu/9533302
 #EXTINF:-1 tvg-name="治愈电影阳光小美女一家人的寻梦之旅" group-title="电影频道", 治愈电影阳光小美女一家人的寻梦之旅
 https://mursor.ottiptv.cc/yy/1382736920
 #EXTINF:-1 tvg-name="泡芙陪你看电影" group-title="电影频道", 泡芙陪你看电影
 https://mursor.ottiptv.cc/yy/24407222
-#EXTINF:-1 tvg-name="泡菜电影" group-title="电影频道", 泡菜电影
-https://mursor.ottiptv.cc/huya/29812160
 #EXTINF:-1 tvg-name="洛克电影" group-title="电影频道", 洛克电影
 https://mursor.ottiptv.cc/douyu/9414884
+#EXTINF:-1 tvg-name="浙江影视" group-title="电影频道", 浙江影视
+https://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江教科影视" group-title="电影频道", 浙江教科影视
+https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 #EXTINF:-1 tvg-name="涛浪浪电影" group-title="电影频道", 涛浪浪电影
 https://mursor.ottiptv.cc/douyu/5424258
+#EXTINF:-1 tvg-name="港剧影视汇" group-title="电影频道", 港剧影视汇
+https://mursor.ottiptv.cc/huya/23903142
 #EXTINF:-1 tvg-name="热血动作电影" group-title="电影频道", 热血动作电影
 https://mursor.ottiptv.cc/yy/1382736804
 #EXTINF:-1 tvg-name="热血抗日电影" group-title="电影频道", 热血抗日电影
@@ -207,10 +197,8 @@ https://mursor.ottiptv.cc/douyu/3637778
 https://mursor.ottiptv.cc/douyu/9356637
 #EXTINF:-1 tvg-name="独立鱼电影" group-title="电影频道", 独立鱼电影
 https://mursor.ottiptv.cc/douyu/2413555
-#EXTINF:-1 tvg-name="猛虎电影" group-title="电影频道", 猛虎电影
-https://mursor.ottiptv.cc/huya/24770988
-#EXTINF:-1 tvg-name="猫眼电影" group-title="电影频道", 猫眼电影
-https://mursor.ottiptv.cc/douyu/8726221
+#EXTINF:-1 tvg-name="狼肉影视故事" group-title="电影频道", 狼肉影视故事
+https://mursor.ottiptv.cc/huya/30375709
 #EXTINF:-1 tvg-name="玖月影视" group-title="电影频道", 玖月影视
 https://mursor.ottiptv.cc/douyu/9339251
 #EXTINF:-1 tvg-name="珍珠港电影" group-title="电影频道", 珍珠港电影
@@ -235,8 +223,14 @@ https://mursor.ottiptv.cc/douyu/549693
 https://mursor.ottiptv.cc/douyu/8884074
 #EXTINF:-1 tvg-name="电影探长官方" group-title="电影频道", 电影探长官方
 https://mursor.ottiptv.cc/huya/30277705
+#EXTINF:-1 tvg-name="电影最TOP" group-title="电影频道", 电影最TOP
+https://mursor.ottiptv.cc/huya/11774959
+#EXTINF:-1 tvg-name="电影最TOP2" group-title="电影频道", 电影最TOP2
+https://mursor.ottiptv.cc/huya/29982676
 #EXTINF:-1 tvg-name="电影漩涡" group-title="电影频道", 电影漩涡
 https://mursor.ottiptv.cc/douyu/8706350
+#EXTINF:-1 tvg-name="电影狂人A" group-title="电影频道", 电影狂人A
+https://mursor.ottiptv.cc/huya/18715610
 #EXTINF:-1 tvg-name="电影电影电影电影电影电影" group-title="电影频道", 电影电影电影电影电影电影
 https://mursor.ottiptv.cc/yy/1351496216
 #EXTINF:-1 tvg-name="电影百团大战" group-title="电影频道", 电影百团大战
@@ -249,12 +243,8 @@ https://mursor.ottiptv.cc/douyu/9639225
 https://mursor.ottiptv.cc/douyu/8706652
 #EXTINF:-1 tvg-name="电影黑豹" group-title="电影频道", 电影黑豹
 https://mursor.ottiptv.cc/yy/1382736816
-#EXTINF:-1 tvg-name="百年影视馆" group-title="电影频道", 百年影视馆
-https://mursor.ottiptv.cc/huya/30399989
 #EXTINF:-1 tvg-name="看电影了没V" group-title="电影频道", 看电影了没V
 https://mursor.ottiptv.cc/douyu/9562616
-#EXTINF:-1 tvg-name="粟裕大将影视" group-title="电影频道", 粟裕大将影视
-https://mursor.ottiptv.cc/yy/1354926542
 #EXTINF:-1 tvg-name="粤语电影丶" group-title="电影频道", 粤语电影丶
 https://mursor.ottiptv.cc/douyu/1226741
 #EXTINF:-1 tvg-name="精彩动作电影" group-title="电影频道", 精彩动作电影
@@ -267,6 +257,8 @@ https://mursor.ottiptv.cc/yy/1353454489
 https://mursor.ottiptv.cc/yy/1382749944
 #EXTINF:-1 tvg-name="经典港片电影" group-title="电影频道", 经典港片电影
 https://mursor.ottiptv.cc/yy/1461889059
+#EXTINF:-1 tvg-name="经典电影" group-title="电影频道", 经典电影
+https://mursor.ottiptv.cc/bilibili/1777481601
 #EXTINF:-1 tvg-name="经典电影港片枪战" group-title="电影频道", 经典电影港片枪战
 https://mursor.ottiptv.cc/yy/1355076627
 #EXTINF:-1 tvg-name="经典电影重温" group-title="电影频道", 经典电影重温
@@ -285,14 +277,18 @@ https://mursor.ottiptv.cc/yy/1354770516
 https://mursor.ottiptv.cc/huya/29340502
 #EXTINF:-1 tvg-name="老王的夜电影院" group-title="电影频道", 老王的夜电影院
 https://mursor.ottiptv.cc/douyu/3498219
-#EXTINF:-1 tvg-name="老电影故事" group-title="电影频道", 老电影故事
-https://mursor.ottiptv.cc/douyu/9167273
 #EXTINF:-1 tvg-name="胶片看电影" group-title="电影频道", 胶片看电影
 https://mursor.ottiptv.cc/douyu/3715426
 #EXTINF:-1 tvg-name="腹黑电影" group-title="电影频道", 腹黑电影
 https://mursor.ottiptv.cc/douyu/8867878
+#EXTINF:-1 tvg-name="荒野求生影视" group-title="电影频道", 荒野求生影视
+https://mursor.ottiptv.cc/huya/24766781
 #EXTINF:-1 tvg-name="莱纳电影" group-title="电影频道", 莱纳电影
 https://mursor.ottiptv.cc/douyu/9356937
+#EXTINF:-1 tvg-name="蒲公英电影" group-title="电影频道", 蒲公英电影
+https://mursor.ottiptv.cc/huya/28806637
+#EXTINF:-1 tvg-name="虎牙电影直播一起看" group-title="电影频道", 虎牙电影直播一起看
+https://mursor.ottiptv.cc/huya/29076690
 #EXTINF:-1 tvg-name="让子弹飞" group-title="电影频道", 让子弹飞
 https://vip.ffzy-play7.com/20230116/11563_b9f44814/index.m3u8
 #EXTINF:-1 tvg-name="豆瓣电影" group-title="电影频道", 豆瓣电影
@@ -305,26 +301,26 @@ https://mursor.ottiptv.cc/douyu/9338867
 https://mursor.ottiptv.cc/yy/1382745096
 #EXTINF:-1 tvg-name="越越爱影视" group-title="电影频道", 越越爱影视
 https://mursor.ottiptv.cc/yy/1382736886
-#EXTINF:-1 tvg-name="辟哥影视" group-title="电影频道", 辟哥影视
-https://mursor.ottiptv.cc/huya/27653235
 #EXTINF:-1 tvg-name="远去的飞鹰影视剧" group-title="电影频道", 远去的飞鹰影视剧
 https://mursor.ottiptv.cc/yy/1354930912
+#EXTINF:-1 tvg-name="逐梦电影" group-title="电影频道", 逐梦电影
+https://mursor.ottiptv.cc/douyu/4058285
+#EXTINF:-1 tvg-name="酱婶儿电影" group-title="电影频道", 酱婶儿电影
+https://mursor.ottiptv.cc/huya/24396474
 #EXTINF:-1 tvg-name="野山鹰影视剧" group-title="电影频道", 野山鹰影视剧
 https://mursor.ottiptv.cc/yy/1354932395
 #EXTINF:-1 tvg-name="野格影视" group-title="电影频道", 野格影视
 https://mursor.ottiptv.cc/douyu/9931766
+#EXTINF:-1 tvg-name="鑫鑫影视" group-title="电影频道", 鑫鑫影视
+https://mursor.ottiptv.cc/huya/30439676
 #EXTINF:-1 tvg-name="铁血影视汇" group-title="电影频道", 铁血影视汇
 https://mursor.ottiptv.cc/douyu/9649701
+#EXTINF:-1 tvg-name="阿柴电影" group-title="电影频道", 阿柴电影
+https://mursor.ottiptv.cc/huya/29402497
 #EXTINF:-1 tvg-name="阿涛影视" group-title="电影频道", 阿涛影视
 https://mursor.ottiptv.cc/huya/30292047
-#EXTINF:-1 tvg-name="阿神电影" group-title="电影频道", 阿神电影
-https://mursor.ottiptv.cc/huya/29396896
 #EXTINF:-1 tvg-name="阿苏电影" group-title="电影频道", 阿苏电影
 https://mursor.ottiptv.cc/douyu/9037784
-#EXTINF:-1 tvg-name="陪你看电影" group-title="电影频道", 陪你看电影
-https://mursor.ottiptv.cc/yy/1382745084
-#EXTINF:-1 tvg-name="雨哥影视" group-title="电影频道", 雨哥影视
-https://mursor.ottiptv.cc/huya/29517294
 #EXTINF:-1 tvg-name="青年电影馆" group-title="电影频道", 青年电影馆
 https://mursor.ottiptv.cc/huya/21388479
 #EXTINF:-1 tvg-name="青苹果24小时电影" group-title="电影频道", 青苹果24小时电影
@@ -337,36 +333,28 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 https://mursor.ottiptv.cc/huya/24886896
 #EXTINF:-1 tvg-name="香兰爱影视" group-title="电影频道", 香兰爱影视
 https://mursor.ottiptv.cc/douyu/9487090
+#EXTINF:-1 tvg-name="驴子爱影视" group-title="电影频道", 驴子爱影视
+https://mursor.ottiptv.cc/huya/20380270
 #EXTINF:-1 tvg-name="黄渤主演经典电影斗牛" group-title="电影频道", 黄渤主演经典电影斗牛
 https://mursor.ottiptv.cc/yy/1382736896
-#EXTINF:-1 tvg-name="龙哥盘电影" group-title="电影频道", 龙哥盘电影
-https://mursor.ottiptv.cc/douyu/9736161
 #EXTINF:-1 tvg-name="南国都市" group-title="数字频道", 南国都市
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 #EXTINF:-1 tvg-name="搜狐剧场" group-title="数字频道", 搜狐剧场
 https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
-#EXTINF:-1 tvg-name="做动画" group-title="儿童频道", 做动画
-https://mursor.ottiptv.cc/bilibili/1862085337
 #EXTINF:-1 tvg-name="动画大师姐" group-title="儿童频道", 动画大师姐
 https://mursor.ottiptv.cc/douyu/9742136
 #EXTINF:-1 tvg-name="动画魂" group-title="儿童频道", 动画魂
 https://mursor.ottiptv.cc/douyu/9393242
-#EXTINF:-1 tvg-name="呆呆的动画" group-title="儿童频道", 呆呆的动画
-https://mursor.ottiptv.cc/huya/29837259
-#EXTINF:-1 tvg-name="和亲友看动画片" group-title="儿童频道", 和亲友看动画片
-https://mursor.ottiptv.cc/bilibili/2201134
 #EXTINF:-1 tvg-name="少儿频道" group-title="儿童频道", 少儿频道
 https://mursor.ottiptv.cc/bilibili/26313393
-#EXTINF:-1 tvg-name="序章动画监工区" group-title="儿童频道", 序章动画监工区
-https://mursor.ottiptv.cc/bilibili/1746145540
 #EXTINF:-1 tvg-name="林小二动画" group-title="儿童频道", 林小二动画
 https://mursor.ottiptv.cc/douyu/11184164
 #EXTINF:-1 tvg-name="火影忍者" group-title="儿童频道", 火影忍者
 https://hd.ijycnd.com/play/Yer3NWLa/index.m3u8
-#EXTINF:-1 tvg-name="立秋动画" group-title="儿童频道", 立秋动画
-https://mursor.ottiptv.cc/douyu/10351891
-#EXTINF:-1 tvg-name="虹猫蓝兔系列动画轮播" group-title="儿童频道", 虹猫蓝兔系列动画轮播
-https://mursor.ottiptv.cc/bilibili/31913902
+#EXTINF:-1 tvg-name="重生之我在b站做动画" group-title="儿童频道", 重生之我在b站做动画
+https://mursor.ottiptv.cc/bilibili/1824227386
+#EXTINF:-1 tvg-name="锤子动画" group-title="儿童频道", 锤子动画
+https://mursor.ottiptv.cc/huya/30649359
 #EXTINF:-1 tvg-name="黑龙江少儿" group-title="儿童频道", 黑龙江少儿
 https://ls.qingting.fm/live/4972/64k.m3u8
 #EXTINF:-1 tvg-name="七星关电视台" group-title="地方频道", 七星关电视台
@@ -381,6 +369,8 @@ https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8
 https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8
 #EXTINF:-1 tvg-name="临沂农科" group-title="地方频道", 临沂农科
 https://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8
+#EXTINF:-1 tvg-name="之江纪录" group-title="地方频道", 之江纪录
+https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 #EXTINF:-1 tvg-name="云霄综合" group-title="地方频道", 云霄综合
 https://live.zzyxxw.com:2443/live/xwzh.m3u8
 #EXTINF:-1 tvg-name="五台综合" group-title="地方频道", 五台综合
@@ -391,6 +381,8 @@ https://play.scrstv.com.cn/DT/live.m3u8?auth_key=60001724663204-0-0-c1cc4ded9841
 https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="余姚姚江文化" group-title="地方频道", 余姚姚江文化
 https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
+#EXTINF:-1 tvg-name="兴隆综合" group-title="地方频道", 兴隆综合
+https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="内蒙经济" group-title="地方频道", 内蒙经济
 https://ls.qingting.fm/live/1885/64k.m3u8
 #EXTINF:-1 tvg-name="剑阁综合" group-title="地方频道", 剑阁综合
@@ -409,8 +401,6 @@ https://m3u8channel-bx.yunxya.com/nmip-media/channellive/channel104666/playlist.
 https://tvpull.hmgbtv.com/hmtv/channel9cd66b3d5d258b2b.flv
 #EXTINF:-1 tvg-name="哈密三套" group-title="地方频道", 哈密三套
 https://tvpull.hmgbtv.com/hmtv/channelfb0e5c505477aa44/playlist.m3u8
-#EXTINF:-1 tvg-name="哈密二套" group-title="地方频道", 哈密二套
-https://tvpull.hmgbtv.com/hmtv/channel108259412c6a6711/playlist.m3u8
 #EXTINF:-1 tvg-name="哈尔滨娱乐" group-title="地方频道", 哈尔滨娱乐
 https://stream.hrbtv.net/ylpd/sd/live.m3u8
 #EXTINF:-1 tvg-name="太谷新闻综合" group-title="地方频道", 太谷新闻综合
@@ -461,6 +451,8 @@ https://pull.gltvs.com:443/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808
 https://play.kankanlive.com/live/1693539781636986.m3u8
 #EXTINF:-1 tvg-name="武汉一台新闻综合" group-title="地方频道", 武汉一台新闻综合
 https://ls.qingting.fm/live/20198/64k.m3u8
+#EXTINF:-1 tvg-name="武清综合" group-title="地方频道", 武清综合
+https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8?ztianjd
 #EXTINF:-1 tvg-name="武进新闻" group-title="地方频道", 武进新闻
 https://live.wjyanghu.com/live/CH1.m3u8
 #EXTINF:-1 tvg-name="永昌综合" group-title="地方频道", 永昌综合
@@ -475,12 +467,24 @@ https://wshlslive.migucloud.com/live/CVN934JS_C0/playlist.m3u8
 https://wshlslive.migucloud.com/live/RJ0EYBCZ_C0/playlist.m3u8
 #EXTINF:-1 tvg-name="洛阳综合" group-title="地方频道", 洛阳综合
 https://wshlslive.migucloud.com/live/6AL7GTQX_C0/playlist.m3u8
+#EXTINF:-1 tvg-name="浙江公共新闻" group-title="地方频道", 浙江公共新闻
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江国际" group-title="地方频道", 浙江国际
+https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江民生休闲" group-title="地方频道", 浙江民生休闲
+https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江经视" group-title="地方频道", 浙江经视
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江钱江都市" group-title="地方频道", 浙江钱江都市
+https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 tvg-name="淮阴综合" group-title="地方频道", 淮阴综合
 https://huaiyin-tv-replay.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8
 #EXTINF:-1 tvg-name="清河新闻综合" group-title="地方频道", 清河新闻综合
 https://jwcdnqx.hebyun.com.cn/live/qinghe/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="清河经济综艺" group-title="地方频道", 清河经济综艺
 https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-name="湖州新闻综合" group-title="地方频道", 湖州新闻综合
+https://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865
 #EXTINF:-1 tvg-name="灌阳新闻综合" group-title="地方频道", 灌阳新闻综合
 https://ls.qingting.fm/live/5043/64k.m3u8
 #EXTINF:-1 tvg-name="甘肃经济" group-title="地方频道", 甘肃经济
@@ -539,6 +543,14 @@ https://ls.qingting.fm/live/21303/64k.m3u8
 https://www.wxhcgbds.com:8081/channelTv/WXTV_1.m3u8?zshanxd
 #EXTINF:-1 tvg-name="陇川综合" group-title="地方频道", 陇川综合
 https://zb-live.ynurl.com/longchuan/58f88df3-605e-4c57-865c-8e8f85241ca1.m3u8
+#EXTINF:-1 tvg-name="陕西体育休闲频道" group-title="地方频道", 陕西体育休闲频道
+https://mursor.ottiptv.cc/migu/956909356.m3u8?migutoken=1a77f9e7df949f5460fd1db1c870f77590a6d89760e7995c7cc4b47df2e33c6f482a3f12992aee555bf3637f5cd8251ffb0719884236c6269b52c0b2b64eae6ebfcf4de66846bbc003bbfbe705
+#EXTINF:-1 tvg-name="陕西新闻资讯频道" group-title="地方频道", 陕西新闻资讯频道
+https://mursor.ottiptv.cc/migu/956909289.m3u8?migutoken=3a81d34024515878fb7173212d16bfe22621120cc04518da8c805fdad9f190ba15790d3f7944e37b0cd4585752964f5ea0c65243f10ba15dc0ace6a4b0c9cad6fc4d521b8b8f7c9791a08a98f2
+#EXTINF:-1 tvg-name="陕西秦腔频道" group-title="地方频道", 陕西秦腔频道
+https://mursor.ottiptv.cc/migu/956909303.m3u8?migutoken=e2ac68e8119b2b46243782f9e9a75070fb35537e7cb3d6cfeac8ecc439dcf83639ae9b3d6f80572e4c5201eb29c34304c2e74d7bdb0ff939e7c67dc170f6f6a0063d1c3c032c0ced02d2a5ab71
+#EXTINF:-1 tvg-name="陕西都市青春频道" group-title="地方频道", 陕西都市青春频道
+https://mursor.ottiptv.cc/migu/956909358.m3u8?migutoken=b74c872334c77e1d00bc035b73fd99bc9089aacba43b677f15bcbd17b5599b6517845f79de09caceae8c477df7b569b600f2b7968c1623b63e765e10d2bbec9a5a3f4037454a92acadb17aea4a
 #EXTINF:-1 tvg-name="雅安新闻综合" group-title="地方频道", 雅安新闻综合
 https://play.yunxya.com/channellive/xinwen.m3u8
 #EXTINF:-1 tvg-name="鹿泉一套" group-title="地方频道", 鹿泉一套
@@ -557,344 +569,106 @@ https://liveout.btzx.com.cn/62ds9e/6o77s4.m3u8?zxinjd
 https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/f0a47e155d32450daa1d36a04fd7d262/2000.m3u8
 #EXTINF:-1 tvg-name="飞碟之谜02" group-title="纪录频道", 飞碟之谜02
 https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d2454bbb542d4613a9db478dab2addfd/2000.m3u8
-#EXTINF:-1 tvg-name="20242025FIBAYOUTH" group-title="体育频道", 20242025FIBAYOUTH
-https://mursor.ottiptv.cc/bilibili/1886609727
-#EXTINF:-1 tvg-name="2025年中国花样滑冰俱乐部联赛第五站" group-title="体育频道", 2025年中国花样滑冰俱乐部联赛第五站
-https://mursor.ottiptv.cc/bilibili/25237670
-#EXTINF:-1 tvg-name="2025年安益煤业杯大学生篮球邀请赛" group-title="体育频道", 2025年安益煤业杯大学生篮球邀请赛
-https://mursor.ottiptv.cc/bilibili/1880054395
-#EXTINF:-1 tvg-name="2025美舞之志女子羽毛球赛兰州站" group-title="体育频道", 2025美舞之志女子羽毛球赛兰州站
-https://mursor.ottiptv.cc/bilibili/11910870
-#EXTINF:-1 tvg-name="专与数据精于计算站在数据的角度解析比赛" group-title="体育频道", 专与数据精于计算站在数据的角度解析比赛
-https://mursor.ottiptv.cc/bilibili/1822075040
-#EXTINF:-1 tvg-name="今日荷甲葡超拿捏主任" group-title="体育频道", 今日荷甲葡超拿捏主任
-https://mursor.ottiptv.cc/bilibili/1882308624
-#EXTINF:-1 tvg-name="今日赛事分析" group-title="体育频道", 今日赛事分析
-https://mursor.ottiptv.cc/bilibili/1853549621
-#EXTINF:-1 tvg-name="功能性训练分享" group-title="体育频道", 功能性训练分享
-https://mursor.ottiptv.cc/bilibili/30198200
-#EXTINF:-1 tvg-name="加点料上强度" group-title="体育频道", 加点料上强度
-https://mursor.ottiptv.cc/bilibili/1922215478
-#EXTINF:-1 tvg-name="台球杆巧克粉" group-title="体育频道", 台球杆巧克粉
-https://mursor.ottiptv.cc/bilibili/30167970
-#EXTINF:-1 tvg-name="听歌" group-title="体育频道", 听歌
-https://mursor.ottiptv.cc/bilibili/1870446704
-#EXTINF:-1 tvg-name="村BA球王争霸赛贵州赛区总决赛" group-title="体育频道", 村BA球王争霸赛贵州赛区总决赛
-https://mursor.ottiptv.cc/bilibili/25876429
-#EXTINF:-1 tvg-name="桥牌做庄初级" group-title="体育频道", 桥牌做庄初级
-https://mursor.ottiptv.cc/bilibili/1970747082
-#EXTINF:-1 tvg-name="桶轴瓜车真不贵999" group-title="体育频道", 桶轴瓜车真不贵999
-https://mursor.ottiptv.cc/bilibili/31921510
-#EXTINF:-1 tvg-name="欧洲超级杯2025决赛LIVE" group-title="体育频道", 欧洲超级杯2025决赛LIVE
-https://mursor.ottiptv.cc/bilibili/1815450421
-#EXTINF:-1 tvg-name="男篮亚洲杯" group-title="体育频道", 男篮亚洲杯
-https://mursor.ottiptv.cc/bilibili/30327930
-#EXTINF:-1 tvg-name="象棋布局陷阱飞刀出其不意以弱胜强" group-title="体育频道", 象棋布局陷阱飞刀出其不意以弱胜强
-https://mursor.ottiptv.cc/bilibili/22446951
-#EXTINF:-1 tvg-name="足球大师年纪不大实力不弱" group-title="体育频道", 足球大师年纪不大实力不弱
-https://mursor.ottiptv.cc/bilibili/1829186980
-#EXTINF:-1 tvg-name="02双子东莞单身" group-title="解说频道", 02双子东莞单身
-https://mursor.ottiptv.cc/bilibili/1773653817
-#EXTINF:-1 tvg-name="04就是嫩" group-title="解说频道", 04就是嫩
-https://mursor.ottiptv.cc/bilibili/25369534
-#EXTINF:-1 tvg-name="06女大爱玩反差" group-title="解说频道", 06女大爱玩反差
-https://mursor.ottiptv.cc/bilibili/1822709627
-#EXTINF:-1 tvg-name="07女大单身是你想的那样" group-title="解说频道", 07女大单身是你想的那样
-https://mursor.ottiptv.cc/bilibili/1740575946
-#EXTINF:-1 tvg-name="07甜妹在线求教" group-title="解说频道", 07甜妹在线求教
-https://mursor.ottiptv.cc/bilibili/11460050
 #EXTINF:-1 tvg-name="3说电影" group-title="解说频道", 3说电影
 https://mursor.ottiptv.cc/douyu/9643264
 #EXTINF:-1 tvg-name="77说电影" group-title="解说频道", 77说电影
 https://mursor.ottiptv.cc/douyu/9444320
+#EXTINF:-1 tvg-name="Ido漫说" group-title="解说频道", Ido漫说
+https://mursor.ottiptv.cc/douyu/9456379
 #EXTINF:-1 tvg-name="JG影视解说" group-title="解说频道", JG影视解说
 https://mursor.ottiptv.cc/douyu/9391277
 #EXTINF:-1 tvg-name="Michael说大片" group-title="解说频道", Michael说大片
 https://mursor.ottiptv.cc/douyu/8841881
-#EXTINF:-1 tvg-name="Mr迷瞪秋季家装节" group-title="解说频道", Mr迷瞪秋季家装节
-https://mursor.ottiptv.cc/bilibili/22491717
 #EXTINF:-1 tvg-name="SAO东西又再说SAO话" group-title="解说频道", SAO东西又再说SAO话
 https://mursor.ottiptv.cc/douyu/8833450
-#EXTINF:-1 tvg-name="wuliao的人" group-title="解说频道", wuliao的人
-https://mursor.ottiptv.cc/bilibili/25387155
-#EXTINF:-1 tvg-name="xx都这样了活着的意义是" group-title="解说频道", xx都这样了活着的意义是
-https://mursor.ottiptv.cc/bilibili/10804065
 #EXTINF:-1 tvg-name="yaoyao说" group-title="解说频道", yaoyao说
 https://mursor.ottiptv.cc/douyu/884073
-#EXTINF:-1 tvg-name="三哥说武侠" group-title="解说频道", 三哥说武侠
-https://mursor.ottiptv.cc/huya/29834817
-#EXTINF:-1 tvg-name="上海烟斗展" group-title="解说频道", 上海烟斗展
-https://mursor.ottiptv.cc/bilibili/1898569547
-#EXTINF:-1 tvg-name="下午好" group-title="解说频道", 下午好
-https://mursor.ottiptv.cc/bilibili/1735944530
-#EXTINF:-1 tvg-name="不好奇吗哥哥" group-title="解说频道", 不好奇吗哥哥
-https://mursor.ottiptv.cc/bilibili/1875092451
-#EXTINF:-1 tvg-name="不好奇里面吗" group-title="解说频道", 不好奇里面吗
-https://mursor.ottiptv.cc/bilibili/1861784742
-#EXTINF:-1 tvg-name="不好看直接喷" group-title="解说频道", 不好看直接喷
-https://mursor.ottiptv.cc/bilibili/1875090268
-#EXTINF:-1 tvg-name="不画稿自动下载qq14" group-title="解说频道", 不画稿自动下载qq14
-https://mursor.ottiptv.cc/bilibili/1844849902
-#EXTINF:-1 tvg-name="不许叫我樊姐" group-title="解说频道", 不许叫我樊姐
-https://mursor.ottiptv.cc/bilibili/30047101
-#EXTINF:-1 tvg-name="且听我说" group-title="解说频道", 且听我说
-https://mursor.ottiptv.cc/huya/20985820
-#EXTINF:-1 tvg-name="东北甜妹我也妹有口音啊" group-title="解说频道", 东北甜妹我也妹有口音啊
-https://mursor.ottiptv.cc/bilibili/1955435454
-#EXTINF:-1 tvg-name="主包还活着" group-title="解说频道", 主包还活着
-https://mursor.ottiptv.cc/bilibili/23806063
-#EXTINF:-1 tvg-name="主播的小鸟会说亲一口真的不来看看吗" group-title="解说频道", 主播的小鸟会说亲一口真的不来看看吗
-https://mursor.ottiptv.cc/bilibili/30552169
+#EXTINF:-1 tvg-name="一朵老香菇解说" group-title="解说频道", 一朵老香菇解说
+https://mursor.ottiptv.cc/douyu/10050914
 #EXTINF:-1 tvg-name="丽姐说电影" group-title="解说频道", 丽姐说电影
 https://mursor.ottiptv.cc/douyu/9437283
-#EXTINF:-1 tvg-name="什么都看" group-title="解说频道", 什么都看
-https://mursor.ottiptv.cc/bilibili/10939083
-#EXTINF:-1 tvg-name="仁吉珠宝夹子在线开喷" group-title="解说频道", 仁吉珠宝夹子在线开喷
-https://mursor.ottiptv.cc/bilibili/1986462224
-#EXTINF:-1 tvg-name="从零开始的便利店生活" group-title="解说频道", 从零开始的便利店生活
-https://mursor.ottiptv.cc/bilibili/27955449
-#EXTINF:-1 tvg-name="他还爱你吗欢迎体验" group-title="解说频道", 他还爱你吗欢迎体验
-https://mursor.ottiptv.cc/bilibili/1722881436
+#EXTINF:-1 tvg-name="乔我说动漫频道" group-title="解说频道", 乔我说动漫频道
+https://mursor.ottiptv.cc/huya/17941367
 #EXTINF:-1 tvg-name="代娱说美剧" group-title="解说频道", 代娱说美剧
 https://mursor.ottiptv.cc/douyu/9123570
+#EXTINF:-1 tvg-name="伦帝电影说" group-title="解说频道", 伦帝电影说
+https://mursor.ottiptv.cc/douyu/9368091
 #EXTINF:-1 tvg-name="伯乐说电影V" group-title="解说频道", 伯乐说电影V
 https://mursor.ottiptv.cc/douyu/9386057
-#EXTINF:-1 tvg-name="你的电子宠物" group-title="解说频道", 你的电子宠物
-https://mursor.ottiptv.cc/bilibili/1749935426
-#EXTINF:-1 tvg-name="你那恋爱脑的前妻" group-title="解说频道", 你那恋爱脑的前妻
-https://mursor.ottiptv.cc/bilibili/1879183042
 #EXTINF:-1 tvg-name="侃片大师兄" group-title="解说频道", 侃片大师兄
 https://mursor.ottiptv.cc/douyu/9338839
 #EXTINF:-1 tvg-name="侃片黑菠萝" group-title="解说频道", 侃片黑菠萝
 https://mursor.ottiptv.cc/douyu/5803764
-#EXTINF:-1 tvg-name="偏瘫10年真真的" group-title="解说频道", 偏瘫10年真真的
-https://mursor.ottiptv.cc/bilibili/23187506
-#EXTINF:-1 tvg-name="做个菜吧" group-title="解说频道", 做个菜吧
-https://mursor.ottiptv.cc/bilibili/21231975
-#EXTINF:-1 tvg-name="做奶茶" group-title="解说频道", 做奶茶
-https://mursor.ottiptv.cc/bilibili/26780975
-#EXTINF:-1 tvg-name="免米聊明天的剧本发展" group-title="解说频道", 免米聊明天的剧本发展
-https://mursor.ottiptv.cc/bilibili/1920264649
-#EXTINF:-1 tvg-name="免米问一个问题" group-title="解说频道", 免米问一个问题
-https://mursor.ottiptv.cc/bilibili/32355333
-#EXTINF:-1 tvg-name="全网最真实徒步" group-title="解说频道", 全网最真实徒步
-https://mursor.ottiptv.cc/bilibili/26331792
 #EXTINF:-1 tvg-name="冬粮说故事" group-title="解说频道", 冬粮说故事
 https://mursor.ottiptv.cc/douyu/5192695
 #EXTINF:-1 tvg-name="冷君聊大片" group-title="解说频道", 冷君聊大片
 https://mursor.ottiptv.cc/douyu/9666219
-#EXTINF:-1 tvg-name="刘老师说电影" group-title="解说频道", 刘老师说电影
-https://mursor.ottiptv.cc/douyu/8317926
-#EXTINF:-1 tvg-name="别管了铁一下" group-title="解说频道", 别管了铁一下
-https://mursor.ottiptv.cc/bilibili/13209838
-#EXTINF:-1 tvg-name="别问春风问我" group-title="解说频道", 别问春风问我
-https://mursor.ottiptv.cc/bilibili/1991478679
-#EXTINF:-1 tvg-name="加油" group-title="解说频道", 加油
-https://mursor.ottiptv.cc/bilibili/21965105
-#EXTINF:-1 tvg-name="十二星座都谈过" group-title="解说频道", 十二星座都谈过
-https://mursor.ottiptv.cc/bilibili/1922217913
-#EXTINF:-1 tvg-name="十分钟疗愈" group-title="解说频道", 十分钟疗愈
-https://mursor.ottiptv.cc/bilibili/5312717
 #EXTINF:-1 tvg-name="十里说" group-title="解说频道", 十里说
 https://mursor.ottiptv.cc/douyu/9064711
-#EXTINF:-1 tvg-name="千年福地天师庇佑直播福利拉满" group-title="解说频道", 千年福地天师庇佑直播福利拉满
-https://mursor.ottiptv.cc/bilibili/1791264372
+#EXTINF:-1 tvg-name="博然讲电影" group-title="解说频道", 博然讲电影
+https://mursor.ottiptv.cc/douyu/9561992
 #EXTINF:-1 tvg-name="可乐撩电影" group-title="解说频道", 可乐撩电影
 https://mursor.ottiptv.cc/douyu/9371552
-#EXTINF:-1 tvg-name="史君说剧" group-title="解说频道", 史君说剧
-https://mursor.ottiptv.cc/douyu/9419771
 #EXTINF:-1 tvg-name="听wo姐说" group-title="解说频道", 听wo姐说
 https://mursor.ottiptv.cc/douyu/8830082
-#EXTINF:-1 tvg-name="听说他算感情居准" group-title="解说频道", 听说他算感情居准
-https://mursor.ottiptv.cc/bilibili/31316438
-#EXTINF:-1 tvg-name="周末很开心和大家吹水聊天" group-title="解说频道", 周末很开心和大家吹水聊天
-https://mursor.ottiptv.cc/bilibili/8572407
 #EXTINF:-1 tvg-name="哏老师撩电影" group-title="解说频道", 哏老师撩电影
 https://mursor.ottiptv.cc/douyu/9991820
-#EXTINF:-1 tvg-name="哑巴竟然会说话" group-title="解说频道", 哑巴竟然会说话
-https://mursor.ottiptv.cc/yy/1354932427
 #EXTINF:-1 tvg-name="唐司令说电影" group-title="解说频道", 唐司令说电影
 https://mursor.ottiptv.cc/douyu/8774345
-#EXTINF:-1 tvg-name="啊啊哦哦" group-title="解说频道", 啊啊哦哦
-https://mursor.ottiptv.cc/bilibili/1921507626
 #EXTINF:-1 tvg-name="喵妹说电影" group-title="解说频道", 喵妹说电影
 https://mursor.ottiptv.cc/douyu/9312432
-#EXTINF:-1 tvg-name="国乙谷团清货打包日常" group-title="解说频道", 国乙谷团清货打包日常
-https://mursor.ottiptv.cc/bilibili/891330
-#EXTINF:-1 tvg-name="国学文化摆摊解惑" group-title="解说频道", 国学文化摆摊解惑
-https://mursor.ottiptv.cc/bilibili/1735941662
-#EXTINF:-1 tvg-name="圈钱主播" group-title="解说频道", 圈钱主播
-https://mursor.ottiptv.cc/bilibili/27905168
-#EXTINF:-1 tvg-name="在红楼梦里读什么" group-title="解说频道", 在红楼梦里读什么
-https://mursor.ottiptv.cc/bilibili/1977215400
-#EXTINF:-1 tvg-name="塔塔情感小云沫" group-title="解说频道", 塔塔情感小云沫
-https://mursor.ottiptv.cc/bilibili/1955142633
-#EXTINF:-1 tvg-name="外卖员说要拉黑我的小区遂悲痛画画" group-title="解说频道", 外卖员说要拉黑我的小区遂悲痛画画
-https://mursor.ottiptv.cc/bilibili/32393617
-#EXTINF:-1 tvg-name="多了不说少了bro这一块" group-title="解说频道", 多了不说少了bro这一块
-https://mursor.ottiptv.cc/bilibili/3163778
 #EXTINF:-1 tvg-name="大魔王动漫解说" group-title="解说频道", 大魔王动漫解说
 https://mursor.ottiptv.cc/douyu/9963128
-#EXTINF:-1 tvg-name="大魔王说游" group-title="解说频道", 大魔王说游
-https://mursor.ottiptv.cc/douyu/10415661
-#EXTINF:-1 tvg-name="奇迹丝滑展开提问无偿解读" group-title="解说频道", 奇迹丝滑展开提问无偿解读
-https://mursor.ottiptv.cc/bilibili/32097340
 #EXTINF:-1 tvg-name="女汉子说电影" group-title="解说频道", 女汉子说电影
 https://mursor.ottiptv.cc/douyu/9395966
 #EXTINF:-1 tvg-name="女神撩电影" group-title="解说频道", 女神撩电影
 https://mursor.ottiptv.cc/douyu/9439594
 #EXTINF:-1 tvg-name="好像视说故事" group-title="解说频道", 好像视说故事
 https://mursor.ottiptv.cc/douyu/8891883
-#EXTINF:-1 tvg-name="好困好困写写小说" group-title="解说频道", 好困好困写写小说
-https://mursor.ottiptv.cc/bilibili/22378267
-#EXTINF:-1 tvg-name="威猛无敌搬砖有限公司全球副总裁" group-title="解说频道", 威猛无敌搬砖有限公司全球副总裁
-https://mursor.ottiptv.cc/bilibili/6706720
-#EXTINF:-1 tvg-name="学习工作背景音乐247自习室" group-title="解说频道", 学习工作背景音乐247自习室
-https://mursor.ottiptv.cc/bilibili/27519423
 #EXTINF:-1 tvg-name="宇哥讲电影" group-title="解说频道", 宇哥讲电影
 https://mursor.ottiptv.cc/douyu/2104744
 #EXTINF:-1 tvg-name="安小闫说电影x" group-title="解说频道", 安小闫说电影x
 https://mursor.ottiptv.cc/douyu/1842621
-#EXTINF:-1 tvg-name="实时占卜情感杂谈" group-title="解说频道", 实时占卜情感杂谈
-https://mursor.ottiptv.cc/bilibili/1786564943
-#EXTINF:-1 tvg-name="室内首播米饭塔塔" group-title="解说频道", 室内首播米饭塔塔
-https://mursor.ottiptv.cc/bilibili/25563172
-#EXTINF:-1 tvg-name="将军侃片" group-title="解说频道", 将军侃片
-https://mursor.ottiptv.cc/douyu/8529736
 #EXTINF:-1 tvg-name="小丽说电影" group-title="解说频道", 小丽说电影
 https://mursor.ottiptv.cc/douyu/9368016
 #EXTINF:-1 tvg-name="小乔讲电影" group-title="解说频道", 小乔讲电影
 https://mursor.ottiptv.cc/douyu/8413908
-#EXTINF:-1 tvg-name="小司马说剧" group-title="解说频道", 小司马说剧
-https://mursor.ottiptv.cc/douyu/9660127
-#EXTINF:-1 tvg-name="小塔塔聊天来提问无偿1次" group-title="解说频道", 小塔塔聊天来提问无偿1次
-https://mursor.ottiptv.cc/bilibili/14504702
 #EXTINF:-1 tvg-name="小岛讲电影" group-title="解说频道", 小岛讲电影
 https://mursor.ottiptv.cc/douyu/9390955
 #EXTINF:-1 tvg-name="小浅说电影" group-title="解说频道", 小浅说电影
 https://mursor.ottiptv.cc/douyu/9665834
-#EXTINF:-1 tvg-name="小涛讲电影V" group-title="解说频道", 小涛讲电影V
-https://mursor.ottiptv.cc/douyu/8415464
 #EXTINF:-1 tvg-name="小片片说大片" group-title="解说频道", 小片片说大片
 https://mursor.ottiptv.cc/douyu/4258555
 #EXTINF:-1 tvg-name="小片片说大片二台" group-title="解说频道", 小片片说大片二台
 https://mursor.ottiptv.cc/douyu/10011547
 #EXTINF:-1 tvg-name="小超讲电影" group-title="解说频道", 小超讲电影
 https://mursor.ottiptv.cc/douyu/3432645
-#EXTINF:-1 tvg-name="小马哥说电影" group-title="解说频道", 小马哥说电影
-https://mursor.ottiptv.cc/douyu/9396672
-#EXTINF:-1 tvg-name="少爷你家喵喵开播了" group-title="解说频道", 少爷你家喵喵开播了
-https://mursor.ottiptv.cc/bilibili/1779342148
-#EXTINF:-1 tvg-name="就差你了" group-title="解说频道", 就差你了
-https://mursor.ottiptv.cc/bilibili/1845370871
-#EXTINF:-1 tvg-name="就画一会听歌不讲话" group-title="解说频道", 就画一会听歌不讲话
-https://mursor.ottiptv.cc/bilibili/3749795
-#EXTINF:-1 tvg-name="层次高低分析" group-title="解说频道", 层次高低分析
-https://mursor.ottiptv.cc/bilibili/1921712613
-#EXTINF:-1 tvg-name="属于中国人的特色心理咨询" group-title="解说频道", 属于中国人的特色心理咨询
-https://mursor.ottiptv.cc/bilibili/27379157
-#EXTINF:-1 tvg-name="山山答疑解惑" group-title="解说频道", 山山答疑解惑
-https://mursor.ottiptv.cc/bilibili/31606188
-#EXTINF:-1 tvg-name="山石说电影" group-title="解说频道", 山石说电影
-https://mursor.ottiptv.cc/huya/29858128
-#EXTINF:-1 tvg-name="崽崽撩电影" group-title="解说频道", 崽崽撩电影
-https://mursor.ottiptv.cc/douyu/8325511
-#EXTINF:-1 tvg-name="已孤立全世界" group-title="解说频道", 已孤立全世界
-https://mursor.ottiptv.cc/bilibili/11336623
+#EXTINF:-1 tvg-name="已知艺术家漫画解说" group-title="解说频道", 已知艺术家漫画解说
+https://mursor.ottiptv.cc/douyu/5907076
 #EXTINF:-1 tvg-name="幕撩电影" group-title="解说频道", 幕撩电影
 https://mursor.ottiptv.cc/douyu/9486015
-#EXTINF:-1 tvg-name="强人说笑" group-title="解说频道", 强人说笑
-https://mursor.ottiptv.cc/douyu/10329713
 #EXTINF:-1 tvg-name="微笑影视解说" group-title="解说频道", 微笑影视解说
 https://mursor.ottiptv.cc/douyu/9476790
-#EXTINF:-1 tvg-name="快哥说老片" group-title="解说频道", 快哥说老片
-https://mursor.ottiptv.cc/douyu/10411518
-#EXTINF:-1 tvg-name="情感taro新人首次体验" group-title="解说频道", 情感taro新人首次体验
-https://mursor.ottiptv.cc/bilibili/1991385216
-#EXTINF:-1 tvg-name="情感反诈模拟器直播间" group-title="解说频道", 情感反诈模拟器直播间
-https://mursor.ottiptv.cc/bilibili/4539360
-#EXTINF:-1 tvg-name="情感咨询解惑疗愈陪伴" group-title="解说频道", 情感咨询解惑疗愈陪伴
-https://mursor.ottiptv.cc/bilibili/1945806396
-#EXTINF:-1 tvg-name="情感塔塔在线答疑解惑" group-title="解说频道", 情感塔塔在线答疑解惑
-https://mursor.ottiptv.cc/bilibili/11673207
-#EXTINF:-1 tvg-name="情感塔罗1对1" group-title="解说频道", 情感塔罗1对1
-https://mursor.ottiptv.cc/bilibili/1974519813
-#EXTINF:-1 tvg-name="情感塔罗专业占卜" group-title="解说频道", 情感塔罗专业占卜
-https://mursor.ottiptv.cc/bilibili/31991329
-#EXTINF:-1 tvg-name="情感塔罗其他" group-title="解说频道", 情感塔罗其他
-https://mursor.ottiptv.cc/bilibili/1799898182
-#EXTINF:-1 tvg-name="情感塔罗情感问题解惑" group-title="解说频道", 情感塔罗情感问题解惑
-https://mursor.ottiptv.cc/bilibili/1779345354
-#EXTINF:-1 tvg-name="情感塔罗紫薇星盘专业解惑准是基础" group-title="解说频道", 情感塔罗紫薇星盘专业解惑准是基础
-https://mursor.ottiptv.cc/bilibili/31529735
-#EXTINF:-1 tvg-name="情感塔罗首关免费体验一张" group-title="解说频道", 情感塔罗首关免费体验一张
-https://mursor.ottiptv.cc/bilibili/24839076
-#EXTINF:-1 tvg-name="情感学习" group-title="解说频道", 情感学习
-https://mursor.ottiptv.cc/bilibili/23873222
-#EXTINF:-1 tvg-name="成都华阳6层真洋房现房地铁房" group-title="解说频道", 成都华阳6层真洋房现房地铁房
-https://mursor.ottiptv.cc/bilibili/1724230660
-#EXTINF:-1 tvg-name="战斗爽" group-title="解说频道", 战斗爽
-https://mursor.ottiptv.cc/bilibili/6199647
-#EXTINF:-1 tvg-name="房车知识痛点讲解" group-title="解说频道", 房车知识痛点讲解
-https://mursor.ottiptv.cc/bilibili/1908328009
-#EXTINF:-1 tvg-name="挖煤姬打包大公开" group-title="解说频道", 挖煤姬打包大公开
-https://mursor.ottiptv.cc/bilibili/4729578
 #EXTINF:-1 tvg-name="据说放映室" group-title="解说频道", 据说放映室
 https://mursor.ottiptv.cc/douyu/8837964
-#EXTINF:-1 tvg-name="排忧解难带着问题来" group-title="解说频道", 排忧解难带着问题来
-https://mursor.ottiptv.cc/bilibili/1708413265
 #EXTINF:-1 tvg-name="撩电影8" group-title="解说频道", 撩电影8
 https://mursor.ottiptv.cc/douyu/9351043
-#EXTINF:-1 tvg-name="斌哥一字一句教你泡妞" group-title="解说频道", 斌哥一字一句教你泡妞
-https://mursor.ottiptv.cc/bilibili/26571549
-#EXTINF:-1 tvg-name="斌哥漫说" group-title="解说频道", 斌哥漫说
-https://mursor.ottiptv.cc/huya/18632116
-#EXTINF:-1 tvg-name="新人点进来的还是同一批人" group-title="解说频道", 新人点进来的还是同一批人
-https://mursor.ottiptv.cc/bilibili/1748425645
 #EXTINF:-1 tvg-name="新视角解说" group-title="解说频道", 新视角解说
 https://mursor.ottiptv.cc/douyu/8813254
-#EXTINF:-1 tvg-name="无数难眠的夜晚" group-title="解说频道", 无数难眠的夜晚
-https://mursor.ottiptv.cc/bilibili/25609794
 #EXTINF:-1 tvg-name="易说影视" group-title="解说频道", 易说影视
 https://mursor.ottiptv.cc/douyu/10859591
 #EXTINF:-1 tvg-name="星君说电影" group-title="解说频道", 星君说电影
 https://mursor.ottiptv.cc/douyu/8014467
-#EXTINF:-1 tvg-name="是猎人还是猎物" group-title="解说频道", 是猎人还是猎物
-https://mursor.ottiptv.cc/bilibili/1880057042
-#EXTINF:-1 tvg-name="是这样的别问" group-title="解说频道", 是这样的别问
-https://mursor.ottiptv.cc/bilibili/1829184619
 #EXTINF:-1 tvg-name="晓晓说电影" group-title="解说频道", 晓晓说电影
 https://mursor.ottiptv.cc/douyu/9430717
 #EXTINF:-1 tvg-name="晓麦讲电影" group-title="解说频道", 晓麦讲电影
 https://mursor.ottiptv.cc/douyu/453963
-#EXTINF:-1 tvg-name="最X解说WTT横滨冠军赛" group-title="解说频道", 最X解说WTT横滨冠军赛
-https://mursor.ottiptv.cc/bilibili/13619967
-#EXTINF:-1 tvg-name="朋友说直播有速度加成所以我开了" group-title="解说频道", 朋友说直播有速度加成所以我开了
-https://mursor.ottiptv.cc/bilibili/1909466141
 #EXTINF:-1 tvg-name="末日说电影" group-title="解说频道", 末日说电影
 https://mursor.ottiptv.cc/douyu/9431125
-#EXTINF:-1 tvg-name="来呀来呀一起唱歌呀" group-title="解说频道", 来呀来呀一起唱歌呀
-https://mursor.ottiptv.cc/bilibili/30551556
-#EXTINF:-1 tvg-name="来提问3" group-title="解说频道", 来提问3
-https://mursor.ottiptv.cc/bilibili/31315502
 #EXTINF:-1 tvg-name="松轩说电影" group-title="解说频道", 松轩说电影
 https://mursor.ottiptv.cc/douyu/1524969
-#EXTINF:-1 tvg-name="极品青叔有点能聊" group-title="解说频道", 极品青叔有点能聊
-https://mursor.ottiptv.cc/bilibili/1989943521
-#EXTINF:-1 tvg-name="核桃新赛季疯狂前夜" group-title="解说频道", 核桃新赛季疯狂前夜
-https://mursor.ottiptv.cc/bilibili/23642439
-#EXTINF:-1 tvg-name="梓帆说电影" group-title="解说频道", 梓帆说电影
-https://mursor.ottiptv.cc/douyu/9769563
-#EXTINF:-1 tvg-name="比封面可爱一点点" group-title="解说频道", 比封面可爱一点点
-https://mursor.ottiptv.cc/bilibili/1724230885
 #EXTINF:-1 tvg-name="汪哥说电影" group-title="解说频道", 汪哥说电影
 https://mursor.ottiptv.cc/douyu/9312685
-#EXTINF:-1 tvg-name="流汗好黏" group-title="解说频道", 流汗好黏
-https://mursor.ottiptv.cc/bilibili/1942249596
-#EXTINF:-1 tvg-name="温青多病公子强势回归被笃定宠爱版" group-title="解说频道", 温青多病公子强势回归被笃定宠爱版
-https://mursor.ottiptv.cc/bilibili/1805408639
-#EXTINF:-1 tvg-name="游戏杂谈进来看我打会儿游戏呗" group-title="解说频道", 游戏杂谈进来看我打会儿游戏呗
-https://mursor.ottiptv.cc/bilibili/26776752
 #EXTINF:-1 tvg-name="漫画解说" group-title="解说频道", 漫画解说
 https://mursor.ottiptv.cc/yy/1382735568
 #EXTINF:-1 tvg-name="火龙果讲电影本人" group-title="解说频道", 火龙果讲电影本人
@@ -909,226 +683,94 @@ https://mursor.ottiptv.cc/douyu/9495613
 https://mursor.ottiptv.cc/douyu/2758565
 #EXTINF:-1 tvg-name="牛叔说电影二台" group-title="解说频道", 牛叔说电影二台
 https://mursor.ottiptv.cc/douyu/10010651
-#EXTINF:-1 tvg-name="牛牛初出茅庐" group-title="解说频道", 牛牛初出茅庐
-https://mursor.ottiptv.cc/bilibili/1908050898
 #EXTINF:-1 tvg-name="狂野的种马小说家" group-title="解说频道", 狂野的种马小说家
 https://mursor.ottiptv.cc/douyu/8849703
 #EXTINF:-1 tvg-name="猫八解说" group-title="解说频道", 猫八解说
 https://mursor.ottiptv.cc/douyu/9542831
 #EXTINF:-1 tvg-name="猫叔说电影" group-title="解说频道", 猫叔说电影
 https://mursor.ottiptv.cc/douyu/9820039
-#EXTINF:-1 tvg-name="猫老师上班了" group-title="解说频道", 猫老师上班了
-https://mursor.ottiptv.cc/bilibili/7085292
+#EXTINF:-1 tvg-name="猴博士爱讲课V" group-title="解说频道", 猴博士爱讲课V
+https://mursor.ottiptv.cc/douyu/8799739
 #EXTINF:-1 tvg-name="王坑坑聊电影" group-title="解说频道", 王坑坑聊电影
 https://mursor.ottiptv.cc/douyu/9402110
-#EXTINF:-1 tvg-name="玩会" group-title="解说频道", 玩会
-https://mursor.ottiptv.cc/bilibili/24926973
-#EXTINF:-1 tvg-name="玩玩朋友的恐怖游戏" group-title="解说频道", 玩玩朋友的恐怖游戏
-https://mursor.ottiptv.cc/bilibili/6668334
 #EXTINF:-1 tvg-name="珞珞说电影" group-title="解说频道", 珞珞说电影
 https://mursor.ottiptv.cc/douyu/3718888
+#EXTINF:-1 tvg-name="球哥解说" group-title="解说频道", 球哥解说
+https://mursor.ottiptv.cc/huya/29465875
 #EXTINF:-1 tvg-name="电影我说的都是真的" group-title="解说频道", 电影我说的都是真的
 https://mursor.ottiptv.cc/yy/1382749940
-#EXTINF:-1 tvg-name="男性沦为弱势群体了吗" group-title="解说频道", 男性沦为弱势群体了吗
-https://mursor.ottiptv.cc/bilibili/9056704
-#EXTINF:-1 tvg-name="画画聊天清稿件" group-title="解说频道", 画画聊天清稿件
-https://mursor.ottiptv.cc/bilibili/1733583853
-#EXTINF:-1 tvg-name="百家讲坛之女皇武则天" group-title="解说频道", 百家讲坛之女皇武则天
-https://mursor.ottiptv.cc/yy/1354889015
 #EXTINF:-1 tvg-name="百家讲坛之明太祖朱元璋" group-title="解说频道", 百家讲坛之明太祖朱元璋
 https://mursor.ottiptv.cc/yy/1354936149
 #EXTINF:-1 tvg-name="百家讲坛红楼梦篇" group-title="解说频道", 百家讲坛红楼梦篇
 https://mursor.ottiptv.cc/yy/1382741639
 #EXTINF:-1 tvg-name="百晓生说剧" group-title="解说频道", 百晓生说剧
 https://mursor.ottiptv.cc/douyu/9649681
-#EXTINF:-1 tvg-name="监督" group-title="解说频道", 监督
-https://mursor.ottiptv.cc/bilibili/32771148
-#EXTINF:-1 tvg-name="直播做饭备菜ing" group-title="解说频道", 直播做饭备菜ing
-https://mursor.ottiptv.cc/bilibili/27278624
-#EXTINF:-1 tvg-name="看穿他的心" group-title="解说频道", 看穿他的心
-https://mursor.ottiptv.cc/bilibili/30878511
-#EXTINF:-1 tvg-name="看视频" group-title="解说频道", 看视频
-https://mursor.ottiptv.cc/bilibili/12490000
 #EXTINF:-1 tvg-name="真香动漫解说" group-title="解说频道", 真香动漫解说
 https://mursor.ottiptv.cc/douyu/9391292
-#EXTINF:-1 tvg-name="睡醒了" group-title="解说频道", 睡醒了
-https://mursor.ottiptv.cc/bilibili/23404320
 #EXTINF:-1 tvg-name="神之传说sh" group-title="解说频道", 神之传说sh
 https://mursor.ottiptv.cc/douyu/9370168
 #EXTINF:-1 tvg-name="神羊说电影" group-title="解说频道", 神羊说电影
 https://mursor.ottiptv.cc/douyu/9443552
 #EXTINF:-1 tvg-name="秀才侃娱乐" group-title="解说频道", 秀才侃娱乐
 https://mursor.ottiptv.cc/douyu/9382873
-#EXTINF:-1 tvg-name="私皮3D黑的白的" group-title="解说频道", 私皮3D黑的白的
-https://mursor.ottiptv.cc/bilibili/1892458542
-#EXTINF:-1 tvg-name="穿了头盔你打不死我的" group-title="解说频道", 穿了头盔你打不死我的
-https://mursor.ottiptv.cc/bilibili/1909467159
 #EXTINF:-1 tvg-name="童乐说电影" group-title="解说频道", 童乐说电影
 https://mursor.ottiptv.cc/douyu/9660704
-#EXTINF:-1 tvg-name="等了半年的快递到了" group-title="解说频道", 等了半年的快递到了
-https://mursor.ottiptv.cc/bilibili/545260
-#EXTINF:-1 tvg-name="答疑疗愈聊天交友" group-title="解说频道", 答疑疗愈聊天交友
-https://mursor.ottiptv.cc/bilibili/21552266
-#EXTINF:-1 tvg-name="答疑解惑" group-title="解说频道", 答疑解惑
-https://mursor.ottiptv.cc/bilibili/3815958
-#EXTINF:-1 tvg-name="答疑解惑13074741429" group-title="解说频道", 答疑解惑13074741429
-https://mursor.ottiptv.cc/bilibili/1974511901
-#EXTINF:-1 tvg-name="米业红线" group-title="解说频道", 米业红线
-https://mursor.ottiptv.cc/bilibili/1883622349
-#EXTINF:-1 tvg-name="线上剧本杀情感本万仞青山听水寒" group-title="解说频道", 线上剧本杀情感本万仞青山听水寒
-https://mursor.ottiptv.cc/bilibili/10942641
 #EXTINF:-1 tvg-name="绘说篮球C" group-title="解说频道", 绘说篮球C
 https://mursor.ottiptv.cc/douyu/9401305
-#EXTINF:-1 tvg-name="绯红能量想问啥问啥" group-title="解说频道", 绯红能量想问啥问啥
-https://mursor.ottiptv.cc/bilibili/32668497
-#EXTINF:-1 tvg-name="网左市谷有咲勇闯大平原丝瓜" group-title="解说频道", 网左市谷有咲勇闯大平原丝瓜
-https://mursor.ottiptv.cc/bilibili/30423782
-#EXTINF:-1 tvg-name="网恋被骗1000" group-title="解说频道", 网恋被骗1000
-https://mursor.ottiptv.cc/bilibili/1901385090
-#EXTINF:-1 tvg-name="网络摆摊有问必答" group-title="解说频道", 网络摆摊有问必答
-https://mursor.ottiptv.cc/bilibili/31239179
-#EXTINF:-1 tvg-name="老板让我们上班陪他玩剧本杀" group-title="解说频道", 老板让我们上班陪他玩剧本杀
-https://mursor.ottiptv.cc/bilibili/1733394296
 #EXTINF:-1 tvg-name="老秦说秦" group-title="解说频道", 老秦说秦
 https://mursor.ottiptv.cc/douyu/9650131
 #EXTINF:-1 tvg-name="老邪说电影" group-title="解说频道", 老邪说电影
 https://mursor.ottiptv.cc/douyu/9222870
 #EXTINF:-1 tvg-name="老鱼说剧" group-title="解说频道", 老鱼说剧
 https://mursor.ottiptv.cc/douyu/9994377
-#EXTINF:-1 tvg-name="聊天" group-title="解说频道", 聊天
-https://mursor.ottiptv.cc/bilibili/4649284
-#EXTINF:-1 tvg-name="聊天吗聊天吧" group-title="解说频道", 聊天吗聊天吧
-https://mursor.ottiptv.cc/bilibili/24143032
-#EXTINF:-1 tvg-name="聊天画画" group-title="解说频道", 聊天画画
-https://mursor.ottiptv.cc/bilibili/1829186529
-#EXTINF:-1 tvg-name="聊点好玩的" group-title="解说频道", 聊点好玩的
-https://mursor.ottiptv.cc/bilibili/1982181376
-#EXTINF:-1 tvg-name="聊聊你的第一次" group-title="解说频道", 聊聊你的第一次
-https://mursor.ottiptv.cc/bilibili/1829187170
-#EXTINF:-1 tvg-name="聊聊天津落户买房" group-title="解说频道", 聊聊天津落户买房
-https://mursor.ottiptv.cc/bilibili/26253280
-#EXTINF:-1 tvg-name="聊聊生活困惑" group-title="解说频道", 聊聊生活困惑
-https://mursor.ottiptv.cc/bilibili/1828186205
-#EXTINF:-1 tvg-name="聚氨酯鼠标垫一元购" group-title="解说频道", 聚氨酯鼠标垫一元购
-https://mursor.ottiptv.cc/bilibili/1700897064
-#EXTINF:-1 tvg-name="胡家专场情感" group-title="解说频道", 胡家专场情感
-https://mursor.ottiptv.cc/bilibili/32519991
-#EXTINF:-1 tvg-name="自用不讨论" group-title="解说频道", 自用不讨论
-https://mursor.ottiptv.cc/bilibili/30468683
 #EXTINF:-1 tvg-name="自说自话的总裁" group-title="解说频道", 自说自话的总裁
 https://mursor.ottiptv.cc/douyu/9317739
-#EXTINF:-1 tvg-name="良少聊漫威" group-title="解说频道", 良少聊漫威
-https://mursor.ottiptv.cc/huya/25523725
+#EXTINF:-1 tvg-name="芮橙说剧" group-title="解说频道", 芮橙说剧
+https://mursor.ottiptv.cc/huya/30287258
 #EXTINF:-1 tvg-name="芳芳说故事" group-title="解说频道", 芳芳说故事
 https://mursor.ottiptv.cc/douyu/9401905
-#EXTINF:-1 tvg-name="英雄无敌3duel比赛" group-title="解说频道", 英雄无敌3duel比赛
-https://mursor.ottiptv.cc/bilibili/27056086
-#EXTINF:-1 tvg-name="英雄无敌3sod全不禁VS阿辽" group-title="解说频道", 英雄无敌3sod全不禁VS阿辽
-https://mursor.ottiptv.cc/bilibili/24108624
-#EXTINF:-1 tvg-name="菇菇说过" group-title="解说频道", 菇菇说过
-https://mursor.ottiptv.cc/douyu/8788687
-#EXTINF:-1 tvg-name="萌新驾到多多指教" group-title="解说频道", 萌新驾到多多指教
-https://mursor.ottiptv.cc/bilibili/1862088680
-#EXTINF:-1 tvg-name="董事长不要吃了反正热度也不在了" group-title="解说频道", 董事长不要吃了反正热度也不在了
-https://mursor.ottiptv.cc/bilibili/32477804
-#EXTINF:-1 tvg-name="虫哥说电影" group-title="解说频道", 虫哥说电影
-https://mursor.ottiptv.cc/douyu/8915074
+#EXTINF:-1 tvg-name="菠萝说电影" group-title="解说频道", 菠萝说电影
+https://mursor.ottiptv.cc/douyu/3714736
 #EXTINF:-1 tvg-name="蛋黄讲动漫" group-title="解说频道", 蛋黄讲动漫
 https://mursor.ottiptv.cc/douyu/9542834
-#EXTINF:-1 tvg-name="装一下spectacle80" group-title="解说频道", 装一下spectacle80
-https://mursor.ottiptv.cc/bilibili/13293229
-#EXTINF:-1 tvg-name="装机零距离闪鳞DIY小钢炮主机" group-title="解说频道", 装机零距离闪鳞DIY小钢炮主机
-https://mursor.ottiptv.cc/bilibili/25983368
 #EXTINF:-1 tvg-name="西施撩电影" group-title="解说频道", 西施撩电影
 https://mursor.ottiptv.cc/douyu/7532080
-#EXTINF:-1 tvg-name="解惑情感塔罗首看一张" group-title="解说频道", 解惑情感塔罗首看一张
-https://mursor.ottiptv.cc/bilibili/1894724780
 #EXTINF:-1 tvg-name="讲故事的角马" group-title="解说频道", 讲故事的角马
 https://mursor.ottiptv.cc/douyu/4400816
 #EXTINF:-1 tvg-name="说笑武林" group-title="解说频道", 说笑武林
 https://mursor.ottiptv.cc/douyu/10329706
 #EXTINF:-1 tvg-name="说说电影故事" group-title="解说频道", 说说电影故事
 https://mursor.ottiptv.cc/douyu/9444627
-#EXTINF:-1 tvg-name="谁语说电影" group-title="解说频道", 谁语说电影
-https://mursor.ottiptv.cc/douyu/8705754
 #EXTINF:-1 tvg-name="调侃贫道XIN版" group-title="解说频道", 调侃贫道XIN版
 https://mursor.ottiptv.cc/douyu/9463586
 #EXTINF:-1 tvg-name="谈判专家" group-title="解说频道", 谈判专家
 https://mursor.ottiptv.cc/yy/1382735560
 #EXTINF:-1 tvg-name="豆客解说" group-title="解说频道", 豆客解说
 https://mursor.ottiptv.cc/douyu/8883122
-#EXTINF:-1 tvg-name="负伤直播只能趴着播" group-title="解说频道", 负伤直播只能趴着播
-https://mursor.ottiptv.cc/bilibili/32513861
-#EXTINF:-1 tvg-name="赵鑫鑫象棋中局棋理48讲" group-title="解说频道", 赵鑫鑫象棋中局棋理48讲
-https://mursor.ottiptv.cc/bilibili/1861371474
-#EXTINF:-1 tvg-name="超干装机直播间" group-title="解说频道", 超干装机直播间
-https://mursor.ottiptv.cc/bilibili/30506690
-#EXTINF:-1 tvg-name="跑测试+装机" group-title="解说频道", 跑测试+装机
-https://mursor.ottiptv.cc/bilibili/30677116
-#EXTINF:-1 tvg-name="身无所拘心无疆" group-title="解说频道", 身无所拘心无疆
-https://mursor.ottiptv.cc/bilibili/3658849
 #EXTINF:-1 tvg-name="辰哥说电影" group-title="解说频道", 辰哥说电影
 https://mursor.ottiptv.cc/douyu/9371407
-#EXTINF:-1 tvg-name="进来看有你想看的东西" group-title="解说频道", 进来看有你想看的东西
-https://mursor.ottiptv.cc/bilibili/1923356272
-#EXTINF:-1 tvg-name="进来请和我说按Ctrl+s谢谢" group-title="解说频道", 进来请和我说按Ctrl+s谢谢
-https://mursor.ottiptv.cc/bilibili/1933341
-#EXTINF:-1 tvg-name="进来领亲亲" group-title="解说频道", 进来领亲亲
-https://mursor.ottiptv.cc/bilibili/1951596282
-#EXTINF:-1 tvg-name="退学女大第一次直播" group-title="解说频道", 退学女大第一次直播
-https://mursor.ottiptv.cc/bilibili/1880059386
-#EXTINF:-1 tvg-name="逆天是真逆天他的目的是什么" group-title="解说频道", 逆天是真逆天他的目的是什么
-https://mursor.ottiptv.cc/bilibili/31980904
-#EXTINF:-1 tvg-name="选个手镯她家手镯很有性价比" group-title="解说频道", 选个手镯她家手镯很有性价比
-https://mursor.ottiptv.cc/bilibili/1857379769
 #EXTINF:-1 tvg-name="逗米说电影" group-title="解说频道", 逗米说电影
 https://mursor.ottiptv.cc/douyu/421222
-#EXTINF:-1 tvg-name="逛B站" group-title="解说频道", 逛B站
-https://mursor.ottiptv.cc/bilibili/6429083
-#EXTINF:-1 tvg-name="道友留步江西鹰潭龙虎山官方专业解惑" group-title="解说频道", 道友留步江西鹰潭龙虎山官方专业解惑
-https://mursor.ottiptv.cc/bilibili/1725929273
-#EXTINF:-1 tvg-name="金泉少侠已上线" group-title="解说频道", 金泉少侠已上线
-https://mursor.ottiptv.cc/bilibili/25874281
-#EXTINF:-1 tvg-name="钟馗传说" group-title="解说频道", 钟馗传说
-https://mursor.ottiptv.cc/yy/1382736839
 #EXTINF:-1 tvg-name="钱小元说电影" group-title="解说频道", 钱小元说电影
 https://mursor.ottiptv.cc/douyu/9368265
 #EXTINF:-1 tvg-name="锋哥聊商机" group-title="解说频道", 锋哥聊商机
 https://mursor.ottiptv.cc/douyu/9472141
-#EXTINF:-1 tvg-name="门窗科普博主在线答疑" group-title="解说频道", 门窗科普博主在线答疑
-https://mursor.ottiptv.cc/bilibili/25306496
 #EXTINF:-1 tvg-name="阿木讲电影" group-title="解说频道", 阿木讲电影
 https://mursor.ottiptv.cc/douyu/532050
 #EXTINF:-1 tvg-name="阿松撩剧" group-title="解说频道", 阿松撩剧
 https://mursor.ottiptv.cc/douyu/8880843
-#EXTINF:-1 tvg-name="陈年产品品鉴回" group-title="解说频道", 陈年产品品鉴回
-https://mursor.ottiptv.cc/bilibili/1810667
-#EXTINF:-1 tvg-name="随便刷刷B站" group-title="解说频道", 随便刷刷B站
-https://mursor.ottiptv.cc/bilibili/30833965
-#EXTINF:-1 tvg-name="随便播会" group-title="解说频道", 随便播会
-https://mursor.ottiptv.cc/bilibili/1929634951
-#EXTINF:-1 tvg-name="随便问" group-title="解说频道", 随便问
-https://mursor.ottiptv.cc/bilibili/1898566871
 #EXTINF:-1 tvg-name="露爷说漫" group-title="解说频道", 露爷说漫
 https://mursor.ottiptv.cc/douyu/9542830
 #EXTINF:-1 tvg-name="飞行员欧文讲故事" group-title="解说频道", 飞行员欧文讲故事
 https://mursor.ottiptv.cc/douyu/9678790
-#EXTINF:-1 tvg-name="首次开播请多关照" group-title="解说频道", 首次开播请多关照
-https://mursor.ottiptv.cc/bilibili/1969777940
 #EXTINF:-1 tvg-name="驴哥说电影" group-title="解说频道", 驴哥说电影
 https://mursor.ottiptv.cc/douyu/5376478
 #EXTINF:-1 tvg-name="鬼兄奇谈" group-title="解说频道", 鬼兄奇谈
 https://mursor.ottiptv.cc/douyu/8722254
-#EXTINF:-1 tvg-name="魔族人形直播间roll娃娃福利" group-title="解说频道", 魔族人形直播间roll娃娃福利
-https://mursor.ottiptv.cc/bilibili/23734668
 #EXTINF:-1 tvg-name="鲨说电影" group-title="解说频道", 鲨说电影
 https://mursor.ottiptv.cc/douyu/9544628
-#EXTINF:-1 tvg-name="鸡哥聊电影" group-title="解说频道", 鸡哥聊电影
-https://mursor.ottiptv.cc/douyu/5067952
 #EXTINF:-1 tvg-name="鹏友说电影" group-title="解说频道", 鹏友说电影
 https://mursor.ottiptv.cc/douyu/9445244
-#EXTINF:-1 tvg-name="默默无闻的小角落" group-title="解说频道", 默默无闻的小角落
-https://mursor.ottiptv.cc/bilibili/1896528997
 #EXTINF:-1 tvg-name="龙梅子都说" group-title="解说频道", 龙梅子都说
 https://vd3.bdstatic.com:443/mda-ma7cm59x1m4015ip/v2-hknm/1080p/mda-ma7cm59x1m4015ip.mp4
 #EXTINF:-1 tvg-name="1987年春晚" group-title="春晚频道", 1987年春晚
@@ -1147,6 +789,8 @@ https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTl
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQwNzVfMF8z_b_B811c0dec6b9a3d3074a18522c185010a.mp4
 #EXTINF:-1 tvg-name="1996年春晚" group-title="春晚频道", 1996年春晚
 https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxNTJfMF8z_b_Bd841eae10ab1c9955ef55fbedfae6c45.mp4
+#EXTINF:-1 tvg-name="1998年春晚" group-title="春晚频道", 1998年春晚
+https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
 #EXTINF:-1 tvg-name="2000年春晚" group-title="春晚频道", 2000年春晚
 https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxMTNfMF8z_b_Bdddf4e7ef0ff6cfd477857bb40e78419.mp4
 #EXTINF:-1 tvg-name="2001年春晚" group-title="春晚频道", 2001年春晚
@@ -1187,21 +831,13 @@ https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 #EXTINF:-1 tvg-name="2025年春晚" group-title="春晚频道", 2025年春晚
 https://svipsvip.ffzyread1.com/20250129/35458_c988286f/index.m3u8
-#EXTINF:-1 tvg-name="云南丽江玉龙雪山草甸" group-title="直播中国", 云南丽江玉龙雪山草甸
-https://gcalic.v.myalicdn.com/gc/hkylxs06_1/index.m3u8
-#EXTINF:-1 tvg-name="四川峨眉山远眺贡嘎雪山" group-title="直播中国", 四川峨眉山远眺贡嘎雪山
-https://gcalic.v.myalicdn.com/gc/emsyh_1/index.m3u8
-#EXTINF:-1 tvg-name="泰山南天门" group-title="直播中国", 泰山南天门
-https://gcalic.v.myalicdn.com/gc/hkts07_1/index.m3u8
-#EXTINF:-1 tvg-name="湖南张家界水绕四门" group-title="直播中国", 湖南张家界水绕四门
-https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
-#EXTINF:-1 tvg-name="都江堰鱼嘴" group-title="直播中国", 都江堰鱼嘴
-https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
-#EXTINF:-1 tvg-name="青岛崂山双福" group-title="直播中国", 青岛崂山双福
-https://gcalic.v.myalicdn.com/gc/qdls03_1/index.m3u8
-#EXTINF:-1 tvg-name="黄花城水长城01" group-title="直播中国", 黄花城水长城01
-https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8
-#EXTINF:-1 tvg-name="2025-08-09 18:54:51" group-title="更新时间", 2025-08-09 18:54:51
+#EXTINF:-1 tvg-name="云南大理崇圣寺三塔中景" group-title="直播中国", 云南大理崇圣寺三塔中景
+https://gcalic.v.myalicdn.com/gc/dlst03_1/index.m3u8
+#EXTINF:-1 tvg-name="安徽黟县西递牌坊" group-title="直播中国", 安徽黟县西递牌坊
+https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8
+#EXTINF:-1 tvg-name="泰山玉皇顶" group-title="直播中国", 泰山玉皇顶
+https://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8
+#EXTINF:-1 tvg-name="2025-08-10 00:48:09" group-title="更新时间", 2025-08-10 00:48:09
 https://vd3.bdstatic.com/mda-ren0u3qx5hknf8wb/1080p/cae_h264/1747960722207612951/mda-ren0u3qx5hknf8wb.mp4
 #EXTINF:-1 tvg-name="直播中国" group-title="央视频道",直播中国
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
@@ -1251,8 +887,6 @@ https://smart.pendy.dpdns.org/Smart.php?id=eltasport1_twn
 https://smart.pendy.dpdns.org/Smart.php?id=eltasport2_twn
 #EXTINF:-1 tvg-name="ELEVEN体育3" group-title="港澳台频道",ELEVEN体育3
 https://smart.pendy.dpdns.org/Smart.php?id=eltasport3_twn
-#EXTINF:-1 tvg-name="浙江少儿" group-title="动画频道",浙江少儿
-https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 tvg-name="甘肃少儿" group-title="动画频道",甘肃少儿
 https://hls.gstv.com.cn/49048r/922k96.m3u8
 #EXTINF:-1 tvg-name="宁夏少儿" group-title="动画频道",宁夏少儿
@@ -1265,20 +899,6 @@ https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=174
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1742954441&sign=36eca1b00f7de9e79ecc4449bcaa35d5
 #EXTINF:-1 group-title="☘️上海频道",崇明电视台
 https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
-#EXTINF:-1 tvg-name="浙江新闻" group-title="☘️浙江频道",浙江新闻
-https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江国际" group-title="☘️浙江频道",浙江国际
-https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江教科影视" group-title="☘️浙江频道",浙江教科
-https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江民生休闲" group-title="☘️浙江频道",浙江民生
-https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江经济生活" group-title="☘️浙江频道",浙江经济
-https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 tvg-name="钱江都市" group-title="☘️浙江频道",浙江钱江
-https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-#EXTINF:-1 tvg-name="之江纪录" group-title="☘️浙江频道",之江纪录
-https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 #EXTINF:-1 tvg-name="江苏城市" group-title="☘️江苏频道",江苏城市
 https://stream1.freetv.fun/675206b8446ce719bfb293b5a5296db3aa26521c9810de7c996838247cc56964.ctv
 #EXTINF:-1 tvg-name="江苏综艺" group-title="☘️江苏频道",江苏综艺
@@ -1333,8 +953,6 @@ https://txmov2.a.kwimgs.com/bs3/video-hls/5229242184269609742_hlshd15.m3u8
 https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8
 #EXTINF:-1 tvg-name="1997年春晚" group-title="春晚频道",1997年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
-#EXTINF:-1 tvg-name="1998年春晚" group-title="春晚频道",1998年春晚
-https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
 #EXTINF:-1 tvg-name="1999年春晚" group-title="春晚频道",1999年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8
 #EXTINF:-1 tvg-name="2012年春晚" group-title="春晚频道",2012年春晚
