@@ -13,6 +13,10 @@ https://cc06.tv12.xyz/23.m3u8
 https://cc06.tv12.xyz/24.m3u8
 #EXTINF:-1 tvg-name="CETV4" group-title="央视频道", CETV4
 https://mursor.ottiptv.cc/migu/923287339.m3u8?migutoken=165b545b4402eaba61cdc31defb6548a443d9b5eebb1d99392852bd799c553e8817e85eb324c512581ca9a1ed8e56e530144f79606cf44fe5b2d5e97b6da577e0f2adae2a90c2a55089c95880b
+#EXTINF:-1 tvg-name="电视指南" group-title="央视频道", 电视指南
+https://cc06.tv12.xyz/39.m3u8
+#EXTINF:-1 tvg-name="直播中国" group-title="央视频道", 直播中国
+https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 tvg-name="支持作者" group-title="央视频道", 支持作者
 https://vd4.bdstatic.com/mda-rht8yb8mk7prjpvb/1080p/cae_h264/1756373484708582178/mda-rht8yb8mk7prjpvb.mp4
 #EXTINF:-1 tvg-name="东方卫视" group-title="卫视频道", 东方卫视
@@ -23,6 +27,10 @@ https://liveout.xntv.tv/a65jur/96iln2.m3u8
 https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
 #EXTINF:-1 tvg-name="莲花卫视" group-title="卫视频道", 莲花卫视
 https://fenghuang.tv12.xyz/187.m3u8
+#EXTINF:-1 tvg-name="河北4K" group-title="卫视频道", 河北4K
+https://event.pull.hebtv.com:443/live/live101.m3u8
+#EXTINF:-1 tvg-name="苏州4K" group-title="卫视频道", 苏州4K
+https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-name="黑莓电影" group-title="电影频道", 黑莓电影
 https://epg.pw/stream/ffcb6572863f0745a7369fbd9d901f1dfd0ab8fab8bad8bebb4e01c90b303c47.m3u8
 #EXTINF:-1 tvg-name="科幻电影" group-title="电影频道", 科幻电影
@@ -971,14 +979,8 @@ https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8
 https://gcalic.v.myalicdn.com/gc/xywfl_1/index.m3u8
 #EXTINF:-1 tvg-name="黄山飞来石" group-title="直播中国", 黄山飞来石
 https://gcalic.v.myalicdn.com/gc/hsptgy_1/index.m3u8
-#EXTINF:-1 tvg-name="2025-08-29 06:42:12" group-title="更新时间", 2025-08-29 06:42:12
+#EXTINF:-1 tvg-name="2025-08-29 11:36:18" group-title="更新时间", 2025-08-29 11:36:18
 https://vd3.bdstatic.com/mda-ren0u3qx5hknf8wb/1080p/cae_h264/1747960722207612951/mda-ren0u3qx5hknf8wb.mp4
-#EXTINF:-1 tvg-name="直播中国" group-title="央视频道",直播中国
-https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 tvg-name="苏州4K" group-title="卫视频道",苏州4K
-https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-#EXTINF:-1 tvg-name="河北4K" group-title="卫视频道",河北4K
-https://event.pull.hebtv.com:443/live/live101.m3u8
 #EXTINF:-1 tvg-name="北京纪实科教8K" group-title="数字频道",纪实科教8K
 https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
 #EXTINF:-1 tvg-name="耀才财经" group-title="港澳台频道",耀才财经
