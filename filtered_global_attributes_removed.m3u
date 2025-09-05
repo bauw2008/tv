@@ -69,8 +69,6 @@ http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153868.m3u8
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153723.m3u8
 #EXTINF:-1 group-title="国际",PREMIER SPORTS 2
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153724.m3u8
-#EXTINF:-1 group-title="国际",SKY SPORTS TENNIS
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/391270.m3u8
 #EXTINF:-1 group-title="国际",NFL RED ZONE
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181403.m3u8
 #EXTINF:-1 group-title="国际",SportsGrid
@@ -235,30 +233,20 @@ http://panelguys.top:8080/txd7Fd/030774/47444
 http://panelguys.top:8080/txd7Fd/030774/66783
 #EXTINF:-1 group-title="国际",TSN 5
 http://fl5.moveonjoy.com/TSN_5/index.m3u8
-#EXTINF:-1 group-title="国际",SKY CINEMA ACTION
-http://panelguys.top:8080/txd7Fd/030774/35254
-#EXTINF:-1 group-title="国际",SKY CINEMA DRAMA
-http://panelguys.top:8080/txd7Fd/030774/35251
-#EXTINF:-1 group-title="国际",Sky Cinema Scifi & Horror
-http://panelguys.top:8080/txd7Fd/030774/35248
-#EXTINF:-1 group-title="国际",SKY CRIME THRILLER
-http://panelguys.top:8080/txd7Fd/030774/35252
-#EXTINF:-1 group-title="国际",SKY GREATS
-http://panelguys.top:8080/txd7Fd/030774/35249
 #EXTINF:-1 group-title="国际",Channel 5
 http://panelguys.top:8080/txd7Fd/030774/53653
 #EXTINF:-1 group-title="国际",Discovery Channel
 http://panelguys.top:8080/txd7Fd/030774/53684
-#EXTINF:-1 group-title="国际",DISCOVERY FAMILY CHANNEL
+#EXTINF:-1 group-title="国际",Discovery History
+http://panelguys.top:8080/txd7Fd/030774/53694
+#EXTINF:-1 group-title="国际",Discovery Family
 http://fl1.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="国际",DISCOVERY LIFE
+#EXTINF:-1 group-title="国际",Discovery Life
 http://fl1.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
 #EXTINF:-1 group-title="国际",Discovery Science
 http://fl1.moveonjoy.com/Discovery_Science/index.m3u8
-#EXTINF:-1 group-title="国际",DISNEY XD
+#EXTINF:-1 group-title="国际",Disney XD
 http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
-#EXTINF:-1 group-title="国际",Discovery History
-http://panelguys.top:8080/txd7Fd/030774/53694
 #EXTINF:-1 group-title="国际",Film 4
 http://panelguys.top:8080/txd7Fd/030774/53702
 #EXTINF:-1 group-title="国际",H2
@@ -273,20 +261,14 @@ http://panelguys.top:8080/txd7Fd/030774/53717
 http://panelguys.top:8080/txd7Fd/030774/53728
 #EXTINF:-1 group-title="国际",Sky Cinema Animation
 http://panelguys.top:8080/txd7Fd/030774/53698
-#EXTINF:-1 group-title="国际",Sky Cinema Family
-http://panelguys.top:8080/txd7Fd/030774/53699
-#EXTINF:-1 group-title="国际",Sky Cinema Premier
-http://panelguys.top:8080/txd7Fd/030774/35256
 #EXTINF:-1 group-title="国际",Sky Cinema Comedy
 http://panelguys.top:8080/txd7Fd/030774/53661
-#EXTINF:-1 group-title="国际",Sky Sports Action
-http://panelguys.top:8080/txd7Fd/030774/53705
-#EXTINF:-1 group-title="国际",Sky Sports Arena
-http://panelguys.top:8080/txd7Fd/030774/35238
 #EXTINF:-1 group-title="国际",Sky Sports F1
 http://panelguys.top:8080/txd7Fd/030774/53704
 #EXTINF:-1 group-title="国际",Sky Sports Golf
 http://panelguys.top:8080/txd7Fd/030774/35240
+#EXTINF:-1 group-title="国际",SKY SPORTS TENNIS
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/391270.m3u8
 #EXTINF:-1 group-title="国际",Sky Sports Main Event
 http://panelguys.top:8080/txd7Fd/030774/35243
 #EXTINF:-1 group-title="国际",Sky Sports Mix
@@ -365,8 +347,6 @@ http://panelguys.top:8080/txd7Fd/030774/20189
 http://panelguys.top:8080/txd7Fd/030774/46212
 #EXTINF:-1 group-title="国际",Magnolia Network
 http://panelguys.top:8080/txd7Fd/030774/10503
-#EXTINF:-1 group-title="国际",DOGTV
-http://panelguys.top:8080/txd7Fd/030774/53539
 #EXTINF:-1 group-title="国际",EPIX (East)
 http://panelguys.top:8080/txd7Fd/030774/13214
 #EXTINF:-1 group-title="国际",Epix Drive IN
