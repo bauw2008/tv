@@ -203,6 +203,8 @@ http://iptv.jxpan.vip:18888/aio/huya/11342427
 http://iptv.jxpan.vip:18888/aio/huya/11342414
 #EXTINF:-1 group-title="电影频道",罪犯电影
 http://iptv.jxpan.vip:18888/aio/huya/11352962
+#EXTINF:-1 group-title="电影频道",战争电影
+http://iptv.jxpan.vip:18888/aio/huya/21059574
 #EXTINF:-1 group-title="电影频道",谍战电影
 http://iptv.jxpan.vip:18888/aio/huya/21059585
 #EXTINF:-1 group-title="电影频道",枪战电影
@@ -235,6 +237,8 @@ http://iptv.jxpan.vip:18888/aio/huya/11342425
 http://iptv.jxpan.vip:18888/aio/huya/11336726
 #EXTINF:-1 group-title="电视剧频道",亮剑
 http://iptv.jxpan.vip:18888/aio/huya/30080238
+#EXTINF:-1 group-title="电视剧频道",雪豹
+http://iptv.jxpan.vip:18888/aio/huya/29580970
 #EXTINF:-1 group-title="电视剧频道",特种兵之火凤凰
 http://iptv.jxpan.vip:18888/aio/huya/29982636
 #EXTINF:-1 group-title="电视剧频道",士兵突击
@@ -299,6 +303,8 @@ http://iptv.jxpan.vip:18888/aio/huya/29465849
 http://iptv.jxpan.vip:18888/aio/huya/30080233
 #EXTINF:-1 group-title="埋堆堆频道",西游记2
 http://iptv.jxpan.vip:18888/aio/huya/29465859
+#EXTINF:-1 group-title="埋堆堆频道",活佛济公3
+http://iptv.jxpan.vip:18888/aio/huya/23903123
 #EXTINF:-1 group-title="埋堆堆频道",寻秦记
 http://iptv.jxpan.vip:18888/aio/huya/29465848
 #EXTINF:-1 group-title="埋堆堆频道",大唐双龙传
@@ -317,6 +323,8 @@ http://iptv.jxpan.vip:18888/aio/huya/23863804
 http://iptv.jxpan.vip:18888/aio/huya/29465851
 #EXTINF:-1 group-title="埋堆堆频道",陀枪师姐
 http://iptv.jxpan.vip:18888/aio/huya/29465857
+#EXTINF:-1 group-title="埋堆堆频道",使徒行者
+http://iptv.jxpan.vip:18888/aio/huya/23734256
 #EXTINF:-1 group-title="埋堆堆频道",鉴证实录
 http://iptv.jxpan.vip:18888/aio/huya/23903183
 #EXTINF:-1 group-title="埋堆堆频道",金枝欲孽
@@ -325,6 +333,8 @@ http://iptv.jxpan.vip:18888/aio/huya/29465847
 http://iptv.jxpan.vip:18888/aio/huya/29465855
 #EXTINF:-1 group-title="埋堆堆频道",创世纪
 http://iptv.jxpan.vip:18888/aio/huya/29465852
+#EXTINF:-1 group-title="埋堆堆频道",妙手仁心
+http://iptv.jxpan.vip:18888/aio/huya/29465853
 #EXTINF:-1 group-title="埋堆堆频道",大时代
 http://iptv.jxpan.vip:18888/aio/huya/23865161
 #EXTINF:-1 group-title="埋堆堆频道",野蛮亲家
@@ -397,10 +407,8 @@ http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b56237284
 http://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=3e84cd8eba844b5dc2150612295c7a52&txTime=18d578f4493
 #EXTINF:-1 tvg-name="南国都市" group-title="☘️广东频道",南国都市
 http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
-#EXTINF:-1 tvg-name="河源综合" group-title="☘️广东频道",河源综合
-http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
-#EXTINF:-1 tvg-name="河源公共" group-title="☘️广东频道",河源公共
-http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
+#EXTINF:-1 tvg-name="番禺综合" group-title="☘️广东频道",番禺综合
+http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 #EXTINF:-1 tvg-name="河南新闻" group-title="☘️河南频道",河南新闻
 http://www.cdnstv.com:6398/hls/1114/index.m3u8
 #EXTINF:-1 tvg-name="河南都市" group-title="☘️河南频道",河南都市
@@ -455,7 +463,5 @@ http://stream.hrbtv.net/zxpd/sd/live.m3u8?zheild
 http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="七台河民生社教" group-title="☘️黑龙江频道",七台河民生社教
 http://live.qthnews.org.cn:1935/live/live2/800k/tzwj_video.m3u8
-#EXTINF:-1 tvg-name="赣州新闻" group-title="地方频道",赣州新闻综合
-http://play-live-hls.jxtvcn.com.cn/live/tv_ganzhou.m3u8
 #EXTINF:-1 group-title="国际频道",Newsmax
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
