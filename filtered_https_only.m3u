@@ -57,6 +57,8 @@ https://cc06.tv12.xyz/95.m3u8
 https://cc06.tv12.xyz/52.m3u8
 #EXTINF:-1 tvg-name="CCTV风云足球" group-title="卫视频道", CCTV风云足球
 https://cc06.tv12.xyz/41.m3u8
+#EXTINF:-1 tvg-name="陕西卫视" group-title="卫视频道", 陕西卫视
+https://cc06.tv12.xyz/106.m3u8
 #EXTINF:-1 tvg-name="安多卫视" group-title="卫视频道", 安多卫视
 https://liveout.xntv.tv/a65jur/96iln2.m3u8
 #EXTINF:-1 tvg-name="山东教育卫视" group-title="卫视频道", 山东教育卫视
@@ -69,6 +71,8 @@ https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
 https://cc06.tv12.xyz/47.m3u8
 #EXTINF:-1 tvg-name="快乐垂钓" group-title="卫视频道", 快乐垂钓
 https://cc06.tv12.xyz/56.m3u8
+#EXTINF:-1 tvg-name="莲花卫视" group-title="卫视频道", 莲花卫视
+https://fenghuang.tv12.xyz/187.m3u8
 #EXTINF:-1 tvg-name="东森亚洲卫视" group-title="卫视频道", 东森亚洲卫视
 https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
 #EXTINF:-1 tvg-name="河北4K" group-title="卫视频道", 河北4K
@@ -109,12 +113,14 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 #EXTINF:-1 tvg-name="搜狐剧场" group-title="数字频道", 搜狐剧场
 https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
-#EXTINF:-1 tvg-name="卡酷少儿" group-title="儿童频道", 卡酷少儿
-https://cc06.tv12.xyz/29.m3u8
 #EXTINF:-1 tvg-name="浙江少儿" group-title="儿童频道", 浙江少儿
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 tvg-name="中华小当家" group-title="儿童频道", 中华小当家
 https://live.metshop.top/huya/11342413
+#EXTINF:-1 tvg-name="海绵宝宝" group-title="儿童频道", 海绵宝宝
+https://live.metshop.top/douyu/3949681
+#EXTINF:-1 tvg-name="猫和老鼠" group-title="儿童频道", 猫和老鼠
+https://live.iill.top/huya/11352879
 #EXTINF:-1 tvg-name="黑龙江少儿" group-title="儿童频道", 黑龙江少儿
 https://ls.qingting.fm/live/4972/64k.m3u8
 #EXTINF:-1 tvg-name="安多卫视" group-title="地方频道", 安多卫视
@@ -159,8 +165,6 @@ https://mgtv.ottiptv.cc/migu/838151753.m3u8?migutoken=e1c3c9e2e67541d90ea94c4c91
 https://mgtv.ottiptv.cc/migu/838153729.m3u8?migutoken=0427a8c0867765b66984ce8ef774d494eeb52a2d6a7eefe17c4b03fa30923700917323b8951caa30617f3eecc1db2844cdff2f7470556533fbc072ad7a7cb0c6284344cc57983294a2b26f4303
 #EXTINF:-1 tvg-name="南京新闻综合" group-title="地方频道", 南京新闻综合
 https://mgtv.ottiptv.cc/migu/838109047.m3u8?migutoken=d3d943815e6d6e9e9493a9b4b1d5a1d360bb5f3c04230f6d4d71f7f7c9f30771d321f1c262008c92ffde17fef4a62d1e1c58d5a9454573fb1489994d9be29f4e1cc7786813b671581eda4b9439
-#EXTINF:-1 tvg-name="南通新闻综合" group-title="地方频道", 南通新闻综合
-https://mgtv.ottiptv.cc/migu/955227985.m3u8?migutoken=03e9c85f19b5ac291f5863436507873a8f47ec3c677c7857c89bda5778edc8e38fc38b4270aa374c49eee39b39ffaf80a20b750130c27760df766c0cf7b5d437be8dc60c1ced9117d98f6c9b3e
 #EXTINF:-1 tvg-name="吉林乡村" group-title="地方频道", 吉林乡村
 https://satellitepull.cnr.cn/live/wxjlxcgb/playlist.m3u8
 #EXTINF:-1 tvg-name="名山综合" group-title="地方频道", 名山综合
@@ -201,6 +205,8 @@ https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
 https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
 #EXTINF:-1 tvg-name="无锡娱乐" group-title="地方频道", 无锡娱乐
 https://stream.thmz.com/wxtv2/playlist.m3u8
+#EXTINF:-1 tvg-name="无锡生活" group-title="地方频道", 无锡生活
+https://stream.thmz.com/wxtv4/playlist.m3u8
 #EXTINF:-1 tvg-name="无锡经济" group-title="地方频道", 无锡经济
 https://stream.thmz.com/wxtv5/playlist.m3u8
 #EXTINF:-1 tvg-name="昌黎综合" group-title="地方频道", 昌黎综合
@@ -257,6 +263,8 @@ https://huaiyin-tv-replay.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8
 https://jwcdnqx.hebyun.com.cn/live/qinghe/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="清河经济综艺" group-title="地方频道", 清河经济综艺
 https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-name="湖州文化娱乐" group-title="地方频道", 湖州文化娱乐
+https://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887
 #EXTINF:-1 tvg-name="湖州新闻综合" group-title="地方频道", 湖州新闻综合
 https://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865
 #EXTINF:-1 tvg-name="溧水新闻综合" group-title="地方频道", 溧水新闻综合
@@ -351,8 +359,6 @@ https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d2454bbb542d4613a9
 https://other.ottiptv.cc/wxty.m3u8
 #EXTINF:-1 tvg-name="精品体育" group-title="体育频道", 精品体育
 https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
-#EXTINF:-1 tvg-name="JJ斗地主" group-title="体育频道", JJ斗地主
-https://live.iill.top/douyin/685317364746
 #EXTINF:-1 tvg-name="漫画解说" group-title="解说频道", 漫画解说
 https://www.goodiptv.club/douyu/5907076
 #EXTINF:-1 tvg-name="1987年春晚" group-title="春晚频道", 1987年春晚
@@ -591,8 +597,6 @@ https://cc06.tv12.xyz/99.m3u8
 https://cc06.tv12.xyz/34.m3u8
 #EXTINF:-1 tvg-name="贵州卫视" group-title="央视卫视",贵州卫视
 https://cc06.tv12.xyz/48.m3u8
-#EXTINF:-1 tvg-name="陕西卫视" group-title="央视卫视",陕西卫视
-https://cc06.tv12.xyz/106.m3u8
 #EXTINF:-1 tvg-name="山西卫视" group-title="央视卫视",山西卫视
 https://cc06.tv12.xyz/107.m3u8
 #EXTINF:-1 tvg-name="宁夏卫视" group-title="央视卫视",宁夏卫视
@@ -619,6 +623,8 @@ https://cc06.tv12.xyz/112.m3u8
 https://cc06.tv12.xyz/53.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视" group-title="央视卫视",内蒙古卫视
 https://cc06.tv12.xyz/94.m3u8
+#EXTINF:-1 tvg-name="卡酷少儿" group-title="央视卫视",卡酷少儿
+https://cc06.tv12.xyz/29.m3u8
 #EXTINF:-1 tvg-name="CCTV1" group-title="移动IPTV",CCTV-1
 https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" group-title="移动IPTV",CCTV-2
