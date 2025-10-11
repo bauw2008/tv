@@ -14,7 +14,7 @@ https://cc06.tv12.xyz/39.m3u8
 #EXTINF:-1 tvg-name="直播中国" group-title="央视频道", 直播中国
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 tvg-name="支持作者" group-title="央视频道", 支持作者
-https://vd2.bdstatic.com/mda-rj5i8jknsfut2umw/sc/cae_h264/1759755342118633672/mda-rj5i8jknsfut2umw.mp4
+https://vd4.bdstatic.com/mda-rht8yb8mk7prjpvb/1080p/cae_h264/1756373484708582178/mda-rht8yb8mk7prjpvb.mp4
 #EXTINF:-1 tvg-name="CCTV1" group-title="卫视频道", CCTV1
 https://cc06.tv12.xyz/1.m3u8
 #EXTINF:-1 tvg-name="CCTV2" group-title="卫视频道", CCTV2
@@ -57,6 +57,8 @@ https://cc06.tv12.xyz/95.m3u8
 https://cc06.tv12.xyz/52.m3u8
 #EXTINF:-1 tvg-name="CCTV风云足球" group-title="卫视频道", CCTV风云足球
 https://cc06.tv12.xyz/41.m3u8
+#EXTINF:-1 tvg-name="兵团卫视" group-title="卫视频道", 兵团卫视
+https://cc06.tv12.xyz/30.m3u8
 #EXTINF:-1 tvg-name="山东卫视" group-title="卫视频道", 山东卫视
 https://cc06.tv12.xyz/101.m3u8
 #EXTINF:-1 tvg-name="山西卫视" group-title="卫视频道", 山西卫视
@@ -87,8 +89,6 @@ https://event.pull.hebtv.com:443/live/live101.m3u8
 https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-name="黑莓电影" group-title="电影频道", 黑莓电影
 https://epg.pw/stream/ffcb6572863f0745a7369fbd9d901f1dfd0ab8fab8bad8bebb4e01c90b303c47.m3u8
-#EXTINF:-1 tvg-name="龙华电影" group-title="电影频道", 龙华电影
-https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 #EXTINF:-1 tvg-name="人在囧途" group-title="电影频道", 人在囧途
 https://vip.ffzy-play.com/20221018/1953_2d6ba500/index.m3u8
 #EXTINF:-1 tvg-name="人在囧途之泰囧" group-title="电影频道", 人在囧途之泰囧
@@ -121,14 +121,12 @@ https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 #EXTINF:-1 tvg-name="搜狐剧场" group-title="数字频道", 搜狐剧场
 https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
-#EXTINF:-1 tvg-name="卡酷少儿" group-title="儿童频道", 卡酷少儿
-https://cc06.tv12.xyz/29.m3u8
 #EXTINF:-1 tvg-name="浙江少儿" group-title="儿童频道", 浙江少儿
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 tvg-name="中华小当家" group-title="儿童频道", 中华小当家
-https://live.metshop.top/huya/11342413
 #EXTINF:-1 tvg-name="海绵宝宝" group-title="儿童频道", 海绵宝宝
 https://live.metshop.top/douyu/3949681
+#EXTINF:-1 tvg-name="猫和老鼠" group-title="儿童频道", 猫和老鼠
+https://live.iill.top/huya/11352879
 #EXTINF:-1 tvg-name="黑龙江少儿" group-title="儿童频道", 黑龙江少儿
 https://ls.qingting.fm/live/4972/64k.m3u8
 #EXTINF:-1 tvg-name="厦门卫视" group-title="地方频道", 厦门卫视
@@ -369,6 +367,8 @@ https://liveout.btzx.com.cn/62ds9e/6o77s4.m3u8?zxinjd
 https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/f0a47e155d32450daa1d36a04fd7d262/2000.m3u8
 #EXTINF:-1 tvg-name="飞碟之谜02" group-title="纪录频道", 飞碟之谜02
 https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d2454bbb542d4613a9db478dab2addfd/2000.m3u8
+#EXTINF:-1 tvg-name="五星体育" group-title="体育频道", 五星体育
+https://other.ottiptv.cc/wxty.m3u8
 #EXTINF:-1 tvg-name="精品体育" group-title="体育频道", 精品体育
 https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
 #EXTINF:-1 tvg-name="JJ斗地主" group-title="体育频道", JJ斗地主
@@ -617,8 +617,6 @@ https://cc06.tv12.xyz/97.m3u8
 https://cc06.tv12.xyz/46.m3u8
 #EXTINF:-1 tvg-name="云南卫视" group-title="央视卫视",云南卫视
 https://cc06.tv12.xyz/114.m3u8
-#EXTINF:-1 tvg-name="兵团卫视" group-title="央视卫视",兵团卫视
-https://cc06.tv12.xyz/30.m3u8
 #EXTINF:-1 tvg-name="延边卫视" group-title="央视卫视",延边卫视
 https://cc06.tv12.xyz/113.m3u8
 #EXTINF:-1 tvg-name="农林卫视" group-title="央视卫视",农林卫视
@@ -629,6 +627,8 @@ https://cc06.tv12.xyz/109.m3u8
 https://cc06.tv12.xyz/53.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视" group-title="央视卫视",内蒙古卫视
 https://cc06.tv12.xyz/94.m3u8
+#EXTINF:-1 tvg-name="卡酷少儿" group-title="央视卫视",卡酷少儿
+https://cc06.tv12.xyz/29.m3u8
 #EXTINF:-1 tvg-name="CCTV1" group-title="移动IPTV",CCTV-1
 https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" group-title="移动IPTV",CCTV-2
@@ -779,6 +779,8 @@ https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 tvg-name="大爱2台" group-title="港澳台频道",大爱2台
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 tvg-name="龙华电影" group-title="港澳台频道",龙华电影
+https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 #EXTINF:-1 tvg-name="龙华洋片" group-title="港澳台频道",龙华洋片
 https://cdn8.163189.xyz/live/lhyp/stream.m3u8
 #EXTINF:-1 tvg-name="龙华经典" group-title="港澳台频道",龙华经典
