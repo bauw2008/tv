@@ -21,8 +21,6 @@ https://jmp2.uk/rok-dafd06b712a35fbe9935d4c04c2e8b53.m3u8
 https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 group-title="国际",Al Jazeera
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 group-title="国际",NHK World
-https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_2M.m3u8
 #EXTINF:-1 group-title="国际",Fox
 http://mains.services/live/bshorty/Zv5le07a0J/af799bef-3435-478e-9d1a-c7dacda2a672.ts
 #EXTINF:-1 group-title="国际",CBS
@@ -113,14 +111,6 @@ http://fl41.moveonjoy.com/CRAVE_4/index.m3u8
 http://mains.services/live/bshorty/Zv5le07a0J/e2d27348-6402-4da0-841f-44ac41f5d748.ts
 #EXTINF:-1 tvg-name="GB : SKY CINEMA ANIMATION" group-title="国际",SKY CINEMA ANIMATION
 http://mains.services/live/bshorty/Zv5le07a0J/9f764494-a742-45e1-a857-af6515cd098f.ts
-#EXTINF:-1 tvg-name="GB : SKY CINEMA COMEDY" group-title="国际",SKY CINEMA COMEDY
-http://mains.services/live/bshorty/Zv5le07a0J/be8ae3e0-236e-4e31-9e1a-21faa92ad120.ts
-#EXTINF:-1 tvg-name="GB : SKY CINEMA DRAMA" group-title="国际",SKY CINEMA DRAMA
-http://mains.services/live/bshorty/Zv5le07a0J/818d9064-5aed-4847-9630-bb0cdf6677f0.ts
-#EXTINF:-1 tvg-name="GB : SKY CINEMA FAMILY" group-title="国际",SKY CINEMA FAMILY
-http://mains.services/live/bshorty/Zv5le07a0J/aee69300-87dc-4ecb-990e-a0b48bc37f24.ts
-#EXTINF:-1 tvg-name="GB : SKY CINEMA GREATS" group-title="国际",SKY CINEMA GREATS
-http://mains.services/live/bshorty/Zv5le07a0J/55755742-d541-45c1-ae7d-793dc1b71a69.ts
 #EXTINF:-1 tvg-name="GB : SKY CINEMA HITS" group-title="国际",SKY CINEMA HITS
 http://mains.services/live/bshorty/Zv5le07a0J/23d28a3d-1b05-43d4-b4ef-9414c6d7335e.ts
 #EXTINF:-1 tvg-name="GB : SKY CINEMA PREMIERE" group-title="国际",SKY CINEMA PREMIERE
