@@ -24,7 +24,7 @@ https://vip.ffzy-play.com/20221018/1951_47e1adc8/index.m3u8
 #EXTINF:-1 tvg-name="人在囧途之港囧" group-title="电影频道", 人在囧途之港囧
 https://vip.ffzy-play7.com/20230112/11082_fde1a94d/index.m3u8
 #EXTINF:-1 tvg-name="哈尔滨影视" group-title="电影频道", 哈尔滨影视
-https://stream.hrbtv.net/yspd/sd/live.m3u8
+https://stream.hrbtv.net/yspd/playlist.m3u8
 #EXTINF:-1 tvg-name="天映经典" group-title="电影频道", 天映经典
 https://epg.pw/stream/cb817875cf26eb683af274dd8cdf7f559a71353d9565c32447c8d98894bc8095.ctv
 #EXTINF:-1 tvg-name="寒战" group-title="电影频道", 寒战
@@ -52,7 +52,7 @@ https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
 #EXTINF:-1 tvg-name="浙江少儿" group-title="儿童频道", 浙江少儿
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 tvg-name="中华小当家" group-title="儿童频道", 中华小当家
-https://live.iill.top/huya/11342413
+https://live.metshop.top/huya/11342413
 #EXTINF:-1 tvg-name="猫和老鼠" group-title="儿童频道", 猫和老鼠
 https://live.iill.top/huya/11352879
 #EXTINF:-1 tvg-name="黑龙江少儿" group-title="儿童频道", 黑龙江少儿
@@ -113,8 +113,6 @@ https://tvpull.hmgbtv.com/hmtv/channelfb0e5c505477aa44/playlist.m3u8
 https://tvpull.hmgbtv.com/hmtv/channel108259412c6a6711/playlist.m3u8
 #EXTINF:-1 tvg-name="哈尔滨娱乐" group-title="地方频道", 哈尔滨娱乐
 https://stream.hrbtv.net/ylpd/sd/live.m3u8
-#EXTINF:-1 tvg-name="哈尔滨生活" group-title="地方频道", 哈尔滨生活
-https://stream.hrbtv.net/shpd/sd/live.m3u8
 #EXTINF:-1 tvg-name="天祝综合" group-title="地方频道", 天祝综合
 https://play.kankanlive.com/live/1656487214793905.m3u8
 #EXTINF:-1 tvg-name="太谷新闻综合" group-title="地方频道", 太谷新闻综合
@@ -159,10 +157,10 @@ https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8
 https://play.kankanlive.com/live/1693539781636986.m3u8
 #EXTINF:-1 tvg-name="武汉一台新闻综合" group-title="地方频道", 武汉一台新闻综合
 https://ls.qingting.fm/live/20198/64k.m3u8
+#EXTINF:-1 tvg-name="武清综合" group-title="地方频道", 武清综合
+https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8?ztianjd
 #EXTINF:-1 tvg-name="武进新闻" group-title="地方频道", 武进新闻
 https://live.wjyanghu.com/live/CH1.m3u8
-#EXTINF:-1 tvg-name="武进生活" group-title="地方频道", 武进生活
-https://live.wjyanghu.com/live/CH2.m3u8
 #EXTINF:-1 tvg-name="永昌综合" group-title="地方频道", 永昌综合
 https://play.kankanlive.com/live/1652755738635915.m3u8
 #EXTINF:-1 tvg-name="河北农民" group-title="地方频道", 河北农民
@@ -185,8 +183,6 @@ https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江钱江都市" group-title="地方频道", 浙江钱江都市
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-#EXTINF:-1 tvg-name="海宁新闻综合" group-title="地方频道", 海宁新闻综合
-https://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8
 #EXTINF:-1 tvg-name="淮安新闻综合" group-title="地方频道", 淮安新闻综合
 https://mgtv.ottiptv.cc/migu/639731826.m3u8?migutoken=383a4690d772fe16ccec98f2da2e7e0c3b362ae2d9a0fa219e9a7bb76bb96d4ca6392f861efb0a61154552c563897f4660867745735f85e310ec9fb52d7fc55cd30da8d55169f8c415c5a69a15
 #EXTINF:-1 tvg-name="淮阴综合" group-title="地方频道", 淮阴综合
@@ -211,8 +207,6 @@ https://satellitepull.cnr.cn/live/wxgshhzs/playlist.m3u8
 https://satellitepull.cnr.cn/live/wxgsdstb/playlist.m3u8
 #EXTINF:-1 tvg-name="睢宁综合" group-title="地方频道", 睢宁综合
 https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
-#EXTINF:-1 tvg-name="秦安综合" group-title="地方频道", 秦安综合
-https://play.kankanlive.com/live/1659926941626981.m3u8
 #EXTINF:-1 tvg-name="苍南新闻综合" group-title="地方频道", 苍南新闻综合
 https://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
 #EXTINF:-1 tvg-name="苏州文化生活" group-title="地方频道", 苏州文化生活
@@ -290,9 +284,7 @@ https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e503460
 #EXTINF:-1 tvg-name="JJ斗地主" group-title="体育频道", JJ斗地主
 https://live.iill.top/douyin/685317364746
 #EXTINF:-1 tvg-name="漫画解说" group-title="解说频道", 漫画解说
-https://www.goodiptv.club/douyu/5907076
-#EXTINF:-1 tvg-name="音乐现场" group-title="音乐频道", 音乐现场
-https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+https://yylunbo.ottiptv.cc/yy/1382735568
 #EXTINF:-1 tvg-name="1987年春晚" group-title="春晚频道", 1987年春晚
 https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
 #EXTINF:-1 tvg-name="1988年春晚" group-title="春晚频道", 1988年春晚
